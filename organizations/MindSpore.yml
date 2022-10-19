@@ -4,7 +4,7 @@ project_types:
     data_sources:
       repo_names: 
         - https://gitee.com/mindspore/mindspore
-  community-projects:
+  governance-projects:
     data_sources:
       repo_names: 
         - https://gitee.com/mindspore/community
