@@ -1,10 +1,10 @@
-organization_name: MindSpore
+community_name: MindSpore
 project_types:
-  software-artifact-projects:
+  software-artifact-resources:
     data_sources:
       repo_names: 
         - https://gitee.com/mindspore/mindspore
-  governance-projects:
+  governance-resources:
     data_sources:
       repo_names: 
         - https://gitee.com/mindspore/community
