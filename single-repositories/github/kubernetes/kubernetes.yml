@@ -1,2 +1,2 @@
-data_sources:
+resource_types:
   repo_name: https://github.com/kubernetes/kubernetes
