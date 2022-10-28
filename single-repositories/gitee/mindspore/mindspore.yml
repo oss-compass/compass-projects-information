@@ -1,2 +1,2 @@
-data_sources:
-  repo_name: https://gitee.com/mindspore/mindspore
+resource_types:
+  repo_urls: https://gitee.com/mindspore/mindspore
