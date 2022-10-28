@@ -1,0 +1,11 @@
+---
+organization_name: openeuler/secGear
+project_types:
+  software-artifact-projects:
+    data_sources:
+      repo_names:
+      - https://gitee.com/openeuler/secGear
+  governance-projects:
+    data_sources:
+      repo_names:
+      - https://gitee.com/openeuler/secGear
