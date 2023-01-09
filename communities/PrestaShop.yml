@@ -1,0 +1,8 @@
+---
+community_name: PrestaShop
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/PrestaShop/PrestaShop
+  governance-repositories:
+    repo_urls: []
