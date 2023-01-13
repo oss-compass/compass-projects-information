@@ -1,0 +1,9 @@
+---
+community_name: presto
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/prestodb/presto
+  governance-repositories:
+    repo_urls:
+    - https://github.com/prestodb/tsc
