@@ -1,0 +1,8 @@
+---
+community_name: brpc
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/apache/brpc
+  governance-repositories:
+    repo_urls: []
