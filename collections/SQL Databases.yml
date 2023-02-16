@@ -1,0 +1,21 @@
+ident: sql-databases
+name: SQL Databases
+name_cn: 关系型数据库
+slug: /sql-databases
+items:
+  - https://github.com/mysql/mysql-server
+  - https://github.com/postgres/postgres
+  - https://github.com/microsoft/mssql-server
+  - https://github.com/oracle/oci-mysql
+  - https://github.com/sqlite/sqlite
+  - https://github.com/redislabs/redis-modules
+  - https://github.com/apache/calcite
+  - https://github.com/apache/hive
+  - https://github.com/pingcap/tidb
+  - https://github.com/MariaDB/server
+  - https://github.com/THU-CDB/openGauss-server
+  - https://github.com/percona/percona-server
+  - https://github.com/oceanbase/oceanbase
+  - https://github.com/alibaba/PolarDB-for-PostgreSQL
+  - https://github.com/Tencent/tdsql
+  - https://github.com/apache/hbase

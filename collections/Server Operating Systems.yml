@@ -1,0 +1,13 @@
+ident: server-operating-systems
+name: Server Operating Systems
+name_cn: 服务器操作系统
+slug: /server-operating-systems
+items:
+  - https://github.com/debian
+  - https://github.com/CentOS
+  - https://github.com/openSUSE
+  - https://github.com/redhat-developer
+  - https://github.com/coreos
+  - https://github.com/alpinelinux/alpine-linux
+  - https://github.com/gentoo/gentoo
+  - https://github.com/Ubuntu

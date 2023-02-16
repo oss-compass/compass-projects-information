@@ -1,0 +1,16 @@
+ident: machine-learning-frameworks
+name: Machine Learning Frameworks
+name_cn: 机器学习框架
+slug: /machine-learning-frameworks
+items:
+  - https://github.com/tensorflow/tensorflow
+  - https://github.com/pytorch/pytorch
+  - https://github.com/PaddlePaddle/Paddle
+  - https://github.com/mindspore-ai/mindspore
+  - https://github.com/eclipse/deeplearning4j
+  - https://github.com/scikit-learn/scikit-learn
+  - https://github.com/apache/spark
+  - https://github.com/keras-team/keras
+  - https://github.com/mxnet/mxnet
+  - https://github.com/Microsoft/CNTK
+  - https://github.com/Theano/Theano

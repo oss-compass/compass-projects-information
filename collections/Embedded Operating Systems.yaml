@@ -1,0 +1,18 @@
+ident: embedded-operating-systems
+name: Embedded Operating Systems
+name_cn: 嵌入式操作系统
+slug: /embedded-operating-systems
+items:
+  - https://github.com/zephyrproject-rtos/zephyr
+  - https://github.com/ARMmbed/mbed-os
+  - https://github.com/RPi-Distro/pi-gen
+  - https://github.com/RIOT-OS/RIOT
+  - https://github.com/espressif/esp-idf
+  - https://github.com/nuttx/nuttx
+  - https://github.com/FreeRTOS/FreeRTOS
+  - https://github.com/RT-Thread/rt-thread
+  - https://github.com/LITEOS/LiteOS_Kernel
+  - https://github.com/openharmony
+  - https://github.com/Tencent/TencentOS-tiny
+  - https://github.com/cocoOS/klite
+  - https://github.com/openLuat/LuatOS

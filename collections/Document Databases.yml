@@ -1,0 +1,22 @@
+ident: document-databases
+name: Document Databases
+name_cn: 文档数据库
+slug: /document-databases
+items:
+  - https://github.com/mongodb/mongo
+  - https://github.com/couchbase/couchbase-server
+  - https://github.com/elastic/elasticsearch
+  - https://github.com/rethinkdb/rethinkdb
+  - https://github.com/couchdb/couchdb
+  - https://github.com/arangodb/arangodb
+  - https://github.com/ravendb/ravendb
+  - https://github.com/bellard/quickjs
+  - https://github.com/Tokutek/tokudb-engine
+  - https://github.com/microsoft/azure-cosmosdb-mongo-python-geoapi
+  - https://github.com/redis/redis
+  - https://github.com/facebook/rocksdb
+  - https://github.com/apache/couchdb
+  - https://github.com/orientechnologies/orientdb
+  - https://github.com/scylladb/scylla
+  - https://github.com/Tencent/Tendis
+  - https://github.com/apache/zeppelin

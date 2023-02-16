@@ -1,0 +1,14 @@
+ident: edge-computing-frameworks
+name: Edge Computing Frameworks
+name_cn: 边缘计算框架
+slug: /edge-computing-frameworks
+items:
+  - https://github.com/eclipse/kura
+  - https://github.com/eclipse/winery
+  - https://github.com/lf-edge/eve
+  - https://github.com/openfaas/faas
+  - https://github.com/ioFog/ioFog
+  - https://github.com/kubeedge/kubeedge
+  - https://github.com/RedisLabs/redisai
+  - https://github.com/iot-edge/iot-edge
+  - https://github.com/intel/Fedora-IoT

@@ -1,0 +1,13 @@
+ident: desktop-operating-systems
+name: Desktop Operating Systems
+name_cn: 桌面操作系统
+slug: /desktop-operating-systems
+items:
+  - https://github.com/canonical/ubuntu
+  - https://github.com/debian
+  - https://github.com/CentOS
+  - https://github.com/archlinux
+  - https://github.com/openSUSE
+  - https://github.com/freebsd/freebsd
+  - https://github.com/openbsd
+  - https://github.com/elementary

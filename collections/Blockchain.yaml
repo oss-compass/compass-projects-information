@@ -1,0 +1,12 @@
+ident: blockchain
+name: Blockchain
+name_cn: 区块链
+slug: /blockchain
+items:
+  - https://github.com/bitcoin/bitcoin
+  - https://github.com/ethereum/go-ethereum
+  - https://github.com/hyperledger/fabric
+  - https://github.com/eosio/eos
+  - https://github.com/neo-project/neo
+  - https://github.com/libra/libra
+  - https://github.com/ipfs/ipfs

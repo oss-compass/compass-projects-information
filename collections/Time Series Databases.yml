@@ -1,0 +1,18 @@
+ident: time-series-databases
+name: Time Series Databases
+name_cn: 时序数据库
+slug: /time-series-databases
+items:
+  - https://github.com/influxdata/influxdb
+  - https://github.com/prometheus/prometheus
+  - https://github.com/grafana/loki
+  - https://github.com/timescale/timescaledb
+  - https://github.com/opentsdb/opentsdb
+  - https://github.com/wavefrontHQ/wavefront-proxy
+  - https://github.com/Netflix/vector
+  - https://github.com/axibase/atsd
+  - https://github.com/taosdata/TDengine
+  - https://github.com/apache/iotdb
+  - https://github.com/OpenTSDB/opentsdb
+  - https://github.com/questdb/questdb
+  - https://github.com/terark/ceresdb

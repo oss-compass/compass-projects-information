@@ -1,0 +1,19 @@
+ident: iot-operating-systems
+name: IoT Operating Systems
+name_cn: 物联网操作系统
+slug: /iot-operating-systems
+items:
+  - https://github.com/openharmony
+  - https://github.com/Tencent/TencentOS
+  - https://github.com/RT-Thread/rt-thread
+  - https://github.com/Caffreyfans/OneOS
+  - https://github.com/openLuat/LuatOS
+  - https://github.com/alibaba/AliOS-Things
+  - https://github.com/zephyrproject-rtos/zephyr
+  - https://github.com/ARMmbed/mbed-os
+  - https://github.com/RIOT-OS/RIOT
+  - https://github.com/contiki-os/contiki
+  - https://github.com/openthread/openthread
+  - https://github.com/Azure/azure-sphere
+  - https://github.com/cmmc-kernel/cmmc-os
+  - https://github.com/SmartArduino/Simple

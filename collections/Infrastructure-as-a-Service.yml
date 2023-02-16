@@ -1,0 +1,12 @@
+ident: iaas
+name: Infrastructure-as-a-Service (IaaS)
+name_cn: 基础设施即服务 (IaaS)
+slug: /iaas
+items:
+  - https://github.com/openstack/openstack
+  - https://github.com/apache/cloudstack
+  - https://github.com/SmartDataCenter/SDCe
+  - https://github.com/rancher/rancher
+  - https://github.com/GoogleCloudPlatform/gce-uefi-bios
+  - https://github.com/NebulaGenomics/cloudbreak
+  - https://github.com/minio/minio

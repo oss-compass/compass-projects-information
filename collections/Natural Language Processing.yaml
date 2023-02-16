@@ -1,0 +1,12 @@
+ident: natural-language-processing
+name: Natural Language Processing
+name_cn: 自然语言处理
+slug: /natural-language-processing
+items:
+  - https://github.com/nltk/nltk
+  - https://github.com/stanfordnlp/CoreNLP
+  - https://github.com/huggingface/transformers
+  - https://github.com/explosion/spaCy
+  - https://github.com/allenai/allennlp
+  - https://github.com/facebookresearch/fastText
+  - https://github.com/google-research/bert

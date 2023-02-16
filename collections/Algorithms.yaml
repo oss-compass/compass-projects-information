@@ -1,0 +1,12 @@
+ident: algorithms
+name: Algorithms
+name_cn: 算法
+slug: /algorithms
+items:
+  - https://github.com/tensorflow/tensorflow
+  - https://github.com/opencv/opencv
+  - https://github.com/scikit-learn/scikit-learn
+  - https://github.com/numpy/numpy
+  - https://github.com/scipy/scipy
+  - https://github.com/pytorch/pytorch
+  - https://github.com/keras-team/keras

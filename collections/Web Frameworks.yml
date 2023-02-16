@@ -1,0 +1,15 @@
+ident: web-frameworks
+name: Web Frameworks
+name_cn: Web 框架
+slug: /web-frameworks
+items:
+  - https://github.com/django/django
+  - https://github.com/rails/rails
+  - https://github.com/expressjs/express
+  - https://github.com/spring-projects/spring-framework
+  - https://github.com/koajs/koa
+  - https://github.com/tornadoweb/tornado
+  - https://github.com/pallets/flask
+  - https://github.com/fastapi/fastapi
+  - https://github.com/nestjs/nest
+  - https://github.com/gin-gonic/gin

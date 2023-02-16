@@ -1,0 +1,24 @@
+ident: microservices
+name: Microservices
+name_cn: 微服务
+slug: /microservices
+items:
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/istio/istio
+  - https://github.com/linkerd/linkerd2
+  - https://github.com/envoyproxy/envoy
+  - https://github.com/Netflix/eureka
+  - https://github.com/hashicorp/consul
+  - https://github.com/GoogleContainerTools/jib
+  - https://github.com/OpenFeign/feign
+  - https://github.com/apache/brpc
+  - https://github.com/cablelabs/conduit
+  - https://github.com/apache/dubbo
+  - https://github.com/eclipse/microprofile
+  - https://github.com/grpc/grpc
+  - https://gitee.com/sofastack/sofa-rpc
+  - https://github.com/oracle/helidon
+  - https://github.com/KubeOperator/KubeOperator
+  - https://github.com/tkestack/tke
+  - https://github.com/linkerd/linkerd
+  - https://github.com/spring-cloud/spring-cloud-commons

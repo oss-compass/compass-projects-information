@@ -1,0 +1,14 @@
+ident: containers
+name: Containers
+name_cn: 容器技术
+slug: /containers
+items:
+  - https://github.com/containers/buildah
+  - https://github.com/docker/docker-ce
+  - https://github.com/abiosoft/colima
+  - https://github.com/alibaba/pouch
+  - https://github.com/isulad/isulad
+  - https://github.com/containers/libpod
+  - https://github.com/containers/podman
+  - https://github.com/rancher/rancher
+  - https://github.com/containers/skopeo

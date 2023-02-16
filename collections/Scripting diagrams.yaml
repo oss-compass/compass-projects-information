@@ -1,0 +1,31 @@
+ident: scripting-diagrams
+name: Scripting Diagrams
+name_cn: 脚本图表
+slug: /scripting-diagrams
+items:
+  - https://github.com/matplotlib/matplotlib
+  - https://github.com/plotly/plotly.py
+  - https://github.com/bokeh/bokeh
+  - https://github.com/d3/d3
+  - https://github.com/highcharts/highcharts
+  - https://github.com/apache/echarts
+  - https://github.com/gnuplot/gnuplot
+  - https://github.com/chartjs/Chart.js
+  - https://github.com/apache/echarts
+  - https://github.com/recharts/recharts
+  - https://github.com/d3/d3
+  - https://github.com/plotly/plotly.js
+  - https://github.com/frappe/charts
+  - https://github.com/apexcharts/apexcharts.js
+  - https://github.com/antvis/G2
+  - https://github.com/highcharts/highcharts
+  - https://github.com/plouc/nivo
+  - https://github.com/FormidableLabs/victory
+  - https://github.com/c3js/c3
+  - https://github.com/antvis/G6
+  - https://github.com/uber/react-vis
+  - https://github.com/jwilber/roughViz
+  - https://github.com/naver/billboard.js
+  - https://github.com/tradingview/lightweight-charts
+  - https://github.com/finos/perspective
+  - https://github.com/plotly/plotly.py

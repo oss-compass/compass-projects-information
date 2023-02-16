@@ -1,0 +1,15 @@
+ident: operations-tool
+name: Operations Tool
+name_cn: 运维工具
+slug: /operations-tool
+items:
+  - https://github.com/ansible/ansible
+  - https://github.com/puppetlabs/puppet
+  - https://github.com/chef/chef
+  - https://github.com/saltstack/salt
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/helm/helm
+  - https://github.com/terraform-providers/terraform-provider-aws
+  - https://github.com/prometheus/prometheus
+  - https://github.com/elastic/elasticsearch
+  - https://github.com/grafana/grafana

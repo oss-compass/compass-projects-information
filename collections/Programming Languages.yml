@@ -1,0 +1,13 @@
+ident: programming-languages
+name: Programming Languages
+name_cn: 编程语言
+slug: /programming-languages
+items:
+  - https://github.com/rust-lang/rust
+  - https://github.com/golang/go
+  - https://github.com/python/cpython
+  - https://github.com/ruby/ruby
+  - https://github.com/php/php-src
+  - https://github.com/perl/perl5
+  - https://github.com/microsoft/TypeScript
+  - https://github.com/microsoft/TypeScript
