@@ -1,0 +1,10 @@
+ident: sql-databases
+name: SQL Databases
+name_cn: 关系型数据库
+slug: /sql-databases
+items:
+  - https://gitee.com/opengauss/openGauss-server
+  - https://github.com/oceanbase/oceanbase
+  - https://github.com/pingcap/tidb
+  - https://github.com/MariaDB/server
+  - https://github.com/postgres/postgres
