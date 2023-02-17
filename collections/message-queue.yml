@@ -1,0 +1,8 @@
+ident: message-queue
+name: Message Queue
+name_cn: 消息队列
+slug: /message-queue
+items:
+  - https://github.com/apache/pulsar
+  - https://github.com/apache/rocketmq
+  - https://github.com/apache/inlong
