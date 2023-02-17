@@ -1,0 +1,34 @@
+ident: static-site-generator
+name: Static Site Generator
+name_cn: 静态站点生成器
+slug: /static-site-generator
+items:
+  - https://github.com/jekyll/jekyll
+  - https://github.com/gohugoio/hugo
+  - https://github.com/11ty/eleventy
+  - https://github.com/vuejs/vuepress
+  - https://github.com/hexojs/hexo
+  - https://github.com/getpelican/pelican
+  - https://github.com/metalsmith/metalsmith
+  - https://github.com/facebook/Docusaurus
+  - https://github.com/slatedocs/slate
+  - https://github.com/gridsome/gridsome
+  - https://github.com/middleman/middleman
+  - https://github.com/react-static/react-static
+  - https://github.com/docsifyjs/docsify
+  - https://github.com/mkdocs/mkdocs
+  - https://github.com/sintaxi/harp
+  - https://github.com/netlify/netlify-cms
+  - https://github.com/jaspervdj/hakyll
+  - https://github.com/umijs/umi
+  - https://github.com/abelljs/abell
+  - https://github.com/withastro/astro
+  - https://github.com/tlienart/Franklin.jl
+  - https://github.com/getzola/zola
+  - https://github.com/redwoodjs/redwood
+  - https://github.com/tinacms/tinacms
+  - https://github.com/sveltejs/kit
+  - https://github.com/rust-lang/mdBook
+  - https://github.com/sphinx-doc/sphinx
+  - https://github.com/cecilapp/cecil
+  - https://github.com/evidence-dev/evidence
