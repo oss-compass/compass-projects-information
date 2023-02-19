@@ -1,6 +1,6 @@
 ident: deep-learning-frameworks
 name: Deep Learning Frameworks
-name_cn: 机器学习框架
+name_cn: 深度学习框架
 slug: /deep-learning-frameworks
 items:
   - https://github.com/tensorflow/tensorflow
