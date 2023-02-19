@@ -6,3 +6,6 @@ items:
   - https://github.com/apache/pulsar
   - https://github.com/apache/rocketmq
   - https://github.com/apache/inlong
+  - https://github.com/apache/kafka
+  - https://github.com/rabbitmq/rabbitmq-server
+  - https://github.com/apache/activemq
