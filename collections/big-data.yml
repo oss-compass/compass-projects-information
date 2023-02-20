@@ -5,3 +5,6 @@ slug: /big-data
 items:
   - https://github.com/apache/spark
   - https://github.com/apache/flink
+  - https://github.com/apache/hive
+  - https://github.com/apache/hadoop
+  - https://github.com/apache/kafka
