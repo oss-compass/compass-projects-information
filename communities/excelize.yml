@@ -1,0 +1,8 @@
+---
+community_name: excelize
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/qax-os/excelize
+  governance-repositories:
+    repo_urls: []
