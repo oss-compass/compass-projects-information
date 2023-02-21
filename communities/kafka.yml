@@ -1,0 +1,8 @@
+---
+community_name: kafka
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/apache/kafka
+  governance-repositories:
+    repo_urls: []
