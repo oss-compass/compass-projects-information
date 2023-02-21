@@ -1,0 +1,9 @@
+---
+community_name: pulsar
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/apache/pulsar
+    - https://github.com/apache/pulsar-site
+  governance-repositories:
+    repo_urls: []
