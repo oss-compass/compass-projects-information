@@ -1,0 +1,11 @@
+---
+community_name: wasm-bpf
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/eunomia-bpf/wasm-bpf
+    - https://github.com/eunomia-bpf/eunomia-bpf
+    - https://github.com/eunomia-bpf/bpf-developer-tutorial
+    - https://github.com/eunomia-bpf/GPTtrace
+  governance-repositories:
+    repo_urls: []
