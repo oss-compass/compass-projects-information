@@ -1,0 +1,25 @@
+---
+community_name: monibuca
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/Monibuca/engine
+    - https://github.com/Monibuca/plugin-gb28181
+    - https://github.com/Monibuca/plugin-hls
+    - https://github.com/Monibuca/plugin-room
+    - https://github.com/Monibuca/plugin-rtsp
+    - https://github.com/Monibuca/plugin-snap
+    - https://github.com/Monibuca/plugin-jessica
+    - https://github.com/Monibuca/plugin-hdl
+    - https://github.com/Monibuca/plugin-record
+    - https://github.com/Monibuca/plugin-webtransport
+    - https://github.com/Monibuca/plugin-logrotate
+    - https://github.com/Monibuca/plugin-fmp4
+    - https://github.com/Monibuca/plugin-rtmp
+    - https://github.com/Monibuca/plugin-preview
+    - https://github.com/Monibuca/plugin-webrtc
+    - https://github.com/Monibuca/plugin-hook
+    - https://github.com/Monibuca/plugin-exporter
+  governance-repositories:
+    repo_urls:
+    - https://github.com/langhuihui/monibuca
