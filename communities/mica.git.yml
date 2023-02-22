@@ -1,0 +1,11 @@
+---
+community_name: mica.git
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/596392912/mica-mqtt.git
+    - https://gitee.com/596392912/mica.git
+    - https://gitee.com/596392912/mica-auto.git
+    - https://gitee.com/596392912/JFinal-event.git
+  governance-repositories:
+    repo_urls: []
