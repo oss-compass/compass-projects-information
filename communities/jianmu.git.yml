@@ -1,0 +1,9 @@
+---
+community_name: jianmu.git
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/jianmu-dev/jianmu.git
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/jianmu-dev/governance.git
