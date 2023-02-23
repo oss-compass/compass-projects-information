@@ -1,0 +1,10 @@
+---
+community_name: RYCOM
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/rymcu/forest
+    - https://github.com/rymcu/nebula
+    - https://github.com/rymcu/RYCOM
+  governance-repositories:
+    repo_urls: []
