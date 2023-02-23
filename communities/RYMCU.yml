@@ -1,5 +1,5 @@
 ---
-community_name: RYCOM
+community_name: RYMCU
 resource_types:
   software-artifact-repositories:
     repo_urls:
