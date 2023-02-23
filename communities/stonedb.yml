@@ -1,0 +1,8 @@
+---
+community_name: stonedb
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/stoneatom/stonedb
+  governance-repositories:
+    repo_urls: []
