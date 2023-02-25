@@ -1,0 +1,14 @@
+---
+community_name: daotl
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/daotl/web-configs
+    - https://github.com/daotl/edgedb-zod
+    - https://github.com/daotl/ts-to-zod
+    - https://github.com/daotl/fes-starter
+    - https://github.com/daotl/web-monorepo-starter
+    - https://github.com/daotl/vitesse
+  governance-repositories:
+    repo_urls:
+    - https://github.com/daotl/daotl
