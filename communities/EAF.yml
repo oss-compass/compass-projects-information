@@ -30,5 +30,7 @@ resource_types:
     - https://github.com/emacs-eaf/eaf-demo
     - https://github.com/emacs-eaf/eaf-airshare
     - https://github.com/emacs-eaf/eaf-js-video-player
+    - https://github.com/emacs-eaf/eaf-vue-tailwindcss
+    - https://github.com/emacs-eaf/eaf-markmap
   governance-repositories:
     repo_urls: []
