@@ -1,0 +1,8 @@
+---
+community_name: create-webpack-next
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/janpoem/create-webpack-next
+  governance-repositories:
+    repo_urls: []
