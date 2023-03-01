@@ -1,0 +1,22 @@
+---
+community_name: blessing-skin-server
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/bs-community/blessing-skin-server
+    - https://github.com/bs-community/skinview3d
+    - https://github.com/bs-community/blessing-skin-plugins
+    - https://github.com/bs-community/skinview-utils
+    - https://github.com/bs-community/skinview2d
+    - https://github.com/bs-community/customskinloader-gui
+    - https://github.com/bs-community/telegram-bot
+    - https://github.com/bs-community/rejection
+    - https://github.com/bs-community/filter
+    - https://github.com/bs-community/afdian-list-printer
+    - https://github.com/bs-community/flarum-oauth-client
+    - https://github.com/bs-community/nano
+    - https://github.com/bs-community/texture-renderer
+  governance-repositories:
+    repo_urls:
+    - https://github.com/bs-community/rfcs
+    - https://github.com/bs-community/awesome-minecraft
