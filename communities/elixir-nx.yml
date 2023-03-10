@@ -1,5 +1,5 @@
 ---
-community_name: nx
+community_name: elixir-nx
 resource_types:
   software-artifact-repositories:
     repo_urls:
