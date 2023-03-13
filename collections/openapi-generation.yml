@@ -1,0 +1,17 @@
+ident: openapi-code-generation
+name: OpenAPI Code Generation
+name_cn: OpenAPI 代码生成器
+slug: /openapi-code-generation
+items:
+  - https://github.com/swagger-api/swagger-codegen
+  - https://github.com/OpenAPITools/openapi-generator
+  - https://github.com/koxudaxi/datamodel-code-generator
+  - https://github.com/dotansimha/graphql-code-generator
+  - https://github.com/tfranzel/drf-spectacular
+  - https://github.com/wrannaman/generators
+  - https://github.com/papsign/Ktor-OpenAPI-Generator
+  - https://github.com/rapi-doc/RapiDoc
+  - https://github.com/go-swagger/go-swagger
+  - https://github.com/fjc0k/yapi-to-typescript
+  - https://github.com/BRIKEV/express-jsdoc-swagger
+  - https://github.com/looker-open-source/sdk-codegen∂
