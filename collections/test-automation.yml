@@ -1,0 +1,25 @@
+ident: test-automation
+name: Test Automation
+name_cn: 自动化测试工具
+slug: /test-automation
+items:
+  - https://github.com/AirtestProject/Airtest
+  - https://github.com/alipay/SoloPi
+  - https://github.com/appium/appium
+  - https://github.com/atinfo/awesome-test-automation
+  - https://github.com/cbeust/testng
+  - https://github.com/cypress-io/cypress
+  - https://github.com/DevExpress/testcafe
+  - https://github.com/getgauge/gauge
+  - https://github.com/junit-team/junit4
+  - https://github.com/junit-team/junit5
+  - https://github.com/karatelabs/karate
+  - https://github.com/metersphere/metersphere
+  - https://github.com/mockito/mockito
+  - https://github.com/pytest-dev/pytest
+  - https://github.com/rest-assured/rest-assured
+  - https://github.com/robotframework/robotframework
+  - https://github.com/SeleniumHQ/selenium
+  - https://github.com/testcontainers/testcontainers-java
+  - https://github.com/web-platform-tests/wpt
+  - https://github.com/wix/Detox
