@@ -1,0 +1,13 @@
+ident: container-technology
+name: Container Technology
+name_cn: 容器技术
+slug: /container-technology
+items:
+  - https://github.com/containers/podman
+  - https://github.com/cri-o/cri-o
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/kubernetes/minikube
+  - https://github.com/lxc/lxc
+  - https://github.com/lxc/lxd
+  - https://github.com/moby/moby
+  - https://github.com/rkt/rkt
