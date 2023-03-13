@@ -1,0 +1,20 @@
+ident: authorization-framework
+name: Authorization Framework
+name_cn: 权限认证框架
+slug: /authorization-framework
+items:
+  - https://gitee.com/dromara/sa-token
+  - https://github.com/apereo/cas
+  - https://github.com/build-trust/ockam
+  - https://github.com/CanCanCommunity/cancancan
+  - https://github.com/casbin/casbin
+  - https://github.com/casdoor/casdoor
+  - https://github.com/doorkeeper-gem/doorkeeper
+  - https://github.com/goauthentik/authentik
+  - https://github.com/google/santa
+  - https://github.com/logto-io/logto
+  - https://github.com/open-policy-agent/opa
+  - https://github.com/ory/hydra
+  - https://github.com/simov/grant
+  - https://github.com/stalniy/casl
+  - https://github.com/zitadel/zitadel
