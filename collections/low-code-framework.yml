@@ -1,0 +1,13 @@
+ident: low-code-framework
+name: Low-Code Framework
+name_cn: 低代码框架
+slug: /low-code-framework
+items:
+  - https://github.com/appsmithorg/appsmith
+  - https://github.com/smartxworks/sunmao-ui
+  - https://github.com/illacloud/illa-builder
+  - https://github.com/frappe/frappe
+  - https://github.com/refinedev/refine
+  - https://github.com/Budibase/budibase
+  - https://github.com/foxpage/foxpage
+  - https://github.com/openblocks-dev/openblocks
