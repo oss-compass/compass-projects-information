@@ -3,7 +3,6 @@ name: Penetration testing
 name_cn: 渗透测试工具
 slug: /penetration-testing
 items:
-  - https://chat.openai.com/chat
   - https://github.com/rapid7/metasploit-framework
   - https://github.com/nmap/nmap
   - https://github.com/zaproxy/zaproxy

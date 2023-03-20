@@ -7,3 +7,7 @@ items:
   - https://github.com/pytorch/pytorch
   - https://gitee.com/mindspore/mindspore
   - https://github.com/PaddlePaddle/Paddle
+  - https://github.com/microsoft/CNTK
+  - https://github.com/keras-team/keras
+  - https://github.com/apache/mxnet
+  - https://github.com/onnx/onnx

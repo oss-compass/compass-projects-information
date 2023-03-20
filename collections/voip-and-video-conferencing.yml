@@ -3,7 +3,6 @@ name: VoIP and Video Conferencing
 name_cn: VoIP 和视频会议
 slug: /voip-and-video-conferencing
 items:
-  - https://chat.openai.com/chat
   - https://github.com/jitsi/jitsi-meet
   - https://github.com/BelledonneCommunications/liblinphone
   - https://github.com/signalwire/freeswitch
