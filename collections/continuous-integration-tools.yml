@@ -1,0 +1,19 @@
+ident: continuous-integration-tools
+name: Continuous Integration Tools
+name_cn: 持续集成工具
+slug: /continuous-integration-tools
+items:
+  - https://github.com/jenkinsci/jenkins
+  - https://github.com/travis-ci/travis-ci
+  - https://github.com/circleci/circleci-docs
+  - https://github.com/gocd/gocd
+  - https://github.com/harness/drone
+  - https://github.com/buildbot/buildbot
+  - https://github.com/Strider-CD/strider
+  - https://github.com/concourse/concourse
+  - https://github.com/jenkins-x/jx
+  - https://github.com/argoproj/gitops-engine
+  - https://github.com/screwdriver-cd/screwdriver
+  - https://github.com/tektoncd/pipeline
+  - https://github.com/rundeck/rundeck
+  - https://github.com/jenkinsci/jenkinsfile-runner

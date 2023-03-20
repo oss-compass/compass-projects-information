@@ -1,0 +1,14 @@
+ident: image-processing
+name: Image Processing
+name_cn: 图像处理库
+slug: /image-processing
+items:
+  - https://github.com/lovell/sharp
+  - https://github.com/opencv/opencv
+  - https://github.com/pqina/filepond
+  - https://github.com/albumentations-team/albumentations
+  - https://github.com/python-pillow/Pillow
+  - https://github.com/alexjc/neural-doodle
+  - https://github.com/wasabeef/glide-transformations
+  - https://github.com/danielgatis/rembg
+  - https://github.com/microsoft/computervision-recipes

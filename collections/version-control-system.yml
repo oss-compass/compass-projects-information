@@ -1,0 +1,8 @@
+ident: version-control-system
+name: Version Control System
+name_cn: 版本控制系统
+slug: /version-control-system
+items:
+  - https://github.com/git/git
+  - https://github.com/apache/subversion
+  - https://github.com/mozilla/gecko-dev

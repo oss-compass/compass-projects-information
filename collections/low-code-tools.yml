@@ -1,0 +1,16 @@
+ident: low-code-tools
+name: Low Code Tools
+name_cn: 低代码工具
+slug: /low-code-tools
+items:
+  - https://github.com/node-red/node-red
+  - https://github.com/appsmithorg/appsmith
+  - https://github.com/nocodb/nocodb
+  - https://github.com/jeecgboot/jeecg-boot
+  - https://github.com/AppFlowy-IO/AppFlowy
+  - https://github.com/n8n-io/n8n
+  - https://github.com/ToolJet/ToolJet
+  - https://github.com/Tencent/APIJSON
+  - https://github.com/baidu/amis
+  - https://github.com/amplication/amplication
+  - https://github.com/alibaba/formily

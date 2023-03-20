@@ -1,0 +1,21 @@
+ident: status-page-publishing-tools
+name: Status Page Publishing Tools
+name_cn: Status Page 发布工具
+slug: /status-page-publishing-tools
+items:
+  - https://github.com/CachetHQ/Cachet
+  - https://github.com/juliomrqz/statusfy
+  - https://github.com/louislam/uptime-kuma
+  - https://github.com/healthchecks/healthchecks
+  - https://github.com/statping/statping
+  - https://github.com/upptime/upptime
+  - https://github.com/jayfk/statuspage
+  - https://github.com/TwiN/gatus
+  - https://github.com/cstate/cstate
+  - https://github.com/ivbeg/awesome-status-pages
+  - https://github.com/valeriansaliou/vigil
+  - https://github.com/ks888/LambStatus
+  - https://github.com/paulogr/dstatuspage
+  - https://github.com/Monitorr/Monitorr
+  - https://github.com/Cyclenerd/static_status
+  - https://github.com/server-status-project/server-status

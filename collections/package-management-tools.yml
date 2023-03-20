@@ -1,0 +1,18 @@
+ident: package-management-tools
+name: Package Management Tools
+name_cn: 包管理工具
+slug: /package-management-tools
+items:
+  - https://github.com/Homebrew/brew
+  - https://github.com/puppetlabs/puppet
+  - https://github.com/rpm-software-management/dnf
+  - https://github.com/rpm-software-management/rpm
+  - https://github.com/cfengine/core
+  - https://github.com/gentoo/portage
+  - https://github.com/flatpak/flatpak
+  - https://github.com/snapcore/snapd
+  - https://github.com/yarnpkg/yarn
+  - https://github.com/NixOS/nix
+  - https://github.com/chef/chef
+  - https://github.com/saltstack/salt
+  - https://github.com/chocolatey/choco

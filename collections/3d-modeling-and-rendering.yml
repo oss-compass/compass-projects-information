@@ -1,0 +1,17 @@
+ident: 3d-modeling-and-rendering
+name: 3D modeling and rendering
+name_cn: 3D建模和渲染软件
+slug: /3d-modeling-and-rendering
+items:
+  - https://github.com/blender/blender
+  - https://github.com/FreeCAD/FreeCAD
+  - https://github.com/openscad/openscad
+  - https://github.com/cnr-isti-vclab/meshlab
+  - https://github.com/BRL-CAD/brlcad
+  - https://github.com/isl-org/Open3D
+  - https://github.com/alicevision/meshroom
+  - https://github.com/makehumancommunity/makehuman
+  - https://github.com/POV-Ray/povray
+  - https://github.com/dgud/wings
+  - https://github.com/artofillusion/artofillusion
+  - https://github.com/schrodinger/pymol-open-source

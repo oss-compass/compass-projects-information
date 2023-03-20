@@ -1,0 +1,20 @@
+ident: penetration-testing
+name: Penetration testing
+name_cn: 渗透测试工具
+slug: /penetration-testing
+items:
+  - https://chat.openai.com/chat
+  - https://github.com/rapid7/metasploit-framework
+  - https://github.com/nmap/nmap
+  - https://github.com/zaproxy/zaproxy
+  - https://github.com/aircrack-ng/aircrack-ng
+  - https://github.com/sqlmapproject/sqlmap
+  - https://github.com/wireshark/wireshark
+  - https://github.com/openwall/john
+  - https://github.com/vanhauser-thc/thc-hydra
+  - https://github.com/aide/aide
+  - https://github.com/beefproject/beef
+  - https://github.com/v0re/dirb
+  - https://github.com/wpscanteam/wpscan
+  - https://github.com/savio-code/fern-wifi-cracker
+  - https://github.com/Arachni/arachni
