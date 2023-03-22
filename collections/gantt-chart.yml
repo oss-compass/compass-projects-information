@@ -1,0 +1,21 @@
+ident: gantt-chart
+name: Gantt Chart
+name_cn: 甘特图
+slug: /gantt-chart
+items:
+  - https://github.com/opf/openproject
+  - https://github.com/frappe/gantt
+  - https://github.com/bannzai/SpreadsheetView
+  - https://github.com/angular-gantt/angular-gantt
+  - https://github.com/rakannimer/react-google-charts
+  - https://github.com/neuronetio/gantt-elastic
+  - https://github.com/DHTMLX/gantt
+  - https://github.com/taitems/jQuery.Gantt
+  - https://github.com/bardsoftware/ganttproject
+  - https://github.com/bvaughn/planner
+  - https://github.com/w1301625107/Vue-Gantt-chart
+  - https://github.com/hql7/wl-gantt
+  - https://github.com/MaTeMaTuK/gantt-task-react
+  - https://github.com/keshiim/ZMJGanttChart
+  - https://github.com/zunnzunn/vue-ganttastic
+  - https://github.com/hustcc/gantt-for-react
