@@ -1,0 +1,25 @@
+ident: kanban
+name: Kanban
+name_cn: 看板工具
+slug: /kanban
+items:
+  - https://github.com/wekan/wekan
+  - https://github.com/theonedev/onedev
+  - https://github.com/kanboard/kanboard
+  - https://github.com/invoiceninja/invoiceninja
+  - https://github.com/opf/openproject
+  - https://github.com/gitscrum-team/laravel-gitscrum
+  - https://github.com/plankanban/planka
+  - https://github.com/Leantime/leantime
+  - https://github.com/huytd/kanban-app
+  - https://github.com/lxerxa/actionview
+  - https://github.com/ParabolInc/parabol
+  - https://github.com/linagora/Twake
+  - https://github.com/smallhadroncollider/taskell
+  - https://github.com/Physiix/topsi-project-manager
+  - https://github.com/kiswa/TaskBoard
+  - https://github.com/MyCollab/mycollab
+  - https://github.com/gopeak/masterlab
+  - https://github.com/lorabv/awesome-agile
+  - https://github.com/espocrm/espocrm
+  - https://github.com/jitamin/jitamin
