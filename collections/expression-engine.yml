@@ -1,0 +1,11 @@
+ident: expression-engine
+name: Expression Engine
+name_cn: 表达式引擎
+slug: /expression-engine
+items:
+  - https://github.com/mvel/mvel
+  - https://github.com/apache/commons-jexl
+  - https://github.com/jparsec/jparsec
+  - https://github.com/apache/commons-ognl
+  - https://github.com/apache/commons-jxpath
+  - https://github.com/killme2008/aviatorscript
