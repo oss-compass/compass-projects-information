@@ -1,0 +1,12 @@
+ident: mind-map
+name: Mind Map
+name_cn: 思维导图
+slug: /mind-map
+items:
+  - https://github.com/fex-team/kityminder
+  - https://github.com/freeplane/freeplane
+  - https://github.com/laurent22/joplin
+  - https://github.com/dvorka/mindforger
+  - https://github.com/aardappel/treesheets
+  - https://github.com/mindmup/legacy-mindmup
+  - https://github.com/bardsoftware/ganttproject
