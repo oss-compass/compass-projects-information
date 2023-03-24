@@ -1,5 +1,5 @@
 ---
-community_name: jianmu.git
+community_name: jianmu-dev
 resource_types:
   software-artifact-repositories:
     repo_urls:
