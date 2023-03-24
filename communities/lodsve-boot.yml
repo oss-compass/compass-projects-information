@@ -1,0 +1,13 @@
+---
+community_name: lodsve-boot
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/lodsve/lodsve-boot
+    - https://github.com/lodsve/lodsve-framework
+    - https://github.com/lodsve/lodsve-gradle-archetype-plugin
+    - https://github.com/lodsve/lodsve-parent
+    - https://github.com/lodsve/lodsve-maven-plugins
+    - https://github.com/lodsve/lodsve-maven-archetype
+  governance-repositories:
+    repo_urls: []
