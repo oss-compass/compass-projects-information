@@ -1,0 +1,18 @@
+ident: observability
+name: Observability
+name_cn: 可观测
+slug: /observability
+items:
+  - https://github.com/micrometer-metrics/micrometer
+  - https://github.com/cilium/cilium
+  - https://github.com/vectordotdev/vector
+  - https://github.com/pixie-io/pixie
+  - https://github.com/grafana/agent
+  - https://github.com/kiali/kiali
+  - https://github.com/cilium/tetragon
+  - https://github.com/alibaba/ilogtail
+  - https://github.com/grafana/grafana
+  - https://github.com/deepflowio/deepflow
+  - https://github.com/stripe/veneur
+  - https://github.com/robusta-dev/robusta
+  - https://github.com/elementary-data/elementary

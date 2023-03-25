@@ -1,0 +1,32 @@
+ident: eBPF
+name: eBPF
+name_cn: eBPF
+slug: /ebpf
+items:
+  - https://github.com/iovisor/bcc
+  - https://github.com/cilium/cilium
+  - https://github.com/iovisor/bpftrace
+  - https://github.com/falcosecurity/falco
+  - https://github.com/facebookincubator/katran
+  - https://github.com/pixie-io/pixie
+  - https://github.com/grafana/pyroscope
+  - https://github.com/gojue/ecapture
+  - https://github.com/parca-dev/parca
+  - https://github.com/aquasecurity/tracee
+  - https://github.com/cilium/tetragon
+  - https://github.com/iovisor/kubectl-trace
+  - https://github.com/inspektor-gadget/inspektor-gadget
+  - https://github.com/Sysinternals/SysmonForLinux
+  - https://github.com/cilium/pwru
+  - https://github.com/solo-io/bumblebee
+  - https://github.com/iovisor/ply
+  - https://github.com/KindlingProject/kindling
+  - https://github.com/kubearmor/KubeArmor
+  - https://github.com/merbridge/merbridge
+  - https://github.com/deepflowio/deepflow
+  - https://github.com/rubrikinc/wachy
+  - https://github.com/Exein-io/pulsar
+  - https://github.com/sustainable-computing-io/kepler
+  - https://github.com/eunomia-bpf/eunomia-bpf
+  # (as a project type, instead of a repo) - https://github.com/l3af-project
+  - https://github.com/loxilb-io/loxilb

@@ -19,3 +19,8 @@ items:
   - https://github.com/JamesNK/Newtonsoft.Json
   - https://github.com/dropbox/json11
   - https://github.com/bblanchon/ArduinoJson
+  - https://github.com/alibaba/fastjson2
+  - https://github.com/alibaba/fastjson
+  - https://github.com/bytedance/sonic-cpp
+  
+

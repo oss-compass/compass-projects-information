@@ -10,3 +10,14 @@ items:
   - https://github.com/ioFog/ioFog
   - https://github.com/kubeedge/kubeedge
   - https://github.com/iot-edge/iot-edge
+  # (as a project type, instead of a repo) - https://github.com/akraino-edge-stack
+  - https://github.com/baetyl/baetyl
+  - https://github.com/dapr/dapr
+  # (as a project type, instead of a repo) - https://github.com/EdgeGallery
+  # (as a project type, instead of a repo) - https://github.com/edgexfoundry
+  - https://github.com/lf-edge/ekuiper
+  - https://github.com/k3s-io/k3s
+  - https://github.com/openyurtio/openyurt
+  # (doesn't use github or gitee) - https://opendev.org/starlingx
+  - https://github.com/WasmEdge/WasmEdge
+  - https://github.com/yomorun/yomo
