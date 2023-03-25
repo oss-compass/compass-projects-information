@@ -8,3 +8,15 @@ items:
   - https://github.com/apache/hive
   - https://github.com/apache/hadoop
   - https://github.com/apache/kafka
+  - https://github.com/spring-projects/spring-batch
+  - https://github.com/lf-edge/ekuiper
+  - https://github.com/apache/pulsar
+  - https://github.com/apache/hudi
+  - https://github.com/apache/iceberg
+  - https://github.com/Delta-ML/delta
+  - https://github.com/delta-io/delta
+  - https://github.com/apache/storm
+  - https://github.com/confluentinc/ksql
+
+
+# (consider splitting into: `stream processing`, `batch processing`, `data lake`... yaml?)

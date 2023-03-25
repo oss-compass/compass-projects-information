@@ -10,3 +10,13 @@ items:
   - https://github.com/argoproj/argo-cd
   - https://github.com/deployphp/deployer
   - https://github.com/aws/aws-codedeploy-agent
+  - https://github.com/jenkinsci/jenkins
+  # (as a project type, instead of a repo) - https://github.com/cdevents
+  # (as a project type, instead of a repo) - https://github.com/jenkins-x
+  - https://github.com/ortelius/ortelius
+  - https://github.com/pyrsia/pyrsia
+  # (as a project type, instead of a repo) - https://github.com/shipwright-io
+  # (as a project type, instead of a repo) - https://github.com/tektoncd
+
+
+

@@ -6,3 +6,10 @@ items:
   - https://github.com/git/git
   - https://github.com/apache/subversion
   - https://github.com/mozilla/gecko-dev
+  - https://github.com/git-lfs/git-lfs
+  - https://github.com/TortoiseGit/TortoiseGit
+  - https://github.com/Microsoft/VFSForGit
+   # (doesn't use github or gitee) - - https://nest.pijul.com/pijul/pijul
+   # (doesn't use github or gitee) - - https://www.mercurial-scm.org/repo/hg-website
+   # (doesn't use github or gitee) - - http://doc.bazaar.canonical.com/developers
+

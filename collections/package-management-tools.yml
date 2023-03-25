@@ -16,3 +16,15 @@ items:
   - https://github.com/chef/chef
   - https://github.com/saltstack/salt
   - https://github.com/chocolatey/choco
+  - https://github.com/pnpm/pnpm
+  # (as a project type, instead of a repo) - https://github.com/NuGet
+  - https://github.com/conan-io/conan
+  - https://github.com/microsoft/winget-cli
+  - https://github.com/NixOS/nix
+  - https://github.com/yarnpkg/berry
+  - https://github.com/helm/helm
+  - https://github.com/rubygems/rubygems
+  - https://github.com/apache/maven
+  - https://github.com/npm/cli
+
+
