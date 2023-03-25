@@ -1,0 +1,18 @@
+ident: slack-alternative
+name: Slack Alternative
+name_cn: Slack 替代方案
+slug: /slack-alternative
+items:
+  - https://github.com/mattermost/mattermost-server
+  - https://github.com/RocketChat/Rocket.Chat
+  - https://github.com/zulip/zulip
+  - https://github.com/matrix-org/synapse
+  - https://github.com/wireapp/wire-server
+  - https://github.com/vector-im/element-web
+  - https://github.com/jitsi/jitsi-meet
+  - https://github.com/nextcloud/spreed
+  - https://github.com/igniterealtime/Openfire
+  - https://github.com/raelgc/scudcloud
+  - https://github.com/kandanapp/kandan
+  - https://github.com/sdelements/lets-chat
+  - https://github.com/huginn/huginn

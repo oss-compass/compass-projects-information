@@ -1,0 +1,16 @@
+ident: robotics
+name: Robotics
+name_cn: 机器人技术
+slug: /robotics
+items:
+  - https://github.com/arduino/Arduino
+  - https://github.com/AtsushiSakai/PythonRobotics
+  - https://github.com/bulletphysics/bullet3
+  - https://github.com/facebookresearch/pyrobot
+  - https://github.com/gazebosim/gz-sim
+  - https://github.com/MyRobotLab/myrobotlab
+  - https://github.com/ompl/ompl
+  - https://github.com/orocos/orocos_kinematics_dynamics
+  - https://github.com/petercorke/robotics-toolbox-python
+  - https://github.com/rdiankov/openrave
+  - https://github.com/ros2/ros2

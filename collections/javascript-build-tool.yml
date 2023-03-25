@@ -1,0 +1,15 @@
+ident: javascript-build-tool
+name: Javascript Build Tool
+name_cn: 前端构建工具
+slug: /javascript-build-tool
+items:
+  - https://github.com/webpack/webpack
+  - https://github.com/babel/babel
+  - https://github.com/gulpjs/gulp
+  - https://github.com/gruntjs/grunt
+  - https://github.com/rollup/rollup
+  - https://github.com/brunch/brunch
+  - https://github.com/parcel-bundler/parcel
+  - https://github.com/wendux/fly
+  - https://github.com/broccolijs/broccoli
+  - https://github.com/FredKSchott/snowpack

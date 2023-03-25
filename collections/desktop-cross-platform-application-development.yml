@@ -1,0 +1,17 @@
+ident: desktop-cross-platform-application-development
+name: Desktop cross-platform application development
+name_cn: 桌面跨平台应用开发
+slug: /desktop-cross-platform-application-development
+items:
+  - https://github.com/electron/electron
+  - https://github.com/nwjs/nw.js
+  - https://github.com/qt/qt5
+  - https://github.com/openjdk/jfx
+  - https://github.com/AvaloniaUI/Avalonia
+  - https://github.com/kusti8/proton-native
+  - https://github.com/flutter/flutter
+  - https://github.com/status-im/react-native-desktop-qt
+  - https://github.com/wxWidgets/wxWidgets
+  - https://github.com/python/cpython
+  - https://github.com/kivy/kivy
+  - https://github.com/c-smile/sciter-sdk

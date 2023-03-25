@@ -1,0 +1,17 @@
+ident: mobile-cross-platform-application-development
+name: Mobile cross-platform application development
+name_cn: 移动跨平台应用开发
+slug: /mobile-cross-platform-application-development
+items:
+  - https://github.com/facebook/react-native
+  - https://github.com/flutter/flutter
+  - https://github.com/xamarin/Xamarin.Forms
+  - https://github.com/ionic-team/ionic-framework
+  - https://github.com/apache/cordova-js
+  - https://github.com/NativeScript/NativeScript
+  - https://github.com/tidev/titanium_mobile
+  - https://github.com/coronalabs/corona
+  - https://github.com/Unity-Technologies/UnityCsReference
+  - https://github.com/qt/qt5
+  - https://github.com/cocos2d/cocos2d-x
+  - https://github.com/HaxeFoundation/haxe

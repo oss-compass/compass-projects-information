@@ -1,0 +1,19 @@
+ident: object-storage
+name: Object Storage
+name_cn: 对象存储
+slug: /object-storage
+items:
+  - https://github.com/ceph/ceph
+  - https://github.com/minio/minio
+  - https://github.com/open-io/oio-sds
+  - https://github.com/openstack/swift
+  - https://github.com/basho/riak_cs
+  - https://github.com/scality/cloudserver
+  - https://github.com/cockroachdb/cockroach
+  - https://github.com/apache/ozone
+  - https://github.com/Alluxio/alluxio
+  - https://github.com/basho/bitcask
+  - https://github.com/openstack/cinder
+  - https://github.com/apache/cassandra
+  - https://github.com/apache/hbase
+  - https://github.com/apache/ignite

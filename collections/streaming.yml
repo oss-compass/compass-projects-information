@@ -1,0 +1,20 @@
+ident: streaming
+name: streaming
+name_cn: 流处理
+slug: /streaming
+items:
+  - https://github.com/apache/kafka
+  - https://github.com/apache/flink
+  - https://github.com/apache/storm
+  - https://github.com/apache/beam
+  - https://github.com/apache/samza
+  - https://github.com/apache/nifi
+  - https://github.com/apache/incubator-heron
+  - https://github.com/confluentinc/platform
+  - https://github.com/awslabs/amazon-kinesis-client
+  - https://github.com/apache/spark
+  - https://github.com/apache/apex-core
+  - https://github.com/spring-cloud/spring-cloud-dataflow
+  - https://github.com/akka/akka
+  - https://github.com/hazelcast/hazelcast-jet
+  - https://github.com/apache/pulsar

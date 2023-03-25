@@ -1,0 +1,21 @@
+ident: time-series-database
+name: Time Series Database
+name_cn: 时序数据库
+slug: /time-series-database
+items:
+  - https://github.com/influxdata/influxdb
+  - https://github.com/timescale/timescaledb
+  - https://github.com/OpenTSDB/opentsdb
+  - https://github.com/apache/cassandra
+  - https://github.com/prometheus/prometheus
+  - https://github.com/graphite-project/graphite-web
+  - https://github.com/ClickHouse/ClickHouse
+  - https://github.com/apache/druid
+  - https://github.com/senx/warp10-platform
+  - https://github.com/kairosdb/kairosdb
+  - https://github.com/VictoriaMetrics/VictoriaMetrics
+  - https://github.com/crate/crate
+  - https://github.com/akumuli/Akumuli
+  - https://github.com/questdb/questdb
+  - https://github.com/Open-Falcon/falcon-plus
+  - https://github.com/netdata/netdata

@@ -1,0 +1,20 @@
+ident: file-storage
+name: File Storage
+name_cn: 文件存储
+slug: /file-storage
+items:
+  - https://github.com/owncloud/core
+  - https://github.com/nextcloud/server
+  - https://github.com/haiwen/seafile
+  - https://github.com/pydio/pydio-core
+  - https://github.com/syncthing/syncthing
+  - https://github.com/truenas/middleware
+  - https://github.com/openmediavault/openmediavault
+  - https://github.com/ceph/ceph
+  - https://github.com/gluster/glusterfs
+  - https://github.com/moosefs/moosefs
+  - https://github.com/minio/minio
+  - https://github.com/nfs-ganesha/nfs-ganesha
+  - https://github.com/samba-team/samba
+  - https://github.com/apache/hadoop/tree/trunk/hadoop-hdfs-project
+  - https://github.com/ipfs/ipfs

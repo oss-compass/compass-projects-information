@@ -1,0 +1,25 @@
+ident: process-manager
+name: Process Manager
+name_cn: 进程管理器
+slug: /process-manager
+items:
+  - https://github.com/systemd/systemd
+  - https://github.com/Supervisor/supervisor
+  - https://github.com/Unitech/pm2
+  - https://github.com/void-linux/runit
+  - https://github.com/just-containers/s6-overlay
+  - https://github.com/OpenRC/openrc
+  - https://github.com/skarnet/s6
+  - https://github.com/typicode/hotel
+  - https://github.com/winsiderss/systeminformer
+  - https://github.com/cortesi/modd
+  - https://github.com/adamcooke/procodile
+  - https://github.com/struCoder/pmgo
+  - https://github.com/deref/exo
+  - https://github.com/whilelucky/pwa
+  - https://github.com/RainwayApp/warden
+  - https://github.com/oOthkOo/supervizer
+  - https://github.com/samueleaton/sentry
+  - https://github.com/v2ex/launcher
+  - https://github.com/eggjs/egg-cluster
+  - https://github.com/ionrock/procs
