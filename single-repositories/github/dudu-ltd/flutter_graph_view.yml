@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://github.com/dudu-ltd/flutter_graph_view
