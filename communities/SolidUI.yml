@@ -1,0 +1,9 @@
+---
+community_name: SolidUI
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/CloudOrc/SolidUI
+    - https://github.com/CloudOrc/SolidUI-Doc
+  governance-repositories:
+    repo_urls: []
