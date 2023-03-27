@@ -1,0 +1,22 @@
+ident: raspberry-pi
+name: Raspberry Pi
+name_cn: 树莓派
+slug: /raspberry-pi
+items:
+  - https://github.com/pikvm/pikvm
+  - https://github.com/MycroftAI/mycroft-core
+  - https://github.com/navidrome/navidrome
+  - https://github.com/OctoPrint/OctoPrint
+  - https://github.com/hybridgroup/gobot
+  - https://github.com/nasa/fprime
+  - https://github.com/openframeworks/openFrameworks
+  - https://github.com/RetroPie/RetroPie-Setup
+  - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+  - https://github.com/microsoft/IoT-For-Beginners
+  - https://github.com/s-matyukevich/raspberry-pi-os
+  - https://github.com/raysan5/raylib
+  - https://github.com/rwaldron/johnny-five
+  - https://github.com/jarun/nnn
+  - https://github.com/MichMich/MagicMirror
+  - https://github.com/pi-hole/pi-hole
+  - https://github.com/home-assistant/core
