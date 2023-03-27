@@ -1,0 +1,22 @@
+ident: nlp
+name: Natural Language Processing(NLP)
+name_cn: 自然语言处理
+slug: /nlp
+items:
+  - https://github.com/nltk/nltk
+  - https://github.com/explosion/spaCy
+  - https://github.com/stanfordnlp/CoreNLP
+  - https://github.com/apache/opennlp
+  - https://github.com/RaRe-Technologies/gensim
+  - https://github.com/huggingface/transformers
+  - https://github.com/allenai/allennlp
+  - https://github.com/PetrochukM/PyTorch-NLP
+  - https://github.com/tensorflow/text
+  - https://github.com/facebookresearch/fastText
+  - https://github.com/flairNLP/flair
+  - https://github.com/hankcs/HanLP
+  - https://github.com/fxsjy/jieba
+  - https://github.com/sloria/textblob
+  - https://github.com/openai/gpt-2
+  - https://github.com/RasaHQ/rasa
+  - https://github.com/facebookresearch/pytext
