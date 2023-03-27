@@ -1,0 +1,17 @@
+ident: tokenizer
+name: Tokenizer
+name_cn: 分词器
+slug: /tokenizer
+items:
+  - https://github.com/fxsjy/jieba
+  - https://github.com/hankcs/HanLP
+  - https://github.com/nltk/nltk
+  - https://github.com/explosion/spaCy
+  - https://github.com/stanfordnlp/CoreNLP
+  - https://github.com/apache/opennlp
+  - https://github.com/thunlp/THULAC
+  - https://github.com/HIT-SCIR/ltp
+  - https://github.com/FudanNLP/fnlp
+  - https://github.com/NLPIR-team/NLPIR
+  - https://github.com/wks/ik-analyzer
+  - https://github.com/NLPchina/ansj_seg

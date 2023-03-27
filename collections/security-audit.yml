@@ -1,0 +1,26 @@
+ident: security-audit
+name: Security Audit
+name_cn: 安全审计
+slug: /security-audit
+items:
+  - https://github.com/topics/security-audit
+  - https://github.com/CISOfy/lynis
+  - https://github.com/future-architect/vuls
+  - https://github.com/prowler-cloud/prowler
+  - https://github.com/We5ter/Scanners-Box
+  - https://github.com/presidentbeef/brakeman
+  - https://github.com/gojue/ecapture
+  - https://github.com/wazuh/wazuh
+  - https://github.com/jeremylong/DependencyCheck
+  - https://github.com/google/osv-scanner
+  - https://github.com/infobyte/faraday
+  - https://github.com/ysrc/xunfeng
+  - https://github.com/Arachni/arachni
+  - https://github.com/charles2gan/GDA-android-reversing-Tool
+  - https://github.com/FeeiCN/Cobra
+  - https://github.com/scipag/vulscan
+  - https://github.com/rubysec/bundler-audit
+  - https://github.com/aquasecurity/cloudsploit
+  - https://github.com/evilsocket/bettercap
+  - https://github.com/codingo/NoSQLMap
+  - https://github.com/techgaun/github-dorks

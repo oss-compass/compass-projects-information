@@ -1,0 +1,21 @@
+ident: performance-analysis
+name: performance-analysis
+name_cn: 性能分析
+slug: /performance-analysis
+items:
+  - https://github.com/GoogleChrome/lighthouse
+  - https://github.com/dgryski/go-perfbook
+  - https://github.com/benfred/py-spy
+  - https://github.com/plasma-umass/scalene
+  - https://github.com/wolfpld/tracy
+  - https://github.com/google/pprof
+  - https://github.com/sitespeedio/sitespeed.io
+  - https://github.com/microsoft/perfview
+  - https://github.com/plasma-umass/coz
+  - https://github.com/felixge/fgprof
+  - https://github.com/amrayn/easyloggingpp
+  - https://github.com/KDAB/hotspot
+  - https://github.com/LinShunKang/MyPerf4J
+  - https://github.com/milostosic/MTuner
+  - https://github.com/friendlyrobotnyc/TinyDancer
+  - https://github.com/speedracer/speedracer

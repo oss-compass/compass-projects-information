@@ -1,0 +1,14 @@
+ident: security-and-compliance
+name: Security & Compliance
+name_cn: 安全与合规工具
+slug: /security-and-compliance
+items:
+  - https://github.com/OpenSCAP/openscap
+  - https://github.com/CISOfy/lynis
+  - https://github.com/greenbone/openvas-scanner
+  - https://github.com/wazuh/wazuh
+  - https://github.com/snort3/snort3
+  - https://github.com/OISF/suricata
+  - https://github.com/osquery/osquery
+  - https://github.com/SpiderLabs/ModSecurity
+  - https://github.com/Security-Onion-Solutions/security-onion

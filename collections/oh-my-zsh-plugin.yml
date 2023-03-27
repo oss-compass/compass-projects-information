@@ -1,0 +1,20 @@
+ident: oh-my-zsh-plugin
+name: Oh My Zsh Plugin
+name_cn: Oh My Zsh 插件
+slug: /oh-my-zsh-plugin
+items:
+  - https://github.com/unixorn/git-extra-commands
+  - https://github.com/remo7777/T-Header
+  - https://github.com/SukkaW/zsh-proxy
+  - https://github.com/tamcore/autoupdate-oh-my-zsh-plugins
+  - https://github.com/gusaiani/elixir-oh-my-zsh
+  - https://github.com/SukkaW/zsh-osx-autoproxy
+  - https://github.com/oldratlee/hacker-quotes
+  - https://github.com/sobolevn/wakatime-zsh-plugin
+  - https://github.com/Dbz/kube-aliases
+  - https://github.com/blimmer/zsh-aws-vault
+  - https://github.com/LucasLarson/gunstage
+  - https://github.com/ntnyq/omz-plugin-pnpm
+  - https://github.com/bernardop/iterm-tab-color-oh-my-zsh
+  - https://github.com/3v1n0/zsh-bash-completions-fallback
+  - https://github.com/topics/oh-my-zsh-theme

@@ -1,0 +1,23 @@
+ident: tailwindcss
+name: tailwindcss
+name_cn: Tailwind CSS 框架
+slug: /tailwindcss
+items:
+  - https://github.com/tailwindlabs/tailwindcss
+  - https://github.com/tailwindlabs/headlessui
+  - https://github.com/saadeghi/daisyui
+  - https://github.com/calcom/cal.com
+  - https://github.com/lensterxyz/lenster
+  - https://github.com/t3-oss/create-t3-app
+  - https://github.com/plausible/analytics
+  - https://github.com/roots/sage
+  - https://github.com/AmruthPillai/Reactive-Resume
+  - https://github.com/mdbootstrap/Tailwind-Elements
+  - https://github.com/tremorlabs/tremor
+  - https://github.com/ben-rogerson/twin.macro
+  - https://github.com/windicss/windicss
+  - https://github.com/leerob/leerob.io
+  - https://github.com/creativetimofficial/tailwind-starter-kit
+  - https://github.com/shadcn/taxonomy
+  - https://github.com/pterodactyl/panel
+  - https://github.com/markmead/hyperui

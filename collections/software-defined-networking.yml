@@ -1,0 +1,19 @@
+ident: software-defined-networking
+name: Software-defined networking
+name_cn: 软件定义网络
+slug: /software-defined-networking
+items:
+  - https://github.com/opennetworkinglab/onos
+  - https://github.com/opendaylight/controller
+  - https://github.com/faucetsdn/ryu
+  - https://github.com/faucetsdn/faucet
+  - https://github.com/trema/trema
+  - https://github.com/mininet/mininet
+  - https://github.com/openvswitch/ovs
+  - https://github.com/snabbco/snabb
+  - https://github.com/p4lang/p4c
+  - https://github.com/FRRouting/frr
+  - https://github.com/FDio/vpp
+  - https://github.com/noxrepo/nox
+  - https://github.com/routeflow/routeflow
+  - https://github.com/floodlight/floodlight

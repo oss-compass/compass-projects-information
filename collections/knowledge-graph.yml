@@ -1,0 +1,19 @@
+ident: knowledge-graph
+name: Knowledge Graph
+name_cn: 知识图谱
+slug: /knowledge-graph
+items:
+  - https://github.com/logseq/logseq
+  - https://github.com/zadam/trilium
+  - https://github.com/athensresearch/athens
+  - https://github.com/qq547276542/Agriculture_KnowledgeGraph
+  - https://github.com/vaticle/typedb
+  - https://github.com/wx-chevalier/Developer-Zero-To-Mastery
+  - https://github.com/CLUEbenchmark/CLUEDatasetSearch
+  - https://github.com/varunshenoy/GraphGPT
+  - https://github.com/GitJournal/GitJournal
+  - https://github.com/argilla-io/argilla
+  - https://github.com/zjunlp/DeepKE
+  - https://github.com/lihanghang/NLP-Knowledge-Graph
+  - https://github.com/apache/jena
+  - https://github.com/franzinc/agraph-java-client

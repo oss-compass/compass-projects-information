@@ -1,0 +1,33 @@
+ident: software-composition-analysis
+name: Software Composition Analysis (SCA)
+name_cn: 软件成分分析（SCA）
+slug: /software-composition-analysis
+items:
+  - https://github.com/nexB/scancode-toolkit
+  - https://github.com/DependencyTrack/dependency-track
+  - https://github.com/XmirrorSecurity/OpenSCA-cli
+  - https://github.com/murphysecurity/murphysec
+  - https://github.com/mergebase/log4j-detector
+  - https://github.com/AppThreat/dep-scan
+  - https://github.com/stevespringett/nist-data-mirror
+  - https://github.com/CycloneDX/cdxgen
+  - https://github.com/prancer-io/cloud-validation-framework
+  - https://github.com/momosecurity/mosec-maven-plugin
+  - https://github.com/Orange-Cyberdefense/grepmarx
+  - https://github.com/nexB/scancode.io
+  - https://github.com/hysnsec/awesome-sca
+  - https://github.com/clj-holmes/clj-watson
+  - https://github.com/jeremylong/DependencyCheck
+  - https://github.com/RetireJS/retire.js
+  - https://github.com/lunasec-io/lunasec
+  - https://github.com/tern-tools/tern
+  - https://github.com/microsoft/component-detection
+  - https://github.com/albuch/sbt-dependency-check
+  - https://github.com/bureado/awesome-software-supply-chain-security
+  - https://github.com/jhermann/dependency-check-py
+  - https://github.com/opossum-tool/OpossumUI
+  - https://github.com/pmckeown/dependency-track-maven-plugin
+  - https://github.com/stevespringett/vulndb-data-mirror
+  - https://github.com/ozontech/dtrack-audit
+  - https://github.com/scanoss/audit-workbench
+  - https://github.com/meta-fun/awesome-software-supply-chain-security

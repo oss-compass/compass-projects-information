@@ -1,0 +1,17 @@
+ident: workflow-scheduler
+name: Workflow Scheduler
+name_cn: 工作流调度器
+slug: /workflow-scheduler
+items:
+  - https://github.com/apache/airflow
+  - https://github.com/apache/nifi
+  - https://github.com/spotify/luigi
+  - https://github.com/azkaban/azkaban
+  - https://github.com/apache/oozie
+  - https://github.com/pinterest/pinball
+  - https://github.com/Netflix/conductor
+  - https://github.com/dagster-io/dagster
+  - https://github.com/PrefectHQ/prefect
+  - https://github.com/kubeflow/pipelines
+  - https://github.com/apache/falcon
+  - https://github.com/backstage/backstage
