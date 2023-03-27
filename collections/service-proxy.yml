@@ -1,0 +1,20 @@
+ident: service-proxy
+name: Service Proxy
+name_cn: 服务代理
+slug: /service-proxy
+items:
+  - https://github.com/envoyproxy/envoy
+  - https://github.com/solo-io/gloo
+  - https://github.com/nginx/nginx
+  - https://github.com/haproxy/haproxy
+  - https://github.com/istio/istio
+  - https://github.com/linkerd/linkerd
+  - https://github.com/traefik/traefik
+  - https://github.com/Netflix/zuul
+  - https://github.com/caddyserver/caddy
+  - https://github.com/Kong/kong
+  - https://github.com/emissary-ingress/emissary
+  - https://github.com/fabiolb/fabio
+  - https://github.com/zalando/skipper
+  - https://github.com/vulcand/vulcand
+  - https://github.com/cilium/cilium
