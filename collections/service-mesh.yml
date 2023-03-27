@@ -1,0 +1,14 @@
+ident: service-mesh
+name: Service Mesh
+name_cn: 服务网格
+slug: /service-mesh
+items:
+  - https://github.com/istio/istio
+  - https://github.com/linkerd/linkerd2
+  - https://github.com/hashicorp/consul
+  - https://github.com/envoyproxy/envoy
+  - https://github.com/traefik/mesh
+  - https://github.com/kumahq/kuma
+  - https://github.com/cilium/cilium
+  - https://github.com/aws/aws-app-mesh-controller-for-k8s
+  - https://github.com/aws/copilot-cli
