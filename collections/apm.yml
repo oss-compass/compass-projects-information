@@ -1,0 +1,26 @@
+ident: apm
+name: Application Performance Management (APM)
+name_cn: 应用性能管理（APM）
+slug: /apm
+items:
+  - https://github.com/getsentry/sentry
+  - https://github.com/apache/skywalking
+  - https://github.com/dianping/cat
+  - https://github.com/pinpoint-apm/pinpoint
+  - https://github.com/SigNoz/signoz
+  - https://github.com/markzhai/AndroidPerformanceMonitor
+  - https://github.com/alibaba/transmittable-thread-local
+  - https://github.com/midwayjs/pandora
+  - https://github.com/ObserveAPM/observe
+  - https://github.com/LinShunKang/MyPerf4J
+  - https://github.com/javamelody/javamelody
+  - https://github.com/dromara/hertzbeat
+  - https://github.com/Qihoo360/ArgusAPM
+  - https://github.com/Kyson/AndroidGodEye
+  - https://github.com/erda-project/erda
+  - https://github.com/highlight/highlight
+  - https://github.com/scouter-project/scouter
+  - https://github.com/stagemonitor/stagemonitor
+  - https://github.com/uptrace/uptrace
+  - https://github.com/SkyAPM/SkyAPM-dotnet
+  - https://github.com/influxdata/chronograf
