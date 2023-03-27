@@ -1,0 +1,15 @@
+ident: document-database
+name: Document Database
+name_cn: 文档数据库
+slug: /document-database
+items:
+  - https://github.com/mongodb/mongo
+  - https://github.com/apache/couchdb
+  - https://github.com/ravendb/ravendb
+  - https://github.com/arangodb/arangodb
+  - https://github.com/orientechnologies/orientdb
+  - https://github.com/pouchdb/pouchdb
+  - https://github.com/mbdavid/LiteDB
+  - https://github.com/rethinkdb/rethinkdb
+  - https://github.com/terminusdb/terminusdb
+  - https://github.com/pingcap/tidb
