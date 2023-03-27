@@ -1,0 +1,13 @@
+ident: dependency-management
+name: Dependency Management
+name_cn: 依赖管理
+slug: /dependency-management
+items:
+  - https://github.com/topics/dependency-management
+  - https://github.com/GetStream/vg
+  - https://github.com/pointfreeco/swift-dependencies
+  - https://github.com/ehmicky/nve
+  - https://github.com/coenjacobs/mozart
+  - https://github.com/thoth-station/micropipenv
+  - https://github.com/bureado/awesome-software-supply-chain-security
+  - https://github.com/netlify/framework-info
