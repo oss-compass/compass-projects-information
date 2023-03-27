@@ -1,0 +1,9 @@
+ident: container-registry
+name: Container Registry
+name_cn: 容器镜像注册表
+slug: /container-registry
+items:
+  - https://github.com/distribution/distribution
+  - https://github.com/goharbor/harbor
+  - https://github.com/coreos/quay
+  - https://github.com/jfrog/artifactory-docker-examples
