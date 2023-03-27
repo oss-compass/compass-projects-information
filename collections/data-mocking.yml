@@ -1,0 +1,12 @@
+ident: data-mocking
+name: Data Mocking
+name_cn: 模拟数据
+slug: /data-mocking
+items:
+  - https://github.com/nuysoft/Mock
+  - https://github.com/wiremock/wiremock
+  - https://github.com/mockito/mockito
+  - https://github.com/kevin1024/vcrpy
+  - https://github.com/pact-foundation/pact-ruby-standalone
+  - https://github.com/typicode/json-server
+  - https://github.com/mock-server/mockserver
