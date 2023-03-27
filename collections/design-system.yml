@@ -1,0 +1,35 @@
+ident: design-system
+name: Design System
+name_cn: 设计系统
+slug: /design-system
+items:
+  - https://github.com/doczjs/docz
+  - https://github.com/donnemartin/system-design-primer
+  - https://github.com/saadeghi/daisyui
+  - https://github.com/gztchan/awesome-design
+  - https://github.com/primer/css
+  - https://github.com/grommet/grommet
+  - https://github.com/rebassjs/rebass
+  - https://github.com/jdan/98.css
+  - https://github.com/DouyinFE/semi-design
+  - https://github.com/vmware/clarity
+  - https://github.com/carbon-design-system/carbon
+  - https://github.com/react95-io/React95
+  - https://github.com/elastic/eui
+  - https://github.com/Shopify/polaris
+  - https://github.com/system-ui/theme-ui
+  - https://github.com/themesberg/flowbite
+  - https://github.com/alibaba-fusion/next
+  - https://github.com/pinterest/gestalt
+  - https://github.com/arco-design/arco-design
+  - https://github.com/meetalva/alva
+  - https://github.com/geist-org/geist-ui
+  - https://github.com/ui-buttons/core
+  - https://github.com/creativetimofficial/argon-design-system
+  - https://github.com/arielsalminen/vue-design-system
+  - https://github.com/React95/React95
+  - https://github.com/sakofchit/system.css
+  - https://github.com/chakra-ui/chakra-ui-vue
+  - https://github.com/arco-design/arco-design-vue
+  - https://github.com/cloudscape-design/components
+  - https://github.com/DesignRevision/shards-dashboard-react
