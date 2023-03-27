@@ -1,0 +1,19 @@
+ident: graphql-server
+name: GraphQL Server
+name_cn: GraphQL 服务端
+slug: /graphql-server
+items:
+  - https://github.com/apollographql/apollo-client
+  - https://github.com/graphql-python/graphene
+  - https://github.com/prisma/prisma
+  - https://github.com/hasura/graphql-engine
+  - https://github.com/dotansimha/graphql-yoga
+  - https://github.com/graphql/express-graphql
+  - https://github.com/sangria-graphql/sangria
+  - https://github.com/absinthe-graphql/absinthe
+  - https://github.com/graphile/postgraphile
+  - https://github.com/MichalLytek/type-graphql
+  - https://github.com/gatsbyjs/gatsby
+  - https://github.com/dotansimha/graphql-code-generator
+  - https://github.com/mercurius-js/mercurius
+  - https://github.com/apollographql/apollo-server

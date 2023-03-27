@@ -1,0 +1,12 @@
+ident: graphql-client
+name: GraphQL Client
+name_cn: GraphQL 客户端
+slug: /graphql-client
+items:
+  - https://github.com/apollographql/react-apollo
+  - https://github.com/jasonkuhrt/graphql-request
+  - https://github.com/urql-graphql/urql
+  - https://github.com/prisma/prisma-client-js
+  - https://github.com/kadirahq/lokka
+  - https://github.com/apollographql/apollo-client
+  - https://github.com/facebook/relay
