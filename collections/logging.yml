@@ -1,0 +1,20 @@
+ident: logging
+name: Logging
+name_cn: 日志记录管理
+slug: /logging
+items:
+  - https://github.com/elastic/elasticsearch
+  - https://github.com/elastic/logstash
+  - https://github.com/elastic/kibana
+  - https://github.com/fluent/fluentd
+  - https://github.com/Graylog2/graylog2-server
+  - https://github.com/splunk/ocsf-splunk-ex
+  - https://github.com/papertrail/remote_syslog2
+  - https://github.com/SumoLogic/sumologic-kubernetes-tools
+  - https://github.com/vectordotdev/vector
+  - https://github.com/grafana/loki
+  - https://github.com/logrotate/logrotate
+  - https://github.com/syslog-ng/syslog-ng
+  - https://github.com/qos-ch/logback
+  - https://github.com/apache/logging-log4j1
+  - https://github.com/google/glog
