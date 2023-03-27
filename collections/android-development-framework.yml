@@ -1,0 +1,10 @@
+ident: android-development-framework
+name: Android development framework
+name_cn: 安卓开发框架
+slug: /android-development-framework
+items:
+  - https://github.com/androidx/androidx
+  - https://github.com/flutter/flutter
+  - https://github.com/facebook/react-native
+  - https://github.com/xamarin
+  - https://github.com/ionic-team/ionic-framework
