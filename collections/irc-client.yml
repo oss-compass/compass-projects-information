@@ -1,0 +1,24 @@
+ident: irc-client
+name: IRC Client
+name_cn: IRC 客户端
+slug: /irc-client
+items:
+  - https://github.com/hexchat/hexchat
+  - https://github.com/irssi/irssi
+  - https://github.com/convos-chat/convos
+  - https://github.com/osa1/tiny
+  - https://github.com/kiwiirc/kiwiirc
+  - https://github.com/quassel/quassel
+  - https://github.com/khlieng/dispatch
+  - https://github.com/mcpcpc/kirc
+  - https://github.com/MCMrARM/revolution-irc
+  - https://github.com/dylanaraps/birch
+  - https://github.com/gempir/go-twitch-irc
+  - https://github.com/SrainApp/srain
+  - https://github.com/kvirc/KVIrc
+  - https://github.com/gawel/irc3
+  - https://github.com/insomniacslk/irc-slack
+  - https://github.com/weechat/weechat
+  - https://github.com/meebey/smuxi
+  - https://github.com/KDE/konversation
+  - https://github.com/Codeux-Software/Textual
