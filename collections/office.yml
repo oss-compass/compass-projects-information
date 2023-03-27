@@ -1,0 +1,17 @@
+ident: office
+name: Office
+name_cn: Office 办公软件
+slug: /office
+items:
+  - https://github.com/LibreOffice/core
+  - https://github.com/apache/openoffice
+  - https://github.com/ONLYOFFICE/DocumentServer
+  - https://github.com/KDE/calligra
+  - https://github.com/ether/etherpad-lite
+  - https://github.com/Gnucash/gnucash
+  - https://github.com/AbiWord/abiword
+  - https://github.com/zim-desktop-wiki
+  - https://github.com/opf/openproject
+  - https://github.com/torakiki/pdfsam
+  - https://github.com/FreeCAD/FreeCAD
+  - https://github.com/texstudio-org/texstudio
