@@ -1,0 +1,13 @@
+ident: rss-feed-tool
+name: RSS Feed Tool
+name_cn: RSS 订阅工具
+slug: /rss-feed-tool
+items:
+  - https://github.com/feedbin/feedbin
+  - https://github.com/samuelclay/NewsBlur
+  - https://github.com/fossar/selfoss
+  - https://github.com/Athou/commafeed
+  - https://github.com/FreshRSS/FreshRSS
+  - https://github.com/miniflux/v2
+  - https://github.com/GetStream/Winds
+  - https://github.com/DIYgod/RSSHub
