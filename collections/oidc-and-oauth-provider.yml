@@ -1,0 +1,20 @@
+ident: oidc-and-oauth-provider
+name: OpenID Connect & OAuth Provider
+name_cn: OpenID Connect & OAuth Provider
+slug: /oidc-and-oauth-provider
+items:
+  - https://github.com/ory/hydra
+  - https://github.com/panva/node-oidc-provider
+  - https://github.com/louketo/louketo-proxy
+  - https://github.com/GluuFederation/oxAuth
+  - https://github.com/juanifioren/django-oidc-provider
+  - https://github.com/doorkeeper-gem/doorkeeper-openid_connect
+  - https://github.com/Soluto/oidc-server-mock
+  - https://github.com/Kopano-dev/konnect
+  - https://github.com/LemonLDAPNG/lemonldap-ng
+  - https://github.com/malach-it/boruta-server
+  - https://github.com/diso/wordpress-openid
+  - https://github.com/lepture/flask-oauthlib
+  - https://github.com/laardee/serverless-authentication-boilerplate
+  - https://github.com/TerribleDev/OwinOAuthProviders
+  - https://github.com/bestaone/HiAuth
