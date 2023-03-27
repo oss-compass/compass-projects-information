@@ -1,0 +1,25 @@
+ident: git-extensions
+name: Git Extensions
+name_cn: Git 拓展
+slug: /git-extensions
+items:
+  - https://github.com/git-lfs/git-lfs
+  - https://github.com/nvie/gitflow
+  - https://github.com/tomgi/git_stats
+  - https://github.com/gitkraken/gitkraken
+  - https://github.com/git-tf/git-tf
+  - https://github.com/anishathalye/git-remote-dropbox
+  - https://github.com/magit/magit
+  - https://github.com/AGWA/git-crypt
+  - https://github.com/awslabs/git-secrets
+  - https://github.com/git-time-metric/gtm
+  - https://github.com/GitAlias/gitalias
+  - https://github.com/git-ftp/git-ftp
+  - https://github.com/aanand/git-up
+  - https://github.com/git-cola/git-cola
+  - https://github.com/arzzen/git-quick-stats
+  - https://github.com/jayphelps/git-blame-someone-else
+  - https://github.com/sickill/git-dude
+  - https://github.com/kamranahmedse/git-standup
+  - https://github.com/git-chglog/git-chglog
+  - https://github.com/mislav/git-deploy
