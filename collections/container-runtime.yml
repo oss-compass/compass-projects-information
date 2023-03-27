@@ -1,0 +1,19 @@
+ident: container-runtime
+name: Container Runtime
+name_cn: 容器运行时
+slug: /container-runtime
+items:
+  - https://github.com/docker/docker-ce
+  - https://github.com/rkt/rkt
+  - https://github.com/cri-o/cri-o
+  - https://github.com/containerd/containerd
+  - https://github.com/lxc/lxd
+  - https://github.com/kubernetes-retired/frakti
+  - https://github.com/containers/podman
+  - https://github.com/apache/mesos
+  - https://github.com/cloudfoundry/garden
+  - https://github.com/opencontainers/runtime-spec
+  - https://github.com/kata-containers/runtime
+  - https://github.com/google/gvisor
+  - https://github.com/opencontainers/runc
+  - https://github.com/firecracker-microvm/firecracker
