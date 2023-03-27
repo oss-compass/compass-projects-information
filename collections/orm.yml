@@ -1,0 +1,46 @@
+ident: orm
+name: ORM
+name_cn: ORM
+slug: /orm
+items:
+  - https://github.com/go-gorm/gorm
+  - https://github.com/django/django
+  - https://github.com/typeorm/typeorm
+  - https://github.com/prisma/prisma
+  - https://github.com/sequelize/sequelize
+  - https://github.com/dromara/hutool
+  - https://github.com/baomidou/mybatis-plus
+  - https://github.com/ent/ent
+  - https://github.com/top-think/think
+  - https://github.com/JetBrains/Exposed
+  - https://github.com/kyleconroy/sqlc
+  - https://github.com/kennethreitz/records
+  - https://github.com/spacejam/sled
+  - https://github.com/go-xorm/xorm
+  - https://github.com/jenssegers/laravel-mongodb
+  - https://github.com/mikro-orm/mikro-orm
+  - https://github.com/bookshelf/bookshelf
+  - https://github.com/volatiletech/sqlboiler
+  - https://github.com/go-pg/pg
+  - https://github.com/hibernate/hibernate-orm
+  - https://github.com/DotNetNext/SqlSugar
+  - https://github.com/MongoEngine/mongoengine
+  - https://github.com/SeaQL/sea-orm
+  - https://github.com/mongodb/mongoid
+  - https://github.com/dotnetcore/FreeSql
+  - https://github.com/tortoise/tortoise-orm
+  - https://github.com/xo/xo
+  - https://github.com/upper/db
+  - https://github.com/dresende/node-orm2
+  - https://github.com/shrinerb/shrine
+  - https://github.com/hellokaton/java-bible
+  - https://github.com/redux-orm/redux-orm
+  - https://github.com/drizzle-team/drizzle-orm
+  - https://github.com/linq2db/linq2db
+  - https://github.com/sequelize/sequelize-typescript
+  - https://github.com/python-gino/gino
+  - https://github.com/nutzam/nutz
+  - https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql
+  - https://github.com/stablekernel/aqueduct
+  - https://github.com/vuex-orm/vuex-orm
+  - https://github.com/uptrace/bun
