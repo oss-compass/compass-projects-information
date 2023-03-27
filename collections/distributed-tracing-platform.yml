@@ -1,0 +1,10 @@
+ident: distributed-tracing-platform
+name: Distributed Tracing Platform
+name_cn: 分布式追踪平台
+slug: /distributed-tracing-platform
+items:
+  - https://github.com/jaegertracing/jaeger
+  - https://github.com/openzipkin/zipkin
+  - https://github.com/open-telemetry/opentelemetry-java
+  - https://github.com/newrelic
+  - https://github.com/Dynatrace
