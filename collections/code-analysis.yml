@@ -1,0 +1,27 @@
+ident: code-analysis
+name: Code Analysis
+name_cn: 代码分析
+slug: /code-analysis
+items:
+  - https://github.com/topics/code-analysis
+  - https://github.com/ycm-core/YouCompleteMe
+  - https://github.com/universal-ctags/ctags
+  - https://github.com/javaparser/javaparser
+  - https://github.com/rrrene/credo
+  - https://github.com/nunomaduro/larastan
+  - https://github.com/pmd/pmd
+  - https://github.com/danielstjules/jsinspect
+  - https://github.com/coala/coala
+  - https://github.com/htmlhint/HTMLHint
+  - https://github.com/spotbugs/spotbugs
+  - https://github.com/ajinabraham/nodejsscan
+  - https://github.com/find-sec-bugs/find-sec-bugs
+  - https://github.com/ycm-core/ycmd
+  - https://github.com/microsoft/pylance-release
+  - https://github.com/INRIA/spoon
+  - https://github.com/rubik/radon
+  - https://github.com/Tencent/CodeAnalysis/pulls
+  - https://github.com/Tencent/CodeAnalysis
+  - https://github.com/yinwang0/pysonar2
+  - https://github.com/joernio/joern
+  - https://github.com/felixfbecker/php-language-server
