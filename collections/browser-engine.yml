@@ -1,0 +1,12 @@
+ident: browser-engine
+name: Browser Engine
+name_cn: 浏览器内核
+slug: /browser-engine
+items:
+  - https://github.com/servo/servo
+  - https://github.com/KDE/khtml
+  - https://github.com/netsurf-browser/netsurf
+  - https://github.com/WebKit/webkit/
+  - https://github.com/servo/servo/
+  - https://github.com/mozilla/geckoview/
+  - https://github.com/OtterBrowser/otter-browser
