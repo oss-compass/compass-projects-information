@@ -3,7 +3,6 @@ name: Terminal
 name_cn: 终端
 slug: /terminal
 items:
-  - https://poe.com/chatgpt
   - https://github.com/gnachman/iTerm2
   - https://github.com/gnome-terminator/terminator
   - https://github.com/Guake/guake
