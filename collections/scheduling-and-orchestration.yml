@@ -1,0 +1,11 @@
+ident: scheduling-and-orchestration
+name: Scheduling & Orchestration
+name_cn: 调度编排
+slug: /scheduling-and-orchestration
+items:
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/apache/mesos
+  - https://github.com/docker-archive/classicswarm
+  - https://github.com/apache/aurora
+  - https://github.com/hashicorp/nomad
+  - https://github.com/openshift/origin
