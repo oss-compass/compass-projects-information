@@ -1,0 +1,13 @@
+ident: business-intelligence
+name: Business Intelligence
+name_cn: 商业智能（BI）
+slug: /business-intelligence
+items:
+  - https://github.com/apache/superset
+  - https://github.com/metabase/metabase
+  - https://github.com/getredash/redash
+  - https://github.com/grafana/grafana
+  - https://github.com/pentaho/pentaho-kettle
+  - https://github.com/apache/kylin
+  - https://github.com/apache/druid
+  - https://github.com/eclipse/birt
