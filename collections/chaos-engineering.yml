@@ -1,0 +1,16 @@
+ident: chaos-engineering
+name: Chaos Engineering
+name_cn: 混沌工程
+slug: /chaos-engineering
+items:
+  - https://github.com/chaos-mesh/chaos-mesh
+  - https://github.com/alexei-led/pumba
+  - https://github.com/Shopify/toxiproxy
+  - https://github.com/Netflix/chaosmonkey
+  - https://github.com/chaosblade-io/chaosblade
+  - https://github.com/litmuschaos/litmus
+  - https://github.com/chaostoolkit/chaostoolkit
+  - https://github.com/codecentric/chaos-monkey-spring-boot
+  - https://github.com/grafana/k6
+  - https://github.com/asobti/kube-monkey
+  - https://github.com/powerfulseal/powerfulseal
