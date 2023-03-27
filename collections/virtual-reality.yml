@@ -1,0 +1,25 @@
+ident: virtual-reality
+name: Virtual reality
+name_cn: 虚拟现实
+slug: /virtual-reality
+items:
+  - https://github.com/mrdoob/three.js
+  - https://github.com/aframevr/aframe
+  - https://github.com/bulletphysics/bullet3
+  - https://github.com/playcanvas/engine
+  - https://github.com/relativty/Relativty
+  - https://github.com/ExtendRealityLtd/VRTK
+  - https://github.com/immersive-web/webxr
+  - https://github.com/viromedia/viro
+  - https://github.com/widgetti/ipyvolume
+  - https://github.com/bjornbytes/lovr
+  - https://github.com/praydog/REFramework
+  - https://github.com/supermedium/aframe-react
+  - https://github.com/aframevr/awesome-aframe
+  - https://github.com/letoram/arcan
+  - https://github.com/supermedium/superframe
+  - https://github.com/the3deer/android-3D-model-viewer
+  - https://github.com/networked-aframe/networked-aframe
+  - https://github.com/AsPJT/DungeonTemplateLibrary
+  - https://github.com/exokitxr/exokit
+  - https://github.com/reinterpretcat/utymap
