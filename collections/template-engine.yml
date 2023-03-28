@@ -1,0 +1,18 @@
+ident: template-engine
+name: Template engine
+name_cn: 模板引擎
+slug: /template-engine
+items:
+  - https://github.com/handlebars-lang/handlebars.js
+  - https://github.com/janl/mustache.js/
+  - https://github.com/mde/ejs
+  - https://github.com/pugjs/pug
+  - https://github.com/mozilla/nunjucks
+  - https://github.com/linkedin/dustjs
+  - https://github.com/twigphp/Twig
+  - https://github.com/olado/doT
+  - https://github.com/haml/haml
+  - https://github.com/ractivejs/ractive
+  - https://github.com/facebook/react
+  - https://github.com/vuejs/vue
+  - https://github.com/angular/angular
