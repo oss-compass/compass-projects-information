@@ -1,0 +1,14 @@
+ident: computational-fluid-dynamics
+name: Computational Fluid Dynamics
+name_cn: 计算流体动力学（CFD）
+slug: /computational-fluid-dynamics
+items:
+  - https://github.com/OpenFOAM/OpenFOAM-dev
+  - https://github.com/su2code/SU2
+  - https://github.com/Nek5000/Nek5000
+  - https://github.com/dealii/dealii
+  - https://github.com/FEniCS/dolfinx
+  - https://github.com/PyFR/PyFR
+  - https://github.com/DualSPHysics/DualSPHysics
+  - https://github.com/FreeFem/FreeFem-sources
+  - https://github.com/OpenQBMM/OpenQBMM
