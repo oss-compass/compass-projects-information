@@ -1,0 +1,14 @@
+ident: motion-graphics
+name: Motion Graphics
+name_cn: 动态图形软件
+slug: /motion-graphics
+items:
+  - https://github.com/GNOME/gimp
+  - https://github.com/olive-editor/olive
+  - https://github.com/3b1b/manim
+  - https://github.com/blender/blender
+  - https://github.com/opentoonz/opentoonz
+  - https://github.com/synfig/synfig
+  - https://github.com/NatronGitHub/Natron
+  - https://github.com/KDE/krita
+  - https://github.com/pencil2d/pencil
