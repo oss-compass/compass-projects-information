@@ -1,0 +1,15 @@
+ident: syntax-highlighting
+name: Syntax Highlighting
+name_cn: 语法高亮
+slug: /syntax-highlighting
+items:
+  - https://github.com/PrismJS/prism
+  - https://github.com/pygments/pygments
+  - https://github.com/highlightjs/highlight.js
+  - https://github.com/alecthomas/chroma
+  - https://github.com/rouge-ruby/rouge
+  - https://github.com/googlearchive/code-prettify
+  - https://github.com/ccampbell/rainbow
+  - https://github.com/codemirror/codemirror5
+  - https://github.com/atom/highlights
+  - https://github.com/zdharma/fast-syntax-highlighting
