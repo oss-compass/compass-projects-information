@@ -1,0 +1,25 @@
+ident: finite-state-machine
+name: Finite State Machine
+name_cn: 有限状态机（FSM）
+slug: /finite-state-machine
+items:
+  - https://github.com/statelyai/xstate
+  - https://github.com/looplab/fsm
+  - https://github.com/viewflow/django-fsm
+  - https://github.com/katef/libfsm
+  - https://github.com/stateless4j/stateless4j
+  - https://github.com/BurntSushi/aho-corasick
+  - https://github.com/nodejs/llparse
+  - https://github.com/soveran/micromachine
+  - https://github.com/Inspiaaa/UnityHFSM
+  - https://github.com/vstirbu/fsm-as-promised
+  - https://github.com/mdeloof/statig
+  - https://github.com/fgmacedo/python-statemachine
+  - https://github.com/jonasblixt/ufsm
+  - https://github.com/statecharts/statecharts.github.io
+  - https://github.com/leonardomso/awesome-fsm
+  - https://github.com/Real-Serious-Games/Fluent-State-Machine
+  - https://github.com/caleb531/automata
+  - https://github.com/StoneCypher/jssm
+  - https://github.com/SimpleStateMachine/SimpleStateMachineNodeEditor
+  - https://github.com/danobot/entity-controller
