@@ -1,0 +1,11 @@
+---
+community_name: maku-boot
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/makunet/maku-boot
+    - https://gitee.com/makunet/maku-admin
+    - https://gitee.com/makunet/maku-cloud
+    - https://gitee.com/makunet/maku-generator
+  governance-repositories:
+    repo_urls: []
