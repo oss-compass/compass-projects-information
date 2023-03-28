@@ -1,0 +1,22 @@
+ident: regex-engine
+name: Regex-engine
+name_cn: 正则表达式引擎
+slug: /regex-engine
+items:
+  - https://github.com/PCRE/pcre2
+  - https://github.com/google/re2
+  - https://github.com/kkos/oniguruma
+  - https://github.com/intel/hyperscan
+  - https://github.com/rust-lang/regex
+  - https://github.com/k-takata/Onigmo
+  - https://github.com/boostorg/regex
+  - https://github.com/slevithan/xregexp
+  - https://github.com/dlclark/regexp2
+  - https://github.com/Genivia/RE-flex
+  - https://github.com/BurntSushi/regex-automata
+  - https://github.com/nitely/nim-regex
+  - https://github.com/ibnuh/regex-generator
+  - https://github.com/ColinEberhardt/assemblyscript-regex
+  - https://github.com/tiehuis/zig-regex
+  - https://github.com/jafarlihi/clex
+  - https://github.com/trusktr/regexr
