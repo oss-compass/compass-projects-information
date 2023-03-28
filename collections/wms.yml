@@ -1,0 +1,16 @@
+ident: wms
+name: Warehouse Management System
+name_cn: 仓库管理系统（WMS）
+slug: /wms
+items:
+  - https://gitee.com/Singosgu/GreaterWMS
+  - https://gitee.com/deerwms/deer-wms-2
+  - https://gitee.com/erzhongxmu/JEEWMS
+  - https://gitee.com/modernwms/ModernWMS
+  - https://github.com/openboxes/openboxes
+  - https://github.com/StockSharp/StockSharp
+  - https://github.com/odoo/odoo
+  - https://github.com/frappe/erpnext
+  - https://github.com/idempiere/idempiere
+  - https://github.com/apache/ofbiz-framework
+  - https://github.com/tryton/tryton
