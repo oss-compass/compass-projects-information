@@ -1,0 +1,26 @@
+ident: fake-data-generator
+name: Fake data generator
+name_cn: 测试数据生成器
+slug: /fake-data-generator
+items:
+  - https://github.com/faker-ruby/faker
+  - https://github.com/fzaninotto/Faker
+  - https://github.com/joke2k/faker
+  - https://github.com/DiUS/java-faker
+  - https://github.com/brianvoe/gofakeit
+  - https://github.com/elixirs/faker
+  - https://github.com/lk-geimfari/mimesis
+  - https://github.com/bchavez/Bogus
+  - https://github.com/faker-js/faker
+  - https://github.com/boo1ean/casual
+  - https://github.com/fake-useragent/fake-useragent
+  - https://github.com/IvanGoncharov/graphql-faker
+  - https://github.com/nelmio/alice
+  - https://github.com/emirozer/fake2db
+  - https://github.com/bxcodec/faker
+  - https://github.com/anymaniax/orval
+  - https://github.com/Pallinder/go-randomdata
+  - https://github.com/mingrammer/flog
+  - https://github.com/datafaker-net/datafaker
+  - https://github.com/gangly/datafaker
+  - https://github.com/nomemory/mockneat
