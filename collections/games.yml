@@ -1,0 +1,19 @@
+ident: games
+name: Games
+name_cn: 开源游戏
+slug: /games
+items:
+  - https://github.com/0ad/0ad
+  - https://github.com/supertuxkart/stk-code
+  - https://github.com/OpenTTD/OpenTTD
+  - https://github.com/hedgewars/hw
+  - https://github.com/freeciv/freeciv-web
+  - https://github.com/minetest/minetest
+  - https://github.com/megaglest/megaglest-source
+  - https://github.com/xonotic/xonotic
+  - https://github.com/FreeCol/freecol
+  - https://github.com/CleverRaven/Cataclysm-DDA
+  - https://github.com/OpenRA/OpenRA
+  - https://github.com/Warzone2100/warzone2100
+  - https://github.com/clintbellanger/flare-engine
+  - https://github.com/the3dfxdude/7kaa
