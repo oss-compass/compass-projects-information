@@ -1,0 +1,15 @@
+ident: note-application
+name: Note Application
+name_cn: 笔记应用
+slug: /note-application
+items:
+  - https://github.com/laurent22/joplin
+  - https://github.com/standardnotes
+  - https://github.com/Laverna/laverna
+  - https://github.com/turtl
+  - https://github.com/BoostIO/BoostNote-Legacy
+  - https://github.com/pbek/QOwnNotes
+  - https://github.com/giuspen/cherrytree
+  - https://github.com/Automattic/simplenote-electron
+  - https://github.com/zadam/trilium
+  - https://github.com/notable/notable
