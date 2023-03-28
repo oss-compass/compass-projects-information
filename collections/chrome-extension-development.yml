@@ -1,0 +1,12 @@
+ident: chrome-extension-development
+name: Chrome extension development
+name_cn: Chrome 拓展开发
+slug: /chrome-extension-development
+items:
+  - https://github.com/Kocal/vue-web-extension
+  - https://github.com/lxieyang/chrome-extension-boilerplate-react
+  - https://github.com/mozilla/webextension-polyfill
+  - https://github.com/chibat/chrome-extension-typescript-starter
+  - https://github.com/GoogleChrome/chrome-extensions-samples
+  - https://github.com/webextension-toolbox/webextension-toolbox
+  - https://github.com/puppeteer/puppeteer

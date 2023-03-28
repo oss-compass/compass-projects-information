@@ -1,0 +1,23 @@
+ident: crawler
+name: crawler
+name_cn: 网络爬虫框架
+slug: /crawler
+items:
+  - https://github.com/scrapy/scrapy
+  - https://github.com/iawia002/lux
+  - https://github.com/gocolly/colly
+  - https://github.com/jhao104/proxy_pool
+  - https://github.com/binux/pyspider
+  - https://github.com/code4craft/webmagic
+  - https://github.com/crawlab-team/crawlab
+  - https://github.com/s0md3v/Photon
+  - https://github.com/apify/crawlee
+  - https://github.com/ssssssss-team/spider-flow
+  - https://github.com/bda-research/node-crawler
+  - https://github.com/projectdiscovery/katana
+  - https://github.com/lorien/awesome-web-scraping
+  - https://github.com/chyroc/WechatSogou
+  - https://github.com/yujiosaka/headless-chrome-crawler
+  - https://github.com/MontFerret/ferret
+  - https://github.com/SpiderClub/haipproxy
+  - https://github.com/rmax/scrapy-redis

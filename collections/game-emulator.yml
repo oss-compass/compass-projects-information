@@ -1,0 +1,18 @@
+ident: game-emulator
+name: Game Emulator
+name_cn: 游戏模拟器
+slug: /game-emulator
+items:
+  - https://github.com/libretro/RetroArch
+  - https://github.com/dolphin-emu/dolphin
+  - https://github.com/PCSX2/pcsx2
+  - https://github.com/TASEmulators/BizHawk
+  - https://github.com/mamedev/mame
+  - https://github.com/citra-emu/citra
+  - https://github.com/TASEmulators/fceux
+  - https://github.com/hrydgard/ppsspp
+  - https://github.com/snes9xgit/snes9x
+  - https://github.com/0ldsk00l/nestopia
+  - https://github.com/inolen/redream
+  - https://github.com/OpenEmu/OpenEmu
+  - https://github.com/yuzu-emu/yuzu-mainline

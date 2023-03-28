@@ -1,0 +1,16 @@
+ident: socket-server
+name: socket-server
+name_cn: 套接字服务器
+slug: /socket-server
+items:
+  - https://github.com/walkor/workerman
+  - https://github.com/xuuhaoo/OkSocket
+  - https://github.com/chronoxor/NetCoreServer
+  - https://github.com/beetlex-io/BeetleX
+  - https://github.com/chronoxor/CppServer
+  - https://github.com/youngmonkeys/ezyfox-server
+  - https://github.com/mtrudel/thousand_island
+  - https://github.com/typestack/socket-controllers
+  - https://github.com/Sriharia/SHAREthem
+  - https://github.com/brewlin/swoft-im
+  - https://github.com/Eastrall/Rhisis

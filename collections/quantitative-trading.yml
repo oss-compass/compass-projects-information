@@ -1,0 +1,19 @@
+ident: quantitative-trading
+name: Quantitative trading
+name_cn: 量化交易
+slug: /quantitative-trading
+items:
+  - https://github.com/redhobor/html54stock
+  - https://github.com/miaolz123/samaritan/releases
+  - https://github.com/akfamily/akshare
+  - https://github.com/pythonstock/stock
+  - https://github.com/csxiaoyaojianxian/StockTech
+  - https://github.com/ricequant/rqalpha/tree/develop
+  - https://gitee.com/yutiansut/QUANTAXIS
+  - https://github.com/foolcage/fooltrader
+  - https://gitee.com/foolcage/zvt
+  - https://github.com/microsoft/qlib
+  - https://gitee.com/jones2000/HQChart
+  - https://github.com/bbfamily/abu
+  - https://gitee.com/vnpy/vnpy
+  - https://gitee.com/fasiondog/hikyuu
