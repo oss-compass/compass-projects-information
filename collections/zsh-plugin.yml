@@ -1,0 +1,17 @@
+ident: zsh-plugin
+name: ZSH Plugin
+name_cn: ZSH 插件
+slug: /zsh-plugin
+items:
+  - https://github.com/ohmyzsh/ohmyzsh
+  - https://github.com/zsh-users/zsh-autosuggestions
+  - https://github.com/zsh-users/zsh-syntax-highlighting
+  - https://github.com/zsh-users/zsh-completions
+  - https://github.com/zsh-users/zsh-history-substring-search
+  - https://github.com/psprint/zsh-navigation-tools
+  - https://github.com/chrissicool/zsh-256color
+  - https://github.com/Tarrasch/zsh-bd
+  - https://github.com/Aloxaf/fzf-tab
+  - https://github.com/skywind3000/z.lua
+  - https://github.com/djui/alias-tips
+  - https://github.com/rupa/z
