@@ -1,0 +1,15 @@
+ident: flow-chart
+name: Flow chart
+name_cn: 流程图
+slug: /flow-chart
+items:
+  - https://github.com/jgraph/drawio-desktop
+  - https://github.com/mermaid-js/mermaid
+  - https://github.com/plantuml/plantuml
+  - https://github.com/bpmn-io/bpmn-js
+  - https://github.com/clientIO/joint
+  - https://github.com/adrai/flowchart.js
+  - https://github.com/mingrammer/diagrams
+  - https://github.com/jgraph/mxgraph
+  - https://github.com/cytoscape/cytoscape.js
+  - https://github.com/NorthwoodsSoftware/GoJS
