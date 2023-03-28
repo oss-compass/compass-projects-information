@@ -1,0 +1,11 @@
+---
+community_name: ring-robot-x
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/waterflames-team/ring-robot-x
+    - https://gitee.com/waterflames-team/mariner
+    - https://gitee.com/waterflames-team/lingkong-robot
+    - https://gitee.com/waterflames-team/lingkong-robot-server
+  governance-repositories:
+    repo_urls: []
