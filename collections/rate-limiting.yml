@@ -1,0 +1,24 @@
+ident: rate-limiting
+name: Rate Limiting
+name_cn: 限速器
+slug: /rate-limiting
+items:
+  - https://github.com/alibaba/Sentinel
+  - https://github.com/stefanprodan/AspNetCoreRateLimit
+  - https://github.com/animir/node-rate-limiter-flexible
+  - https://github.com/alibaba/sentinel-golang
+  - https://github.com/bucket4j/bucket4j
+  - https://github.com/SGrondin/bottleneck
+  - https://github.com/stefanprodan/WebApiThrottle
+  - https://github.com/unionj-cloud/go-doudou
+  - https://github.com/alisaifee/flask-limiter
+  - https://github.com/mailgun/gubernator
+  - https://github.com/tomasbasham/ratelimit
+  - https://github.com/go-redis/redis_rate
+  - https://github.com/upstash/ratelimit
+  - https://github.com/ExHammer/hammer
+  - https://github.com/grempe/ex_rated
+  - https://github.com/SerpentAI/requests-respectful
+  - https://github.com/fastify/fastify-rate-limit
+  - https://github.com/RussellLuo/slidingwindow
+  - https://github.com/antifuchs/governor
