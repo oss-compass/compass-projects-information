@@ -1,0 +1,36 @@
+ident: information-accessibility
+name: Information Accessibility
+name_cn: 信息无障碍
+slug: /information-accessibility
+items:
+  - https://github.com/nvaccess/nvda
+  - https://github.com/darkreader/darkreader
+  - https://github.com/a11yproject/a11yproject.com
+  - https://github.com/Khan/tota11y/
+  - https://github.com/webhintio/hint
+  - https://github.com/GoogleChrome/accessibility-developer-tools
+  - https://github.com/brunopulis/awesome-a11y
+  - https://github.com/github/accessibilityjs
+  - https://github.com/Muhnad/a11y-checker
+  - https://github.com/a11ywatch/a11ywatch
+  - https://github.com/MicrosoftEdge/static-code-scan
+  - https://github.com/github/lightcrawler
+  - https://github.com/Khan/tota11y
+  - https://github.com/addyosmani/a11y
+  - https://github.com/ffoodd/a11y.css
+  - https://github.com/jxnblk/colorable
+  - https://github.com/medialize/ally.js
+  - https://github.com/aduggin/accessibility-fails
+  - https://github.com/pa11y/pa11y
+  - https://github.com/Heydon/REVENGE.CSS
+  - https://github.com/reactjs/react-a11y
+  - https://github.com/angular/protractor-accessibility-plugin
+  - https://github.com/AccessLint/accesslint.js
+  - https://github.com/18F/accessibility
+  - https://github.com/prettydiff/a11y-tools
+  - https://github.com/dequelabs/axe-cli
+  - https://github.com/stevefaulkner/HTML5accessibility
+  - https://github.com/liip/TheA11yMachine
+  - https://github.com/fejes713/accessibility-guide
+  - https://github.com/GoogleChrome/lighthouse
+  - https://github.com/adobe/leonardo
