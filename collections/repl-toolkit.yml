@@ -2,4 +2,15 @@ ident: repl-toolkit
 name: REPL toolkit
 name_cn: REPL 工具包
 slug: /repl-toolkit
-items: []
+items:
+  - https://github.com/pry/pry
+  - https://github.com/ruby/irb
+  - https://github.com/ipython/ipython
+  - https://github.com/TypeStrong/ts-node
+  - https://github.com/bobthecow/psysh
+  - https://github.com/laravel/tinker
+  - https://github.com/jupyter/notebook
+  - https://github.com/beanshell/beanshell
+  - https://github.com/mukel/interactive-cpp
+  - https://github.com/ChaiScript/ChaiScript
+  - https://github.com/python/cpython
