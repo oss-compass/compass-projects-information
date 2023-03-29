@@ -1,0 +1,40 @@
+ident: bootstrap-theme
+name: Bootstrap themes
+name_cn: Bootstrap 主题
+slug: /bootstrap-theme
+items:
+  - https://github.com/ColorlibHQ/AdminLTE
+  - https://github.com/tabler/tabler
+  - https://github.com/react-bootstrap/react-bootstrap
+  - https://github.com/ColorlibHQ/gentelella
+  - https://github.com/bootstrap-vue/bootstrap-vue
+  - https://github.com/thomaspark/bootswatch
+  - https://github.com/coreui/coreui-free-bootstrap-admin-template
+  - https://github.com/Templarian/MaterialDesign
+  - https://github.com/StartBootstrap/startbootstrap-sb-admin-2
+  - https://github.com/BlackrockDigital/startbootstrap
+  - https://github.com/olton/Metro-UI-CSS
+  - https://github.com/0wczar/airframe-react
+  - https://github.com/Megabit/Blazorise
+  - https://github.com/LavaLite/cms
+  - https://github.com/bitwarden/web
+  - https://github.com/topics/bootstrap-theme
+  - https://github.com/mdbootstrap/mdb-ui-kit
+  - https://github.com/froala/design-blocks
+  - https://github.com/creativetimofficial/material-dashboard
+  - https://github.com/kristopolous/BOOTSTRA.386
+  - https://github.com/coreui/coreui-free-react-admin-template
+  - https://github.com/coreui/coreui-free-vue-admin-template
+  - https://github.com/StartBootstrap/startbootstrap-sb-admin
+  - https://github.com/StartBootstrap/startbootstrap-freelancer
+  - https://github.com/tabler/tabler-react
+  - https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
+  - https://github.com/StartBootstrap/startbootstrap-agency
+  - https://github.com/StartBootstrap/startbootstrap-resume
+  - https://github.com/creativetimofficial/now-ui-kit
+  - https://github.com/StartBootstrap/startbootstrap-clean-blog
+  - https://github.com/arnabwahid/wordpress-bootstrap
+  - https://github.com/DesignRevision/shards-dashboard
+  - https://github.com/adminkit/adminkit
+  - https://github.com/themeselection/bootstrap-cheatsheet
+  - https://github.com/ghiscoding/Angular-Slickgrid
