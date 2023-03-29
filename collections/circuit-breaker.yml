@@ -1,0 +1,23 @@
+ident: circuit-breaker
+name: Circuit Breaker
+name_cn: 断路器
+slug: /circuit-breaker
+items:
+  - https://github.com/istio/istio
+  - https://github.com/alibaba/spring-cloud-alibaba
+  - https://github.com/alibaba/Sentinel
+  - https://github.com/App-vNext/Polly
+  - https://github.com/fagongzi/manba
+  - https://github.com/go-chassis/go-chassis
+  - https://github.com/gojek/heimdall
+  - https://github.com/sony/gobreaker
+  - https://github.com/connor4312/cockatiel
+  - https://github.com/Shopify/semian
+  - https://github.com/nodeshift/opossum
+  - https://github.com/SteeltoeOSS/Steeltoe
+  - https://github.com/jiajunhuang/guard
+  - https://github.com/irahardianto/service-pattern-go
+  - https://github.com/SteeltoeOSS/Samples
+  - https://github.com/ackintosh/ganesha
+  - https://github.com/minos-framework/minos-python
+  - https://github.com/polarismesh/femas
