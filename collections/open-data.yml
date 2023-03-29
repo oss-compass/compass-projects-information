@@ -1,0 +1,13 @@
+ident: open-data
+name: Open Data
+name_cn: 开放数据
+slug: /open-data
+items:
+  - https://github.com/GSA/data
+  - https://github.com/unitedstates/congress-legislators
+  - https://github.com/Chicago/food-inspections-evaluation
+  - https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue
+  - https://github.com/cernopendata/opendata.cern.ch
+  - https://github.com/openaddresses/openaddresses
+  - https://github.com/APIs-guru/openapi-directory
+  - https://github.com/whosonfirst-data/whosonfirst-data
