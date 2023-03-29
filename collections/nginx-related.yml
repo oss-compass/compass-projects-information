@@ -1,0 +1,20 @@
+ident: nginx-related
+name: Nginx Related
+name_cn: Nginx 相关
+slug: /nginx-related
+items:
+  - https://github.com/NginxProxyManager/nginx-proxy-manager
+  - https://github.com/nginx-proxy/acme-companion
+  - https://github.com/evertramos/nginx-proxy-automation
+  - https://github.com/engintron/engintron
+  - https://github.com/vouch/vouch-proxy
+  - https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
+  - https://github.com/digitalocean/nginxconfig.io
+  - https://github.com/trimstray/nginx-admins-handbook
+  - https://github.com/andreapollastri/cipi
+  - https://github.com/schenkd/nginx-ui
+  - https://github.com/slomkowski/nginx-config-formatter
+  - https://github.com/caddyserver/nginx-adapter
+  - https://github.com/nginxinc/crossplane
+  - https://github.com/nginx-proxy/nginx-proxy
+  - https://github.com/allinurl/goaccess
