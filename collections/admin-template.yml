@@ -1,0 +1,45 @@
+ident: admin-template
+name: Admin Template
+name_cn: 管理后台模板
+slug: /admin-template
+items:
+  - https://github.com/adminkit/adminkit
+  - https://github.com/akveo/blur-admin
+  - https://github.com/akveo/ngx-admin
+  - https://github.com/altence/lightence-ant-design-react-template
+  - https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template
+  - https://github.com/buqiyuan/vue3-antd-admin
+  - https://github.com/chuzhixin/vue-admin-better
+  - https://github.com/cmdparkour/vue-admin-box
+  - https://github.com/ColorlibHQ/AdminLTE
+  - https://github.com/coreui/coreui-free-angular-admin-template
+  - https://github.com/coreui/coreui-free-bootstrap-admin-template
+  - https://github.com/coreui/coreui-free-react-admin-template
+  - https://github.com/coreui/coreui-free-vue-admin-template
+  - https://github.com/CreativeIT/material-angular-dashboard
+  - https://github.com/creativetimofficial/material-dashboard
+  - https://github.com/d2-projects/d2-admin
+  - https://github.com/DesignRevision/shards-dashboard
+  - https://github.com/DesignRevision/shards-dashboard-react
+  - https://github.com/devias-io/material-kit-react
+  - https://github.com/dropways/deskapp
+  - https://github.com/epicmaxco/vuestic-admin
+  - https://github.com/herozhou/vue-framework-wz
+  - https://github.com/honghuangdc/soybean-admin
+  - https://github.com/horizon-ui/horizon-ui-chakra
+  - https://github.com/iview/iview-admin
+  - https://github.com/jzfai/vue3-admin-plus
+  - https://github.com/kailong321200875/vue-element-plus-admin
+  - https://github.com/Materialfy/M-Dash
+  - https://github.com/mgbq/nx-admin
+  - https://github.com/newpanjing/simpleui
+  - https://github.com/ovineio/ovine
+  - https://github.com/PanJiaChen/vue-element-admin
+  - https://github.com/StartBootstrap/startbootstrap-sb-admin
+  - https://github.com/stisla/stisla
+  - https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms
+  - https://github.com/themefisher/sleek
+  - https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free
+  - https://github.com/vbenjs/vue-vben-admin
+  - https://github.com/wjkang/vue-quasar-admin
+  - https://github.com/yezihaohao/react-admin
