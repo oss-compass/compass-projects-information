@@ -1,0 +1,37 @@
+ident: steganography
+name: Stegano Graphy
+name_cn: 隐写术
+slug: /steganography
+items:
+  - https://github.com/bevacqua/watermarker
+  - https://github.com/DominicBreuker/stego-toolkit
+  - https://github.com/Aetf/BlindWatermark
+  - https://github.com/brianium/watermarkjs
+  - https://github.com/mutecomm/CameraV
+  - https://github.com/Rupan/pngtools
+  - https://github.com/ECorp-GifShuffle/gifshuffle
+  - https://github.com/luisparravicini/imagehide
+  - https://github.com/kmxz/SilentEye
+  - https://github.com/matthewgao/F5-Steganography
+  - https://github.com/resurrecting-open-source-projects/outguess
+  - https://github.com/syvaidya/openstego
+  - https://github.com/topics/steganalysis
+  - https://github.com/Z4nzu/hackingtool
+  - https://github.com/KuroLabs/stegcloak
+  - https://github.com/DavidBuchanan314/tweetable-polyglot-png
+  - https://github.com/TryCatchHCF/Cloakify
+  - https://github.com/DimitarPetrov/stegify
+  - https://github.com/7thSamurai/steganography
+  - https://github.com/RickdeJager/stegseek
+  - https://github.com/ytisf/PyExfil
+  - https://github.com/TryCatchHCF/PacketWhisper
+  - https://github.com/tancik/StegaStamp
+  - https://github.com/lukechampine/jsteg
+  - https://github.com/Paradoxis/StegCracker
+  - https://github.com/operatorequals/covertutils
+  - https://github.com/cedricbonhomme/Stegano
+  - https://github.com/ragibson/Steganography
+  - https://github.com/carlospuenteg/File-Injector
+  - https://github.com/zorggish/FractalCryptGUI
+  - https://github.com/Zeecka/AperiSolve
+  - https://github.com/wangrongding/frontend-park
