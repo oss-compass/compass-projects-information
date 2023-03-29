@@ -3,7 +3,6 @@ name: Screenshots
 name_cn: 屏幕截图工具
 slug: /screenshots
 items:
-  - https://chrome://newtab/
   - https://github.com/ShareX/ShareX
   - https://github.com/spatie/browsershot
   - https://github.com/greenshot/greenshot
