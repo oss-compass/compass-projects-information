@@ -1,0 +1,25 @@
+ident: sandbox
+name: sandbox
+name_cn: 沙箱
+slug: /sandbox
+items:
+  - https://github.com/firecracker-microvm/firecracker
+  - https://github.com/google/gvisor
+  - https://github.com/bytecodealliance/wasmtime
+  - https://github.com/react-cosmos/react-cosmos
+  - https://github.com/wasm3/wasm3
+  - https://github.com/graphql-editor/graphql-editor
+  - https://github.com/mviereck/x11docker
+  - https://github.com/OpenTTD/OpenTTD
+  - https://github.com/CocoaDebug/CocoaDebug
+  - https://github.com/The-Powder-Toy/The-Powder-Toy
+  - https://github.com/patriksimek/vm2
+  - https://github.com/MovingBlocks/Terasology
+  - https://github.com/codesandbox/sandpack
+  - https://github.com/a0rtega/pafish
+  - https://github.com/Revolutionary-Games/Thrive
+  - https://github.com/nanovms/nanos
+  - https://github.com/fsquillace/junest
+  - https://github.com/NeilFraser/JS-Interpreter
+  - https://github.com/google/sandboxed-api
+  - https://github.com/kevoreilly/CAPEv2

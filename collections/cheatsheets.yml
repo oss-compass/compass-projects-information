@@ -1,0 +1,11 @@
+ident: cheatsheets
+name: cheatsheets
+name_cn: 速查表
+slug: /cheatsheets
+items:
+  - https://github.com/LeCoupa/awesome-cheatsheets
+  - https://github.com/detailyang/awesome-cheatsheet
+  - https://github.com/FavioVazquez/ds-cheatsheets
+  - https://github.com/gto76/python-cheatsheet
+  - https://github.com/wilfredinni/python-cheatsheet
+  - https://github.com/ihebski/DefaultCreds-cheat-sheet

@@ -1,0 +1,43 @@
+ident: jquery-and-plugins
+name: jQuery & jQuery plugins
+name_cn: jQuery 及其插件
+slug: /jquery-and-plugins
+items:
+  - https://github.com/jquery/jquery
+  - https://github.com/jquery/jquery-ui
+  - https://github.com/jquery-archive/jquery-mobile
+  - https://github.com/jquery/sizzle
+  - https://github.com/select2/select2
+  - https://github.com/DataTables/DataTables
+  - https://github.com/fancyapps/fancybox
+  - https://github.com/dimsemenov/Magnific-Popup
+  - https://github.com/malsup/cycle2
+  - https://github.com/stevenwanderski/bxslider-4
+  - https://github.com/OwlCarousel2/OwlCarousel2
+  - https://github.com/desandro/masonry
+  - https://github.com/metafizzy/isotope
+  - https://github.com/jonthornton/jquery-timepicker
+  - https://github.com/bjornd/jvectormap
+  - https://github.com/harvesthq/chosen
+  - https://github.com/guillaumepotier/Parsley.js/
+  - https://github.com/rickharrison/validate.js
+  - https://github.com/dropzone/dropzone
+  - https://github.com/uxsolutions/bootstrap-datepicker
+  - https://github.com/kimmobrunfeldt/progressbar.js
+  - https://github.com/Sarcadass/granim.js
+  - https://github.com/calebjacob/tooltipster
+  - https://github.com/mattboldt/typed.js/
+  - https://github.com/inorganik/countUp.js
+  - https://github.com/kenwheeler/slick
+  - https://github.com/Grsmto/simplebar
+  - https://github.com/max-favilli/tagmanager
+  - https://github.com/davatron5000/Lettering.js/
+  - https://github.com/Choices-js/Choices
+  - https://github.com/animate-css/animate.css/
+  - https://github.com/Pikaday/Pikaday
+  - https://github.com/jlmakes/scrollreveal
+  - https://github.com/qrohlf/trianglify
+  - https://github.com/chartjs/Chart.js
+  - https://github.com/caroso1222/notyf
+  - https://github.com/IonDen/ion.rangeSlider
+  - https://github.com/mervick/emojionearea

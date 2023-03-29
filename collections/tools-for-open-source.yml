@@ -1,0 +1,33 @@
+ident: tools-for-open-source
+name: Tools for Open Source
+name_cn: 开源软件基础设施
+slug: /tools-for-open-source
+items:
+  - https://github.com/tdsmith/github-snooze-button
+  - https://github.com/octobox/octobox
+  - https://github.com/semantic-release/semantic-release
+  - https://github.com/Netflix/hubcommander
+  - https://github.com/github-changelog-generator/github-changelog-generator
+  - https://github.com/servo/homu
+  - https://github.com/github-modules/ghwd
+  - https://github.com/jlord/offline-issues
+  - https://github.com/greenkeeperio/greenkeeper
+  - https://github.com/probot/stale
+  - https://github.com/servo/highfive
+  - https://github.com/sagesharp/foss-heartbeat
+  - https://github.com/hzoo/contributors-on-github
+  - https://github.com/pengwynn/flint
+  - https://github.com/WeAllJS/weallbehave
+  - https://github.com/WeAllJS/weallcontribute
+  - https://github.com/danger/danger
+  - https://github.com/icecrime/poule
+  - https://github.com/repository-settings/app
+  - https://github.com/cla-assistant/cla-assistant
+  - https://github.com/zeke/package-json-to-readme
+  - https://github.com/hakirisec/hakiri_toolbelt
+  - https://github.com/standard/standard
+  - https://github.com/lerna/lerna
+  - https://github.com/marmelab/sedy
+  - https://github.com/badges/shields
+  - https://github.com/bitrise-io/bitrise
+  - https://github.com/devhubapp/devhub

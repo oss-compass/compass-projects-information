@@ -1,0 +1,21 @@
+ident: webrtc-server
+name: WebRTC Server
+name_cn: WebRTC 服务器
+slug: /webrtc-server
+items:
+  - https://github.com/pion/webrtc
+  - https://github.com/OpenSight/janus-cloud
+  - https://github.com/medansoftware/Nodeigniter
+  - https://github.com/trinhdaiphuc/janus-gateway-docker
+  - https://github.com/meetecho/janus-gateway
+  - https://github.com/jitsi/jitsi-videobridge
+  - https://github.com/versatica/mediasoup
+  - https://github.com/Kurento/kurento-media-server
+  - https://github.com/lynckia/licode
+  - https://github.com/ant-media/Ant-Media-Server
+  - https://github.com/nextcloud/spreed
+  - https://github.com/EricssonResearch/openwebrtc
+  - https://github.com/peers/peerjs-server
+  - https://github.com/strukturag/spreed-webrtc
+  - https://github.com/Temasys/SkylinkJS
+  - https://github.com/signalwire/signalwire-node

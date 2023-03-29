@@ -1,0 +1,16 @@
+ident: input-method
+name: Input Method
+name_cn: 输入法
+slug: /input-method
+items:
+  - https://github.com/ibus/ibus
+  - https://github.com/scim-im/scim
+  - https://github.com/rime/squirrel
+  - https://github.com/fcitx/fcitx5
+  - https://github.com/topics
+  - https://github.com/openvanilla/McBopomofo
+  - https://github.com/rime/home
+  - https://github.com/florisboard/florisboard
+  - https://github.com/dongyuwei/hallelujahIM
+  - https://github.com/hatashiro/kawa
+  - https://github.com/rime/rime-cantonese

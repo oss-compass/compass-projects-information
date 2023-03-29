@@ -1,0 +1,16 @@
+ident: virtual-machine
+name: Virtual Machine
+name_cn: 虚拟机
+slug: /virtual-machine
+items:
+  - https://github.com/qemu/qemu
+  - https://github.com/xen-project/xen
+  - https://github.com/vmware/open-vm-tools
+  - https://github.com/virt-manager/virt-manager
+  - https://github.com/MicrosoftDocs/Virtualization-Documentation
+  - https://github.com/openvz/vzkernel
+  - https://github.com/docker/docker-ce
+  - https://github.com/lxc/lxc
+  - https://github.com/libvirt/libvirt
+  - https://github.com/firecracker-microvm/firecracker
+  - https://github.com/ganeti/ganeti

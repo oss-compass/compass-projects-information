@@ -1,0 +1,34 @@
+ident: kotlin-development-library
+name: Kotlin development library
+name_cn: Kotlin 开发库
+slug: /kotlin-development-library
+items:
+  - https://github.com/Kotlin/anko
+  - https://github.com/ktorio/ktor
+  - https://github.com/JetBrains/Exposed
+  - https://github.com/kittinunf/fuel
+  - https://github.com/detekt/detekt
+  - https://github.com/mockk/mockk
+  - https://github.com/InsertKoinIO/koin
+  - https://github.com/edvin/tornadofx
+  - https://github.com/ReactiveX/RxKotlin
+  - https://github.com/Kotlin/kotlinx.coroutines
+  - https://github.com/kosi-libs/Kodein
+  - https://github.com/Kotlin/kotlinx-datetime
+  - https://github.com/arrow-kt/arrow
+  - https://github.com/square/okio
+  - https://github.com/kotest/kotest
+  - https://github.com/Kotlin/kotlinx.serialization
+  - https://github.com/mplatvoet/kovenant
+  - https://github.com/robfletcher/strikt
+  - https://github.com/cbeust/klaxon
+  - https://github.com/Kotlin/dokka
+  - https://github.com/FasterXML/jackson-module-kotlin
+  - https://github.com/Litote/kmongo
+  - https://github.com/kotlin-orm/ktorm
+  - https://github.com/johnrengelman/shadow
+  - https://github.com/oshai/kotlin-logging
+  - https://github.com/Kotlin/coroutines-examples
+  - https://github.com/uchuhimo/konf
+  - https://github.com/Kotlin/kotlinx.html
+  - https://github.com/square/kotlinpoet

@@ -1,0 +1,24 @@
+ident: software-in-science
+name: Software in science
+name_cn: 科研软件
+slug: /software-in-science
+items:
+  - https://github.com/simbody/simbody
+  - https://github.com/cms-sw/cmssw
+  - https://github.com/ComputationalRadiationPhysics/picongpu
+  - https://github.com/psas/av3-fc
+  - https://github.com/astropy/astropy
+  - https://github.com/dfm/emcee
+  - https://github.com/cyverse/atmosphere
+  - https://github.com/dib-lab/khmer
+  - https://github.com/sympy/sympy
+  - https://github.com/spack/spack
+  - https://github.com/ipython/ipython
+  - https://github.com/ropensci-archive/rplos
+  - https://github.com/LaurentRDC/scikit-ued
+  - https://github.com/sagemath/sage-archive-2023-02-01
+  - https://github.com/gap-system/gap
+  - https://github.com/Singular/Singular
+  - https://github.com/fredrik-johansson/arb
+  - https://github.com/markusschanta/awesome-jupyter
+  - https://github.com/broadinstitute/picard
