@@ -12,7 +12,6 @@ items:
   - https://github.com/magit/magit
   - https://github.com/abo-abo/swiper
   - https://github.com/emacs-eaf/emacs-application-framework
-  - https://git.savannah.gnu.org/cgit/emacs/org-mode.git/
   - https://github.com/bbatsov/projectile
   - https://github.com/company-mode/company-mode
   - https://github.com/joaotavora/yasnippet
