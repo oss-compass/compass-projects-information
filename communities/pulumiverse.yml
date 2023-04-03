@@ -1,0 +1,36 @@
+---
+community_name: pulumiverse
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/pulumiverse/pulumi-aquasec
+    - https://github.com/pulumiverse/pulumiverse
+    - https://github.com/pulumiverse/pulumi-harbor
+    - https://github.com/pulumiverse/pulumi-exoscale
+    - https://github.com/pulumiverse/pulumi-purrl
+    - https://github.com/pulumiverse/pulumi-unifi
+    - https://github.com/pulumiverse/pulumi-acme
+    - https://github.com/pulumiverse/infra
+    - https://github.com/pulumiverse/awesome-pulumi
+    - https://github.com/pulumiverse/pulumi-heroku
+    - https://github.com/pulumiverse/pulumi-astra
+    - https://github.com/pulumiverse/pulumi-concourse
+    - https://github.com/pulumiverse/pulumi-time
+    - https://github.com/pulumiverse/pulumi-statuscake
+    - https://github.com/pulumiverse/pulumi-mssql
+    - https://github.com/pulumiverse/pulumi-ngrok
+    - https://github.com/pulumiverse/pulumi-gandi
+    - https://github.com/pulumiverse/pulumi-doppler
+    - https://github.com/pulumiverse/pulumi-sentry
+    - https://github.com/pulumiverse/pulumi-hcp
+    - https://github.com/pulumiverse/pulumi-buildkite
+    - https://github.com/pulumiverse/terraform-provider-pulumi
+    - https://github.com/pulumiverse/pulumi-matchbox
+    - https://github.com/pulumiverse/pulumi-vra
+    - https://github.com/pulumiverse/pulumi-ibm
+    - https://github.com/pulumiverse/kubernetes-sdks
+    - https://github.com/pulumiverse/pulumi-aws-eksa
+    - https://github.com/pulumiverse/terraform-migration-guide
+  governance-repositories:
+    repo_urls:
+    - https://github.com/pulumiverse/.github
