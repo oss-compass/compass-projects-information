@@ -6,7 +6,7 @@ When you submit a project on the OSS Compass website, it automatically creates a
 
 This repository contains the following information:
 
-1. `all_repositories.csv` - a CSV file containing information about all repositories that have a report on the OSS Compass website.
+1. [all_repositories.csv](https://github.com/oss-compass/compass-projects-information/blob/main/all_repositories.csv) - a CSV file containing information about all repositories that have a report on the OSS Compass website.
 2. `single-repositories` - a directory containing user-submitted analysis requests for single repositories.
 3. `communities` - a directory containing user-submitted analysis requests for communities.
 4. `collections` - a directory containing collections of projects featured on the OSS Compass website.
