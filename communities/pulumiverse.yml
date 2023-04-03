@@ -32,4 +32,5 @@ resource_types:
     - https://github.com/pulumiverse/pulumi-aws-eksa
     - https://github.com/pulumiverse/terraform-migration-guide
   governance-repositories:
-    repo_urls: []
+    repo_urls:
+    - https://github.com/pulumiverse/.github
