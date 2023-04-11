@@ -1,0 +1,14 @@
+---
+community_name: bboss
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/bboss/bboss-elastic-tran
+    - https://gitee.com/bboss/bboss-elastic
+    - https://gitee.com/bboss/bboss-http
+    - https://gitee.com/bboss/bboss-plugins
+    - https://gitee.com/bboss/bboss
+    - https://gitee.com/bboss/security
+    - https://gitee.com/bboss/bboss-data
+  governance-repositories:
+    repo_urls: []
