@@ -1,0 +1,9 @@
+---
+community_name: kernel_liteos_a
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openharmony/kernel_liteos_a
+    - https://gitee.com/openharmony/arkui_ace_engine_lite
+  governance-repositories:
+    repo_urls: []
