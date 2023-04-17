@@ -1,6 +1,0 @@
-ident: data-etl-stream
-name: Data ETL Stream
-name_cn: 数据采集-处理-清洗-装载-流处理
-slug: /data-etl-stream
-items:
-  - https://gitee.com/bboss/bboss-elastic-tran
