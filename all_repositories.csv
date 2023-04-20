@@ -12267,6 +12267,7 @@ https://github.com/aardappel/treesheets
 https://github.com/abel533/Mapper
 https://github.com/abelljs/abell
 https://github.com/abiosoft/colima
+https://github.com/abo-abo/swiper
 https://github.com/absinthe-graphql/absinthe
 https://github.com/aburch/simutrans
 https://github.com/actboy168/lua-debug
@@ -12531,6 +12532,7 @@ https://github.com/atutor/lifetype
 https://github.com/audacity/audacity
 https://github.com/aui/art-template
 https://github.com/aui/artDialog
+https://github.com/autogluon/autogluon
 https://github.com/automagica/automagica
 https://github.com/avplayer/avplayer
 https://github.com/aws/aws-codedeploy-agent
@@ -12559,6 +12561,8 @@ https://github.com/basho/bitcask
 https://github.com/basho/riak
 https://github.com/basho/riak_cs
 https://github.com/bazelbuild/bazel
+https://github.com/bbatsov/prelude
+https://github.com/bbatsov/projectile
 https://github.com/bbfamily/abu
 https://github.com/bblanchon/ArduinoJson
 https://github.com/bcit-ci/CodeIgniter
@@ -12658,6 +12662,7 @@ https://github.com/caoxinyu/RedisClient
 https://github.com/cappuccino/cappuccino
 https://github.com/carbon-design-system/carbon
 https://github.com/carhartl/jquery-cookie
+https://github.com/carloscuesta/gitmoji
 https://github.com/caroso1222/notyf
 https://github.com/cartographer-project/cartographer
 https://github.com/casbin/casbin
@@ -12754,6 +12759,7 @@ https://github.com/coleifer/peewee
 https://github.com/commaai/openpilot
 https://github.com/commadelimited/autoComplete.js
 https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme
+https://github.com/company-mode/company-mode
 https://github.com/componentjs/component
 https://github.com/conan-io/conan
 https://github.com/concourse/concourse
@@ -12988,6 +12994,7 @@ https://github.com/dojo/framework
 https://github.com/dokku/dokku
 https://github.com/dom4j/dom4j
 https://github.com/donnie4w/tim
+https://github.com/doomemacs/doomemacs
 https://github.com/doorkeeper-gem/doorkeeper
 https://github.com/dotansimha/graphql-code-generator
 https://github.com/dotnet/aspnetcore
@@ -13110,6 +13117,7 @@ https://github.com/emacs-eaf/eaf-vue-demo
 https://github.com/emacs-eaf/eaf-vue-mindmap
 https://github.com/emacs-eaf/eaf-vue-tailwindcss
 https://github.com/emacs-eaf/emacs-application-framework
+https://github.com/emacs-lsp/lsp-mode
 https://github.com/emacs-mirror/emacs
 https://github.com/emberjs/ember.js
 https://github.com/emqx/emqx
@@ -13324,6 +13332,7 @@ https://github.com/flower-corp/rosedb
 https://github.com/fluent/fluentd
 https://github.com/flutter/flutter
 https://github.com/fluxcd/flux
+https://github.com/flycheck/flycheck
 https://github.com/flyway/flyway
 https://github.com/fogleman/Minecraft
 https://github.com/foolcage/fooltrader
@@ -13633,6 +13642,7 @@ https://github.com/ideawu/icomet
 https://github.com/ideawu/ssdb
 https://github.com/ifcharming/voltdb2.1
 https://github.com/igniterealtime/Openfire
+https://github.com/ikatyang/emoji-cheat-sheet
 https://github.com/illacloud/illa-builder
 https://github.com/imakewebthings/jquery-waypoints
 https://github.com/imiphp/imi
@@ -13752,6 +13762,7 @@ https://github.com/jliljebl/flowblade
 https://github.com/jmesnil/stomp-websocket
 https://github.com/jmk-foofus/medusa
 https://github.com/jnordberg/gif.js
+https://github.com/joaotavora/yasnippet
 https://github.com/jodogne/OrthancDocker
 https://github.com/joelittlejohn/jsonschema2pojo
 https://github.com/joewalnes/reconnecting-websocket
@@ -13796,6 +13807,7 @@ https://github.com/jupyter/notebook
 https://github.com/just-containers/s6-overlay
 https://github.com/justjavac/ReplaceGoogleCDN
 https://github.com/justspamjustin/junior
+https://github.com/jwiegley/use-package
 https://github.com/k3s-io/k3s
 https://github.com/k9mail/k-9
 https://github.com/kairosdb/kairosdb
@@ -13835,6 +13847,7 @@ https://github.com/kiswa/TaskBoard
 https://github.com/kivy/kivy
 https://github.com/kivy/python-for-android
 https://github.com/kiwiboard/kiwiboard
+https://github.com/klaytn/klaytn
 https://github.com/knightliao/disconf
 https://github.com/koajs/koa
 https://github.com/koakumaping/Calculator_Python
@@ -14068,6 +14081,7 @@ https://github.com/microsoft/PowerToys
 https://github.com/microsoft/SEAL
 https://github.com/microsoft/Terminal
 https://github.com/microsoft/computervision-recipes
+https://github.com/microsoft/fluentui-emoji
 https://github.com/microsoft/semantic-kernel
 https://github.com/microsoft/visualfsharp
 https://github.com/microsoft/vscode
@@ -14692,6 +14706,7 @@ https://github.com/redwoodjs/redwood
 https://github.com/refinedev/refine
 https://github.com/regularjs/regular
 https://github.com/rejetto/hfs
+https://github.com/remacs/remacs
 https://github.com/rememberber/WePush
 https://github.com/remy/nodemon
 https://github.com/remylab/jpaginator
@@ -15064,6 +15079,7 @@ https://github.com/swagger-api/swagger-codegen
 https://github.com/swagger-api/swagger-ui
 https://github.com/swaldman/c3p0
 https://github.com/sweetalert2/sweetalert2
+https://github.com/syl20bnr/spacemacs
 https://github.com/symless/synergy-core
 https://github.com/syncthing/syncthing
 https://github.com/syndtr/goleveldb
@@ -15652,6 +15668,7 @@ https://github.com/web-platform-tests/wpt
 https://github.com/web3j/web3j
 https://github.com/webankfintech/dataspherestudio
 https://github.com/webbit/webbit
+https://github.com/webdriverio/webdriverio
 https://github.com/webiny/webiny-js
 https://github.com/webmodules/jsonp
 https://github.com/webosose/build-webos
