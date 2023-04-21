@@ -1,0 +1,29 @@
+---
+community_name: nephio
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/nephio-project/nephio
+    - https://github.com/nephio-project/nephio-poc
+    - https://github.com/nephio-project/nephio-controller-poc
+    - https://github.com/nephio-project/nephio-packages
+    - https://github.com/nephio-project/nephio-pocs
+    - https://github.com/nephio-project/edge-status-aggregator
+    - https://github.com/nephio-project/test-infra
+    - https://github.com/nephio-project/api
+    - https://github.com/nephio-project/free5gc
+    - https://github.com/nephio-project/one-summit-22-workshop
+    - https://github.com/nephio-project/nephio-example-packages
+    - https://github.com/nephio-project/nephio-test-prow-project
+    - https://github.com/nephio-project/free5gc-packages
+    - https://github.com/nephio-project/docs
+    - https://github.com/nephio-project/nephio-functions
+    - https://github.com/nephio-project/watcher-agent
+    - https://github.com/nephio-project/nf-deploy-controller
+    - https://github.com/nephio-project/edge-watcher
+    - https://github.com/nephio-project/common-lib
+    - https://github.com/nephio-project/sig-network-architecture
+    - https://github.com/nephio-project/sig-release
+  governance-repositories:
+    repo_urls:
+    - https://github.com/nephio-project/api
