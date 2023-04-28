@@ -183,4 +183,4 @@ resource_types:
     - https://github.com/pulumi/orbit-actions
     - https://github.com/pulumi/pulumi-nodejs-dynamic
   governance-repositories:
-    repo_urls:
+    repo_urls: []
