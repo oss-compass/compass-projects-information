@@ -184,4 +184,3 @@ resource_types:
     - https://github.com/pulumi/pulumi-nodejs-dynamic
   governance-repositories:
     repo_urls:
-    - https://github.com/pulumi/pulumi
