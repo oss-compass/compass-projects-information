@@ -1,7 +1,7 @@
-ident: sql-databases
-name: SQL Databases
+ident: sql-database
+name: SQL Database
 name_cn: 关系型数据库
-slug: /sql-databases
+slug: /sql-database
 items:
   - https://gitee.com/opengauss/openGauss-server
   - https://github.com/oceanbase/oceanbase

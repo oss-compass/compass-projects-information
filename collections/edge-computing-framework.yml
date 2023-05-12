@@ -1,7 +1,7 @@
-ident: edge-computing-frameworks
-name: Edge Computing Frameworks
+ident: edge-computing-framework
+name: Edge Computing Framework
 name_cn: 边缘计算框架
-slug: /edge-computing-frameworks
+slug: /edge-computing-framework
 items:
   - https://github.com/eclipse/kura
   - https://github.com/eclipse/winery

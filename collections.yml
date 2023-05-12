@@ -11,11 +11,11 @@
     - authorization-framework # 权限认证框架
     - crawler # 网络爬虫框架
     - css-framework # CSS 框架
-    - deep-learning-frameworks # 深度学习框架
-    - edge-computing-frameworks # 边缘计算框架
+    - deep-learning-framework # 深度学习框架
+    - edge-computing-framework # 边缘计算框架
     - ios-framework # iOS 开发框架
     - node.js-web-framework # Node.js Web 框架
-    - privacy-computing-frameworks # 隐私计算框架
+    - privacy-computing-framework # 隐私计算框架
     - serverless-framework # Serverless 框架
     - unit-testing-framework # 单元测试框架
     - web-frameworks # Web 开发框架
@@ -25,19 +25,19 @@
   items:
     - continuous-deployment-tools # 持续部署工具
     - continuous-integration-tools # 持续集成工具
-- ident: emerging-technologies
-  name: Emerging Technologies
+- ident: emerging-technologie
+  name: Emerging Technologie
   name_cn: 新兴技术
   items:
     - chatgpt # ChatGPT
-- ident: databases
-  name: Databases
+- ident: database
+  name: Database
   name_cn: 数据库
   items:
     - document-database # 文档数据库
-    - graph-databases # 图数据库
+    - graph-database # 图数据库
     - key-value-database # Key-Value 数据库
-    - sql-databases # 关系型数据库
+    - sql-database # 关系型数据库
     - time-series-database # 时序数据库
 - ident: frontend
   name: Frontend

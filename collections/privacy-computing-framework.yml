@@ -1,7 +1,7 @@
-ident: privacy-computing-frameworks
-name: Privacy Computing Frameworks
+ident: privacy-computing-framework
+name: Privacy Computing Framework
 name_cn: 隐私计算框架
-slug: /privacy-computing-frameworks
+slug: /privacy-computing-framework
 items:
   - https://github.com/microsoft/SEAL
   - https://github.com/secretflow/secretflow
