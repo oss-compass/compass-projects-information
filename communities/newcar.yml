@@ -1,0 +1,9 @@
+---
+community_name: newcar
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/Bug-Duck/newcar
+    - https://github.com/Bug-Duck/newcar-docs
+  governance-repositories:
+    repo_urls: []
