@@ -1,7 +1,7 @@
-ident: graph-databases
-name: Graph Databases
+ident: graph-database
+name: Graph Database
 name_cn: 图数据库
-slug: /graph-databases
+slug: /graph-database
 items:
   - https://github.com/dgraph-io/dgraph
   - https://github.com/neo4j/neo4j

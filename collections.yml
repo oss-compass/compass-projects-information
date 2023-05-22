@@ -1,0 +1,253 @@
+- ident: big-data
+  name: Big Data
+  name_cn: 大数据
+  items:
+    - big-data # 大数据
+- ident: development-framework
+  name: Development Framework
+  name_cn: 开发框架
+  items:
+    - android-development-framework # 安卓开发框架
+    - authorization-framework # 权限认证框架
+    - crawler # 网络爬虫框架
+    - css-framework # CSS 框架
+    - deep-learning-framework # 深度学习框架
+    - edge-computing-framework # 边缘计算框架
+    - ios-framework # iOS 开发框架
+    - node.js-web-framework # Node.js Web 框架
+    - privacy-computing-framework # 隐私计算框架
+    - serverless-framework # Serverless 框架
+    - unit-testing-framework # 单元测试框架
+    - web-frameworks # Web 开发框架
+- ident: devops
+  name: DevOps
+  name_cn: DevOps
+  items:
+    - continuous-deployment-tools # 持续部署工具
+    - continuous-integration-tools # 持续集成工具
+- ident: emerging-technologie
+  name: Emerging Technologie
+  name_cn: 新兴技术
+  items:
+    - chatgpt # ChatGPT
+- ident: database
+  name: Database
+  name_cn: 数据库
+  items:
+    - document-database # 文档数据库
+    - graph-database # 图数据库
+    - key-value-database # Key-Value 数据库
+    - sql-database # 关系型数据库
+    - time-series-database # 时序数据库
+- ident: frontend
+  name: Frontend
+  name_cn: 前端技术
+  items:
+    - ui-library # UI 库
+    - jquery-and-plugins # jQuery 及其插件
+    - bootstrap-theme # Bootstrap 主题
+    - mini-program-ui-library # 小程序 UI 库
+    - responsive-ui-frameworks # 响应式 UI 框架
+    - tailwindcss # Tailwind CSS 框架
+    - data-visualization # 数据可视化
+    - javascript-build-tool # 前端构建工具
+    - static-site-generator # 静态站点生成器
+    - electron-packaging-tools # Electron 打包工具
+    - desktop-cross-platform-application-development # 桌面跨平台应用开发
+    - mobile-cross-platform-application-development # 移动跨平台应用开发
+- ident: browser-related
+  name: Browser related
+  name_cn: 浏览器相关
+  items:
+    - browser-engine # 浏览器内核
+    - browser # 浏览器
+    - chrome-devtools # Chrome 开发者工具
+    - chrome-extension-development # Chrome 拓展开发
+- ident: cloud-native
+  name: Cloud native
+  name_cn: 云原生
+  items:
+    - cloud-native-storage # 云原生存储
+    - container-registry # 容器镜像注册表
+    - container-runtime # 容器运行时
+    - container-technology # 容器技术
+    - coordination-and-service-discovery # 协调与服务发现
+    - service-mesh # 服务网格
+    - service-proxy # 服务代理
+    - remote-procedure-call # 远程过程调用（RPC）
+- ident: development-toolkit
+  name: Development toolkit
+  name_cn: 开发工具
+  items:
+    - low-code-framework # 低代码框架
+    - code-analysis # 代码分析
+    - code-search # 代码搜索
+    - low-code-tools # 低代码工具
+    - openapi-code-generation # OpenAPI 代码生成器
+    - encryption-tools # 加密工具
+    - expression-engine # 表达式引擎
+    - fake-data-generator # 测试数据生成器
+    - graphql-client # GraphQL 客户端
+    - graphql-server # GraphQL 服务端
+    - headless-browser # 无头浏览器
+    - headless-cms # 无头 CMS
+    - honeypot # 蜜罐工具
+    - ides-and-editors # 编辑器和集成开发环境
+    - message-queue # 消息队列
+    - network-protocol-analysis # 网络协议分析工具
+    - oh-my-zsh-plugin # Oh My Zsh 插件
+    - package-management-tools # 包管理工具
+    - performance-analysis # 性能分析
+    - playground # Playground 工具
+    - regex-engine # 正则表达式引擎
+    - terminal # 终端
+    - test-automation # 自动化测试工具
+    - version-control-system # 版本控制系统
+    - vim-derived-editors # Vim 衍生编辑器
+    - vim-plug-ins # Vim 插件
+    - zsh-plugin # ZSH 插件
+- ident: software-development-library
+  name: Software development library
+  name_cn: 软件开发库
+  items:
+    - animation-library # 动画库
+    - ansible-devtools # Ansible 开发包
+    - git-development-kit # Git 开发包
+    - icon-library # 图标库
+    - image-processing # 图像处理库
+    - json-parsing-library # JSON 解析库
+    - kotlin-development-library # Kotlin 开发库
+    - laravel-packages # Laravel 扩展包
+    - open-graphics-library # 开放图形库
+    - pwa-library # PWA 开发库
+    - qr-code-library # 二维码解析生成库
+    - repl-toolkit # REPL 工具包
+    - wms # 仓库管理系统（WMS）
+    - syntax-highlighting # 语法高亮
+    - template-engine # 模板引擎
+    - tokenizer # 分词器
+    - web-popup-component # Web 弹窗组件
+- ident: hardware
+  name: Hardware
+  name_cn: 硬件相关
+  items:
+    - 3d-modeling-and-rendering # 3D 建模和渲染软件
+    - 3d-printer # 3D 打印
+    - open-source-hardware # 开源硬件
+    - arduino # Arduino
+    - robotics # 机器人技术
+    - robotic-process-automation # 机器人流程自动化
+- ident: security
+  name: Security
+  name_cn: 安全相关
+  items:
+    - application-definition-and-image-build # 应用程序定义和镜像构建
+    - cve-scanning # CVE 漏洞扫描
+    - dependency-analysis # 依赖分析
+    - dependency-management # 依赖管理
+    - security-and-compliance # 安全与合规工具
+    - security-audit # 安全审计
+- ident: others
+  name: Others
+  name_cn: 其他
+  items:
+    - admin-template # 管理后台模板
+    - api-gateway # API 网关
+    - api-management # API 管理
+    - apm # 应用性能管理（APM）
+    - awesome-lists # Awesome Lists
+    - backend-as-a-service # 后端即服务（BAAS）
+    - business-intelligence # 商业智能（BI）
+    - chaos-engineering # 混沌工程
+    - cheatsheets # 速查表
+    - circuit-breaker # 断路器
+    - cms # 内容管理系统（CMS）
+    - compression-and-decompression # 压缩解压缩
+    - computational-fluid-dynamics # 计算流体动力学（CFD）
+    - crm # 客户关系管理系统 (CRM)
+    - crontab # 定时任务
+    - data-mocking # 模拟数据
+    - design-system # 设计系统
+    - discord-bot # Discord 机器人
+    - distributed-tracing-platform # 分布式追踪平台
+    - domain-specific-language # 领域特定语言
+    - e-commerce-and-e-payment # 电子商务和在线支付
+    - e2e-testing # 端到端测试
+    - eBPF # eBPF
+    - emacs # Emacs
+    - emoji # Emoji 应用
+    - file-storage # 文件存储
+    - finite-state-machine # 有限状态机（FSM）
+    - flow-chart # 流程图
+    - fonts # 字体
+    - full-text-search-engine # 全文搜索引擎
+    - game-development-kit # 游戏开发套件
+    - game-emulator # 游戏模拟器
+    - games # 开源游戏
+    - gantt-chart # 甘特图
+    - geographic-information-system # 地理信息系统（GIS）
+    - gif-recorder # Gif 制作
+    - git-extensions # Git 拓展
+    - illustration # 插图设计
+    - information-accessibility # 信息无障碍
+    - input-method # 输入法
+    - instant-messaging # 即时通讯软件
+    - irc-client # IRC 客户端
+    - irc-server # IRC 服务器
+    - kanban # 看板工具
+    - knowledge-graph # 知识图谱
+    - logging # 日志记录管理
+    - mail-client # 邮件客户端
+    - mail-server # 邮件服务器
+    - media-players # 媒体播放器
+    - mind-map # 思维导图
+    - mlops # 自动化机器学习
+    - Monitoring # 系统监控
+    - motion-graphics # 动态图形软件
+    - nginx-related # Nginx 相关
+    - nlp # 自然语言处理
+    - note-application # 笔记应用
+    - object-storage # 对象存储
+    - obs-studio # OBS Studio
+    - observability # 可观测
+    - office # Office 办公软件
+    - office-software # 办公软件
+    - oidc-and-oauth-provider # OpenID Connect & OAuth Provider
+    - one-time-password-client # 一次性密码（OTP）客户端
+    - one-time-password-server # 一次性密码（OTP）服务端
+    - open-data # 开放数据
+    - orm # ORM
+    - password-manager # 密码管理器
+    - penetration-testing # 渗透测试工具
+    - policies # 开源章程
+    - process-manager # 进程管理器
+    - quantitative-trading # 量化交易
+    - raspberry-pi # 树莓派
+    - rate-limiting # 限速器
+    - roadmap # Roadmap
+    - rss-feed-tool # RSS 订阅工具
+    - sandbox # 沙箱
+    - scheduling-and-orchestration # 调度编排
+    - screenshots # 屏幕截图工具
+    - short-url-service # 短网址服务
+    - slack-alternative # Slack 替代方案
+    - smart-home # 智能家居
+    - socket-server # 套接字服务器
+    - software-composition-analysis # 软件成分分析（SCA）
+    - software-defined-networking # 软件定义网络
+    - software-in-science # 科研软件
+    - status-page-publishing-tools # Status Page 发布工具
+    - steganography # 隐写术
+    - streaming # 流处理
+    - tools-for-open-source # 开源软件基础设施
+    - unified-modeling-language-tookit # 统一建模语言（UML）工具
+    - video-editor # 视频剪辑
+    - virtual-machine # 虚拟机
+    - virtual-reality # 虚拟现实
+    - vlc-player # VLC 播放器
+    - voip-and-video-conferencing # VoIP 和视频会议
+    - web-servers # Web 服务器
+    - webassembly # WebAssembly(WASM)
+    - webrtc-server # WebRTC 服务器
+    - workflow-scheduler # 工作流调度器
+    - wysiwyg-editor # 即见即所得编辑器

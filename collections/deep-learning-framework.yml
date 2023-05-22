@@ -1,7 +1,7 @@
-ident: deep-learning-frameworks
-name: Deep Learning Frameworks
+ident: deep-learning-framework
+name: Deep Learning Framework
 name_cn: 深度学习框架
-slug: /deep-learning-frameworks
+slug: /deep-learning-framework
 items:
   - https://github.com/tensorflow/tensorflow
   - https://github.com/pytorch/pytorch
