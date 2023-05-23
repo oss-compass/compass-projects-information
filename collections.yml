@@ -57,11 +57,16 @@
   items:
     - continuous-deployment-tools # 持续部署工具
     - continuous-integration-tools # 持续集成工具
-- ident: emerging-technologie
-  name: Emerging Technologie
-  name_cn: 新兴技术
+
+- ident: cutting-edge-technology
+  name: Cutting Edge Technology
+  name_cn: 前沿技术
   items:
-    - chatgpt # ChatGPT
+    - automatic-drive # 自动驾驶
+    - Quantum-Computing # 量子计算
+    - Metaverse-web3 # 元宇宙和Web3
+    - IOT-Edge-Computing # 物联网和边缘计算
+    - smart-home # 智能家居
 
 
 - ident: frontend
