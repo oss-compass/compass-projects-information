@@ -1,8 +1,40 @@
+- ident: OS
+  name: Operation System
+  name_cn: 操作系统
+  items:
+    - desktop-operation-system # 桌面操作系统
+    - server-operation-system # 服务器操作系统
+    - embedded-operation-system # 嵌入式操作系统
+    - network-terminal-OS # 网络终端操作系统
+    - file-system # 文件系统
+    - operation-system-related # 操作系统相关软件
+    
+- ident: firmware
+  name: Firmware
+  name_cn: 固件
+  items:
+    - BIOS # BIOS
+    - other-firmware # 其他固件 
+
+- ident: database
+  name: Database
+  name_cn: 数据库
+  items:
+    - SQL-database # 关系型数据库
+    - no-SQL-database # 非关系型数据库
+    - time-series-database # 时序数据库
+    - embedded-database # 嵌入式数据库
+    - professional-database # 专业数据库
+    - database-development-kit # 数据库开发包
+    - database-management-and-monitor-tools # 数据库管理监控工具
+    - database-engine-and-servers # 数据库引擎和服务器
+    
 - ident: big-data
   name: Big Data
   name_cn: 大数据
   items:
     - big-data # 大数据
+    
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
@@ -25,20 +57,18 @@
   items:
     - continuous-deployment-tools # 持续部署工具
     - continuous-integration-tools # 持续集成工具
-- ident: emerging-technologie
-  name: Emerging Technologie
-  name_cn: 新兴技术
+
+- ident: cutting-edge-technology
+  name: Cutting Edge Technology
+  name_cn: 前沿技术
   items:
-    - chatgpt # ChatGPT
-- ident: database
-  name: Database
-  name_cn: 数据库
-  items:
-    - document-database # 文档数据库
-    - graph-database # 图数据库
-    - key-value-database # Key-Value 数据库
-    - sql-database # 关系型数据库
-    - time-series-database # 时序数据库
+    - automatic-drive # 自动驾驶
+    - Quantum-Computing # 量子计算
+    - Metaverse-web3 # 元宇宙和Web3
+    - IOT-Edge-Computing # 物联网和边缘计算
+    - smart-home # 智能家居
+
+
 - ident: frontend
   name: Frontend
   name_cn: 前端技术
@@ -127,16 +157,20 @@
     - template-engine # 模板引擎
     - tokenizer # 分词器
     - web-popup-component # Web 弹窗组件
+    
 - ident: hardware
   name: Hardware
-  name_cn: 硬件相关
+  name_cn: 硬件
   items:
-    - 3d-modeling-and-rendering # 3D 建模和渲染软件
-    - 3d-printer # 3D 打印
+    - 3d-printer # 3D 打印机
     - open-source-hardware # 开源硬件
     - arduino # Arduino
     - robotics # 机器人技术
     - robotic-process-automation # 机器人流程自动化
+    - drone # 无人机
+    - circuit-breaker # 断路器
+    - raspberry-pi # 树莓派     
+    
 - ident: security
   name: Security
   name_cn: 安全相关

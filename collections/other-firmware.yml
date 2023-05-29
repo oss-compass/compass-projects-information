@@ -1,0 +1,8 @@
+ident: other-firmware
+name: Other firmware
+name_cn: 其他固件
+slug: /other-firmware
+items:
+  - https://github.com/CloverHackyColor/CloverBootloader
+  - https://github.com/tianocore/edk2
+  - https://github.com/espressif/esptool

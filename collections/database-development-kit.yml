@@ -1,0 +1,7 @@
+ident: database-development-kit
+name: Database development kit
+name_cn: 数据库开发包
+slug: /database-development-kit
+items:
+  - https://github.com/sqlalchemy/sqlalchemy
+  - https://github.com/dotnetchina/SqlSugar
