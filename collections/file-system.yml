@@ -1,0 +1,12 @@
+ident: file-system
+name: File system
+name_cn: 文件系统
+slug: /file-system
+items:
+  - https://github.com/hanwen/go-fuse
+  - https://github.com/linuxmint/nemo
+  - https://github.com/openzfsonosx/zfs
+  - https://github.com/FarGroup/FarManager
+  - https://github.com/zfsonlinux/zfs
+  - https://github.com/openzfs/zfs
+  - https://github.com/winfsp/winfsp

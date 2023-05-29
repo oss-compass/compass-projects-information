@@ -1,0 +1,6 @@
+ident: server-operation-system
+name: Server operation system
+name_cn: 服务器操作系统
+slug: /server-operation-system
+items:
+  - https://github.com/torvalds/linux
