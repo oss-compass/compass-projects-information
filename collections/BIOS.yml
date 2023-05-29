@@ -1,0 +1,8 @@
+ident: BIOS
+name: BIOS
+name_cn: BIOS
+slug: /BIOS
+items:
+  - https://github.com/coreboot/coreboot
+  - https://github.com/libreboot/libreboot
+  - https://github.com/tianocore/edk2
