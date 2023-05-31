@@ -1,0 +1,6 @@
+ident: network-terminal-OS
+name: Network terminal OS
+name_cn: 网络终端操作系统
+slug: /network-terminal-OS
+items:
+  - https://github.com/Thinstation/thinstation
