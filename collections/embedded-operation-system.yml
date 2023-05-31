@@ -5,13 +5,10 @@ slug: /embedded-operation-system
 items:
   - https://github.com/Entware/Entware
   - https://github.com/CoreELEC/CoreELEC
-  - https://github.com/OpenELEC/OpenELEC.tv # no change in 6 years
   - https://github.com/KnightOS/KnightOS # no change in 2 years
-  - https://github.com/gamaral/rpi-buildroot # no change in 6 years
   - https://github.com/tinyos/tinyos-main # no change in 2 years
   - https://github.com/ARMmbed/mbed-os
   - https://github.com/jbruchon/elks
-  - https://github.com/MotorolaMobilityLLC/kernel-msm # no change in 10 years
   - https://github.com/numworks/epsilon
   - https://github.com/teslamotors/buildroot # no change in 4 years
   - https://github.com/Marus/cortex-debug
