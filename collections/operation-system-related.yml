@@ -1,0 +1,15 @@
+ident: operation-system-related
+name: Operation system related
+name_cn: 操作系统相关软件
+slug: /operation-system-related
+items:
+  - https://github.com/redox-os/relibc
+  - https://github.com/rcore-os/rCore # no change in 2 years
+  - https://github.com/joyent/smartos-live
+  - https://github.com/genodelabs/genode
+  - https://github.com/cloudius-systems/osv
+  - https://github.com/pyos/dg # no change in 3 years
+  - https://github.com/teslamotors/linux # no change in 3 years
+  - https://github.com/Atmosphere-NX/Atmosphere
+  - https://github.com/FreeRTOS/FreeRTOS
+  - https://github.com/FreeRTOS/FreeRTOS-Kernel
