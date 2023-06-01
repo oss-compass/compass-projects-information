@@ -4,5 +4,4 @@ name_cn: BIOS
 slug: /bios
 items:
   - https://github.com/coreboot/coreboot
-  - https://github.com/libreboot/libreboot
   - https://github.com/tianocore/edk2
