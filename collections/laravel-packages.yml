@@ -5,7 +5,6 @@ slug: /laravel-packages
 items:
   - https://github.com/barryvdh/laravel-debugbar
   - https://github.com/SpartnerNL/Laravel-Excel
-  - https://github.com/LaravelCollective
   - https://github.com/spatie/laravel-permission
   - https://github.com/spatie/laravel-backup
   - https://github.com/laravel/telescope
