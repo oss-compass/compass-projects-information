@@ -11585,6 +11585,7 @@ https://github.com/AsPJT/DungeonTemplateLibrary
 https://github.com/AssemblyScript/assemblyscript
 https://github.com/AsyncHttpClient/async-http-client
 https://github.com/Athou/commafeed
+https://github.com/Atmosphere-NX/Atmosphere
 https://github.com/Atmosphere/atmosphere
 https://github.com/Atoptool/atop
 https://github.com/AtsushiSakai/PythonRobotics
@@ -11660,6 +11661,7 @@ https://github.com/CloudOrc/SolidUI
 https://github.com/CloudOrc/SolidUI-Doc
 https://github.com/Clouda-team/BlendUI
 https://github.com/Clouda-team/Cloudajs
+https://github.com/CloverHackyColor/CloverBootloader
 https://github.com/ClusterHQ/flocker
 https://github.com/ClusterLabs/crmsh
 https://github.com/ClusterLabs/libqb
@@ -11693,6 +11695,7 @@ https://github.com/ConduitPlatform/Conduit
 https://github.com/ConsenSys/quorum
 https://github.com/ContextMapper/context-mapper-dsl
 https://github.com/Copypeng/Semantic-Admin-Template
+https://github.com/CoreELEC/CoreELEC
 https://github.com/Coreh/nide
 https://github.com/CorsixTH/CorsixTH
 https://github.com/Corymbia/eucalyptus
@@ -11844,6 +11847,7 @@ https://github.com/FreeFem/FreeFem-sources
 https://github.com/FreePBX/framework
 https://github.com/FreeRDP/FreeRDP
 https://github.com/FreeRDP/Remmina
+https://github.com/FreeRTOS/FreeRTOS
 https://github.com/FreeRTOS/FreeRTOS-Kernel
 https://github.com/FreeRTOS/FreeRTOS-LTS
 https://github.com/FreeTDS/freetds
@@ -11935,6 +11939,7 @@ https://github.com/IdreesInc/Monocraft
 https://github.com/IfcOpenShell/IfcOpenShell
 https://github.com/ImageMagick/ImageMagick
 https://github.com/Indamix/real-shadow
+https://github.com/InfiniTimeOrg/InfiniTime
 https://github.com/InfuseAI/primehub
 https://github.com/InsertKoinIO/koin
 https://github.com/Insolita/unused-scanner
@@ -12490,6 +12495,7 @@ https://github.com/Semantic-Org/docpad
 https://github.com/Semantic-Org/example-github
 https://github.com/Semantic-Org/gulp-prompt
 https://github.com/Semantic-Org/wrench-js
+https://github.com/SerenityOS/serenity
 https://github.com/SergeySatskiy/codimension
 https://github.com/Serhioromano/bootstrap-calendar
 https://github.com/Serial-Studio/Serial-Studio
@@ -12774,6 +12780,7 @@ https://github.com/The-Powder-Toy/The-Powder-Toy
 https://github.com/TheKingOfDuck/SBCVE
 https://github.com/TheLevelUp/ZXingObjC
 https://github.com/Theano/Theano
+https://github.com/Thinstation/thinstation
 https://github.com/ThoughtWorksInc/DeepLearning.scala
 https://github.com/ThreeTen/threetenbp
 https://github.com/ThrowTheSwitch/Unity
@@ -13843,6 +13850,7 @@ https://github.com/cookieY/Yearning
 https://github.com/coolwanglu/pdf2htmlEX
 https://github.com/coolwanglu/vim.js
 https://github.com/coq-community/coq-dpdgraph
+https://github.com/coreboot/coreboot
 https://github.com/coredns/coredns
 https://github.com/coreos/etcd
 https://github.com/coreos/fleet
@@ -14364,6 +14372,7 @@ https://github.com/eliben/pyelftools
 https://github.com/eligrey/FileSaver.js
 https://github.com/elixir-grpc/grpc
 https://github.com/elixir-lang/elixir
+https://github.com/elixir-mint/mint
 https://github.com/elixir-nx/axon
 https://github.com/elixir-nx/axon_onnx
 https://github.com/elixir-nx/bumblebee
@@ -14458,6 +14467,7 @@ https://github.com/esnet/iperf
 https://github.com/espocrm/espocrm
 https://github.com/espressif/arduino-esp32
 https://github.com/espressif/crosstool-NG
+https://github.com/espressif/esptool
 https://github.com/estools/escodegen
 https://github.com/esvit/ng-table
 https://github.com/etcd-io/bbolt
@@ -14803,6 +14813,7 @@ https://github.com/geany/geany
 https://github.com/geist-org/geist-ui
 https://github.com/gempir/go-twitch-irc
 https://github.com/genify/nej
+https://github.com/genodelabs/genode
 https://github.com/gentilkiwi/mimikatz
 https://github.com/gentoo/portage
 https://github.com/geographiclib/geographiclib
@@ -15461,6 +15472,7 @@ https://github.com/jboss-javassist/javassist
 https://github.com/jboss-logging/jboss-logging
 https://github.com/jboss-wise/wise-core
 https://github.com/jbossas/jboss-as
+https://github.com/jbruchon/elks
 https://github.com/jchambers/pushy
 https://github.com/jclouds/jclouds
 https://github.com/jcoleman/tomcat-redis-session-manager
@@ -15576,6 +15588,7 @@ https://github.com/josecebe/twbs-pagination
 https://github.com/joshvette001/java-exportpriv
 https://github.com/journeyapps/zxing-android-embedded
 https://github.com/joyent/http-parser
+https://github.com/joyent/smartos-live
 https://github.com/jpadilla/pyjwt
 https://github.com/jparsec/jparsec
 https://github.com/jpdias/botnet-lab
@@ -15955,6 +15968,7 @@ https://github.com/linuxdeepin/deepin-software-center
 https://github.com/linuxkit/linuxkit
 https://github.com/linuxmint/cinnamon
 https://github.com/linuxmint/cinnamon-spices-applets
+https://github.com/linuxmint/nemo
 https://github.com/lipingruan/oox
 https://github.com/liquibase/liquibase
 https://github.com/lirantal/awesome-opensource-israel
@@ -16553,6 +16567,7 @@ https://github.com/nullishzero/PDFEdit
 https://github.com/numactl/numactl
 https://github.com/numbbbbb/the-swift-programming-language-in-chinese
 https://github.com/numpy/numpy
+https://github.com/numworks/epsilon
 https://github.com/nunit/nunit
 https://github.com/nunomaduro/larastan
 https://github.com/nurupo/vlc-pause-click-plugin
@@ -16730,6 +16745,7 @@ https://github.com/openvz/vzkernel
 https://github.com/openwall/john
 https://github.com/openwebwork/webwork2
 https://github.com/openyurtio/openyurt
+https://github.com/openzfs/zfs
 https://github.com/openzfsonosx/zfs
 https://github.com/openzipkin/brave
 https://github.com/openzipkin/zipkin
@@ -18490,6 +18506,8 @@ https://github.com/tern-tools/tern
 https://github.com/terrier-org/terrier-core
 https://github.com/terryma/vim-multiple-cursors
 https://github.com/terser/terser
+https://github.com/teslamotors/buildroot
+https://github.com/teslamotors/linux
 https://github.com/tesseract-ocr/tesseract
 https://github.com/testcontainers/testcontainers-java
 https://github.com/tetratelabs/wazero
@@ -18648,6 +18666,7 @@ https://github.com/torne/Tiny-Tiny-RSS
 https://github.com/torodb/torodb
 https://github.com/torproject/tor
 https://github.com/tortoise/tortoise-orm
+https://github.com/torvalds/linux
 https://github.com/tpm2-software/tpm2-tss
 https://github.com/tpope/vim-commentary
 https://github.com/tpope/vim-fugitive
