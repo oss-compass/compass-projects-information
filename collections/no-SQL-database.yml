@@ -1,0 +1,14 @@
+ident: no-SQL-database
+name: No SQL database
+name_cn: 非关系型数据库
+slug: /no-SQL-database
+items:
+  - https://github.com/aerospike/aerospike-server
+  - https://github.com/basho/riak
+  - https://github.com/basho/riak_kv
+  - https://github.com/ReactiveMongo/ReactiveMongo
+  - https://github.com/EventStore/EventStore
+  - https://github.com/rethinkdb/rethinkdb
+  - https://github.com/moneta-rb/moneta
+  - https://github.com/yapstudios/YapDatabase # no change in 3 years
+  - https://github.com/yinqiwen/ardb # no change in 4 years
