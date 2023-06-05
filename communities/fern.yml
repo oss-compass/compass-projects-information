@@ -1,0 +1,8 @@
+---
+community_name: fern
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/fern-api/fern
+  governance-repositories:
+    repo_urls: []
