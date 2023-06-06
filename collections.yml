@@ -1,3 +1,14 @@
+- ident: operation-system
+  name: Operation System
+  name_cn: 操作系统
+  items:
+    - desktop-operation-system # 桌面操作系统
+    - server-operation-system # 服务器操作系统
+    - embedded-operation-system # 嵌入式操作系统
+    - network-terminal-OS # 网络终端操作系统
+    - file-system # 文件系统
+    - operation-system-related # 操作系统相关软件
+    
 - ident: big-data
   name: Big Data
   name_cn: 大数据
