@@ -1,0 +1,6 @@
+ident: embedded-database
+name: Embedded database
+name_cn: 嵌入式数据库
+slug: /embedded-database
+items:
+  - https://github.com/genjidb/genji
