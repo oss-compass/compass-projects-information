@@ -11791,6 +11791,7 @@ https://github.com/EsotericSoftware/yamlbeans
 https://github.com/EstrellaXD/Auto_Bangumi
 https://github.com/Eugeny/tabby
 https://github.com/Eugeny/terminus
+https://github.com/EventStore/EventStore
 https://github.com/ExHammer/hammer
 https://github.com/ExactTarget/fuelux
 https://github.com/Exein-io/kepler
@@ -12165,6 +12166,7 @@ https://github.com/MrRio/jsPDF
 https://github.com/MrXujiang/h5-Dooring
 https://github.com/Muhnad/a11y-checker
 https://github.com/MunGell/awesome-for-beginners
+https://github.com/MyCATApache/Mycat-Server
 https://github.com/MyCollab/mycollab
 https://github.com/MyRobotLab/myrobotlab
 https://github.com/MycroftAI/mycroft-core
@@ -12362,6 +12364,7 @@ https://github.com/RasaHQ/rasa
 https://github.com/Raynos/global
 https://github.com/React95/React95
 https://github.com/ReactTraining/react-router
+https://github.com/ReactiveMongo/ReactiveMongo
 https://github.com/ReactiveX/RxAndroid
 https://github.com/ReactiveX/RxJava
 https://github.com/ReactiveX/RxKotlin
@@ -12913,6 +12916,7 @@ https://github.com/aduggin/accessibility-fails
 https://github.com/adyliu/jafka
 https://github.com/aemkei/jsfuck
 https://github.com/aerokube/selenoid
+https://github.com/aerospike/aerospike-server
 https://github.com/afaqurk/linux-dash
 https://github.com/aframevr/aframe
 https://github.com/aframevr/awesome-aframe
@@ -12996,6 +13000,7 @@ https://github.com/alibaba/bizcharts
 https://github.com/alibaba/canal
 https://github.com/alibaba/cobar
 https://github.com/alibaba/cobarclient
+https://github.com/alibaba/druid
 https://github.com/alibaba/easyexcel
 https://github.com/alibaba/f2etest
 https://github.com/alibaba/fastjson
@@ -13451,6 +13456,7 @@ https://github.com/baryshev/ect
 https://github.com/basho/bitcask
 https://github.com/basho/riak
 https://github.com/basho/riak_cs
+https://github.com/basho/riak_kv
 https://github.com/batfish/batfish
 https://github.com/battlesnake/neural
 https://github.com/bazelbuild/bazel
@@ -13493,6 +13499,7 @@ https://github.com/bevuta/pepa
 https://github.com/bgrins/spectrum
 https://github.com/bigbluebutton/bigbluebutton
 https://github.com/binary-husky/chatgpt_academic
+https://github.com/binary-husky/gpt_academic
 https://github.com/binaryage/dirac
 https://github.com/bingoogolapple/BGAQRCode-Android
 https://github.com/binhnguyennus/awesome-scalability
@@ -13742,6 +13749,7 @@ https://github.com/circleci/circleci-docs
 https://github.com/cisco/ChezScheme
 https://github.com/cisco/libsrtp
 https://github.com/cisco/openh264
+https://github.com/cisco/thor
 https://github.com/citizenll/godot-flexbox
 https://github.com/citra-emu/citra
 https://github.com/citrusframework/citrus
@@ -14703,6 +14711,7 @@ https://github.com/fengyuanchen/cropper
 https://github.com/fengyuanchen/cropperjs
 https://github.com/fengyuanchen/viewer
 https://github.com/fengyuanchen/viewerjs
+https://github.com/fern-api/fern
 https://github.com/festvox/flite
 https://github.com/fex-team/kityminder
 https://github.com/fex-team/ueditor
@@ -14813,6 +14822,7 @@ https://github.com/geany/geany
 https://github.com/geist-org/geist-ui
 https://github.com/gempir/go-twitch-irc
 https://github.com/genify/nej
+https://github.com/genjidb/genji
 https://github.com/genodelabs/genode
 https://github.com/gentilkiwi/mimikatz
 https://github.com/gentoo/portage
@@ -16317,14 +16327,17 @@ https://github.com/mockk/mockk
 https://github.com/modelmapper/modelmapper
 https://github.com/modmail-dev/modmail
 https://github.com/modolabs/Kurogo-Mobile-Web
+https://github.com/modularml/mojo
 https://github.com/mogaal/editra
 https://github.com/moggers87/salmon
 https://github.com/mojohaus/animal-sniffer
+https://github.com/mojotech/torch
 https://github.com/mollie/laravel-mollie
 https://github.com/moment/moment
 https://github.com/moment/moment-timezone
 https://github.com/momosecurity/mosec-maven-plugin
 https://github.com/monero-project/monero
+https://github.com/moneta-rb/moneta
 https://github.com/mongodb/mongo
 https://github.com/mongodb/mongo-c-driver
 https://github.com/mongodb/mongo-go-driver
@@ -16477,6 +16490,7 @@ https://github.com/networked-aframe/networked-aframe
 https://github.com/networkx/networkx
 https://github.com/netzob/netzob
 https://github.com/neuronetio/gantt-elastic
+https://github.com/neutrinolabs/xrdp
 https://github.com/newpanjing/simpleui
 https://github.com/nexB/scancode-toolkit
 https://github.com/nexB/scancode.io
@@ -17712,6 +17726,7 @@ https://github.com/rust-lang/libc
 https://github.com/rust-lang/log
 https://github.com/rust-lang/mdBook
 https://github.com/rust-lang/regex
+https://github.com/rust-lang/rust
 https://github.com/rust-num/num-traits
 https://github.com/rust-random/rand
 https://github.com/rust-unofficial/awesome-rust
@@ -18565,6 +18580,7 @@ https://github.com/tilkinsc/COTP
 https://github.com/tilkinsc/CSOTP
 https://github.com/tilkinsc/JSOTP
 https://github.com/tilkinsc/LuaOTP
+https://github.com/tilt-dev/tilt
 https://github.com/timescale/benchmark-postgres
 https://github.com/timescale/build-actions
 https://github.com/timescale/calico_upgrade_poc
@@ -19182,6 +19198,7 @@ https://github.com/woocommerce/woocommerce
 https://github.com/wordpress/secure-swfupload
 https://github.com/worldveil/dejavu
 https://github.com/wout/svg.js
+https://github.com/woutdp/live_svelte
 https://github.com/wpscanteam/wpscan
 https://github.com/wrannaman/generators
 https://github.com/wso2/product-apim
@@ -19265,6 +19282,7 @@ https://github.com/yansongda/pay
 https://github.com/yaochuxia/hover
 https://github.com/yaoweibin/nginx_tcp_proxy_module
 https://github.com/yaoweibin/nginx_upstream_check_module
+https://github.com/yapstudios/YapDatabase
 https://github.com/yarnpkg/berry
 https://github.com/yarnpkg/yarn
 https://github.com/yccheok/jstock
@@ -19283,9 +19301,11 @@ https://github.com/yiisoft/yii2
 https://github.com/yilozt/rounded-window-corners
 https://github.com/yiminghe/async-validator
 https://github.com/yinhe/yincart
+https://github.com/yinqiwen/ardb
 https://github.com/yinwang0/pysonar2
 https://github.com/yixia/VitamioBundle
 https://github.com/ylechelle/OpenUDID
+https://github.com/ymnk/jzlib
 https://github.com/yomorun/yomo
 https://github.com/youngmonkeys/ezyfox-server
 https://github.com/yourls/yourls
