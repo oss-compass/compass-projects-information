@@ -1,0 +1,17 @@
+ident: database-management-and-monitor-tools
+name: Database management and monitor tools
+name_cn: 数据库管理监控工具
+slug: /database-management-and-monitor-tools
+items:
+  - https://github.com/mikro-orm/mikro-orm
+  - https://github.com/redis/redis-py
+  - https://github.com/predis/predis
+  - https://github.com/vrana/adminer # no change in 2 years
+  - https://github.com/redis/jedis
+  - https://github.com/rails-sqlserver/tiny_tds
+  - https://github.com/Casecommons/pg_search
+  - https://github.com/mapbox/node-sqlite3
+  - https://github.com/Wisser/Jailer
+  - https://github.com/EnterpriseDB/repmgr
+  - https://github.com/db-migrate/node-db-migrate
+  - https://github.com/seancorfield/honeysql
