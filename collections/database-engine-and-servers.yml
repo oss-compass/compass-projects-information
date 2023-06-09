@@ -1,0 +1,13 @@
+ident: database-engine-and-servers
+name: Database engine and servers
+name_cn: 数据库引擎和服务器
+slug: /database-engine-and-servers
+items:
+  - https://github.com/prestodb/presto
+  - https://github.com/Tokutek/mongo
+  - https://github.com/percona/PerconaFT # no change in 2 years
+  - https://github.com/gluesql/gluesql
+  - https://github.com/Nozbe/WatermelonDB
+  - https://github.com/google/lovefield # no change in 3 years
+  - https://github.com/araddon/qlbridge # no change in 2 years
+  - https://github.com/trinodb/trino

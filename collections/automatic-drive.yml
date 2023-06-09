@@ -1,0 +1,7 @@
+ident: automatic-drive
+name: Automatic drive
+name_cn: 自动驾驶
+slug: /automatic-drive
+items:
+  - https://github.com/carla-simulator/carla
+  - https://github.com/ApolloAuto/apollo
