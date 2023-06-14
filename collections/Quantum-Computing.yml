@@ -7,4 +7,3 @@ items:
   - https://github.com/pyscf/pyscf
   - https://github.com/QuantumBFS/Yao.jl
   - https://github.com/PennyLaneAI/pennylane
-  - https://github.com/Qiskit/qiskit-aqua # no change in 2 years
