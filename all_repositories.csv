@@ -11645,6 +11645,7 @@ https://github.com/CatxFish/obs-virtual-cam
 https://github.com/CeresDB/ceresdb
 https://github.com/CesiumGS/cesium
 https://github.com/ChaiScript/ChaiScript
+https://github.com/ChainSafe/web3.js
 https://github.com/Chanzhaoyu/chatgpt-web
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chicago/food-inspections-evaluation
@@ -12024,6 +12025,7 @@ https://github.com/Kitware/CMake
 https://github.com/Klipper3d/klipper
 https://github.com/KnightOS/KnightOS
 https://github.com/Kocal/vue-web-extension
+https://github.com/Koenkk/zigbee2mqtt
 https://github.com/Kong/insomnia
 https://github.com/Kong/kong
 https://github.com/Kong/unirest-java
@@ -12311,12 +12313,14 @@ https://github.com/PanJiaChen/vue-element-admin
 https://github.com/ParabolInc/parabol
 https://github.com/Paradoxis/StegCracker
 https://github.com/Payum/Payum
+https://github.com/PennyLaneAI/pennylane
 https://github.com/Perl/perl5
 https://github.com/PetrochukM/PyTorch-NLP
 https://github.com/PhilJay/MPAndroidChart
 https://github.com/PhilipHazel/pcre2
 https://github.com/PhilippC/keepass2android
 https://github.com/Physiix/topsi-project-manager
+https://github.com/Pi4J/pi4j-v1
 https://github.com/Pikaday/Pikaday
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 https://github.com/PointCloudLibrary/pcl
@@ -12353,6 +12357,7 @@ https://github.com/Qihoo360/pika
 https://github.com/Qihoo360/wayne
 https://github.com/QtExcel/QXlsx
 https://github.com/Quagga/quagga
+https://github.com/QuantumBFS/Yao.jl
 https://github.com/QubitProducts/bamboo
 https://github.com/RT-Thread/rt-thread
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
@@ -12533,6 +12538,7 @@ https://github.com/SmartisanTech/android
 https://github.com/SnapKit/Masonry
 https://github.com/SnapKit/SnapKit
 https://github.com/Snapchat/KeyDB
+https://github.com/SoCo/SoCo
 https://github.com/Softmotions/ejdb
 https://github.com/SoftwareAG/nyoka
 https://github.com/Solido/awesome-flutter
@@ -12853,6 +12859,7 @@ https://github.com/Wisser/Jailer
 https://github.com/WordPress/WordPress
 https://github.com/X2Engine/X2CRM
 https://github.com/XRPLF/rippled
+https://github.com/XanaduAI/strawberryfields
 https://github.com/Xaymar/obs-StreamFX
 https://github.com/Xcode-Snippets/Objective-C
 https://github.com/XiaoMi/jack
@@ -13191,6 +13198,7 @@ https://github.com/apache/dubbo-spi-extensions
 https://github.com/apache/dubbo-website
 https://github.com/apache/eagle
 https://github.com/apache/echarts
+https://github.com/apache/eventmesh
 https://github.com/apache/falcon
 https://github.com/apache/felix-dev
 https://github.com/apache/flink
@@ -13697,6 +13705,7 @@ https://github.com/cert-manager/cert-manager
 https://github.com/certbot/certbot
 https://github.com/certifi/python-certifi
 https://github.com/cesanta/mongoose
+https://github.com/cesanta/v7
 https://github.com/cfengine/core
 https://github.com/chaico/FormDesign
 https://github.com/chaijunit/markbj
@@ -14242,6 +14251,7 @@ https://github.com/drawcall/Proton
 https://github.com/drduh/pwd.sh
 https://github.com/dreamfactorysoftware/dreamfactory
 https://github.com/dreamhead/moco
+https://github.com/dresden-elektronik/deconz-rest-plugin
 https://github.com/dresende/node-orm2
 https://github.com/drewnoakes/metadata-extractor
 https://github.com/drewwilson/TipTip
@@ -15144,6 +15154,7 @@ https://github.com/highlightjs/highlight.js
 https://github.com/hightman/xunsearch
 https://github.com/hiloteam/Hilo
 https://github.com/hinesboy/mavonEditor
+https://github.com/hiroi-sora/Umi-OCR
 https://github.com/hivedb/hive
 https://github.com/hizzgdev/jsmind
 https://github.com/hmailserver/hmailserver
@@ -16619,6 +16630,7 @@ https://github.com/obsproject/obs-studio
 https://github.com/obsproject/obs-websocket
 https://github.com/oceanbase/oceanbase
 https://github.com/ochococo/Design-Patterns-In-Swift
+https://github.com/octoblu/meshblu
 https://github.com/octobox/octobox
 https://github.com/odoo/odoo
 https://github.com/ohmyzsh/ohmyzsh
@@ -16652,6 +16664,7 @@ https://github.com/open-policy-agent/opa
 https://github.com/open-source-parsers/jsoncpp
 https://github.com/open-telemetry/opentelemetry-java
 https://github.com/open62541/open62541
+https://github.com/openSUSE/open-build-service
 https://github.com/openaddresses/openaddresses
 https://github.com/openai/evals
 https://github.com/openai/gpt-2
@@ -16861,6 +16874,7 @@ https://github.com/paritytech/substrate
 https://github.com/paroi-tech/direct-vuex
 https://github.com/parse-community/Parse-SDK-Android
 https://github.com/parse-community/Parse-SDK-iOS-OSX
+https://github.com/particle-iot/device-os
 https://github.com/passbolt/passbolt_api
 https://github.com/patric-r/jvmtop
 https://github.com/patrickmn/go-cache
@@ -17354,6 +17368,7 @@ https://github.com/pypa/wheel
 https://github.com/pyparsing/pyparsing
 https://github.com/pyradius/pyrad
 https://github.com/pyrsia/pyrsia
+https://github.com/pyscf/pyscf
 https://github.com/pyserial/pyserial
 https://github.com/pytest-dev/pytest
 https://github.com/python-attrs/attrs
@@ -18047,6 +18062,7 @@ https://github.com/sitaramc/gitolite
 https://github.com/sitemesh/sitemesh3
 https://github.com/siteserver/cms
 https://github.com/sitespeedio/sitespeed.io
+https://github.com/sitewhere/sitewhere
 https://github.com/sj26/mailcatcher
 https://github.com/sjdirect/abotx
 https://github.com/sjvermeu/cvechecker
