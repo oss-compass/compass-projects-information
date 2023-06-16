@@ -1,0 +1,7 @@
+ident: drone
+name: drone
+name_cn: 无人机
+slug: /drone
+items:
+  - https://github.com/ArduPilot/ardupilot
+  - https://github.com/ArduPilot/MissionPlanner
