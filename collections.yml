@@ -52,11 +52,14 @@
   name: Database
   name_cn: 数据库
   items:
-    - document-database # 文档数据库
-    - graph-database # 图数据库
-    - key-value-database # Key-Value 数据库
     - sql-database # 关系型数据库
+    - no-SQL-database # 非关系型数据库
     - time-series-database # 时序数据库
+    - embedded-database # 嵌入式数据库
+    - database-development-kit # 数据库开发包
+    - database-management-and-monitor-tools # 数据库管理、监控工具
+    - database-engine-and-servers # 数据库引擎/服务器
+    
 - ident: frontend
   name: Frontend
   name_cn: 前端技术
