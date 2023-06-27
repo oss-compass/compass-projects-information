@@ -12253,6 +12253,7 @@ https://github.com/OldPanda/bloomfilter
 https://github.com/OldPanda/bloomfilter-py
 https://github.com/Oneflow-Inc/oneflow
 https://github.com/OnsenUI/OnsenUI
+https://github.com/Open-CAS/ocf
 https://github.com/Open-Cascade-SAS/OCCT
 https://github.com/Open-Falcon/falcon-plus
 https://github.com/OpenAPITools/openapi-generator
@@ -13206,6 +13207,7 @@ https://github.com/apache/eventmesh
 https://github.com/apache/falcon
 https://github.com/apache/felix-dev
 https://github.com/apache/flink
+https://github.com/apache/flink-connector-pulsar
 https://github.com/apache/flume
 https://github.com/apache/freemarker
 https://github.com/apache/griffin
@@ -13274,7 +13276,20 @@ https://github.com/apache/phoenix
 https://github.com/apache/pig
 https://github.com/apache/poi
 https://github.com/apache/pulsar
+https://github.com/apache/pulsar-adapters
+https://github.com/apache/pulsar-client-cpp
+https://github.com/apache/pulsar-client-go
+https://github.com/apache/pulsar-client-node
+https://github.com/apache/pulsar-client-python
+https://github.com/apache/pulsar-client-reactive
+https://github.com/apache/pulsar-client-ruby
+https://github.com/apache/pulsar-connectors
+https://github.com/apache/pulsar-dotpulsar
+https://github.com/apache/pulsar-helm-chart
+https://github.com/apache/pulsar-manager
+https://github.com/apache/pulsar-presto
 https://github.com/apache/pulsar-site
+https://github.com/apache/pulsar-test-infra
 https://github.com/apache/qpid-proton
 https://github.com/apache/ranger
 https://github.com/apache/ratis
@@ -13893,6 +13908,7 @@ https://github.com/coreybutler/nvm-windows
 https://github.com/coronalabs/corona
 https://github.com/corosync/corosync
 https://github.com/cortesi/modd
+https://github.com/cortexproject/cortex
 https://github.com/corydolphin/flask-cors
 https://github.com/cosmocode/contagged
 https://github.com/cosmos/cosmos-sdk
@@ -17071,6 +17087,7 @@ https://github.com/pqina/filepond
 https://github.com/prakhar1989/awesome-courses
 https://github.com/prancer-io/cloud-validation-framework
 https://github.com/praveenLT/java-testng-headless-testing
+https://github.com/pravega/pravega
 https://github.com/praydog/REFramework
 https://github.com/prazanna/hbase-indexer
 https://github.com/preactjs/preact
