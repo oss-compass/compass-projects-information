@@ -1,0 +1,16 @@
+ident: integrated-development-environment-IDE
+name: Integrated Development Environment IDE
+name_cn: 集成开发环境
+slug: /integrated-development-environment-IDE
+items:
+  - https://github.com/clojure-lsp/clojure-lsp
+  - https://github.com/gbdev/rgbds
+  - https://github.com/aptana/studio3 # no change in 3 years
+  - https://github.com/realgud/realgud
+  - https://github.com/kschiess/parslet
+  - https://github.com/rstudio/rstudio
+  - https://github.com/lamdu/lamdu
+  - https://github.com/ninja-ide/ninja-ide # no change in 2 years
+  - https://github.com/JetBrains/intellij-scala
+  - https://github.com/pkulchenko/ZeroBraneStudio
+  - https://github.com/visualfc/liteide
