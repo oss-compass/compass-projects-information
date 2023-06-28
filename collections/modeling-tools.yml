@@ -1,0 +1,12 @@
+ident: modeling-tools
+name: Modeling Tools
+name_cn: 建模工具
+slug: /modeling-tools
+items:
+  - https://github.com/archimatetool/archi
+  - https://github.com/statsmodels/statsmodels
+  - https://github.com/toadstorm/MOPS
+  - https://github.com/assimp/assimp
+  - https://github.com/RodZill4/material-maker
+  - https://github.com/python-control/python-control
+  - https://github.com/sicmutils/sicmutils
