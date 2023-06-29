@@ -1,0 +1,15 @@
+ident: software-project-management
+name: Software Project Management
+name_cn: 软件项目管理
+slug: /software-project-management
+items:
+  - https://github.com/edavis10/redmine # no change in 1 years
+  - https://github.com/taigaio/taiga-back # no change in 2 years
+  - https://github.com/erengy/taiga
+  - https://github.com/mattermost/focalboard
+  - https://github.com/mantisbt/mantisbt
+  - https://github.com/redmine/redmine
+  - https://github.com/taigaio/taiga-front # no change in 2 years
+  - https://github.com/kiswa/TaskBoard # no change in 3 years
+  - https://github.com/ParabolInc/parabol
+  - https://github.com/nextcloud/deck
