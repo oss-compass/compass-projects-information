@@ -1,0 +1,20 @@
+ident: testing-tools
+name: Testing Tools
+name_cn: 测试工具
+slug: /testing-tools
+items:
+  - https://github.com/vitest-dev/vitest
+  - https://github.com/cucumber/cucumber-ruby
+  - https://github.com/freerange/mocha
+  - https://github.com/aosp-mirror/platform_development
+  - https://github.com/jasmine/jasmine
+  - https://github.com/unclebob/fitnesse
+  - https://github.com/junit-team/junit4
+  - https://github.com/jquery/testswarm
+  - https://github.com/seattlerb/minitest
+  - https://github.com/mockery/mockery
+  - https://github.com/DatabaseCleaner/database_cleaner
+  - https://github.com/theory/pgtap
+  - https://github.com/grosser/parallel_tests
+  - https://github.com/sebastianbergmann/php-code-coverage
+  - https://github.com/rspec/rspec-core

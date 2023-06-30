@@ -1,0 +1,17 @@
+ident: reverse-engineering-and-re-engineering-software
+name: Reverse Engineering And Re Engineering Software
+name_cn: 逆向工程软件和再工程软件
+slug: /reverse-engineering-and-re-engineering-software
+items:
+  - https://github.com/cython/cython
+  - https://github.com/icsharpcode/ILSpy
+  - https://github.com/yasm/yasm
+  - https://github.com/ldc-developers/ldc
+  - https://github.com/ingokegel/jclasslib
+  - https://github.com/mxe/mxe
+  - https://github.com/serge-sans-paille/pythran
+  - https://github.com/benjamn/recast
+  - https://github.com/JesusFreke/smali # no change in 1 years
+  - https://github.com/Nuitka/Nuitka
+  - https://github.com/real-logic/simple-binary-encoding
+  - https://github.com/konsoletyper/teavm
