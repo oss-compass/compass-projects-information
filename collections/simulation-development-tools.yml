@@ -1,0 +1,21 @@
+ident: simulation-development-tools
+name: Simulation Development Tools
+name_cn: 仿真开发工具
+slug: /simulation-development-tools
+items:
+  - https://github.com/EKA2L1/EKA2L1
+  - https://github.com/jbush001/NyuziProcessor
+  - https://github.com/buserror/simavr # no change in 1 years
+  - https://github.com/brian-team/brian2
+  - https://github.com/cocotb/cocotb
+  - https://github.com/GNS3/gns3-server
+  - https://github.com/GNS3/gns3-gui
+  - https://github.com/RobotLocomotion/drake
+  - https://github.com/NanoComp/meep
+  - https://github.com/floooh/chips
+  - https://github.com/foxglove/studio
+  - https://github.com/NREL/EnergyPlus
+  - https://github.com/gpgpu-sim/gpgpu-sim_distribution # no change in 3 years
+  - https://github.com/gem5/gem5
+  - https://github.com/OpenModelica/OpenModelica
+  - https://github.com/KratosMultiphysics/Kratos
