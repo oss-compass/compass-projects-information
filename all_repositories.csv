@@ -11735,6 +11735,7 @@ https://github.com/DataSky/HData
 https://github.com/DataSoft/Honeyd
 https://github.com/DataTables/DataTables
 https://github.com/DataTables/DataTablesSrc
+https://github.com/DatabaseCleaner/database_cleaner
 https://github.com/Datawalke/Coordino
 https://github.com/DaveGamble/cJSON
 https://github.com/DavidBuchanan314/tweetable-polyglot-png
@@ -11770,6 +11771,7 @@ https://github.com/DroidPluginTeam/DroidPlugin
 https://github.com/DualSPHysics/DualSPHysics
 https://github.com/Duet3D/RepRapFirmware
 https://github.com/DylanVann/react-native-fast-image
+https://github.com/EKA2L1/EKA2L1
 https://github.com/ESAPI/esapi-java-legacy
 https://github.com/EZLippi/Tinyhttpd
 https://github.com/Eastrall/Rhisis
@@ -11869,6 +11871,7 @@ https://github.com/GNOME/dia
 https://github.com/GNOME/gimp
 https://github.com/GNOME/nautilus
 https://github.com/GNS3/gns3-gui
+https://github.com/GNS3/gns3-server
 https://github.com/GPUOpen-Effects/FidelityFX-FSR
 https://github.com/GPUOpen-LibrariesAndSDKs/AMF
 https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
@@ -11973,12 +11976,14 @@ https://github.com/JanusGraph/janusgraph
 https://github.com/JedWatson/classnames
 https://github.com/Jeffail/gabs
 https://github.com/JeffreyZhao/jscex
+https://github.com/JesusFreke/smali
 https://github.com/JetBrains/Exposed
 https://github.com/JetBrains/JetBrainsMono
 https://github.com/JetBrains/JetBrainsRuntime
 https://github.com/JetBrains/MPS
 https://github.com/JetBrains/android
 https://github.com/JetBrains/intellij-community
+https://github.com/JetBrains/intellij-scala
 https://github.com/JetBrains/kotlin
 https://github.com/JianpengLi1993/minimp3
 https://github.com/JianpengLi1993/minimp4
@@ -12183,6 +12188,7 @@ https://github.com/NLPIR-team/NLPIR
 https://github.com/NLPchina/ansj_seg
 https://github.com/NLPchina/elasticsearch-sql
 https://github.com/NLnetLabs/nsd
+https://github.com/NREL/EnergyPlus
 https://github.com/NTNU-IHB/FMI4cpp
 https://github.com/NV/chrome-devtools-autosave
 https://github.com/NVIDIA/TensorRT
@@ -12192,6 +12198,7 @@ https://github.com/NXPNFCProject/NFC_NCIHAL_libnfc-nci
 https://github.com/NXPNFCProject/nfcandroid_nfc_hidlimpl
 https://github.com/NancyFx/Nancy
 https://github.com/NaniteFactory/chromebot
+https://github.com/NanoComp/meep
 https://github.com/NanoHttpd/nanohttpd
 https://github.com/NarrativeScience/Log.io
 https://github.com/NativeScript/NativeScript
@@ -12230,6 +12237,8 @@ https://github.com/NotFound403/payment-spring-boot
 https://github.com/NotFound403/payment-spring-boot-samples
 https://github.com/NotFound403/wecom-sdk
 https://github.com/Nozbe/WatermelonDB
+https://github.com/NuGet/NuGetGallery
+https://github.com/Nuitka/Nuitka
 https://github.com/OISF/suricata
 https://github.com/ONLYOFFICE/CommunityServer
 https://github.com/ONLYOFFICE/Docker-MailServer
@@ -12267,8 +12276,10 @@ https://github.com/OpenFOAM/OpenFOAM-dev
 https://github.com/OpenFeign/feign
 https://github.com/OpenGenus/quark
 https://github.com/OpenImageDenoise/oidn
+https://github.com/OpenKM/document-management-system
 https://github.com/OpenLMLab/MOSS
 https://github.com/OpenMined/PySyft
+https://github.com/OpenModelica/OpenModelica
 https://github.com/OpenNMS/opennms
 https://github.com/OpenNebula/one
 https://github.com/OpenQBMM/OpenQBMM
@@ -12343,6 +12354,7 @@ https://github.com/PuerkitoBio/goquery
 https://github.com/PuffOpenSource/Puff-Android
 https://github.com/Pwdr/Pwdr-Model-0.1
 https://github.com/PyAV-Org/PyAV
+https://github.com/PyCQA/pycodestyle
 https://github.com/PyCQA/pylint
 https://github.com/PyFR/PyFR
 https://github.com/PyGreSQL/PyGreSQL
@@ -12403,6 +12415,7 @@ https://github.com/RoaringBitmap/RoaringBitmap
 https://github.com/RoboBinding/RoboBinding
 https://github.com/RocketChat/Rocket.Chat
 https://github.com/Rockncoder/JQMCharts
+https://github.com/RodZill4/material-maker
 https://github.com/RubyLouvre/avalon
 https://github.com/RuedigerMoeller/fast-serialization
 https://github.com/RussellLuo/slidingwindow
@@ -13145,6 +13158,7 @@ https://github.com/anwsion/stable
 https://github.com/anymaniax/orval
 https://github.com/aol/micro-server
 https://github.com/aonez/Keka
+https://github.com/aosp-mirror/platform_development
 https://github.com/aozora/bootmetro
 https://github.com/apache/activemq
 https://github.com/apache/airflow
@@ -13357,6 +13371,7 @@ https://github.com/aquynh/capstone
 https://github.com/araddon/qlbridge
 https://github.com/arangodb/arangodb
 https://github.com/arangodb/arangodb-java-driver
+https://github.com/archimatetool/archi
 https://github.com/arco-design/arco-design
 https://github.com/arco-design/arco-design-vue
 https://github.com/arduino/Arduino
@@ -13409,6 +13424,7 @@ https://github.com/asobti/kube-monkey
 https://github.com/aspiers/git-deps
 https://github.com/aspnet/EntityFrameworkCore
 https://github.com/assertj/assertj-swing
+https://github.com/assimp/assimp
 https://github.com/astanin/python-tabulate
 https://github.com/astaxie/bat
 https://github.com/astaxie/build-web-application-with-golang
@@ -13524,6 +13540,7 @@ https://github.com/benfred/implicit
 https://github.com/benfred/py-spy
 https://github.com/benhoyt/inih
 https://github.com/benjaminp/six
+https://github.com/benjamn/recast
 https://github.com/bentoml/BentoML
 https://github.com/benweet/stackedit
 https://github.com/bernardop/iterm-tab-color-oh-my-zsh
@@ -13591,6 +13608,7 @@ https://github.com/botlabs-gg/yagpdb
 https://github.com/boto/boto3
 https://github.com/bower/bower
 https://github.com/boylegu/SpringBoot-vue
+https://github.com/boyter/scc
 https://github.com/boyter/searchcode-server
 https://github.com/bpampuch/pdfmake
 https://github.com/bpmn-io/bpmn-js
@@ -13601,6 +13619,7 @@ https://github.com/bram2w/baserow
 https://github.com/brave/brave-browser
 https://github.com/brettwooldridge/HikariCP
 https://github.com/brewlin/swoft-im
+https://github.com/brian-team/brian2
 https://github.com/briandilley/jsonrpc4j
 https://github.com/brianium/watermarkjs
 https://github.com/briansmith/ring
@@ -13644,6 +13663,7 @@ https://github.com/bumptech/glide
 https://github.com/bumptop/BumpTop
 https://github.com/buqiyuan/vue3-antd-admin
 https://github.com/bureado/awesome-software-supply-chain-security
+https://github.com/buserror/simavr
 https://github.com/buttercup/buttercup-desktop
 https://github.com/bvaughn/planner
 https://github.com/bvaughn/react-virtualized
@@ -13754,6 +13774,7 @@ https://github.com/chimurai/http-proxy-middleware
 https://github.com/chinchang/web-maker
 https://github.com/chjj/marked
 https://github.com/chobits/ngx_http_proxy_connect_module
+https://github.com/chocolatey/ChocolateyGUI
 https://github.com/chocolatey/choco
 https://github.com/chrisbanes/Android-PullToRefresh
 https://github.com/chrisbanes/PhotoView
@@ -13791,6 +13812,7 @@ https://github.com/citizenll/godot-flexbox
 https://github.com/citra-emu/citra
 https://github.com/citrusframework/citrus
 https://github.com/citusdata/postgresql-hll
+https://github.com/ciur/papermerge
 https://github.com/civetweb/civetweb
 https://github.com/cjlin1/liblinear
 https://github.com/cjlin1/libsvm
@@ -13803,6 +13825,7 @@ https://github.com/clientIO/joint
 https://github.com/clintbellanger/flare-engine
 https://github.com/clj-holmes/clj-watson
 https://github.com/clojure-emacs/cider
+https://github.com/clojure-lsp/clojure-lsp
 https://github.com/cloud-custodian/cloud-custodian
 https://github.com/cloudcompare/trunk
 https://github.com/cloudera/hue
@@ -13839,6 +13862,7 @@ https://github.com/cockroachdb/pebble
 https://github.com/cocos/cocos-engine
 https://github.com/cocos2d/cocos2d-html5
 https://github.com/cocos2d/cocos2d-x
+https://github.com/cocotb/cocotb
 https://github.com/code4craft/webmagic
 https://github.com/codecentric/chaos-monkey-spring-boot
 https://github.com/codecentric/spring-boot-admin
@@ -13870,6 +13894,7 @@ https://github.com/commadelimited/autoComplete.js
 https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme
 https://github.com/company-mode/company-mode
 https://github.com/componentjs/component
+https://github.com/composer/composer
 https://github.com/conan-io/conan
 https://github.com/concourse/concourse
 https://github.com/concurrencykit/ck
@@ -13950,6 +13975,7 @@ https://github.com/cubefs/cubefs
 https://github.com/cubiq/iscroll
 https://github.com/cuckoosandbox/cuckoo
 https://github.com/cucumber/cucumber
+https://github.com/cucumber/cucumber-ruby
 https://github.com/curry-trooper/tank-websocket.js
 https://github.com/cve-search/cve-search
 https://github.com/cve-search/git-vuln-finder
@@ -14341,6 +14367,7 @@ https://github.com/eclipse-ee4j/mail
 https://github.com/eclipse-equinox/equinox.bundles
 https://github.com/eclipse-iofog/Agent
 https://github.com/eclipse-platform/eclipse.platform.swt
+https://github.com/eclipse-sw360/sw360
 https://github.com/eclipse-theia/theia
 https://github.com/eclipse-vertx/vert.x
 https://github.com/eclipse/birt
@@ -14376,6 +14403,7 @@ https://github.com/ecomfe/esui
 https://github.com/ecomfe/san-mui
 https://github.com/ecomfe/vue-echarts
 https://github.com/ecomfe/zrender
+https://github.com/edavis10/redmine
 https://github.com/eddic/fastcgipp
 https://github.com/edenhill/librdkafka
 https://github.com/edgedb/edgedb
@@ -14499,6 +14527,7 @@ https://github.com/epoberezkin/json-schema-traverse
 https://github.com/equalsraf/neovim-qt
 https://github.com/eranif/codelite
 https://github.com/erda-project/erda
+https://github.com/erengy/taiga
 https://github.com/ergochat/ergo
 https://github.com/ericdrowell/KineticJS
 https://github.com/eritislami/evobot
@@ -14788,6 +14817,7 @@ https://github.com/flatpak/flatpak
 https://github.com/flaxsearch/luwak
 https://github.com/floating-ui/floating-ui
 https://github.com/floodlight/floodlight
+https://github.com/floooh/chips
 https://github.com/florisboard/florisboard
 https://github.com/flowable/flowable-engine
 https://github.com/flower-corp/rosedb
@@ -14797,6 +14827,7 @@ https://github.com/fluent/fluentd
 https://github.com/flutter/flutter
 https://github.com/fluxcd/flux
 https://github.com/flycheck/flycheck
+https://github.com/flyerhzm/rails_best_practices
 https://github.com/flyingsaucerproject/flyingsaucer
 https://github.com/flyteorg/flyte
 https://github.com/flyway/flyway
@@ -14810,8 +14841,10 @@ https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial
 https://github.com/form-data/form-data
 https://github.com/formatjs/formatjs
 https://github.com/fossar/selfoss
+https://github.com/fossology/fossology
 https://github.com/foundation/foundation-sites
 https://github.com/foxcpp/maddy
+https://github.com/foxglove/studio
 https://github.com/foxpage/foxpage
 https://github.com/framework7io/framework7
 https://github.com/franzinc/agraph-java-client
@@ -14828,6 +14861,7 @@ https://github.com/freemansoft/jacob-project
 https://github.com/freenas/freenas
 https://github.com/freeotp/freeotp-android
 https://github.com/freeplane/freeplane
+https://github.com/freerange/mocha
 https://github.com/friendlyrobotnyc/TinyDancer
 https://github.com/froala/design-blocks
 https://github.com/froala/wysiwyg-editor
@@ -14858,10 +14892,12 @@ https://github.com/gavinkwoe/BeeFramework
 https://github.com/gawel/irc3
 https://github.com/gawel/pyquery
 https://github.com/gazebosim/gz-sim
+https://github.com/gbdev/rgbds
 https://github.com/gcad3d/gcad3d
 https://github.com/gd3kr/BlenderGPT
 https://github.com/geany/geany
 https://github.com/geist-org/geist-ui
+https://github.com/gem5/gem5
 https://github.com/gempir/go-twitch-irc
 https://github.com/genify/nej
 https://github.com/genjidb/genji
@@ -14886,6 +14922,7 @@ https://github.com/getzola/zola
 https://github.com/gflags/gflags
 https://github.com/gfodor/jav8
 https://github.com/gfx-rs/wgpu
+https://github.com/ggreer/the_silver_searcher
 https://github.com/ghiscoding/Angular-Slickgrid
 https://github.com/giampaolo/psutil
 https://github.com/giampaolo/pyftpdlib
@@ -14905,7 +14942,9 @@ https://github.com/git-lfs/git-lfs
 https://github.com/git-time-metric/gtm
 https://github.com/git-up/GitUp
 https://github.com/git/git
+https://github.com/gitblit/gitblit
 https://github.com/gitbrent/PptxGenJS
+https://github.com/gitextensions/gitextensions
 https://github.com/github-changelog-generator/github-changelog-generator
 https://github.com/github-modules/ghwd
 https://github.com/github/accessibilityjs
@@ -15046,6 +15085,7 @@ https://github.com/gotham-rs/gotham
 https://github.com/gpac/gpac
 https://github.com/gperftools/gperftools
 https://github.com/gpg/gnupg
+https://github.com/gpgpu-sim/gpgpu-sim_distribution
 https://github.com/grafana/agent
 https://github.com/grafana/grafana
 https://github.com/grafana/k6
@@ -15073,6 +15113,7 @@ https://github.com/gridsome/gridsome
 https://github.com/gridstack/gridstack.js
 https://github.com/grommet/grommet
 https://github.com/groovy/groovy-eclipse
+https://github.com/grosser/parallel_tests
 https://github.com/grpc-ecosystem/grpc-gateway
 https://github.com/grpc/grpc
 https://github.com/grpc/grpc-go
@@ -15166,6 +15207,7 @@ https://github.com/hexojs/hexo
 https://github.com/heyitsanthony/etcdircd
 https://github.com/hfg-gmuend/openmoji
 https://github.com/hforge/itools
+https://github.com/hhatto/autopep8
 https://github.com/hibari/hibari
 https://github.com/hibernate/hibernate-commons-annotations
 https://github.com/hibernate/hibernate-orm
@@ -15383,6 +15425,7 @@ https://github.com/indiff/qttabbar
 https://github.com/indradb/indradb
 https://github.com/indygreg/python-zstandard
 https://github.com/infinispan/infinispan
+https://github.com/infiniticio/infinitic
 https://github.com/influxdata/chronograf
 https://github.com/influxdata/influxdb
 https://github.com/influxdata/influxdb-client-python
@@ -15509,6 +15552,7 @@ https://github.com/javalite/javalite
 https://github.com/javamelody/javamelody
 https://github.com/javaparser/javaparser
 https://github.com/javaswift/joss
+https://github.com/javaweb-sec/javaweb-sec
 https://github.com/jawerty/Hyro
 https://github.com/jawil/GayHub
 https://github.com/jaxen-xpath/jaxen
@@ -15528,6 +15572,7 @@ https://github.com/jboss-logging/jboss-logging
 https://github.com/jboss-wise/wise-core
 https://github.com/jbossas/jboss-as
 https://github.com/jbruchon/elks
+https://github.com/jbush001/NyuziProcessor
 https://github.com/jchambers/pushy
 https://github.com/jclouds/jclouds
 https://github.com/jcoleman/tomcat-redis-session-manager
@@ -15631,11 +15676,13 @@ https://github.com/johnezang/JSONKit
 https://github.com/johnrengelman/shadow
 https://github.com/joke2k/faker
 https://github.com/jonasblixt/ufsm
+https://github.com/jonase/eastwood
 https://github.com/jonathantribouharet/JTCalendar
 https://github.com/jonobr1/two.js
 https://github.com/jonschlinkert/remarkable
 https://github.com/jonthornton/jquery-timepicker
 https://github.com/joomla/joomla-cms
+https://github.com/jordansissel/fpm
 https://github.com/jorgebucaran/hyperapp
 https://github.com/josdejong/jsoneditor
 https://github.com/josdejong/mathjs
@@ -15661,6 +15708,7 @@ https://github.com/jquery/jquery-mousewheel
 https://github.com/jquery/jquery-tmpl
 https://github.com/jquery/jquery-ui
 https://github.com/jquery/sizzle
+https://github.com/jquery/testswarm
 https://github.com/jrsoftware/issrc
 https://github.com/js-cookie/js-cookie
 https://github.com/jscep/jscep
@@ -15812,6 +15860,7 @@ https://github.com/kohler/masstree-beta
 https://github.com/kohlschutter/junixsocket
 https://github.com/kolodny/immutability-helper
 https://github.com/konfer-be/typeplate
+https://github.com/konsoletyper/teavm
 https://github.com/konvajs/konva
 https://github.com/koral--/android-gif-drawable
 https://github.com/koreader/koreader
@@ -15834,6 +15883,7 @@ https://github.com/kristijanhusak/laravel-form-builder
 https://github.com/kristopolous/BOOTSTRA.386
 https://github.com/krzysztofzablocki/Playgrounds
 https://github.com/ks888/LambStatus
+https://github.com/kschiess/parslet
 https://github.com/ksky521/player
 https://github.com/ksnip/ksnip
 https://github.com/ktmud/weixin-robot
@@ -15886,6 +15936,7 @@ https://github.com/lab2023/hierapolis
 https://github.com/labstack/echo
 https://github.com/laforge49/JActor
 https://github.com/lambdacube3d/lambdacube-edsl
+https://github.com/lamdu/lamdu
 https://github.com/lancedikson/bowser
 https://github.com/landley/toybox
 https://github.com/langgenius/dify
@@ -15916,6 +15967,7 @@ https://github.com/layabox/layaair
 https://github.com/layerhub-io/react-design-editor
 https://github.com/layui/layui
 https://github.com/lc-soft/PunchAndKick
+https://github.com/ldc-developers/ldc
 https://github.com/ldcsaa/HP-Socket
 https://github.com/ldcsaa/JessMA
 https://github.com/ldcsaa/VC-Logger
@@ -16194,6 +16246,7 @@ https://github.com/matomo-org/matomo
 https://github.com/matplotlib/matplotlib
 https://github.com/matrix-org/synapse
 https://github.com/matteocrippa/awesome-swift
+https://github.com/mattermost/focalboard
 https://github.com/mattermost/mattermost-server
 https://github.com/mattermost/xml-roundtrip-validator
 https://github.com/matthewgao/F5-Steganography
@@ -16243,6 +16296,7 @@ https://github.com/melin/starflow
 https://github.com/memcached/memcached
 https://github.com/memgraph/memgraph
 https://github.com/memononen/libtess2
+https://github.com/memphisdev/memphis
 https://github.com/menavaur/Autobench
 https://github.com/meolu/walle-web
 https://github.com/meow-edit/meow
@@ -16264,6 +16318,7 @@ https://github.com/mg979/vim-visual-multi
 https://github.com/mgbq/nx-admin
 https://github.com/mhammond/pywin32
 https://github.com/mholt/archiver
+https://github.com/miaolz123/vue-markdown
 https://github.com/michaelrsweet/mxml
 https://github.com/michel-kraemer/bson4jackson
 https://github.com/micheles/decorator
@@ -16353,6 +16408,7 @@ https://github.com/missive/emoji-mart
 https://github.com/mitmproxy/mitmproxy
 https://github.com/mitsuhiko/redis-rs
 https://github.com/miukimiu/react-kawaii
+https://github.com/miyagawa/cpanminus
 https://github.com/mkazhdan/PoissonRecon
 https://github.com/mkdocs/mkdocs
 https://github.com/mkj/dropbear
@@ -16367,6 +16423,7 @@ https://github.com/mobxjs/mobx-react
 https://github.com/moby/moby
 https://github.com/mochajs/mocha
 https://github.com/mock-server/mockserver
+https://github.com/mockery/mockery
 https://github.com/mockito/mockito
 https://github.com/mockk/mockk
 https://github.com/modelmapper/modelmapper
@@ -16448,6 +16505,7 @@ https://github.com/mvel/mvel
 https://github.com/mviereck/x11docker
 https://github.com/mwaterfall/MWPhotoBrowser
 https://github.com/mwr9uk/patternfly-bootstrap-treeview
+https://github.com/mxe/mxe
 https://github.com/mybatis-mapper/config
 https://github.com/mybatis-mapper/mapper
 https://github.com/mybatis-mapper/provider
@@ -16539,6 +16597,7 @@ https://github.com/neutrinolabs/xrdp
 https://github.com/newpanjing/simpleui
 https://github.com/nexB/scancode-toolkit
 https://github.com/nexB/scancode.io
+https://github.com/nextcloud/deck
 https://github.com/nextcloud/server
 https://github.com/nextcloud/spreed
 https://github.com/nexxtway/react-rainbow
@@ -16566,9 +16625,11 @@ https://github.com/nielsbasjes/yauaa
 https://github.com/nightwatchjs/nightwatch
 https://github.com/niklasvh/html2canvas
 https://github.com/nim-lang/Nim
+https://github.com/nim-lang/nimble
 https://github.com/ninenines/cowboy
 https://github.com/ninetwozero/gradle-to-js
 https://github.com/ninja-build/ninja
+https://github.com/ninja-ide/ninja-ide
 https://github.com/ninja/ui
 https://github.com/ninjaprox/NVActivityIndicatorView
 https://github.com/nitely/nim-regex
@@ -16913,6 +16974,7 @@ https://github.com/pbek/QOwnNotes
 https://github.com/pbiggar/phc
 https://github.com/pborman/uuid
 https://github.com/pciutils/pciutils
+https://github.com/pdepend/pdepend
 https://github.com/pdezwart/php-amqp
 https://github.com/peazip/PeaZip
 https://github.com/peers/peerjs-server
@@ -17029,6 +17091,7 @@ https://github.com/pjsip/pjproject
 https://github.com/pkg/errors
 https://github.com/pkg/sftp
 https://github.com/pkg/term
+https://github.com/pkulchenko/ZeroBraneStudio
 https://github.com/planety/prologue
 https://github.com/plankanban/planka
 https://github.com/plantuml/plantuml
@@ -17100,6 +17163,7 @@ https://github.com/prestodb/presto
 https://github.com/prestodb/tsc
 https://github.com/prettier/prettier
 https://github.com/prettydiff/a11y-tools
+https://github.com/prettydiff/prettydiff
 https://github.com/prikhi/pencil
 https://github.com/primefaces/primefaces
 https://github.com/primefaces/primeicons
@@ -17137,6 +17201,7 @@ https://github.com/proxyee-down-org/proxyee-down
 https://github.com/prusa3d/PrusaSlicer
 https://github.com/pry/pry
 https://github.com/psas/av3-fc
+https://github.com/psf/black
 https://github.com/psf/requests
 https://github.com/psi-probe/psi-probe
 https://github.com/psprint/zsh-navigation-tools
@@ -17396,6 +17461,7 @@ https://github.com/pyscf/pyscf
 https://github.com/pyserial/pyserial
 https://github.com/pytest-dev/pytest
 https://github.com/python-attrs/attrs
+https://github.com/python-control/python-control
 https://github.com/python-discord/bot
 https://github.com/python-excel/xlrd
 https://github.com/python-excel/xlwt
@@ -17602,6 +17668,8 @@ https://github.com/reactor/reactor-core
 https://github.com/reactor/reactor-netty
 https://github.com/reactphp/react
 https://github.com/real-logic/agrona
+https://github.com/real-logic/simple-binary-encoding
+https://github.com/realgud/realgud
 https://github.com/realm/realm-swift
 https://github.com/realth000/mpax_flutter
 https://github.com/realvizu/NsDepCop
@@ -17638,6 +17706,7 @@ https://github.com/redis/redis-specifications
 https://github.com/redis/redis-website
 https://github.com/redis/try.redis
 https://github.com/redisson/redisson
+https://github.com/redmine/redmine
 https://github.com/redox-os/redox
 https://github.com/redox-os/relibc
 https://github.com/redrabbit/git.limo
@@ -17749,7 +17818,9 @@ https://github.com/rrweb-io/rrweb
 https://github.com/rsmarples/dhcpcd
 https://github.com/rsms/inter
 https://github.com/rsocket/rsocket-go
+https://github.com/rspec/rspec-core
 https://github.com/rstudio/ggvis
+https://github.com/rstudio/rstudio
 https://github.com/rsuite/rsuite
 https://github.com/rsuroju/XfireWebservice
 https://github.com/rswier/c4
@@ -17760,10 +17831,12 @@ https://github.com/rthalley/dnspython
 https://github.com/ruben2020/codequery
 https://github.com/rubik/radon
 https://github.com/rubjo/victor-mono
+https://github.com/rubocop/rubocop
 https://github.com/rubrikinc/wachy
 https://github.com/ruby-git/ruby-git
 https://github.com/ruby-grape/grape
 https://github.com/ruby/irb
+https://github.com/ruby/rdoc
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rubysec/bundler-audit
@@ -17784,6 +17857,7 @@ https://github.com/rust-num/num-traits
 https://github.com/rust-random/rand
 https://github.com/rust-unofficial/awesome-rust
 https://github.com/rustdesk/rustdesk
+https://github.com/rvm/rvm
 https://github.com/rwaldron/johnny-five
 https://github.com/ryanoasis/nerd-fonts
 https://github.com/ryanoasis/vim-devicons
@@ -17966,6 +18040,7 @@ https://github.com/seanmonstar/reqwest
 https://github.com/seanmonstar/warp
 https://github.com/searchkit/searchkit
 https://github.com/seata/seata
+https://github.com/seattlerb/minitest
 https://github.com/sebastianbergmann/cli-parser
 https://github.com/sebastianbergmann/code-unit
 https://github.com/sebastianbergmann/code-unit-reverse-lookup
@@ -18013,6 +18088,7 @@ https://github.com/sequelize/sequelize-typescript
 https://github.com/serde-rs/json
 https://github.com/serde-rs/serde
 https://github.com/serenity-js/serenity-js
+https://github.com/serge-sans-paille/pythran
 https://github.com/serge1/ELFIO
 https://github.com/sergiomt/hipergate
 https://github.com/serhii-londar/open-source-mac-os-apps
@@ -18054,6 +18130,7 @@ https://github.com/shutter-project/shutter
 https://github.com/shuxinqin/Chloe
 https://github.com/shzlw/poli
 https://github.com/sickill/git-dude
+https://github.com/sicmutils/sicmutils
 https://github.com/siddhi-io/siddhi
 https://github.com/signalapp/Signal-Desktop
 https://github.com/signalwire/freeswitch
@@ -18092,6 +18169,7 @@ https://github.com/sj26/mailcatcher
 https://github.com/sjdirect/abotx
 https://github.com/sjvermeu/cvechecker
 https://github.com/skarnet/s6
+https://github.com/sketch-hq/SketchAPI
 https://github.com/skip2/go-qrcode
 https://github.com/sknetwork-team/scikit-network
 https://github.com/skvark/opencv-python
@@ -18363,6 +18441,7 @@ https://github.com/tachyons-css/tachyons
 https://github.com/tada/pljava
 https://github.com/taichi-dev/taichi
 https://github.com/taigaio/taiga-back
+https://github.com/taigaio/taiga-front
 https://github.com/taiki-e/pin-project
 https://github.com/tailwindlabs/blog.tailwindcss.com
 https://github.com/tailwindlabs/designing-with-tailwindcss
@@ -18582,6 +18661,7 @@ https://github.com/teslamotors/buildroot
 https://github.com/teslamotors/linux
 https://github.com/tesseract-ocr/tesseract
 https://github.com/testcontainers/testcontainers-java
+https://github.com/testng-team/testng
 https://github.com/tetratelabs/wazero
 https://github.com/texmacs/texmacs
 https://github.com/texstudio-org/texstudio
@@ -18605,7 +18685,9 @@ https://github.com/themeselection/bootstrap-cheatsheet
 https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free
 https://github.com/theonedev/onedev
 https://github.com/theophilusx/ssh2-sftp-client
+https://github.com/theory/pgtap
 https://github.com/therealglazou/bluegriffon
+https://github.com/theseer/phpdox
 https://github.com/thestinger/termite
 https://github.com/thingsboard/thingsboard
 https://github.com/thisandagain/cam
@@ -18711,6 +18793,7 @@ https://github.com/tmpvar/jsdom
 https://github.com/tmrts/go-patterns
 https://github.com/tmux/tmux
 https://github.com/tnfe/FFCreator
+https://github.com/toadstorm/MOPS
 https://github.com/tobegit3hub/advisor
 https://github.com/toeverything/AFFiNE
 https://github.com/tokio-rs/bytes
@@ -18718,6 +18801,7 @@ https://github.com/tokio-rs/prost
 https://github.com/tokio-rs/tls
 https://github.com/tokio-rs/tokio
 https://github.com/tomasbasham/ratelimit
+https://github.com/tomaz/appledoc
 https://github.com/tombenner/nui
 https://github.com/tomchristie/django-rest-framework
 https://github.com/tomgi/git_stats
@@ -18767,6 +18851,7 @@ https://github.com/trinodb/trino
 https://github.com/trinodb/trino-hadoop-apache
 https://github.com/trinodb/trino-hive-apache
 https://github.com/tristanhimmelman/ObjectMapper
+https://github.com/troessner/reek
 https://github.com/troydhanson/uthash
 https://github.com/truenas/middleware
 https://github.com/trusktr/regexr
@@ -18971,6 +19056,7 @@ https://github.com/umutgokbayrak/Claros
 https://github.com/unbit/uwsgi
 https://github.com/unbug/codelf
 https://github.com/unbug/ddms
+https://github.com/unclebob/fitnesse
 https://github.com/undertow-io/undertow
 https://github.com/unetbootin/unetbootin
 https://github.com/unicode-org/icu
@@ -19114,8 +19200,10 @@ https://github.com/vision5/ngx_devel_kit
 https://github.com/visionmedia/superagent
 https://github.com/visjs/vis-data
 https://github.com/visjs/vis-network
+https://github.com/visualfc/liteide
 https://github.com/vitejs/vite
 https://github.com/vitessio/vitess
+https://github.com/vitest-dev/vitest
 https://github.com/vitorfs/bootcamp
 https://github.com/vkohaupt/vokoscreen
 https://github.com/vladikoff/chromeos-apk
@@ -19208,6 +19296,7 @@ https://github.com/wekan/wekan
 https://github.com/wendux/fly
 https://github.com/wenshan1/gaephotos
 https://github.com/wenzhixin/bootstrap-table
+https://github.com/weolar/miniblink49
 https://github.com/wesnolte/jOrgChart
 https://github.com/wessberg/intl-relative-time-format
 https://github.com/westerndigitalcorporation/libzbc
@@ -19343,6 +19432,7 @@ https://github.com/yaoweibin/nginx_upstream_check_module
 https://github.com/yapstudios/YapDatabase
 https://github.com/yarnpkg/berry
 https://github.com/yarnpkg/yarn
+https://github.com/yasm/yasm
 https://github.com/yccheok/jstock
 https://github.com/ycm-core/YouCompleteMe
 https://github.com/ycm-core/ycmd
@@ -19373,6 +19463,7 @@ https://github.com/youzan/vant-weapp
 https://github.com/youzan/zanui-weapp
 https://github.com/ysc/QuestionAnsweringSystem
 https://github.com/ysc/rank
+https://github.com/ysc/word
 https://github.com/ysrc/xunfeng
 https://github.com/ytisf/PyExfil
 https://github.com/yui/pure
