@@ -1,0 +1,15 @@
+ident: rest-project
+name: Rest Project
+name_cn: rest项目
+slug: /rest-project
+items:
+  - https://github.com/activescaffold/active_scaffold
+  - https://github.com/FriendsOfSymfony/FOSRestBundle
+  - https://github.com/feathersjs/feathers
+  - https://github.com/OAI/OpenAPI-Specification
+  - https://github.com/Suwayomi/Tachidesk-Server
+  - https://github.com/Luracast/Restler # no change in 2 years
+  - https://github.com/OData/odata.net
+  - https://github.com/juxt/yada # no change in 4 years
+  - https://github.com/fossasia/open-event-wsgen # no change in 3 years
+  - https://github.com/bustoutsolutions/siesta # no change in 2 years
