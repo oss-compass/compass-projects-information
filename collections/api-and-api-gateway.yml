@@ -1,0 +1,18 @@
+ident: api-and-api-gateway
+name: Api And Api Gateway
+name_cn: API 网关和接口
+slug: /api-and-api-gateway
+items:
+  - https://github.com/Twitter4J/Twitter4J
+  - https://github.com/trailblazer/roar
+  - https://github.com/googleapis/google-api-ruby-client
+  - https://github.com/KnpLabs/php-github-api
+  - https://github.com/NREL/api-umbrella
+  - https://github.com/OpenBankProject/OBP-API
+  - https://github.com/Netflix/zuul
+  - https://github.com/mulesoft/api-console
+  - https://github.com/mulesoft/api-designer # no change in 4 years
+  - https://github.com/apiman/apiman
+  - https://github.com/csparpa/pyowm
+  - https://github.com/ideal-postcodes/postcodes.io
+  - https://github.com/vknet/vk

@@ -1,0 +1,18 @@
+ident: oauth-sso-unified-auth
+name: Oauth Sso Unified Auth
+name_cn: OAuth-单点登录-统一认证
+slug: /oauth-sso-unified-auth
+items:
+  - https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server # no change in 1 years
+  - https://github.com/OpenIDC/pyoidc
+  - https://github.com/hybridauth/hybridauth
+  - https://github.com/oauthlib/oauthlib
+  - https://github.com/cloudfoundry/uaa
+  - https://github.com/hwi/HWIOAuthBundle
+  - https://github.com/thephpleague/oauth2-server
+  - https://github.com/xamarin/Xamarin.Auth # no change in 4 years
+  - https://github.com/authomatic/authomatic
+  - https://github.com/simplabs/ember-simple-auth
+  - https://github.com/Yubico/yubioath-desktop
+  - https://github.com/CanCanCommunity/cancancan
+  - https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
