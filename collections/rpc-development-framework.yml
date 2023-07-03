@@ -11,4 +11,7 @@ items:
   - https://github.com/grpc/grpc-go
   - https://github.com/grpc-ecosystem/grpc-gateway
   - https://github.com/andeya/erpc
-  - https://github.com/Inori/GPCS4
+  - https://github.com/TarsCloud/Tars
+  - https://github.com/elixir-grpc/grpc
+  - https://github.com/twitchtv/twirp
+  - https://github.com/grpc/grpc-dotnet
