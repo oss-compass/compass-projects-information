@@ -19,3 +19,9 @@ items:
   - https://github.com/rsocket/rsocket-go
   - https://github.com/tiangolo/fastapi
   - https://github.com/micronaut-projects/micronaut-core
+  - https://github.com/apache/incubator-brpc
+  - https://github.com/grpc-ecosystem/grpc-gateway
+  - https://github.com/andeya/erpc
+  - https://github.com/elixir-grpc/grpc
+  - https://github.com/twitchtv/twirp
+  - https://github.com/grpc/grpc-dotnet
