@@ -1,0 +1,8 @@
+---
+community_name: tetsuo.dev-code
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/tetsuo-dev/tetsuo.dev-code
+  governance-repositories:
+    repo_urls: []
