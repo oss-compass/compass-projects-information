@@ -1,0 +1,16 @@
+ident: web-backend-component-and-framework
+name: Web Backend Component And Framework
+name_cn: 后端组件和框架
+slug: /web-backend-component-and-framework
+items:
+  - https://github.com/rails/rails
+  - https://github.com/spring/spring
+  - https://github.com/django-haystack/django-haystack
+  - https://github.com/django-extensions/django-extensions
+  - https://github.com/scalatra/scalatra
+  - https://github.com/yesodweb/yesod
+  - https://github.com/assaf/vanity
+  - https://github.com/padrino/padrino-framework
+  - https://github.com/lostisland/faraday
+  - https://github.com/symfony/symfony
+  - https://github.com/pallets/flask
