@@ -1,0 +1,13 @@
+ident: web-design
+name: Web Design
+name_cn: WEB设计
+slug: /web-design
+items:
+  - https://github.com/kiwicom/orbit
+  - https://github.com/microsoft/fast
+  - https://github.com/fontello/fontello
+  - https://github.com/koenbok/Framer # no change in 4 years
+  - https://github.com/utom/sketch-measure # no change in 4 years
+  - https://github.com/boydm/scenic
+  - https://github.com/interactivethings/catalog # no change in 4 years
+  - https://github.com/aseprite/aseprite
