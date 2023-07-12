@@ -35,3 +35,6 @@ items:
   - https://github.com/SchedMD/slurm
   - https://github.com/ray-project/ray
   - https://github.com/tensorflow/tensorboard
+  - https://github.com/Unity-Technologies/ml-agents
+  - https://github.com/ml5js/ml5-library
+  - https://github.com/keras-team/autokeras
