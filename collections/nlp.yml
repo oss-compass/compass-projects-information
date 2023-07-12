@@ -20,3 +20,7 @@ items:
   - https://github.com/openai/gpt-2
   - https://github.com/RasaHQ/rasa
   - https://github.com/facebookresearch/pytext
+  - https://github.com/kpu/kenlm
+  - https://github.com/yanyiwu/cppjieba
+  - https://github.com/spencermountain/compromise
+  - https://github.com/doccano/doccano
