@@ -1,0 +1,22 @@
+ident: aigc
+name: AIGC
+name_cn: AI内容生成
+slug: /aigc
+items:
+  - https://github.com/f/awesome-chatgpt-prompts
+  - https://github.com/lencx/ChatGPT
+  - https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+  - https://github.com/acheong08/ChatGPT
+  - https://github.com/LAION-AI/Open-Assistant
+  - https://github.com/yetone/openai-translator
+  - https://github.com/transitive-bullshit/chatgpt-api
+  - https://github.com/humanloop/awesome-chatgpt
+  - https://github.com/binary-husky/chatgpt_academic
+  - https://github.com/gd3kr/BlenderGPT
+  - https://github.com/dice2o/BingGPT
+  - https://github.com/Chanzhaoyu/chatgpt-web
+  - https://github.com/fastfire/deepdarkCTI
+  - https://github.com/AntonOsika/gpt-engineer
+  - https://github.com/AI4Finance-Foundation/FinGPT
+  - https://github.com/Licoy/ChatGPT-Midjourney
+  - https://github.com/Lightning-AI/lit-gpt
