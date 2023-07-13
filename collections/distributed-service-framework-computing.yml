@@ -1,0 +1,17 @@
+ident: distributed-service-framework-computing
+name: Distributed Service Framework Computing
+name_cn: 分布式服务-框架-计算
+slug: /distributed-service-framework-computing
+items:
+  - https://github.com/Netflix/Hystrix
+  - https://github.com/asim/go-micro
+  - https://github.com/celery/celery
+  - https://github.com/dotnet/orleans
+  - https://github.com/jepsen-io/jepsen
+  - https://github.com/knightliao/disconf
+  - https://github.com/akkadotnet/akka.net
+  - https://github.com/codingapi/tx-lcn
+  - https://github.com/gluster/glusterfs
+  - https://github.com/distribworks/dkron
+  - https://github.com/atomix/atomix
+  - https://github.com/discoproject/disco
