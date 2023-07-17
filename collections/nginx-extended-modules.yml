@@ -21,3 +21,4 @@ items:
   - https://github.com/alibaba/tengine
   - https://github.com/openresty/lua-nginx-module
   - https://github.com/matsumotory/ngx_mruby
+  - https://gitee.com/winshining/nginx-http-flv-module
