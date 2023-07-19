@@ -1,7 +1,7 @@
-ident: nginx-related
-name: Nginx Related
-name_cn: Nginx 相关
-slug: /nginx-related
+ident: nginx-extended-modules
+name: Nginx Extended Modules
+name_cn: Nginx扩展模块
+slug: /nginx-extended-modules
 items:
   - https://github.com/NginxProxyManager/nginx-proxy-manager
   - https://github.com/nginx-proxy/acme-companion
@@ -18,3 +18,7 @@ items:
   - https://github.com/nginxinc/crossplane
   - https://github.com/nginx-proxy/nginx-proxy
   - https://github.com/allinurl/goaccess
+  - https://github.com/alibaba/tengine
+  - https://github.com/openresty/lua-nginx-module
+  - https://github.com/matsumotory/ngx_mruby
+  - https://gitee.com/winshining/nginx-http-flv-module
