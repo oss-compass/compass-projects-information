@@ -234,7 +234,7 @@
     - mlops # 自动化机器学习
     - Monitoring # 系统监控
     - motion-graphics # 动态图形软件
-    - nginx-related # Nginx 相关
+    - nginx-extended-modules # Nginx扩展模块
     - nlp # 自然语言处理
     - note-application # 笔记应用
     - object-storage # 对象存储
