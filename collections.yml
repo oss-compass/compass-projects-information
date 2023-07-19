@@ -21,6 +21,23 @@
   name_cn: 大数据
   items:
     - big-data # 大数据
+
+- ident: software-development-and-management
+  name: Software Development and Management tools
+  name_cn: 软件开发和管理工具
+  items:
+    - requirement-analysis-tools # 需求分析工具
+    - modeling-tools # 建模工具
+    - integrated-development-environment-IDE # 集成开发环境
+    - user-interface-design-tools # 界面设计工具
+    - code-management # 代码管理
+    - document-management-and-tools # 文档管理软件及工具
+    - software-project-management # 软件项目管理
+    - testing-tools # 测试工具
+    - reverse-engineering-and-re-engineering-software # 逆向工程软件和再工程软件
+    - configuration-management-software # 配置管理软件
+    - simulation-development-tools # 仿真开发工具
+
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
