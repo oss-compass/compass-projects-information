@@ -38,13 +38,27 @@
     - configuration-management-software # 配置管理软件
     - simulation-development-tools # 仿真开发工具
 
+- ident: web-application-development
+  name: Web Application Development
+  name_cn: Web应用开发
+  items:
+    - api-and-api-gateway # API 网关和接口
+    - oauth-sso-unified-auth # OAuth-单点登录-统一认证
+    - rest-project # rest项目
+    - web-frontend-component-and-framework # Web前端组件和框架
+    - data-visualization # 数据可视化
+    - desktop-cross-platform-application-development # 桌面跨平台应用开发
+    - crawler # 数据爬虫
+    - web-backend-component-and-framework # 后端组件和框架
+    - rpc-development-framework # RPC开发框架
+    - admin-template # 管理后台模板
+
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
   items:
     - android-development-framework # 安卓开发框架
     - authorization-framework # 权限认证框架
-    - crawler # 网络爬虫框架
     - css-framework # CSS 框架
     - deep-learning-framework # 深度学习框架
     - edge-computing-framework # 边缘计算框架
@@ -93,12 +107,11 @@
     - mini-program-ui-library # 小程序 UI 库
     - responsive-ui-frameworks # 响应式 UI 框架
     - tailwindcss # Tailwind CSS 框架
-    - data-visualization # 数据可视化
     - javascript-build-tool # 前端构建工具
     - static-site-generator # 静态站点生成器
     - electron-packaging-tools # Electron 打包工具
-    - desktop-cross-platform-application-development # 桌面跨平台应用开发
     - mobile-cross-platform-application-development # 移动跨平台应用开发
+    
 - ident: browser-related
   name: Browser related
   name_cn: 浏览器相关
