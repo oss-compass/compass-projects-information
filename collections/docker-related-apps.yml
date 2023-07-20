@@ -1,0 +1,14 @@
+ident: docker-related-apps
+name: Docker Related Apps
+name_cn: Docker相关应用
+slug: /docker-related-apps
+items:
+  - https://github.com/moby/moby
+  - https://github.com/veggiemonk/awesome-docker
+  - https://github.com/yeasy/docker_practice
+  - https://github.com/google/cadvisor
+  - https://github.com/caprover/caprover
+  - https://github.com/sameersbn/docker-gitlab
+  - https://github.com/fabric8io/docker-maven-plugin
+  - https://github.com/sous-chefs/docker
+  - https://gitee.com/taoes_admin/SimpleDocker
