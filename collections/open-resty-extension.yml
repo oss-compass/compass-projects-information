@@ -1,0 +1,13 @@
+ident: open-resty-extension
+name: Open Resty Extension
+name_cn: Open Resty 扩展
+slug: /open-resty-extension
+items:
+  - https://github.com/openresty/openresty
+  - https://github.com/openresty/lua-nginx-module
+  - https://github.com/openresty/stream-lua-nginx-module
+  - https://github.com/openresty/stream-lua-nginx-module
+  - https://github.com/moonbingbing/openresty-best-practices
+  - https://github.com/leafo/lapis
+  - https://github.com/orlabs/orange
+  - https://gitee.com/iresty/lua-resty-etcd
