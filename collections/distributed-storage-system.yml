@@ -1,0 +1,14 @@
+ident: distributed-storage-system
+name: Distributed Storage System
+name_cn: 分布式存储系统
+slug: /distributed-storage-system
+items:
+  - https://github.com/minio/minio
+  - https://github.com/chrislusf/seaweedfs
+  - https://github.com/ceph/ceph
+  - https://github.com/thanos-io/thanos
+  - https://github.com/Alluxio/alluxio
+  - https://github.com/juicedata/juicefs
+  - https://github.com/baidu/bfs
+  - https://github.com/storj/storj
+  - https://github.com/linkedin/ambry
