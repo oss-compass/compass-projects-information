@@ -1,6 +1,6 @@
-ident: serverless-framework
-name: Serverless Framework
-name_cn: Serverless 框架
+ident: serverless
+name: Serverless
+name_cn: Serverless无服务器
 slug: /serverless-framework
 items:
   - https://github.com/AnomalyInnovations/serverless-stack-com
