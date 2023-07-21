@@ -13742,6 +13742,7 @@ https://github.com/canvg/canvg
 https://github.com/caomike/ppmessage
 https://github.com/caoxinyu/RedisClient
 https://github.com/cappuccino/cappuccino
+https://github.com/caprover/caprover
 https://github.com/carbon-design-system/carbon
 https://github.com/carbon-design-system/carbon-components-svelte
 https://github.com/carhartl/jquery-cookie
@@ -14651,6 +14652,7 @@ https://github.com/f-lopes/spring-mvc-test-utils
 https://github.com/f/awesome-chatgpt-prompts
 https://github.com/fabiolb/fabio
 https://github.com/fabpot/Twig
+https://github.com/fabric8io/docker-maven-plugin
 https://github.com/fabric8io/kubernetes-client
 https://github.com/fabricjs/fabric.js
 https://github.com/fabrimagic72/malware-samples
@@ -15089,6 +15091,7 @@ https://github.com/google/blockly
 https://github.com/google/boringssl
 https://github.com/google/brotli
 https://github.com/google/cAdvisor
+https://github.com/google/cadvisor
 https://github.com/google/codesearch
 https://github.com/google/dagger
 https://github.com/google/deepvariant
@@ -16045,6 +16048,7 @@ https://github.com/ldc-developers/ldc
 https://github.com/ldcsaa/HP-Socket
 https://github.com/ldcsaa/JessMA
 https://github.com/ldcsaa/VC-Logger
+https://github.com/leafo/lapis
 https://github.com/leanote/leanote
 https://github.com/learnboost/stylus
 https://github.com/ledgetech/lua-resty-http
@@ -16131,6 +16135,7 @@ https://github.com/linebender/druid
 https://github.com/linebender/piet
 https://github.com/linganmin/eolinker4.0
 https://github.com/linkedin/WhereHows
+https://github.com/linkedin/ambry
 https://github.com/linkedin/databus
 https://github.com/linkedin/dexmaker
 https://github.com/linkedin/dustjs
@@ -16321,6 +16326,7 @@ https://github.com/matklad/once_cell
 https://github.com/matomo-org/matomo
 https://github.com/matplotlib/matplotlib
 https://github.com/matrix-org/synapse
+https://github.com/matsumotory/ngx_mruby
 https://github.com/matteocrippa/awesome-swift
 https://github.com/mattermost/focalboard
 https://github.com/mattermost/mattermost-server
@@ -16528,6 +16534,7 @@ https://github.com/mongodb/mongo-python-driver
 https://github.com/mongodb/mongoid
 https://github.com/monicahq/monica
 https://github.com/mono/mono
+https://github.com/moonbingbing/openresty-best-practices
 https://github.com/moonrailgun/mini-star
 https://github.com/moosefs/moosefs
 https://github.com/moquette-io/moquette
@@ -16887,6 +16894,7 @@ https://github.com/openresty/lua-nginx-module
 https://github.com/openresty/lua-resty-balancer
 https://github.com/openresty/luajit2
 https://github.com/openresty/openresty
+https://github.com/openresty/stream-lua-nginx-module
 https://github.com/openrewrite/rewrite
 https://github.com/openscad/openscad
 https://github.com/openscenegraph/OpenSceneGraph
@@ -16969,6 +16977,7 @@ https://github.com/oracle/python-cx_Oracle
 https://github.com/oracle/tribuo
 https://github.com/orchestral/tenanti
 https://github.com/orientechnologies/orientdb
+https://github.com/orlabs/orange
 https://github.com/orocos/orocos_kinematics_dynamics
 https://github.com/oroinc/crm-application
 https://github.com/ortelius/ortelius
@@ -17109,6 +17118,7 @@ https://github.com/pidgin/pidgin
 https://github.com/pierrec/lz4
 https://github.com/pierrec/xxHash
 https://github.com/pietermartin/sqlg
+https://github.com/pig-mesh/pig
 https://github.com/pika/pika
 https://github.com/pikock/bootstrap-magic
 https://github.com/pikvm/pikvm
@@ -18234,6 +18244,7 @@ https://github.com/simogeo/Filemanager
 https://github.com/simongray/clojure-dsl-resources
 https://github.com/simonmar/alex
 https://github.com/simov/grant
+https://github.com/simplabs/ember-simple-auth
 https://github.com/simple-icons/simple-icons
 https://github.com/simple-login/app
 https://github.com/simple-uploader/Uploader
@@ -18322,6 +18333,7 @@ https://github.com/sones/sones
 https://github.com/sony/gobreaker
 https://github.com/sorry-cypress/sorry-cypress
 https://github.com/sourcegraph/sourcegraph
+https://github.com/sous-chefs/docker
 https://github.com/soveran/micromachine
 https://github.com/spacejam/sled
 https://github.com/spack/spack
@@ -18459,6 +18471,7 @@ https://github.com/stisla/stisla
 https://github.com/stleary/JSON-java
 https://github.com/stomp-js/stompjs
 https://github.com/stoneatom/stonedb
+https://github.com/storj/storj
 https://github.com/storybookjs/storybook
 https://github.com/strace/strace
 https://github.com/strapi/strapi
@@ -19515,6 +19528,8 @@ https://github.com/xuperchain/xuperchain
 https://github.com/xuri/excelize
 https://github.com/xushengfeng/eSearch
 https://github.com/xuuhaoo/OkSocket
+https://github.com/xuxiaowei-cloud/xuxiaowei-cloud
+https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next
 https://github.com/xuxueli/xxl-job
 https://github.com/xzer/run-jetty-run
 https://github.com/yabwe/medium-editor
@@ -19657,4 +19672,5 @@ https://github.com/zxing-js/library
 https://github.com/zxing/zxing
 https://github.com/zxlie/WeixinApi
 https://github.com/zynga/zperfmon
+https://github.com/zzliux/assttyys_autojs
 https://github.com/zzmp/juliusjs
