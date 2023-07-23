@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://github.com/uripeled2/llm-client-sdk
