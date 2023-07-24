@@ -1,0 +1,20 @@
+ident: digital-currency
+name: Digital Currency
+name_cn: 数字货币
+slug: /digital-currency
+items:
+  - https://github.com/bitcoin/bitcoin
+  - https://github.com/ccxt/ccxt
+  - https://github.com/bitcoinbook/bitcoinbook # no change in 1 years
+  - https://github.com/dogecoin/dogecoino
+  - https://github.com/monero-project/monero
+  - https://github.com/lightningnetwork/lnd
+  - https://github.com/spesmilo/electrum
+  - https://github.com/hummingbot/hummingbot
+  - https://github.com/btcsuite/btcd
+  - https://github.com/zcash/zcash
+  - https://github.com/bitcoinjs/bitcoinjs-lib
+  - https://github.com/bitpay/bitcore
+  - https://github.com/bisq-network/bisq
+  - https://github.com/fireice-uk/xmr-stak # no change in 4 years
+  - https://github.com/btcpayserver/btcpayserver
