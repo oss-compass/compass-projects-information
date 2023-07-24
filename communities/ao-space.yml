@@ -1,0 +1,12 @@
+---
+community_name: ao-space
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ao-space/platform-base
+    - https://github.com/ao-space/gt
+    - https://github.com/ao-space/nginx-vod-module
+    - https://github.com/ao-space/qa
+    - https://github.com/ao-space/ao-space
+  governance-repositories:
+    repo_urls: []

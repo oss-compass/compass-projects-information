@@ -65,7 +65,6 @@
     - ios-framework # iOS 开发框架
     - node.js-web-framework # Node.js Web 框架
     - privacy-computing-framework # 隐私计算框架
-    - serverless-framework # Serverless 框架
     - unit-testing-framework # 单元测试框架
     - web-frameworks # Web 开发框架
 - ident: devops
