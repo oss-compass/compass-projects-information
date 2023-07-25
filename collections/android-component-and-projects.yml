@@ -1,0 +1,22 @@
+ident: android-component-and-projects
+name: Android Component And Projects
+name_cn: 安卓组件和项目
+slug: /android-component-and-projects
+items:
+  - https://github.com/androidx/androidx
+  - https://github.com/flutter/flutter
+  - https://github.com/facebook/react-native
+  - https://github.com/ionic-team/ionic-framework
+  - https://github.com/square/retrofit
+  - https://github.com/PhilJay/MPAndroidChart # no change in 3 years
+  - https://github.com/bumptech/glide
+  - https://github.com/topjohnwu/Magisk
+  - https://github.com/square/leakcanary
+  - https://github.com/signalapp/Signal-Android
+  - https://github.com/afollestad/material-dialogs
+  - https://github.com/facebook/fresco # no change in 2 years
+  - https://github.com/nostra13/Android-Universal-Image-Loader # no change in 3 years
+  - https://github.com/iBotPeaches/Apktool
+  - https://github.com/mikepenz/MaterialDrawer
+  - https://github.com/android/compose-samples
+  - https://github.com/coil-kt/coil
