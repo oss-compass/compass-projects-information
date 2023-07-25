@@ -11,10 +11,14 @@ items:
   - https://github.com/realm/realm-swift
   - https://github.com/SwiftyJSON/SwiftyJSON
   - https://github.com/Alamofire/AlamofireImage
-  - https://github.com/tristanhimmelman/ObjectMapper
+  - https://github.com/tristanhimmelman/ObjectMapper # no change in 3 years
   - https://github.com/Moya/Moya
-  - https://github.com/socketio/socket.io-client-swift
+  - https://github.com/socketio/socket.io-client-swift # no change in 2 years
   - https://github.com/HeroTransitions/Hero
   - https://github.com/ninjaprox/NVActivityIndicatorView
   - https://github.com/WenchaoD/FSCalendar
-  - https://github.com/ibireme/YYKit
+  - https://github.com/facebook/facebook-ios-sdk
+  - https://github.com/jverkoey/nimbus
+  - https://github.com/Cocoanetics/DTCoreText
+  - https://github.com/facebook/componentkit # no change in 1 years
+  - https://github.com/theos/theos
