@@ -57,6 +57,7 @@
   name: Development Framework
   name_cn: 开发框架
   items:
+    - android-development-framework # 安卓开发框架
     - authorization-framework # 权限认证框架
     - css-framework # CSS 框架
     - deep-learning-framework # 深度学习框架
