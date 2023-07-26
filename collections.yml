@@ -100,15 +100,6 @@
   name: Frontend
   name_cn: 前端技术
   items:
-    - ui-library # UI 库
-    - jquery-and-plugins # jQuery 及其插件
-    - bootstrap-theme # Bootstrap 主题
-    - mini-program-ui-library # 小程序 UI 库
-    - responsive-ui-frameworks # 响应式 UI 框架
-    - tailwindcss # Tailwind CSS 框架
-    - javascript-build-tool # 前端构建工具
-    - static-site-generator # 静态站点生成器
-    - electron-packaging-tools # Electron 打包工具
     - mobile-cross-platform-application-development # 移动跨平台应用开发
     
 - ident: browser-related
