@@ -1,0 +1,34 @@
+ident: devops-tools
+name: Devops Tools
+name_cn: DevOps工具
+slug: /devops-tools
+items:
+  - https://github.com/spinnaker/spinnaker
+  - https://github.com/jenkins-x/jx
+  - https://github.com/screwdriver-cd/screwdriver
+  - https://github.com/argoproj/argo-cd
+  - https://github.com/deployphp/deployer
+  - https://github.com/aws/aws-codedeploy-agent
+  - https://github.com/jenkinsci/jenkins
+  - https://github.com/ortelius/ortelius
+  - https://github.com/pyrsia/pyrsia
+  - https://github.com/circleci/circleci-docs
+  - https://github.com/gocd/gocd
+  - https://github.com/harness/drone
+  - https://github.com/buildbot/buildbot
+  - https://github.com/Strider-CD/strider # no change in 2 years
+  - https://github.com/concourse/concourse
+  - https://github.com/argoproj/gitops-engine
+  - https://github.com/tektoncd/pipeline
+  - https://github.com/rundeck/rundeck
+  - https://github.com/jenkinsci/jenkinsfile-runner
+  - https://github.com/ansible/ansible
+  - https://github.com/hashicorp/consul
+  - https://github.com/GoogleContainerTools/skaffold
+  - https://github.com/GoogleContainerTools/kaniko
+  - https://github.com/chef/chef
+  - https://github.com/ansible-semaphore/semaphore
+  - https://github.com/StackStorm/st2
+  - https://github.com/Tencent/bk-cmdb
+  - https://github.com/runatlantis/atlantis
+  - https://github.com/hygieia/hygieia
