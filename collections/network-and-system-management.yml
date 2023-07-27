@@ -1,0 +1,22 @@
+ident: network-and-system-management
+name: Network And System Management
+name_cn: 网管工具和系统管理
+slug: /network-and-system-management
+items:
+  - https://github.com/microsoft/terminal
+  - https://github.com/nvbn/thefuck
+  - https://github.com/vercel/hyper
+  - https://github.com/ventoy/Ventoy
+  - https://github.com/cli/cli
+  - https://github.com/tmux/tmux
+  - https://github.com/cmderdev/cmder
+  - https://github.com/fish-shell/fish-shell
+  - https://github.com/kovidgoyal/kitty
+  - https://github.com/iovisor/bcc
+  - https://github.com/wtfutil/wtf
+  - https://github.com/saltstack/salt
+  - https://github.com/mobile-shell/mosh
+  - https://github.com/symless/synergy-core
+  - https://github.com/borgbackup/borg
+  - https://github.com/Maximus5/ConEmu
+  - https://github.com/mRemoteNG/mRemoteNG

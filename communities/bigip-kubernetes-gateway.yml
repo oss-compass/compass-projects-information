@@ -1,0 +1,8 @@
+---
+community_name: bigip-kubernetes-gateway
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/f5devcentral/bigip-kubernetes-gateway
+  governance-repositories:
+    repo_urls: []
