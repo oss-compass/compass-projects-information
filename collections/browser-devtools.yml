@@ -1,0 +1,22 @@
+ident: browser-devtools
+name: Browser Devtools
+name_cn: 浏览器开发者工具
+slug: /browser-devtools
+items:
+  - https://github.com/topics/chrome-devtools
+  - https://github.com/GoogleChrome/lighthouse
+  - https://github.com/chromedp/chromedp
+  - https://github.com/kdzwinel/betwixt
+  - https://github.com/go-rod/rod
+  - https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter
+  - https://github.com/ChromeDevTools/devtools-frontend
+  - https://github.com/Qianlitp/crawlergo
+  - https://github.com/rendora/rendora
+  - https://github.com/bahmutov/code-snippets
+  - https://github.com/addyosmani/puppeteer-webperf
+  - https://github.com/NV/chrome-devtools-autosave
+  - https://github.com/tenox7/wrp
+  - https://github.com/ChromeDevTools/debugger-protocol-viewer
+  - https://github.com/MiCottOn/DejaVue
+  - https://github.com/binaryage/dirac
+  - https://github.com/guigrpa/storyboard
