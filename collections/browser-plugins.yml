@@ -1,0 +1,22 @@
+ident: browser-plugins
+name: Browser Plugins
+name_cn: 浏览器插件
+slug: /browser-plugins
+items:
+  - https://github.com/Kocal/vue-web-extension # no change in 3 years
+  - https://github.com/lxieyang/chrome-extension-boilerplate-react
+  - https://github.com/mozilla/webextension-polyfill
+  - https://github.com/chibat/chrome-extension-typescript-starter
+  - https://github.com/GoogleChrome/chrome-extensions-samples
+  - https://github.com/webextension-toolbox/webextension-toolbox
+  - https://github.com/puppeteer/puppeteer
+  - https://github.com/gorhill/uBlock
+  - https://github.com/darkreader/darkreader
+  - https://github.com/StylishThemes/GitHub-Dark
+  - https://github.com/MetaMask/metamask-extension
+  - https://github.com/GoogleChromeLabs/ProjectVisBug
+  - https://github.com/greatsuspender/thegreatsuspender # no change in 3 years
+  - https://github.com/gildas-lormeau/SingleFile
+  - https://github.com/iorate/ublacklist
+  - https://github.com/honestbleeps/Reddit-Enhancement-Suite
+  - https://github.com/violentmonkey/violentmonkey
