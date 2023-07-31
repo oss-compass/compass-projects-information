@@ -1,6 +1,6 @@
 ident: browser-devtools
 name: Browser Devtools
-name_cn: 浏览器开发者工具
+name_cn: 浏览器开发工具
 slug: /browser-devtools
 items:
   - https://github.com/topics/chrome-devtools
