@@ -1,0 +1,16 @@
+---
+community_name: rules_js
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/aspect-build/rules_js
+    - https://github.com/aspect-build/rules_ts
+    - https://github.com/aspect-build/rules_swc
+    - https://github.com/aspect-build/rules_jasmine
+    - https://github.com/aspect-build/rules_jest
+    - https://github.com/aspect-build/rules_webpack
+    - https://github.com/aspect-build/rules_terser
+    - https://github.com/aspect-build/rules_rollup
+    - https://github.com/aspect-build/rules_esbuild
+  governance-repositories:
+    repo_urls: []
