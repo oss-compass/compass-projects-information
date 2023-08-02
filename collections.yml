@@ -110,7 +110,10 @@
     - static-site-generator # 静态站点生成器
     - electron-packaging-tools # Electron 打包工具
     - mobile-cross-platform-application-development # 移动跨平台应用开发
-    
+    - desktop-cross-platform-application-development # 桌面跨平台应用开发
+    - data-visualization # 数据可视化
+    - web-frontend-component-and-framework # Web前端组件和框架
+        
 - ident: browser-related
   name: Browser related
   name_cn: 浏览器相关
