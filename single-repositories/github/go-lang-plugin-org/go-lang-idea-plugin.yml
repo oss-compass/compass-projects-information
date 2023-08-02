@@ -1,0 +1,2 @@
+resource_types:
+  repo_urls: https://github.com/go-lang-plugin-org/go-lang-idea-plugin
