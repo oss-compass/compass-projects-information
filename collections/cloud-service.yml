@@ -1,0 +1,14 @@
+ident: cloud-service
+name: Cloud Service
+name_cn: 云服务
+slug: /cloud-service
+items:
+  - https://github.com/localstack/localstack
+  - https://github.com/cert-manager/cert-manager
+  - https://github.com/haiwen/seafile
+  - https://github.com/google/go-cloud
+  - https://github.com/owncloud/core
+  - https://github.com/crossplane/crossplane
+  - https://github.com/abraunegg/onedrive
+  - https://github.com/hashicorp/terraform-cdk
+  - https://github.com/owncloud/client
