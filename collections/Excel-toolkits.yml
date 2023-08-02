@@ -1,0 +1,19 @@
+ident: Excel-toolkits
+name: Excel Toolkits
+name_cn: Excel工具包
+slug: /Excel-toolkits
+items:
+  - https://github.com/PHPOffice/PhpSpreadsheet
+  - https://github.com/SpartnerNL/Laravel-Excel
+  - https://github.com/wireservice/csvkit
+  - https://github.com/JoshClose/CsvHelper
+  - https://github.com/adaltas/node-csv
+  - https://github.com/thephpleague/csv
+  - https://github.com/jmcnamara/XlsxWriter
+  - https://github.com/randym/axlsx
+  - https://github.com/xlwings/xlwings
+  - https://github.com/dfinke/ImportExcel
+  - https://github.com/weshatheleopard/rubyXL
+  - https://github.com/tfussell/xlnt
+  - https://github.com/pyexcel/pyexcel
+  - https://github.com/jmcnamara/libxlsxwriter
