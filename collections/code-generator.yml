@@ -1,0 +1,12 @@
+ident: code-generator
+name: Code Generator
+name_cn: 代码生成器
+slug: /code-generator
+items:
+  - https://github.com/OpenAPITools/openapi-generator
+  - https://github.com/projectlombok/lombok
+  - https://github.com/dotansimha/graphql-code-generator
+  - https://github.com/microsoft/TemplateStudio
+  - https://github.com/lalrpop/lalrpop
+  - https://github.com/csmith-project/creduce
+  - https://github.com/bjorn3/rustc_codegen_cranelift
