@@ -1,0 +1,7 @@
+ident: jobs-and-task-scheduling
+name: Jobs And Task Scheduling
+name_cn: 作业或任务调度
+slug: /jobs-and-task-scheduling
+items:
+  - https://github.com/xuxueli/xxl-job
+  - https://github.com/KFCFans/PowerJob
