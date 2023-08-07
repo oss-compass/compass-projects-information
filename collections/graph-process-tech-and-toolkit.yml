@@ -1,0 +1,18 @@
+ident: graph-process-tech-and-toolkit
+name: Graph Process Tech And Toolkit
+name_cn: 图像处理技术和工具包
+slug: /graph-process-tech-and-toolkit
+items:
+  - https://github.com/tesseract-ocr/tesseract
+  - https://github.com/bumptech/glide
+  - https://github.com/SDWebImage/SDWebImage
+  - https://github.com/lovell/sharp
+  - https://github.com/GoogleChromeLabs/squoosh
+  - https://github.com/oliver-moran/jimp
+  - https://github.com/python-pillow/Pillow
+  - https://github.com/coil-kt/coil
+  - https://github.com/libvips/libvips
+  - https://github.com/php-imagine/Imagine
+  - https://github.com/imazen/imageflow
+  - https://github.com/canvg/canvg
+  - https://github.com/image-rs/image
