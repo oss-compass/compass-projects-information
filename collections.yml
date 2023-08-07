@@ -63,6 +63,14 @@
     - computer-vision-face-recognition # 计算机视觉和人脸识别
     - aigc # AI内容生成，包括ChatGPT系列
 
+- ident: blockchain
+  name: blockchain
+  name_cn: 区块链技术和应用
+  items:
+    - blockchain # 区块链技术
+    - digital-currency # 数字货币
+    - nft # NFT非同质化通证
+
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
