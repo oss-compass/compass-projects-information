@@ -1,0 +1,19 @@
+ident: common-toolkit
+name: Common Toolkit
+name_cn: 常用工具包
+slug: /common-toolkit
+items:
+  - https://github.com/ai/nanoid
+  - https://gitee.com/dromara/hutool
+  - https://github.com/casey/just
+  - https://github.com/FluentValidation/FluentValidation
+  - https://github.com/Humanizr/Humanizer
+  - https://github.com/AdrienTorris/awesome-blazor
+  - https://github.com/golang/tools
+  - https://github.com/FirebaseExtended/flutterfire
+  - https://github.com/mahmoud/boltons
+  - https://github.com/CommunityToolkit/WindowsCommunityToolkit
+  - https://github.com/JodaOrg/joda-time
+  - https://github.com/googlecodelabs/tools
+  - https://github.com/twitter/util
+  - https://github.com/util-linux/util-linux
