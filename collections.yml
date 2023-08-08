@@ -71,6 +71,15 @@
     - digital-currency # 数字货币
     - nft # NFT非同质化通证
 
+- ident: handset-and-mobile-application-development
+  name: Handset and Mobile Application Development
+  name_cn: 手机和移动应用开发
+  items:
+    - android-component-and-projects # 安卓组件和项目
+    - ios-component-and-projects # iOS组件和项目
+    - mobile-apps # 移动APP
+    - cross-platform-mobile-app-development # 跨平台移动应用开发
+
 - ident: development-framework
   name: Development Framework
   name_cn: 开发框架
