@@ -1,6 +1,6 @@
 ident: ios-framework
-name: iOS Framework
-name_cn: iOS 开发框架
+name: iOS development component and framework
+name_cn: iOS 开发组件和框架
 slug: /ios-framework
 items:
   - https://github.com/Alamofire/Alamofire
@@ -22,3 +22,4 @@ items:
   - https://github.com/Cocoanetics/DTCoreText
   - https://github.com/facebook/componentkit # no change in 1 years
   - https://github.com/theos/theos
+  - https://github.com/ionic-team/ionic-framework
