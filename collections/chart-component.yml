@@ -1,0 +1,17 @@
+ident: chart-component
+name: Chart Component
+name_cn: 图表组件
+slug: /chart-component
+items:
+  - https://github.com/chartjs/Chart.js
+  - https://github.com/apache/echarts
+  - https://github.com/PhilJay/MPAndroidChart # no change in 3 years
+  - https://github.com/FormidableLabs/victory
+  - https://github.com/c3js/c3 # no change in 2 years
+  - https://github.com/leeoniya/uPlot
+  - https://github.com/imaNNeoFighT/fl_chart
+  - https://github.com/britecharts/britecharts
+  - https://github.com/cnvs/canvas
+  - https://github.com/core-plot/core-plot # no change in 1 years
+  - https://github.com/ScottPlot/ScottPlot
+  - https://github.com/knowm/XChart
