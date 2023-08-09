@@ -1,6 +1,6 @@
 ident: android-development-framework
-name: Android development framework
-name_cn: 安卓开发框架
+name: Android Development Component and Framework
+name_cn: 安卓开发组件和框架
 slug: /android-development-framework
 items:
   - https://github.com/androidx/androidx
