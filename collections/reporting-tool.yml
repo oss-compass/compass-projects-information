@@ -1,0 +1,14 @@
+ident: reporting-tool
+name: Reporting Tool
+name_cn: 报表工具
+slug: /reporting-tool
+items:
+  - https://gitee.com/anji-plus/report
+  - https://github.com/jsreport/jsreport
+  - https://gitee.com/jeecg/JimuReport
+  - https://gitee.com/youseries_admin/ureport
+  - https://gitee.com/ureport/ReportPlus
+  - https://gitee.com/xianrendzw/EasyReport
+  - https://gitee.com/NoneDay/CellReport
+  - https://gitee.com/ureport/ReportPro  # no change in 2 years
+  - https://gitee.com/doc_wei01/skyeye-report  # no change in 2 years
