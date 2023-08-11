@@ -1,0 +1,18 @@
+ident: payment-SDK
+name: Payment SDK
+name_cn: 支付开发包
+slug: /payment-SDK
+items:
+  - https://github.com/activemerchant/active_merchant
+  - https://github.com/stripe/stripe-php
+  - https://github.com/stripe/stripe-node
+  - https://gitee.com/yansongda/pay
+  - https://github.com/Payum/Payum
+  - https://github.com/stripe/stripe-ruby
+  - https://github.com/stripe/stripe-ios
+  - https://github.com/stripe/stripe
+  - https://github.com/pay-rails/pay
+  - https://github.com/stripe/stripe-python
+  - https://github.com/stripe/stripe-dotnet
+  - https://gitee.com/essensoft/paylink
+  - https://github.com/Payum/PayumBundle
