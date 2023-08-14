@@ -1,0 +1,8 @@
+---
+community_name: kubeflow
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kubeflow/kubeflow
+  governance-repositories:
+    repo_urls: []
