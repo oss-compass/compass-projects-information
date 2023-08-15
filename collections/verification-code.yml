@@ -1,0 +1,16 @@
+ident: verification-code
+name: Verification Code
+name_cn: 验证码
+slug: /verification-code
+items:
+  - https://github.com/kerlomz/captcha_trainer
+  - https://github.com/wenlng/go-captcha
+  - https://github.com/huaiyukeji/verification_code
+  - https://gitee.com/anji-plus/captcha
+  - https://gitee.com/LongbowEnterprise/SliderCaptcha
+  - https://gitee.com/ele-admin/EasyCaptcha # no change in 1 years
+  - https://gitee.com/tianai/tianai-captcha
+  - https://gitee.com/monoplasty/vue-monoplasty-slide-verify
+  - https://gitee.com/ramostear/Happy-Captcha # no change in 3 years
+  - https://github.com/kerlomz/captcha_platform
+  - https://github.com/LeeeSe/MessAuto
