@@ -23,3 +23,7 @@ items:
   - https://github.com/mindspore-ai/mindspore
   - https://github.com/facebookresearch/fairo
   - https://github.com/eclipse/deeplearning4j
+  - https://github.com/google/jax
+  - https://github.com/huggingface/transformers
+  - https://github.com/huggingface/peft
+  - https://github.com/microsoft/DeepSpeed
