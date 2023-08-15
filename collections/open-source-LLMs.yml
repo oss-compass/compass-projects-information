@@ -1,0 +1,21 @@
+ident: open-source-LLMs
+name: Open Source LLMs
+name_cn: 开源LLMs
+slug: /open-source-LLMs
+items:
+  - https://github.com/facebookresearch/llama
+  - https://github.com/tatsu-lab/stanford_alpaca
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/clue-ai/ChatYuan
+  - https://github.com/facebookresearch/metaseq
+  - https://github.com/openai/gpt-2
+  - https://github.com/THUDM/CodeGeeX
+  - https://github.com/THUDM/ChatGLM-6B
+  - https://github.com/THUDM/ChatGLM2-6B 
+  - https://github.com/OpenLMLab/MOSS 
+  - https://github.com/conceptofmind/PaLM
+
+  
+
+
+
