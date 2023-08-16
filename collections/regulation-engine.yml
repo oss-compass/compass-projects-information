@@ -1,0 +1,16 @@
+ident: regulation-engine
+name: Regulation Engine
+name_cn: 规则引擎
+slug: /regulation-engine
+items:
+  - https://github.com/kiegroup/drools
+  - https://github.com/NRules/NRules
+  - https://github.com/jruizgit/rules # no change in 3 years
+  - https://github.com/microsoft/RulesEngine
+  - https://github.com/j-easy/easy-rules # no change in 3 years
+  - https://github.com/CacheControl/json-rules-engine
+  - https://github.com/secbr/drools
+  - https://github.com/hyperjumptech/grule-rule-engine
+  - https://gitee.com/waitmoon/ice
+  - https://gitee.com/xnat/grule
+  - https://gitee.com/rulego/rulego
