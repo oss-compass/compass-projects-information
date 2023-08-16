@@ -7,6 +7,7 @@ items:
   - https://github.com/Significant-Gravitas/Auto-GPT
   - https://github.com/jerryjliu/llama_index
   - https://github.com/chroma-core/chroma
+  - https://github.com/ggerganov/llama.cpp
   - https://github.com/milvus-io/milvus
   - https://github.com/mindsdb/mindsdb
   - https://github.com/microsoft/prompt-engine
