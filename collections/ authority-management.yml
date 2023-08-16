@@ -1,0 +1,18 @@
+ident: authority-management
+name: Authority Management
+name_cn: 权限管理
+slug: /authority-management
+items:
+  - https://gitee.com/y_project/RuoYi-Cloud
+  - https://gitee.com/renrenio/renren-security
+  - https://gitee.com/dotnetchina/OpenAuth.Net
+  - https://gitee.com/tomsun28/bootshiro
+  - https://gitee.com/makunet/maku-cloud
+  - https://gitee.com/wangzhixuan/spring-shiro-training
+  - https://gitee.com/log4j/pig-ui
+  - https://gitee.com/pear-admin/Pear-Admin-Boot
+  - https://gitee.com/xiaonuobase/snowy-cloud
+  - https://gitee.com/mallcloud/uni4mall
+  - https://gitee.com/go-admin-team/go-admin
+  - https://gitee.com/li_haodong/pre
+  - https://gitee.com/liuge1988/kitty-ui
