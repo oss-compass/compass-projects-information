@@ -107,10 +107,14 @@
     - privacy-computing-framework # 隐私计算框架
     - unit-testing-framework # 单元测试框架
     - web-frameworks # Web 开发框架
-- ident: devops
-  name: DevOps
-  name_cn: DevOps
+    
+- ident: devops-network-manage-maintain
+  name: DevOps and network management and maintaining
+  name_cn: DevOps、网络管理和运维
   items:
+    - network-and-system-management # 网络和系统管理工具 
+    - monitoring # 监控系统 
+    - devops-tools # DevOps工具
     - continuous-deployment-tools # 持续部署工具
     - continuous-integration-tools # 持续集成工具
 
