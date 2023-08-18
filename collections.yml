@@ -63,6 +63,20 @@
     - computer-vision-face-recognition # 计算机视觉和人脸识别
     - aigc # AI内容生成，包括ChatGPT系列
 
+- ident: server-applications
+  name: Server Applications
+  name_cn: 服务器应用
+  items:
+    - distributed-service-framework-computing # 分布式服务-框架-计算
+    - message-queue # 消息服务器和消息队列
+    - docker-related-apps # Docker相关应用 
+    - nginx-extended-modules # Nginx扩展模块
+    - one-click-installation-kit # 服务器一键安装包
+    - open-resty-extension # Open Resty 扩展
+    - serverless # Serverless无服务器 
+    - distributed-storage-system # 分布式存储系统
+    - web-servers # WEB服务器
+    
 - ident: blockchain
   name: blockchain
   name_cn: 区块链技术和应用
