@@ -1,0 +1,13 @@
+ident: caching-component
+name: Caching Component
+name_cn: 缓存组件
+slug: /caching-component
+items:
+  - https://gitee.com/ld/J2Cache
+  - https://gitee.com/jd-platform-opensource/hotkey
+  - https://gitee.com/qiujiayu/AutoLoadCache
+  - https://gitee.com/BYSRepo/shiro-redis
+  - https://gitee.com/NewLifeX/NewLife.Redis
+  - https://gitee.com/jd-platform-opensource/dtc
+  - https://gitee.com/darkidiot/RedisCache
+  - https://gitee.com/shenzhanwang/Spring-redis
