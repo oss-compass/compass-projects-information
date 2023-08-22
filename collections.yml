@@ -62,7 +62,8 @@
     - nlp # 自然语言处理
     - computer-vision-face-recognition # 计算机视觉和人脸识别
     - aigc # AI内容生成，包括ChatGPT系列
-
+    - open-source-LLMs # 开源LLMs
+    - open-source-LLMs-tools # 开源LLMs工具
 - ident: server-applications
   name: Server Applications
   name_cn: 服务器应用
@@ -100,7 +101,6 @@
     - android-development-framework # 安卓开发框架
     - authorization-framework # 权限认证框架
     - css-framework # CSS 框架
-    - deep-learning-framework # 深度学习框架
     - edge-computing-framework # 边缘计算框架
     - ios-framework # iOS 开发框架
     - node.js-web-framework # Node.js Web 框架
