@@ -1,0 +1,20 @@
+ident: network-tool
+name: Network Tool
+name_cn: 网络工具
+slug: /network-tool
+items:
+  - https://github.com/traefik/traefik
+  - https://github.com/rclone/rclone
+  - https://github.com/XIU2/TrackersListCollection
+  - https://github.com/YOURLS/YOURLS
+  - https://github.com/esnet/iperf
+  - https://github.com/session-replay-tools/tcpcopy
+  - https://github.com/warmcat/libwebsockets
+  - https://github.com/KDAB/hotspot
+  - https://github.com/angryip/ipscan
+  - https://github.com/ytti/oxidized
+  - https://github.com/connectbot/connectbot
+  - https://github.com/kmvan/x-prober
+  - https://gitee.com/Hgui/FastTunnel
+  - https://gitee.com/dromara/neutrino-proxy
+  - https://gitee.com/pp/SmsForwarder
