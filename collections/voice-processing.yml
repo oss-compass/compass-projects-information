@@ -1,0 +1,22 @@
+ident: voice-processing
+name: Voice Processing
+name_cn: 语音处理
+slug: /voice-processing
+items:
+  - https://github.com/CorentinJ/Real-Time-Voice-Cloning # no change in 1 years
+  - https://github.com/babysor/MockingBird
+  - https://github.com/RasaHQ/rasa
+  - https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+  - https://github.com/w-okada/voice-changer
+  - https://github.com/neonbjb/tortoise-tts
+  - https://github.com/noisetorch/NoiseTorch
+  - https://github.com/feross/simple-peer
+  - https://github.com/TalAter/annyang
+  - https://github.com/mumble-voip/mumble
+  - https://github.com/jasperproject/jasper-client
+  - https://github.com/andabi/deep-voice-conversion
+  - https://github.com/MoonInTheRiver/DiffSinger
+  - https://github.com/common-voice/common-voice
+  - https://github.com/Plachtaa/VITS-fast-fine-tuning
+  - https://gitee.com/LGW_space/tts-vue
+  - https://gitee.com/ailemon/ASRT_SpeechRecognition
