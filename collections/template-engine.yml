@@ -16,3 +16,8 @@ items:
   - https://github.com/facebook/react
   - https://github.com/vuejs/vue
   - https://github.com/angular/angular
+  - https://github.com/pallets/jinja
+  - https://github.com/spullara/mustache.java
+  - https://github.com/scalate/scalate
+  - https://github.com/groue/GRMustache.swift
+  - https://github.com/HubSpot/jinjava
