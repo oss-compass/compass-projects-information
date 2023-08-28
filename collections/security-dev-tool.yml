@@ -1,0 +1,17 @@
+ident: security-dev-tool
+name: Security Dev Tool
+name_cn: 安全开发相关工具
+slug: /security-dev-tool
+items:
+  - https://github.com/Gallopsled/pwntools
+  - https://github.com/sullo/nikto
+  - https://github.com/SigmaHQ/sigma
+  - https://github.com/pyca/cryptography
+  - https://github.com/ARMmbed/mbedtls
+  - https://github.com/vanhoefm/krackattacks-scripts
+  - https://github.com/RfidResearchGroup/proxmark3
+  - https://github.com/randombit/botan
+  - https://github.com/owtf/owtf
+  - https://github.com/vanhoefm/fragattacks
+  - https://github.com/ron190/jsql-injection
+  - https://github.com/thesp0nge/dawnscanner
