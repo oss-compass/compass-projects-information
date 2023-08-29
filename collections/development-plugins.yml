@@ -1,0 +1,22 @@
+ident: development-plugins
+name: Development Plugins
+name_cn: 开发插件
+slug: /development-plugins
+items:
+  - https://github.com/neoclide/coc.nvim
+  - https://github.com/vim-airline/vim-airline
+  - https://github.com/fatih/vim-go
+  - https://github.com/equinusocio/material-theme
+  - https://github.com/nvim-telescope/telescope.nvim
+  - https://github.com/Shougo/deoplete.nvim
+  - https://github.com/preservim/tagbar
+  - https://github.com/python-mode/python-mode
+  - https://github.com/sheerun/vim-polyglot
+  - https://github.com/ipython-contrib/jupyter_contrib_nbextensions
+  - https://github.com/elementor/elementor
+  - https://github.com/emacs-lsp/lsp-mode
+  - https://github.com/honza/vim-snippets
+  - https://github.com/intellij-rust/intellij-rust
+  - https://github.com/izhangzhihao/intellij-rainbow-brackets
+  - https://github.com/bbatsov/projectile
+  - https://github.com/emacs-helm/helm
