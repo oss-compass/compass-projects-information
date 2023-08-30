@@ -1,0 +1,14 @@
+---
+community_name: matrixorigin
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/matrixorigin/artwork
+        - https://gitee.com/matrixorigin/matrix-light-reid
+        - https://gitee.com/matrixorigin/matrixcube
+        - https://gitee.com/matrixorigin/matrixone
+        - https://gitee.com/matrixorigin/talent-challenge
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,11 @@
+---
+community_name: milvus-io
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/milvus-io/bootcamp
+        - https://gitee.com/milvus-io/milvus
+    governance-repositories:
+        repo_urls: []
+
+    

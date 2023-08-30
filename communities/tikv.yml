@@ -1,0 +1,66 @@
+---
+community_name: tikv
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/tikv/tikv
+        - https://github.com/tikv/pd
+        - https://github.com/tikv/rocksdb
+        - https://github.com/tikv/rust-prometheus
+        - https://github.com/tikv/rust-rocksdb
+        - https://github.com/tikv/grpc-rs
+        - https://github.com/tikv/grpc
+        - https://github.com/tikv/fail-rs
+        - https://github.com/tikv/raft-rs
+        - https://github.com/tikv/client-c
+        - https://github.com/tikv/rfcs
+        - https://github.com/tikv/deep-dive-tikv
+        - https://github.com/tikv/client-rust
+        - https://github.com/tikv/bytes
+        - https://github.com/tikv/criterion.rs
+        - https://github.com/tikv/client-java
+        - https://github.com/tikv/procinfo-rs
+        - https://github.com/tikv/client-go
+        - https://github.com/tikv/slog-global
+        - https://github.com/tikv/mock-tikv
+        - https://github.com/tikv/rust-three-days-course
+        - https://github.com/tikv/protobuf-build
+        - https://github.com/tikv/client-validator
+        - https://github.com/tikv/agatedb
+        - https://github.com/tikv/titan
+        - https://github.com/tikv/importer
+        - https://github.com/tikv/terraform-tikv-bench
+        - https://github.com/tikv/auto-tikv
+        - https://github.com/tikv/copr-test
+        - https://github.com/tikv/pprof-rs
+        - https://github.com/tikv/crc64fast
+        - https://github.com/tikv/yatp
+        - https://github.com/tikv/sysinfo
+        - https://github.com/tikv/async-speed-limit
+        - https://github.com/tikv/minitrace-rust
+        - https://github.com/tikv/tikv-operator
+        - https://github.com/tikv/raft-engine
+        - https://github.com/tikv/sig-transaction
+        - https://github.com/tikv/tlaplus-specs
+        - https://github.com/tikv/minitrace-go
+        - https://github.com/tikv/minstant
+        - https://github.com/tikv/jemallocator
+        - https://github.com/tikv/client-py
+        - https://github.com/tikv/jemalloc
+        - https://github.com/tikv/client-cpp
+        - https://github.com/tikv/rusoto
+        - https://github.com/tikv/crossbeam
+        - https://github.com/tikv/mur3
+        - https://github.com/tikv/rust-protobuf
+        - https://github.com/tikv/jepsen-test
+        - https://github.com/tikv/client-node
+        - https://github.com/tikv/tikv-dev-guide
+        - https://github.com/tikv/migration
+        - https://github.com/tikv/tokio
+        - https://github.com/tikv/match-template
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/tikv/website
+        - https://github.com/tikv/community
+        - https://github.com/tikv/tikv.github.io
+    

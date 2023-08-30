@@ -1,0 +1,17 @@
+---
+community_name: IvorySQL
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/IvorySQL/IvorySQL
+        - https://github.com/IvorySQL/Ivory-www
+        - https://github.com/IvorySQL/ivory-doc-builder
+        - https://github.com/IvorySQL/ivorysql_web
+        - https://github.com/IvorySQL/ivorysql_docs
+        - https://github.com/IvorySQL/ivory-operator
+        - https://github.com/IvorySQL/ivory-containers
+        - https://github.com/IvorySQL/ivory-operator-examples
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,26 @@
+---
+community_name: ai-iotdb
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/ai-iotdb/ceresdb
+        - https://gitee.com/ai-iotdb/dgiot
+        - https://gitee.com/ai-iotdb/ekuiper
+        - https://gitee.com/ai-iotdb/emqx
+        - https://gitee.com/ai-iotdb/hstream
+        - https://gitee.com/ai-iotdb/iotdb
+        - https://gitee.com/ai-iotdb/iotStudio
+        - https://gitee.com/ai-iotdb/milvus
+        - https://gitee.com/ai-iotdb/nanomq
+        - https://gitee.com/ai-iotdb/neuron
+        - https://gitee.com/ai-iotdb/openGemini
+        - https://gitee.com/ai-iotdb/pigsty
+        - https://gitee.com/ai-iotdb/polardb-x
+        - https://gitee.com/ai-iotdb/TDengine
+        - https://gitee.com/ai-iotdb/thingsboard
+        - https://gitee.com/ai-iotdb/TiBigData
+        - https://gitee.com/ai-iotdb/yukon
+    governance-repositories:
+        repo_urls: []
+
+    

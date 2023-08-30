@@ -1,0 +1,32 @@
+---
+community_name: oceanbase
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/oceanbase/oblogmsg
+        - https://gitee.com/oceanbase/blog
+        - https://gitee.com/oceanbase/code-guide-doc
+        - https://gitee.com/oceanbase/devcon
+        - https://gitee.com/oceanbase/ob-operator
+        - https://gitee.com/oceanbase/obagent
+        - https://gitee.com/oceanbase/obclient
+        - https://gitee.com/oceanbase/obconnector-c
+        - https://gitee.com/oceanbase/obd-doc
+        - https://gitee.com/oceanbase/obdeploy
+        - https://gitee.com/oceanbase/obdumper-loader-doc
+        - https://gitee.com/oceanbase/oblogclient
+        - https://gitee.com/oceanbase/oblogproxy
+        - https://gitee.com/oceanbase/obproxy
+        - https://gitee.com/oceanbase/oceanbase
+        - https://gitee.com/oceanbase/oceanbase-connector-c-doc
+        - https://gitee.com/oceanbase/oceanbase-diagnostic-tool
+        - https://gitee.com/oceanbase/oceanbase-doc
+        - https://gitee.com/oceanbase/oceanbase-proxy-doc
+        - https://gitee.com/oceanbase/ocp-doc
+        - https://gitee.com/oceanbase/odc-doc
+        - https://gitee.com/oceanbase/oms-doc
+        - https://gitee.com/oceanbase/tutorials-doc
+    governance-repositories:
+        repo_urls: []
+
+    
