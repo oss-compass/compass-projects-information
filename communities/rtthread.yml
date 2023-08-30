@@ -1,0 +1,21 @@
+---
+community_name: rtthread
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/rtthread/userapps
+        - https://gitee.com/rtthread/ART-Pi-smart
+        - https://gitee.com/rtthread/docs-online
+        - https://gitee.com/rtthread/Gemini
+        - https://gitee.com/rtthread/mpy-snippets
+        - https://gitee.com/rtthread/packages-files
+        - https://gitee.com/rtthread/rt-boot
+        - https://gitee.com/rtthread/rt-smart-notes
+        - https://gitee.com/rtthread/rt-thread
+        - https://gitee.com/rtthread/rtthread-apps
+        - https://gitee.com/rtthread/rtthread-manual-doc
+        - https://gitee.com/rtthread/smart-build
+    governance-repositories:
+        repo_urls: []
+
+    

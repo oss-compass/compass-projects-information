@@ -1,0 +1,18 @@
+---
+community_name: anolis-challenge
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/anolis-challenge/activity-box-lab
+        - https://gitee.com/anolis-challenge/activity-common-task
+        - https://gitee.com/anolis-challenge/activity-docs
+        - https://gitee.com/anolis-challenge/activity-lab-anolis-os
+        - https://gitee.com/anolis-challenge/activity-lab-keentune-ai
+        - https://gitee.com/anolis-challenge/activity-lab-migrate
+        - https://gitee.com/anolis-challenge/activity-lab-third-party
+        - https://gitee.com/anolis-challenge/activity-school
+        - https://gitee.com/anolis-challenge/summer2022
+    governance-repositories:
+        repo_urls: []
+
+    

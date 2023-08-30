@@ -1,0 +1,75 @@
+---
+community_name: openFyde
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openFyde/gsl-firmware
+        - https://gitee.com/openFyde/ft5626-touchcreen-driver
+        - https://gitee.com/openFyde/realtek-wifi-kernel-3
+        - https://gitee.com/openFyde/project-arc-rec-env
+        - https://gitee.com/openFyde/project-patches
+        - https://gitee.com/openFyde/manifest
+        - https://gitee.com/openFyde/chromium_gclient
+        - https://gitee.com/openFyde/rpi-boot-bin
+        - https://gitee.com/openFyde/baseboard-rpi3
+        - https://gitee.com/openFyde/chipset-bcm2837
+        - https://gitee.com/openFyde/overlay-rpi4
+        - https://gitee.com/openFyde/project-cros-pi
+        - https://gitee.com/openFyde/uboot-bin-for-pinebookpro
+        - https://gitee.com/openFyde/JeffyCN-libv4l-rkmpp
+        - https://gitee.com/openFyde/arch-amd64
+        - https://gitee.com/openFyde/ayufan-rock64-linux-package
+        - https://gitee.com/openFyde/chromium_os-raspberry_pi
+        - https://gitee.com/openFyde/cookbook
+        - https://gitee.com/openFyde/dotgclient
+        - https://gitee.com/openFyde/extra-overlays
+        - https://gitee.com/openFyde/foundation-rk3399
+        - https://gitee.com/openFyde/foundation-rk3588
+        - https://gitee.com/openFyde/fyde-eclass
+        - https://gitee.com/openFyde/fydeos-hardware-tuning
+        - https://gitee.com/openFyde/fydeos-power-daemon-go
+        - https://gitee.com/openFyde/fydeos-refind-theme
+        - https://gitee.com/openFyde/fydeos-shell-daemon-go
+        - https://gitee.com/openFyde/getting-started
+        - https://gitee.com/openFyde/gslx680-acpi
+        - https://gitee.com/openFyde/input-tools-extention
+        - https://gitee.com/openFyde/kang-tester
+        - https://gitee.com/openFyde/kernel
+        - https://gitee.com/openFyde/luckydraw
+        - https://gitee.com/openFyde/marisa-trie
+        - https://gitee.com/openFyde/overlay-amd64-openfyde
+        - https://gitee.com/openFyde/overlay-amd64-openfyde_apu
+        - https://gitee.com/openFyde/overlay-amd64-openfyde_vmware
+        - https://gitee.com/openFyde/overlay-edge2-openfyde
+        - https://gitee.com/openFyde/overlay-edge2-openfyde-base
+        - https://gitee.com/openFyde/overlay-firefly_itx3588j-openfyde
+        - https://gitee.com/openFyde/overlay-firefly_rk3588spc-openfyde
+        - https://gitee.com/openFyde/overlay-fydetab_duo-openfyde
+        - https://gitee.com/openFyde/overlay-fydetab_duo-openfyde-base
+        - https://gitee.com/openFyde/overlay-orangepi5-openfyde
+        - https://gitee.com/openFyde/overlay-orangepi5-openfyde-base
+        - https://gitee.com/openFyde/overlay-rock4cp-openfyde
+        - https://gitee.com/openFyde/overlay-rock5b-openfyde
+        - https://gitee.com/openFyde/overlay-rock5b-openfyde-base
+        - https://gitee.com/openFyde/overlay-rockpi4b-openfyde
+        - https://gitee.com/openFyde/overlay-rpi4-openfyde
+        - https://gitee.com/openFyde/overlay-rpi4-openfyde-base
+        - https://gitee.com/openFyde/project-fydemina
+        - https://gitee.com/openFyde/project-fydeos
+        - https://gitee.com/openFyde/project-fydeos-drivers
+        - https://gitee.com/openFyde/project-gentoo-pkgs
+        - https://gitee.com/openFyde/project-ime
+        - https://gitee.com/openFyde/project-openfyde
+        - https://gitee.com/openFyde/project-openfyde-drivers
+        - https://gitee.com/openFyde/project-openfyde-fingerprint
+        - https://gitee.com/openFyde/project-openfyde-patches
+        - https://gitee.com/openFyde/project-vmware
+        - https://gitee.com/openFyde/raspberrypi-userland
+        - https://gitee.com/openFyde/rockchip-linux-mpp
+        - https://gitee.com/openFyde/rtl8723bs_bt
+        - https://gitee.com/openFyde/swtpm-bin
+        - https://gitee.com/openFyde/tpm-emulator
+    governance-repositories:
+        repo_urls: []
+
+    
