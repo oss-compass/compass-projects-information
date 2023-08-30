@@ -1,0 +1,57 @@
+---
+community_name: CovenantSQL
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/CovenantSQL/CovenantSQL
+        - https://github.com/CovenantSQL/research
+        - https://github.com/CovenantSQL/btc-regtest
+        - https://github.com/CovenantSQL/GNTE
+        - https://github.com/CovenantSQL/logrus
+        - https://github.com/CovenantSQL/HashStablePack
+        - https://github.com/CovenantSQL/go-sqlite3-encrypt
+        - https://github.com/CovenantSQL/cql-java-driver
+        - https://github.com/CovenantSQL/EthStargate
+        - https://github.com/CovenantSQL/EthStargateServer
+        - https://github.com/CovenantSQL/blockchain-papers
+        - https://github.com/CovenantSQL/cql-python-driver
+        - https://github.com/CovenantSQL/sqlparser
+        - https://github.com/CovenantSQL/xurls
+        - https://github.com/CovenantSQL/node-covenantsql
+        - https://github.com/CovenantSQL/go-mysql
+        - https://github.com/CovenantSQL/usql
+        - https://github.com/CovenantSQL/php-covenantsql
+        - https://github.com/CovenantSQL/go
+        - https://github.com/CovenantSQL/python-demos
+        - https://github.com/CovenantSQL/smux
+        - https://github.com/CovenantSQL/docs
+        - https://github.com/CovenantSQL/cql.js
+        - https://github.com/CovenantSQL/covenantsql-mybatis-spring-boot-jpetstore
+        - https://github.com/CovenantSQL/flyway
+        - https://github.com/CovenantSQL/keyvenant
+        - https://github.com/CovenantSQL/shardchain-explorer
+        - https://github.com/CovenantSQL/cql-excel-extension
+        - https://github.com/CovenantSQL/covenant-scan
+        - https://github.com/CovenantSQL/CovenantForum
+        - https://github.com/CovenantSQL/Ghost
+        - https://github.com/CovenantSQL/pgweb
+        - https://github.com/CovenantSQL/beacon
+        - https://github.com/CovenantSQL/stackedit
+        - https://github.com/CovenantSQL/adminer
+        - https://github.com/CovenantSQL/cql-js-driver
+        - https://github.com/CovenantSQL/covenant-admin
+        - https://github.com/CovenantSQL/CookieScanner
+        - https://github.com/CovenantSQL/homebrew-core
+        - https://github.com/CovenantSQL/homebrew-cql
+        - https://github.com/CovenantSQL/logos
+        - https://github.com/CovenantSQL/meta-covenantsql
+        - https://github.com/CovenantSQL/readline
+        - https://github.com/CovenantSQL/data-sharing-demo
+        - https://github.com/CovenantSQL/sqllogictest
+        - https://github.com/CovenantSQL/cql-cloud-fe
+        - https://github.com/CovenantSQL/covenant-iot-sdk
+        - https://github.com/CovenantSQL/auth-aws-sg-dynamic-ip
+    governance-repositories:
+        repo_urls: []
+
+    

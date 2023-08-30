@@ -1,0 +1,13 @@
+---
+community_name: isupermap
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/isupermap/Yukon4PgSQL
+        - https://gitee.com/isupermap/Yukon4AgentsGraph
+        - https://gitee.com/isupermap/YukonDoc
+        - https://gitee.com/isupermap/Yukon
+    governance-repositories:
+        repo_urls: []
+
+    

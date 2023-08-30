@@ -1,0 +1,15 @@
+---
+community_name: cgraph
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/cgraph/DeepKE
+        - https://gitee.com/cgraph/GraphScope
+        - https://gitee.com/cgraph/hugegraph
+        - https://gitee.com/cgraph/Knowlm
+        - https://gitee.com/cgraph/nebulagraph
+        - https://gitee.com/cgraph/tugraph
+    governance-repositories:
+        repo_urls: []
+
+    
