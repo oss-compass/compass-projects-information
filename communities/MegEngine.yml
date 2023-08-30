@@ -1,0 +1,16 @@
+---
+community_name: MegEngine
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/MegEngine/Documentation
+        - https://gitee.com/MegEngine/Hub
+        - https://gitee.com/MegEngine/MegEngine
+        - https://gitee.com/MegEngine/MegFlow
+        - https://gitee.com/MegEngine/MegSpot
+        - https://gitee.com/MegEngine/mgeconvert
+        - https://gitee.com/MegEngine/Models
+    governance-repositories:
+        repo_urls: []
+
+    

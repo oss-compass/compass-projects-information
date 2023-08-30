@@ -1,0 +1,36 @@
+---
+community_name: Jittor
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/Jittor/cutt
+        - https://github.com/Jittor/DeepFaceDrawing-Jittor
+        - https://github.com/Jittor/deeplab-jittor
+        - https://github.com/Jittor/InstanceSegmentation-jittor
+        - https://github.com/Jittor/JDet
+        - https://github.com/Jittor/JGAN
+        - https://github.com/Jittor/jittor
+        - https://github.com/Jittor/JittorLLMs
+        - https://github.com/Jittor/JMedSeg
+        - https://github.com/Jittor/JNeRF
+        - https://github.com/Jittor/jrender
+        - https://github.com/Jittor/JSeg
+        - https://github.com/Jittor/JSparse
+        - https://github.com/Jittor/LearnJittorBasicIn60Min
+        - https://github.com/Jittor/lsgan-jittor
+        - https://github.com/Jittor/mnistclassification-jittor
+        - https://github.com/Jittor/OCR-Baseline
+        - https://github.com/Jittor/PFSegNets-Jittor
+        - https://github.com/Jittor/PointCloudLib
+        - https://github.com/Jittor/segmentation-jittor
+        - https://github.com/Jittor/shapenet-reconstruction-jittor
+        - https://github.com/Jittor/ssd-jittor
+        - https://github.com/Jittor/tensorboardX
+        - https://github.com/Jittor/TrafficSignDetection
+        - https://github.com/Jittor/TsinghuaDogBaseline
+        - https://github.com/Jittor/unsup3d-jittor
+        - https://github.com/Jittor/yolact
+    governance-repositories:
+        repo_urls: []
+
+    
