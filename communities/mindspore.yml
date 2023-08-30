@@ -1,0 +1,39 @@
+---
+community_name: mindspore
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/mindspore/akg
+        - https://gitee.com/mindspore/bolt
+        - https://gitee.com/mindspore/book
+        - https://gitee.com/mindspore/contrib
+        - https://gitee.com/mindspore/darglint
+        - https://gitee.com/mindspore/docs
+        - https://gitee.com/mindspore/federated
+        - https://gitee.com/mindspore/golden-stick
+        - https://gitee.com/mindspore/graphengine
+        - https://gitee.com/mindspore/graphlearning
+        - https://gitee.com/mindspore/hub
+        - https://gitee.com/mindspore/ide-plugin
+        - https://gitee.com/mindspore/mindarmour
+        - https://gitee.com/mindspore/mindformers
+        - https://gitee.com/mindspore/mindinsight
+        - https://gitee.com/mindspore/mindpandas
+        - https://gitee.com/mindspore/mindquantum
+        - https://gitee.com/mindspore/mindscience
+        - https://gitee.com/mindspore/mindspore
+        - https://gitee.com/mindspore/models
+        - https://gitee.com/mindspore/ms-operator
+        - https://gitee.com/mindspore/ringmo-framework
+        - https://gitee.com/mindspore/serving
+        - https://gitee.com/mindspore/toolkits
+        - https://gitee.com/mindspore/xai
+        - https://gitee.com/mindspore/xihe-docs
+        - https://gitee.com/mindspore/zidongtaichu
+    governance-repositories:
+        repo_urls: 
+        - https://gitee.com/mindspore/community
+        - https://gitee.com/mindspore/course
+        - https://gitee.com/mindspore/website-docs
+        - https://gitee.com/mindspore/website-v2
+    
