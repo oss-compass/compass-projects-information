@@ -1,0 +1,71 @@
+---
+community_name: src-opencloudos-modules
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-opencloudos-modules/nodejs
+        - https://gitee.com/src-opencloudos-modules/ant
+        - https://gitee.com/src-opencloudos-modules/mysql
+        - https://gitee.com/src-opencloudos-modules/postgresql
+        - https://gitee.com/src-opencloudos-modules/perl-DBD-Pg
+        - https://gitee.com/src-opencloudos-modules/389-ds
+        - https://gitee.com/src-opencloudos-modules/container-tools
+        - https://gitee.com/src-opencloudos-modules/eclipse
+        - https://gitee.com/src-opencloudos-modules/freeradius
+        - https://gitee.com/src-opencloudos-modules/gimp
+        - https://gitee.com/src-opencloudos-modules/go-toolset
+        - https://gitee.com/src-opencloudos-modules/golang-ecosystem
+        - https://gitee.com/src-opencloudos-modules/httpd
+        - https://gitee.com/src-opencloudos-modules/idm
+        - https://gitee.com/src-opencloudos-modules/inkscape
+        - https://gitee.com/src-opencloudos-modules/javapackages-bootstrap
+        - https://gitee.com/src-opencloudos-modules/javapackages-runtime
+        - https://gitee.com/src-opencloudos-modules/javapackages-tools
+        - https://gitee.com/src-opencloudos-modules/jaxb
+        - https://gitee.com/src-opencloudos-modules/jmc
+        - https://gitee.com/src-opencloudos-modules/libselinux-python
+        - https://gitee.com/src-opencloudos-modules/llvm-toolset
+        - https://gitee.com/src-opencloudos-modules/log4j
+        - https://gitee.com/src-opencloudos-modules/mailman
+        - https://gitee.com/src-opencloudos-modules/mariadb
+        - https://gitee.com/src-opencloudos-modules/maven
+        - https://gitee.com/src-opencloudos-modules/mercurial
+        - https://gitee.com/src-opencloudos-modules/mod_auth_openidc
+        - https://gitee.com/src-opencloudos-modules/mongodb
+        - https://gitee.com/src-opencloudos-modules/nginx
+        - https://gitee.com/src-opencloudos-modules/parfait
+        - https://gitee.com/src-opencloudos-modules/perl
+        - https://gitee.com/src-opencloudos-modules/perl-App-cpanminus
+        - https://gitee.com/src-opencloudos-modules/perl-bootstrap
+        - https://gitee.com/src-opencloudos-modules/perl-DBD-MySQL
+        - https://gitee.com/src-opencloudos-modules/perl-DBD-SQLite
+        - https://gitee.com/src-opencloudos-modules/perl-DBI
+        - https://gitee.com/src-opencloudos-modules/perl-FCGI
+        - https://gitee.com/src-opencloudos-modules/perl-IO-Socket-SSL
+        - https://gitee.com/src-opencloudos-modules/perl-libwww-perl
+        - https://gitee.com/src-opencloudos-modules/perl-YAML
+        - https://gitee.com/src-opencloudos-modules/perl-YAML-bootstrap
+        - https://gitee.com/src-opencloudos-modules/php
+        - https://gitee.com/src-opencloudos-modules/pki-core
+        - https://gitee.com/src-opencloudos-modules/pki-deps
+        - https://gitee.com/src-opencloudos-modules/pmdk
+        - https://gitee.com/src-opencloudos-modules/python27
+        - https://gitee.com/src-opencloudos-modules/python36
+        - https://gitee.com/src-opencloudos-modules/python38
+        - https://gitee.com/src-opencloudos-modules/python39
+        - https://gitee.com/src-opencloudos-modules/redis
+        - https://gitee.com/src-opencloudos-modules/rhn-tools
+        - https://gitee.com/src-opencloudos-modules/ruby
+        - https://gitee.com/src-opencloudos-modules/rust-toolset
+        - https://gitee.com/src-opencloudos-modules/satellite-5-client
+        - https://gitee.com/src-opencloudos-modules/scala
+        - https://gitee.com/src-opencloudos-modules/squid
+        - https://gitee.com/src-opencloudos-modules/subversion
+        - https://gitee.com/src-opencloudos-modules/swig
+        - https://gitee.com/src-opencloudos-modules/tycho
+        - https://gitee.com/src-opencloudos-modules/varnish
+        - https://gitee.com/src-opencloudos-modules/virt
+    governance-repositories:
+        repo_urls: []
+
+    

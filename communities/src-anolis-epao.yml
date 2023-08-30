@@ -1,0 +1,47 @@
+---
+community_name: src-anolis-epao
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-anolis-epao/wordpress
+        - https://gitee.com/src-anolis-epao/php-theseer-directoryscanner
+        - https://gitee.com/src-anolis-epao/php-zetacomponents-console-tools
+        - https://gitee.com/src-anolis-epao/php-theseer-autoload
+        - https://gitee.com/src-anolis-epao/php-patchwork-jsqueeze
+        - https://gitee.com/src-anolis-epao/usdm
+        - https://gitee.com/src-anolis-epao/sonarqube
+        - https://gitee.com/src-anolis-epao/vault
+        - https://gitee.com/src-anolis-epao/cjson
+        - https://gitee.com/src-anolis-epao/libwebsockets
+        - https://gitee.com/src-anolis-epao/sonarqube-auth-github
+        - https://gitee.com/src-anolis-epao/sonarqube-auth-saml
+        - https://gitee.com/src-anolis-epao/sonarqube-csharp
+        - https://gitee.com/src-anolis-epao/sonarqube-css
+        - https://gitee.com/src-anolis-epao/sonarqube-flex
+        - https://gitee.com/src-anolis-epao/sonarqube-html
+        - https://gitee.com/src-anolis-epao/sonarqube-jacoco
+        - https://gitee.com/src-anolis-epao/sonarqube-javascript
+        - https://gitee.com/src-anolis-epao/sonarqube-kotlin
+        - https://gitee.com/src-anolis-epao/sonarqube-ldap
+        - https://gitee.com/src-anolis-epao/sonarqube-php
+        - https://gitee.com/src-anolis-epao/sonarqube-python
+        - https://gitee.com/src-anolis-epao/sonarqube-scala
+        - https://gitee.com/src-anolis-epao/sonarqube-scm-git
+        - https://gitee.com/src-anolis-epao/sonarqube-typescript
+        - https://gitee.com/src-anolis-epao/sonarqube-xml
+        - https://gitee.com/src-anolis-epao/telegraf
+        - https://gitee.com/src-anolis-epao/adminer
+        - https://gitee.com/src-anolis-epao/docker-distribution
+        - https://gitee.com/src-anolis-epao/kmod-usdm
+        - https://gitee.com/src-anolis-epao/mosquitto
+        - https://gitee.com/src-anolis-epao/openresty
+        - https://gitee.com/src-anolis-epao/php-zetacomponents-base
+        - https://gitee.com/src-anolis-epao/sonarqube-go
+        - https://gitee.com/src-anolis-epao/sonarqube-java
+        - https://gitee.com/src-anolis-epao/sonarqube-ruby
+        - https://gitee.com/src-anolis-epao/sonarqube-scm-svn
+        - https://gitee.com/src-anolis-epao/sonarqube-vbnet
+    governance-repositories:
+        repo_urls: []
+
+    

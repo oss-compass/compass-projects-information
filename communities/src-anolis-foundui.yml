@@ -1,0 +1,22 @@
+---
+community_name: src-anolis-foundui
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-anolis-foundui/found-backgrounds
+        - https://gitee.com/src-anolis-foundui/found-control-center
+        - https://gitee.com/src-anolis-foundui/found-desktop
+        - https://gitee.com/src-anolis-foundui/found-gsettings-schemas
+        - https://gitee.com/src-anolis-foundui/found-icon-theme
+        - https://gitee.com/src-anolis-foundui/found-session
+        - https://gitee.com/src-anolis-foundui/found-settings-daemon
+        - https://gitee.com/src-anolis-foundui/found-themes
+        - https://gitee.com/src-anolis-foundui/found-tools
+        - https://gitee.com/src-anolis-foundui/libfound-gtk
+        - https://gitee.com/src-anolis-foundui/mutter
+        - https://gitee.com/src-anolis-foundui/nemo
+        - https://gitee.com/src-anolis-foundui/nemo-share
+    governance-repositories:
+        repo_urls: []
+
+    
