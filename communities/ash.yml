@@ -1,7 +1,5 @@
 ---
 community_name: ash
-community_nanespace: ash-project
-community_url: https://github.com/ash-project
 resource_types:
   software-artifact-repositories:
     repo_urls:
