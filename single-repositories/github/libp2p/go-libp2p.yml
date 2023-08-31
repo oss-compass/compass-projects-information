@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://github.com/libp2p/go-libp2p
