@@ -1,0 +1,19 @@
+ident: building-tool
+name: Building Tool
+name_cn: 构建工具
+slug: /building-tool
+items:
+  - https://github.com/browserify/browserify
+  - https://github.com/gradle/gradle
+  - https://github.com/facebook/buck
+  - https://github.com/ninja-build/ninja
+  - https://github.com/sbt/sbt
+  - https://github.com/mesonbuild/meson
+  - https://github.com/bufbuild/buf
+  - https://github.com/cake-build/cake
+  - https://github.com/TypeStrong/ts-loader
+  - https://github.com/apache/maven
+  - https://github.com/premake/premake-core
+  - https://github.com/armbian/build
+  - https://github.com/coursier/coursier
+  - https://github.com/boot-clj/boot # no change in 2 years
