@@ -1,7 +1,5 @@
 ---
 community_name: bboss
-community_nanespace: bboss
-community_url: https://gitee.com/bboss
 resource_types:
   software-artifact-repositories:
     repo_urls:
