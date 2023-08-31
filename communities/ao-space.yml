@@ -1,5 +1,7 @@
 ---
 community_name: ao-space
+community_nanespace: ao-space
+community_url: https://github.com/ao-space
 resource_types:
   software-artifact-repositories:
     repo_urls:
