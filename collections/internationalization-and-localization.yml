@@ -1,0 +1,22 @@
+ident: internationalization-and-localization
+name: Internationalization And Localization
+name_cn: 国际化和本地化
+slug: /internationalization-and-localization
+items:
+  - https://github.com/formatjs/formatjs
+  - https://github.com/kazupon/vue-i18n
+  - https://github.com/Laravel-Lang/lang
+  - https://github.com/i18next/i18next
+  - https://github.com/globalizejs/globalize
+  - https://github.com/WeblateOrg/weblate
+  - https://github.com/glebm/i18n-tasks
+  - https://github.com/unicode-org/icu
+  - https://github.com/messageformat/messageformat
+  - https://github.com/ngneat/transloco
+  - https://github.com/mozilla/pontoon
+  - https://github.com/python-babel/babel
+  - https://github.com/ivanhofer/typesafe-i18n
+  - https://github.com/intlify/vue-i18n-next
+  - https://github.com/tigrish/devise-i18n
+  - https://github.com/twitter/twitter-cldr-rb
+  - https://github.com/unicode-org/cldr
