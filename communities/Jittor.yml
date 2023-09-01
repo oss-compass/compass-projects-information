@@ -1,35 +1,37 @@
 ---
 community_name: Jittor
+community_logo_url: https://github.com/Jittor.png
+community_org_url: https://github.com/Jittor
 resource_types:
     software-artifact-repositories:
         repo_urls: 
-        - https://github.com/Jittor/cutt
-        - https://github.com/Jittor/DeepFaceDrawing-Jittor
-        - https://github.com/Jittor/deeplab-jittor
-        - https://github.com/Jittor/InstanceSegmentation-jittor
-        - https://github.com/Jittor/JDet
-        - https://github.com/Jittor/JGAN
-        - https://github.com/Jittor/jittor
+        - https://github.com/Jittor/Jittor
         - https://github.com/Jittor/JittorLLMs
-        - https://github.com/Jittor/JMedSeg
-        - https://github.com/Jittor/JNeRF
-        - https://github.com/Jittor/jrender
-        - https://github.com/Jittor/JSeg
-        - https://github.com/Jittor/JSparse
-        - https://github.com/Jittor/LearnJittorBasicIn60Min
-        - https://github.com/Jittor/lsgan-jittor
-        - https://github.com/Jittor/mnistclassification-jittor
-        - https://github.com/Jittor/OCR-Baseline
-        - https://github.com/Jittor/PFSegNets-Jittor
-        - https://github.com/Jittor/PointCloudLib
+        - https://github.com/Jittor/gan-jittor
+        - https://github.com/Jittor/InstanceSegmentation-jittor
         - https://github.com/Jittor/segmentation-jittor
-        - https://github.com/Jittor/shapenet-reconstruction-jittor
-        - https://github.com/Jittor/ssd-jittor
-        - https://github.com/Jittor/tensorboardX
-        - https://github.com/Jittor/TrafficSignDetection
-        - https://github.com/Jittor/TsinghuaDogBaseline
-        - https://github.com/Jittor/unsup3d-jittor
-        - https://github.com/Jittor/yolact
+        - https://github.com/Jittor/PointCloudLib
+        - https://github.com/Jittor/jrender
+        - https://github.com/Jittor/JDet
+        - https://github.com/THU-CVlab/JMedSeg
+        - https://github.com/MenghaoGuo/PCT
+        - https://github.com/IGLICT/DeepFaceDrawing-Jittor
+        - https://github.com/thu-vis/JittorVis
+        - https://github.com/DengPingFan/PraNet
+        - https://github.com/IGLICT/DeepFaceEditing-Jittor
+        - https://github.com/GewelsJI/SINet-V2
+        - https://github.com/shedy-pub/hlagcn-jittor
+        - https://github.com/Jittor-Image-Models/Jittor-Image-Models
+        - https://github.com/Jittor/LearnJittorBasicIn60Min
+        - https://github.com/heiwang1997/di-fusion-network-jittor
+        - https://github.com/McGrady00H/Zhusuan-Jittor
+        - https://github.com/IGLICT/PRS-NET-Jittor
+        - https://github.com/Jittor/PFSegNets-Jittor
+        - https://github.com/yiranran/APDrawingGAN-Jittor
+        - https://github.com/yiranran/APDrawingGAN2-Jittor
+        - https://github.com/IGLICT/IBSR_jittor
+        - https://github.com/yiranran/Unpaired-Portrait-Drawing-Jittor
+        - https://github.com/liuruiyang98/Jittor-MLP
     governance-repositories:
         repo_urls: []
 

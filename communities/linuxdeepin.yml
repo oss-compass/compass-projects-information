@@ -1,5 +1,7 @@
 ---
 community_name: linuxdeepin
+community_logo_url: https://github.com/linuxdeepin.png
+community_org_url: https://github.com/linuxdeepin
 resource_types:
     software-artifact-repositories:
         repo_urls: 

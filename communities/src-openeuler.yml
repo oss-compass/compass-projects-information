@@ -1,5 +1,7 @@
 ---
 community_name: src-openeuler
+community_logo_url: https://gitee.com/src-openeuler.png
+community_org_url: https://gitee.com/src-openeuler
 resource_types:
     software-artifact-repositories:
         repo_urls: 

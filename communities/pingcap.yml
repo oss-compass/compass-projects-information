@@ -1,5 +1,7 @@
 ---
 community_name: pingcap
+community_logo_url: https://github.com/pingcap.png
+community_org_url: https://github.com/pingcap
 resource_types:
     software-artifact-repositories:
         repo_urls: 

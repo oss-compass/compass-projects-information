@@ -1,5 +1,7 @@
 ---
 community_name: polardb
+community_logo_url: https://github.com/polardb.png
+community_org_url: https://github.com/polardb
 resource_types:
     software-artifact-repositories:
         repo_urls: 
