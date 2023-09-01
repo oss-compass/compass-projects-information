@@ -1,5 +1,7 @@
 ---
 community_name: CovenantSQL
+community_logo_url: https://github.com/CovenantSQL.png
+community_org_url: https://github.com/CovenantSQL
 resource_types:
     software-artifact-repositories:
         repo_urls: 

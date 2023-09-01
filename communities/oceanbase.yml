@@ -1,5 +1,7 @@
 ---
 community_name: oceanbase
+community_logo_url: https://gitee.com/oceanbase.png
+community_org_url: https://gitee.com/oceanbase
 resource_types:
     software-artifact-repositories:
         repo_urls: 

@@ -1,5 +1,7 @@
 ---
 community_name: src-anolis-sig
+community_logo_url: 
+community_org_url: https://gitee.com/src-anolis-sig
 resource_types:
     software-artifact-repositories:
         repo_urls: 

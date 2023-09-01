@@ -1,5 +1,7 @@
 ---
 community_name: src-anolis-foundui
+community_logo_url: https://gitee.com/src-anolis-foundui.png
+community_org_url: https://gitee.com/src-anolis-foundui
 resource_types:
     software-artifact-repositories:
         repo_urls: 

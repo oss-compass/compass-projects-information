@@ -1,5 +1,7 @@
 ---
 community_name: src-opencloudos-modules
+community_logo_url: https://gitee.com/src-opencloudos-modules.png
+community_org_url: https://gitee.com/src-opencloudos-modules
 resource_types:
     software-artifact-repositories:
         repo_urls: 

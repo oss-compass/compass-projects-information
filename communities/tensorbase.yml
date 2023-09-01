@@ -1,5 +1,7 @@
 ---
 community_name: tensorbase
+community_logo_url: https://github.com/tensorbase.png
+community_org_url: https://github.com/tensorbase
 resource_types:
     software-artifact-repositories:
         repo_urls: 
