@@ -1,6 +1,10 @@
----
+community_logo_url: https://github.com/hyperf.png
 community_name: hyperf
+community_org_url: https://github.com/hyperf
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/hyperf/hyperf
   software-artifact-repositories:
     repo_urls:
     - https://github.com/hyperf/nano
@@ -94,6 +98,3 @@ resource_types:
     - https://github.com/hyperf/watcher
     - https://github.com/hyperf/websocket-client
     - https://github.com/hyperf/websocket-server
-  governance-repositories:
-    repo_urls:
-    - https://github.com/hyperf/hyperf

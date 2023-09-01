@@ -1,6 +1,9 @@
----
+community_logo_url: https://github.com/sebastianbergmann.png
 community_name: phpunit
+community_org_url: https://github.com/sebastianbergmann
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/sebastianbergmann/phpunit
@@ -24,5 +27,3 @@ resource_types:
     - https://github.com/sebastianbergmann/code-unit-reverse-lookup
     - https://github.com/sebastianbergmann/code-unit
     - https://github.com/sebastianbergmann/cli-parser
-  governance-repositories:
-    repo_urls: []

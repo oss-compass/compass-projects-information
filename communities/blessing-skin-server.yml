@@ -1,6 +1,11 @@
----
+community_logo_url: https://github.com/bs-community.png
 community_name: blessing-skin-server
+community_org_url: https://github.com/bs-community
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/bs-community/rfcs
+    - https://github.com/bs-community/awesome-minecraft
   software-artifact-repositories:
     repo_urls:
     - https://github.com/bs-community/blessing-skin-server
@@ -16,7 +21,3 @@ resource_types:
     - https://github.com/bs-community/flarum-oauth-client
     - https://github.com/bs-community/nano
     - https://github.com/bs-community/texture-renderer
-  governance-repositories:
-    repo_urls:
-    - https://github.com/bs-community/rfcs
-    - https://github.com/bs-community/awesome-minecraft

@@ -1,9 +1,10 @@
----
+community_logo_url: https://github.com/prestodb.png
 community_name: presto
+community_org_url: https://github.com/prestodb
 resource_types:
-  software-artifact-repositories:
-    repo_urls:
-    - https://github.com/prestodb/presto
   governance-repositories:
     repo_urls:
     - https://github.com/prestodb/tsc
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/prestodb/presto

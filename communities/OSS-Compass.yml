@@ -1,6 +1,11 @@
----
+community_logo_url: https://github.com/oss-compass.png
 community_name: OSS-Compass
+community_org_url: https://github.com/oss-compass
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/oss-compass/community
+    - https://github.com/oss-compass/community-zh
   software-artifact-repositories:
     repo_urls:
     - https://github.com/oss-compass/compass-projects-information
@@ -9,7 +14,3 @@ resource_types:
     - https://github.com/oss-compass/compass-web-service
     - https://github.com/oss-compass/document-website
     - https://github.com/oss-compass/compass-service-scheduler
-  governance-repositories:
-    repo_urls:
-    - https://github.com/oss-compass/community
-    - https://github.com/oss-compass/community-zh

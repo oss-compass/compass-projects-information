@@ -1,6 +1,10 @@
----
+community_logo_url: https://github.com/nephio-project.png
 community_name: nephio
+community_org_url: https://github.com/nephio-project
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/nephio-project/api
   software-artifact-repositories:
     repo_urls:
     - https://github.com/nephio-project/nephio
@@ -24,6 +28,3 @@ resource_types:
     - https://github.com/nephio-project/common-lib
     - https://github.com/nephio-project/sig-network-architecture
     - https://github.com/nephio-project/sig-release
-  governance-repositories:
-    repo_urls:
-    - https://github.com/nephio-project/api

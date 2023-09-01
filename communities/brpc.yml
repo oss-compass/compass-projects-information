@@ -1,9 +1,10 @@
----
+community_logo_url: https://github.com/apache.png
 community_name: brpc
+community_org_url: https://github.com/apache
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/apache/brpc
     - https://github.com/apache/brpc-website
-  governance-repositories:
-    repo_urls: []

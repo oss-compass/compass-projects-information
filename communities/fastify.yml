@@ -1,6 +1,9 @@
----
+community_logo_url: https://github.com/fastify.png
 community_name: fastify
+community_org_url: https://github.com/fastify
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/fastify/fastify
@@ -109,5 +112,3 @@ resource_types:
     - https://github.com/fastify/fastify-example-twitter
     - https://github.com/fastify/example
     - https://github.com/fastify/docs-chinese
-  governance-repositories:
-    repo_urls: []

@@ -1,6 +1,13 @@
----
+community_logo_url: https://github.com/apache.png
 community_name: dubbo
+community_org_url: https://github.com/apache
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/apache/dubbo-samples
+    - https://github.com/apache/dubbo-website
+    - https://github.com/apache/dubbo-go-samples
+    - https://github.com/apache/dubbo-go-pixiu-samples
   software-artifact-repositories:
     repo_urls:
     - https://github.com/apache/dubbo
@@ -10,9 +17,3 @@ resource_types:
     - https://github.com/apache/dubbo-spi-extensions
     - https://github.com/apache/dubbo-go-pixiu
     - https://github.com/apache/dubbo-admin
-  governance-repositories:
-    repo_urls:
-    - https://github.com/apache/dubbo-samples
-    - https://github.com/apache/dubbo-website
-    - https://github.com/apache/dubbo-go-samples
-    - https://github.com/apache/dubbo-go-pixiu-samples

@@ -1,6 +1,10 @@
----
+community_logo_url: https://github.com/daotl.png
 community_name: daotl
+community_org_url: https://github.com/daotl
 resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/daotl/daotl
   software-artifact-repositories:
     repo_urls:
     - https://github.com/daotl/web-configs
@@ -9,6 +13,3 @@ resource_types:
     - https://github.com/daotl/fes-starter
     - https://github.com/daotl/web-monorepo-starter
     - https://github.com/daotl/vitesse
-  governance-repositories:
-    repo_urls:
-    - https://github.com/daotl/daotl

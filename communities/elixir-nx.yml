@@ -1,6 +1,9 @@
----
+community_logo_url: https://github.com/elixir-nx.png
 community_name: elixir-nx
+community_org_url: https://github.com/elixir-nx
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/elixir-nx/scholar
@@ -17,5 +20,3 @@ resource_types:
     - https://github.com/elixir-nx/axon_onnx
     - https://github.com/elixir-nx/nx_image
     - https://github.com/elixir-nx/stb_image
-  governance-repositories:
-    repo_urls: []

@@ -1,8 +1,9 @@
----
+community_logo_url: https://github.com/f5devcentral.png
 community_name: bigip-kubernetes-gateway
+community_org_url: https://github.com/f5devcentral
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/f5devcentral/bigip-kubernetes-gateway
-  governance-repositories:
-    repo_urls: []

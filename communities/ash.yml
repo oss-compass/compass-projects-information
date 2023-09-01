@@ -1,6 +1,9 @@
----
+community_logo_url: https://github.com/ash-project.png
 community_name: ash
+community_org_url: https://github.com/ash-project
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/ash-project/ash
@@ -19,5 +22,3 @@ resource_types:
     - https://github.com/ash-project/ash_csv
     - https://github.com/ash-project/ash_paper_trail
     - https://github.com/ash-project/ash_json_api_wrapper
-  governance-repositories:
-    repo_urls: []
