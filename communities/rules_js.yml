@@ -1,6 +1,10 @@
 ---
+community_logo_url: https://github.com/aspect-build.png
 community_name: rules_js
+community_org_url: https://github.com/aspect-build
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/aspect-build/rules_js
@@ -12,5 +16,3 @@ resource_types:
     - https://github.com/aspect-build/rules_terser
     - https://github.com/aspect-build/rules_rollup
     - https://github.com/aspect-build/rules_esbuild
-  governance-repositories:
-    repo_urls: []

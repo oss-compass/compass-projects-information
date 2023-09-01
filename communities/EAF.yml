@@ -1,6 +1,10 @@
 ---
+community_logo_url: https://github.com/emacs-eaf.png
 community_name: emacs-eaf
+community_org_url: https://github.com/emacs-eaf
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/emacs-eaf/eaf-map
@@ -32,5 +36,3 @@ resource_types:
     - https://github.com/emacs-eaf/eaf-js-video-player
     - https://github.com/emacs-eaf/eaf-vue-tailwindcss
     - https://github.com/emacs-eaf/eaf-markmap
-  governance-repositories:
-    repo_urls: []

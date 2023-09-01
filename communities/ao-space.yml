@@ -1,6 +1,10 @@
 ---
+community_logo_url: https://github.com/ao-space.png
 community_name: ao-space
+community_org_url: https://github.com/ao-space
 resource_types:
+  governance-repositories:
+    repo_urls: []
   software-artifact-repositories:
     repo_urls:
     - https://github.com/ao-space/platform-base
@@ -8,5 +12,3 @@ resource_types:
     - https://github.com/ao-space/nginx-vod-module
     - https://github.com/ao-space/qa
     - https://github.com/ao-space/ao-space
-  governance-repositories:
-    repo_urls: []
