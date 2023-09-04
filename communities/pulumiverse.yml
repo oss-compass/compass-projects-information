@@ -1,7 +1,7 @@
 ---
-community_logo_url: https://github.com/pulumiverse.png
 community_name: pulumiverse
 community_org_url: https://github.com/pulumiverse
+community_logo_url: https://github.com/pulumiverse.png
 resource_types:
   governance-repositories:
     repo_urls:

@@ -1,7 +1,7 @@
 ---
-community_logo_url: https://github.com/bs-community.png
 community_name: blessing-skin-server
 community_org_url: https://github.com/bs-community
+community_logo_url: https://github.com/bs-community.png
 resource_types:
   governance-repositories:
     repo_urls:
