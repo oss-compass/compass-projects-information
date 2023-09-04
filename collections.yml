@@ -164,8 +164,10 @@
   items:
     - browser-engine # 浏览器内核
     - browser # 浏览器
-    - chrome-devtools # Chrome 开发者工具
-    - chrome-extension-development # Chrome 拓展开发
+    - headless-browser # 无头浏览器
+    - browser-devtools # 浏览器开发工具
+    - browser-plugins # 浏览器插件
+    
 - ident: cloud-native
   name: Cloud native
   name_cn: 云原生
