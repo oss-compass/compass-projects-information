@@ -1,0 +1,21 @@
+ident: new-retail-network-store-and-mall
+name: New Retail Network Store And Mall
+name_cn: 新零售网店或商城
+slug: /new-retail-network-store-and-mall
+items:
+  - https://github.com/linlinjava/litemall
+  - https://github.com/magento/magento2
+  - https://github.com/Sylius/Sylius
+  - https://github.com/PrestaShop/PrestaShop
+  - https://github.com/VirtoCommerce/vc-platform
+  - https://github.com/ixre/go2o
+  - https://gitee.com/beijing_hongye_huicheng/lilishop
+  - https://gitee.com/fuyang_lipengjun/platform
+  - https://gitee.com/ZhongBangKeJi/CRMEB
+  - https://gitee.com/macrozheng/mall
+  - https://gitee.com/gz-yami/mall4j
+  - https://gitee.com/niushop_team/niushop_b2c_v5_dev
+  - https://gitee.com/joolun/JooLun-wx
+  - https://gitee.com/ZhongBangKeJi/CRMEB
+  - https://gitee.com/hnjihai/jshop_mall
+  - https://gitee.com/youlaitech/youlai-mall
