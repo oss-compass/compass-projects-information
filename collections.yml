@@ -167,6 +167,12 @@
     - headless-browser # 无头浏览器
     - browser-devtools # 浏览器开发工具
     - browser-plugins # 浏览器插件
+
+- ident: search-engine
+  name: Search Engine
+  name_cn: 搜索引擎
+  items:
+    - search-engine # 搜索引擎
     
 - ident: cloud-native
   name: Cloud native
