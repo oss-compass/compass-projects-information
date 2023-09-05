@@ -173,6 +173,8 @@
   name_cn: 搜索引擎
   items:
     - search-engine # 搜索引擎
+    - full-text-search-engine # 全文搜索引擎
+    - code-search # 代码搜索
     
 - ident: cloud-native
   name: Cloud native
