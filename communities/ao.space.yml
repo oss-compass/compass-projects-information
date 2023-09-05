@@ -1,0 +1,30 @@
+---
+community_name: ao.space
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ao-space/space-postgresql
+    - https://github.com/ao-space/api-doc
+    - https://github.com/ao-space/space-gateway
+    - https://github.com/ao-space/space-agent
+    - https://github.com/ao-space/ao.space
+    - https://github.com/ao-space/qa
+    - https://github.com/ao-space/space-web
+    - https://github.com/ao-space/space-aofs
+    - https://github.com/ao-space/client-ios
+    - https://github.com/ao-space/client-android
+    - https://github.com/ao-space/platform-proxy
+    - https://github.com/ao-space/platform-deploy
+    - https://github.com/ao-space/space-upgrade
+    - https://github.com/ao-space/space-media-vod
+    - https://github.com/ao-space/space-filepreview
+    - https://github.com/ao-space/platform-nginx
+    - https://github.com/ao-space/platform-sql-update
+    - https://github.com/ao-space/gt
+    - https://github.com/ao-space/platform-base
+    - https://github.com/ao-space/.github
+    - https://github.com/ao-space/nginx-vod-module
+    - https://github.com/ao-space/platform-sdk-go
+    - https://github.com/ao-space/platform-sdk-java
+  governance-repositories:
+    repo_urls: []
