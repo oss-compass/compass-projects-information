@@ -1,0 +1,69 @@
+---
+community_name: src-anolis-module
+community_logo_url: 
+community_org_url: https://gitee.com/src-anolis-module
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-anolis-module/httpd
+        - https://gitee.com/src-anolis-module/perl-YAML
+        - https://gitee.com/src-anolis-module/anolis-389-ds
+        - https://gitee.com/src-anolis-module/ant
+        - https://gitee.com/src-anolis-module/cobbler
+        - https://gitee.com/src-anolis-module/container-tools
+        - https://gitee.com/src-anolis-module/eclipse
+        - https://gitee.com/src-anolis-module/freeradius
+        - https://gitee.com/src-anolis-module/gimp
+        - https://gitee.com/src-anolis-module/go-toolset
+        - https://gitee.com/src-anolis-module/golang-ecosystem
+        - https://gitee.com/src-anolis-module/idm
+        - https://gitee.com/src-anolis-module/inkscape
+        - https://gitee.com/src-anolis-module/javapackages-runtime
+        - https://gitee.com/src-anolis-module/javapackages-tools
+        - https://gitee.com/src-anolis-module/jmc
+        - https://gitee.com/src-anolis-module/libselinux-python
+        - https://gitee.com/src-anolis-module/llvm-toolset
+        - https://gitee.com/src-anolis-module/log4j
+        - https://gitee.com/src-anolis-module/mailman
+        - https://gitee.com/src-anolis-module/mariadb
+        - https://gitee.com/src-anolis-module/maven
+        - https://gitee.com/src-anolis-module/mercurial
+        - https://gitee.com/src-anolis-module/mod_auth_openidc
+        - https://gitee.com/src-anolis-module/mongodb
+        - https://gitee.com/src-anolis-module/mysql
+        - https://gitee.com/src-anolis-module/nginx
+        - https://gitee.com/src-anolis-module/nodejs
+        - https://gitee.com/src-anolis-module/parfait
+        - https://gitee.com/src-anolis-module/perl
+        - https://gitee.com/src-anolis-module/perl-App-cpanminus
+        - https://gitee.com/src-anolis-module/perl-DBD-MySQL
+        - https://gitee.com/src-anolis-module/perl-DBD-Pg
+        - https://gitee.com/src-anolis-module/perl-DBD-SQLite
+        - https://gitee.com/src-anolis-module/perl-DBI
+        - https://gitee.com/src-anolis-module/perl-FCGI
+        - https://gitee.com/src-anolis-module/perl-IO-Socket-SSL
+        - https://gitee.com/src-anolis-module/perl-libwww-perl
+        - https://gitee.com/src-anolis-module/perl-YAML-bootstrap
+        - https://gitee.com/src-anolis-module/php
+        - https://gitee.com/src-anolis-module/pki-core
+        - https://gitee.com/src-anolis-module/pki-deps
+        - https://gitee.com/src-anolis-module/pmdk
+        - https://gitee.com/src-anolis-module/postgresql
+        - https://gitee.com/src-anolis-module/python27
+        - https://gitee.com/src-anolis-module/python36
+        - https://gitee.com/src-anolis-module/python38
+        - https://gitee.com/src-anolis-module/python39
+        - https://gitee.com/src-anolis-module/redis
+        - https://gitee.com/src-anolis-module/ruby
+        - https://gitee.com/src-anolis-module/rust-toolset
+        - https://gitee.com/src-anolis-module/scala
+        - https://gitee.com/src-anolis-module/squid
+        - https://gitee.com/src-anolis-module/subversion
+        - https://gitee.com/src-anolis-module/swig
+        - https://gitee.com/src-anolis-module/tycho
+        - https://gitee.com/src-anolis-module/varnish
+        - https://gitee.com/src-anolis-module/virt
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,20 @@
+---
+community_name: polardb
+community_logo_url: https://github.com/polardb.png
+community_org_url: https://github.com/polardb
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/polardb/polardbx
+        - https://github.com/polardb/polardbx-engine
+        - https://github.com/polardb/polardbx-sql
+        - https://github.com/polardb/polardbx-glue
+        - https://github.com/polardb/polardbx-cdc
+        - https://github.com/polardb/polardbx-operator
+        - https://github.com/polardb/polardbx-tools
+        - https://github.com/polardb/polardbx-operator-docs
+        - https://github.com/polardb/polardbx-backup
+    governance-repositories:
+        repo_urls: []
+
+    

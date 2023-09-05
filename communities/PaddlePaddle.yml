@@ -1,0 +1,106 @@
+---
+community_name: PaddlePaddle
+community_logo_url: https://github.com/PaddlePaddle.png
+community_org_url: https://github.com/PaddlePaddle
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/PaddlePaddle/Paddle
+        - https://github.com/PaddlePaddle/VisionTools
+        - https://github.com/PaddlePaddle/book
+        - https://github.com/PaddlePaddle/talks
+        - https://github.com/PaddlePaddle/models
+        - https://github.com/PaddlePaddle/PaddleCloud
+        - https://github.com/PaddlePaddle/mirrors-yapf
+        - https://github.com/PaddlePaddle/recordio
+        - https://github.com/PaddlePaddle/Mobile
+        - https://github.com/PaddlePaddle/XWorld
+        - https://github.com/PaddlePaddle/PaddlePaddle.org
+        - https://github.com/PaddlePaddle/Paddle-Lite
+        - https://github.com/PaddlePaddle/CLA
+        - https://github.com/PaddlePaddle/PaddleSpeech
+        - https://github.com/PaddlePaddle/VisualDL
+        - https://github.com/PaddlePaddle/continuous_evaluation
+        - https://github.com/PaddlePaddle/Paddle2ONNX
+        - https://github.com/PaddlePaddle/paddle-ce-latest-kpis
+        - https://github.com/PaddlePaddle/PARL
+        - https://github.com/PaddlePaddle/Anakin
+        - https://github.com/PaddlePaddle/docs
+        - https://github.com/PaddlePaddle/tape
+        - https://github.com/PaddlePaddle/PaddleFleetX
+        - https://github.com/PaddlePaddle/PaddleHub
+        - https://github.com/PaddlePaddle/X2Paddle
+        - https://github.com/PaddlePaddle/AutoDL
+        - https://github.com/PaddlePaddle/benchmark
+        - https://github.com/PaddlePaddle/ERNIE
+        - https://github.com/PaddlePaddle/Serving
+        - https://github.com/PaddlePaddle/any
+        - https://github.com/PaddlePaddle/PGL
+        - https://github.com/PaddlePaddle/MetaGym
+        - https://github.com/PaddlePaddle/Paddle-Lite-Demo
+        - https://github.com/PaddlePaddle/epep
+        - https://github.com/PaddlePaddle/examples
+        - https://github.com/PaddlePaddle/PaddleSeg
+        - https://github.com/PaddlePaddle/PALM
+        - https://github.com/PaddlePaddle/PaddleFL
+        - https://github.com/PaddlePaddle/PaddleDetection
+        - https://github.com/PaddlePaddle/PaddleCraft
+        - https://github.com/PaddlePaddle/ElasticCTR
+        - https://github.com/PaddlePaddle/awesome-DeepLearning
+        - https://github.com/PaddlePaddle/PLSC
+        - https://github.com/PaddlePaddle/PaddleSlim
+        - https://github.com/PaddlePaddle/hapi
+        - https://github.com/PaddlePaddle/CINN
+        - https://github.com/PaddlePaddle/Research
+        - https://github.com/PaddlePaddle/Contrib
+        - https://github.com/PaddlePaddle/Parakeet
+        - https://github.com/PaddlePaddle/continuous_integration
+        - https://github.com/PaddlePaddle/PaddleX
+        - https://github.com/PaddlePaddle/Paddle.js
+        - https://github.com/PaddlePaddle/PaddleClas
+        - https://github.com/PaddlePaddle/Paddle-bot
+        - https://github.com/PaddlePaddle/PaddleRec
+        - https://github.com/PaddlePaddle/Paddle-Inference-Demo
+        - https://github.com/PaddlePaddle/PaddleOCR
+        - https://github.com/PaddlePaddle/Quantum
+        - https://github.com/PaddlePaddle/PaddleGAN
+        - https://github.com/PaddlePaddle/InterpretDL
+        - https://github.com/PaddlePaddle/Knover
+        - https://github.com/PaddlePaddle/paddle_upgrade_tool
+        - https://github.com/PaddlePaddle/LiteKit
+        - https://github.com/PaddlePaddle/PaddleVideo
+        - https://github.com/PaddlePaddle/PaddleHelix
+        - https://github.com/PaddlePaddle/PaddleRobotics
+        - https://github.com/PaddlePaddle/Perf
+        - https://github.com/PaddlePaddle/PASSL
+        - https://github.com/PaddlePaddle/PaddleNLP
+        - https://github.com/PaddlePaddle/PaddleSleeve
+        - https://github.com/PaddlePaddle/PaddleTest
+        - https://github.com/PaddlePaddle/PaddleSpatial
+        - https://github.com/PaddlePaddle/RocketQA
+        - https://github.com/PaddlePaddle/VIMER
+        - https://github.com/PaddlePaddle/PaddleScience
+        - https://github.com/PaddlePaddle/PaddleDTX
+        - https://github.com/PaddlePaddle/PaddleFlow
+        - https://github.com/PaddlePaddle/TrustAI
+        - https://github.com/PaddlePaddle/PaddleCustomDevice
+        - https://github.com/PaddlePaddle/PaddleTransfer
+        - https://github.com/PaddlePaddle/PaddleTS
+        - https://github.com/PaddlePaddle/FastDeploy
+        - https://github.com/PaddlePaddle/PaddleYOLO
+        - https://github.com/PaddlePaddle/Paddle3D
+        - https://github.com/PaddlePaddle/PaddleRS
+        - https://github.com/PaddlePaddle/PaddleSports
+        - https://github.com/PaddlePaddle/FlyCV
+        - https://github.com/PaddlePaddle/PaddleDepth
+        - https://github.com/PaddlePaddle/EasyData
+        - https://github.com/PaddlePaddle/warp-transducer
+        - https://github.com/PaddlePaddle/PaDiff
+        - https://github.com/PaddlePaddle/flash-attention
+        - https://github.com/PaddlePaddle/PaConvert
+        - https://github.com/PaddlePaddle/PaddleSOT
+        - https://github.com/PaddlePaddle/PaddleMIX
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/PaddlePaddle/community
+    

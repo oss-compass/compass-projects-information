@@ -1,0 +1,26 @@
+---
+community_name: dingodb
+community_logo_url: https://github.com/dingodb.png
+community_org_url: https://github.com/dingodb
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/dingodb/dingo
+        - https://github.com/dingodb/dingo-deploy
+        - https://github.com/dingodb/dingo-auto-tests
+        - https://github.com/dingodb/.github
+        - https://github.com/dingodb/rocksdb
+        - https://github.com/dingodb/dingo-example
+        - https://github.com/dingodb/dingo-ycsb-benchmark
+        - https://github.com/dingodb/dingo-cstore
+        - https://github.com/dingodb/dingo-store
+        - https://github.com/dingodb/dingo-documents
+        - https://github.com/dingodb/cpp-benchmarks
+        - https://github.com/dingodb/libunwind
+        - https://github.com/dingodb/dingo-proto
+        - https://github.com/dingodb/pydingo
+        - https://github.com/dingodb/dingodb-ann-benchmarks
+    governance-repositories:
+        repo_urls: []
+
+    

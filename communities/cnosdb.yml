@@ -1,0 +1,29 @@
+---
+community_name: cnosdb
+community_logo_url: https://github.com/cnosdb.png
+community_org_url: https://github.com/cnosdb
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/cnosdb/cnosdb
+        - https://github.com/cnosdb/presentations
+        - https://github.com/cnosdb/tsdb-comparisons
+        - https://github.com/cnosdb/distributed-sandbox
+        - https://github.com/cnosdb/grafana-datasource-plugin
+        - https://github.com/cnosdb/docs
+        - https://github.com/cnosdb/cloud-deploy
+        - https://github.com/cnosdb/cnos-telegraf
+        - https://github.com/cnosdb/cnosdb-client-python
+        - https://github.com/cnosdb/sqlancer
+        - https://github.com/cnosdb/arrow-datafusion
+        - https://github.com/cnosdb/arrow-rs
+        - https://github.com/cnosdb/autoscaler
+        - https://github.com/cnosdb/DataX
+        - https://github.com/cnosdb/timeseries-public-datasets
+        - https://github.com/cnosdb/distributed-sandbox-1
+        - https://github.com/cnosdb/bahir-flink
+        - https://github.com/cnosdb/flink-connector-cnosdb
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/cnosdb/community
+    

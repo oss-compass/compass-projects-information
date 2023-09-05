@@ -1,0 +1,15 @@
+---
+community_name: anolis-education
+community_logo_url: 
+community_org_url: https://gitee.com/anolis-education
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/anolis-education/anolisoscourse
+        - https://gitee.com/anolis-education/asoc2022
+        - https://gitee.com/anolis-education/peking-university-2022-03
+        - https://gitee.com/anolis-education/summer-of-code-2022
+    governance-repositories:
+        repo_urls: []
+
+    
