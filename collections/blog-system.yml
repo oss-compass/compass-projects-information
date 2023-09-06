@@ -1,0 +1,17 @@
+ident: blog-system
+name: Blog System
+name_cn: 博客系统
+slug: /blog-system
+items:
+  - https://github.com/firekylin/firekylin # no change in 1 years
+  - https://github.com/publify/publify
+  - https://github.com/88250/solo
+  - https://github.com/ldqk/Masuit.MyBlogs
+  - https://gitee.com/moxi159753/mogu_blog_v2
+  - https://gitee.com/laozhangIsPhi/Blog.Core
+  - https://gitee.com/lylinux/DjangoBlog
+  - https://gitee.com/JPressProjects/jpress
+  - https://gitee.com/mumu-osc/NiceFish
+  - https://gitee.com/yadong.zhang/DBlog
+  - https://gitee.com/mtons/mblog
+  - https://gitee.com/quequnlong/shiyi-blog
