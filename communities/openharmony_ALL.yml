@@ -1541,10 +1541,10 @@ resource_types:
         - https://gitee.com/openharmony-sig/xlnt
         - https://gitee.com/openharmony-sig/xutils_bak
         - https://gitee.com/openharmony-sig/yocto
+        - https://gitee.com/openharmony-sig/chromium_docs_website
     governance-repositories:
         repo_urls: 
         - https://gitee.com/openharmony/community
-        - https://gitee.com/openharmony-sig/chromium_docs_website
         - https://gitee.com/openharmony-sig/website
         - https://gitee.com/openharmony-sig/website_v2
     
