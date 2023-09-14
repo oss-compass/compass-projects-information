@@ -1,0 +1,13 @@
+ident: basic-security-products
+name: Basic Security Products
+name_cn: 基础类安全产品
+slug: /basic-security-products
+items:
+  - https://github.com/cure53/DOMPurify
+  - https://github.com/keybase/client
+  - https://github.com/ukanth/afwall
+  - https://github.com/nilsteampassnet/TeamPass
+  - https://github.com/firehol/firehol
+  - https://github.com/USBGuard/usbguard
+  - https://github.com/openenclave/openenclave
+  - https://github.com/mattrubin/Authenticator
