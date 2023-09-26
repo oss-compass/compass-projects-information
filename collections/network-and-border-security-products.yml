@@ -1,0 +1,24 @@
+ident: network-and-border-security-products
+name: Network And Border Security Products
+name_cn: 网络与边界安全产品
+slug: /network-and-border-security-products
+items:
+  - https://github.com/pi-hole/pi-hole
+  - https://github.com/certbot/certbot
+  - https://github.com/buger/goreplay
+  - https://github.com/bettercap/bettercap
+  - https://github.com/projectdiscovery/nuclei
+  - https://github.com/DNSCrypt/dnscrypt-proxy
+  - https://github.com/projectdiscovery/subfinder
+  - https://github.com/SpiderLabs/ModSecurity
+  - https://github.com/cjdelisle/cjdns
+  - https://github.com/zeek/zeek
+  - https://github.com/pfsense/pfsense
+  - https://github.com/EnableSecurity/wafw00f
+  - https://github.com/2factorauth/twofactorauth
+  - https://github.com/pavel-odintsov/fastnetmon
+  - https://github.com/briansmith/ring
+  - https://github.com/Exa-Networks/exabgp
+  - https://github.com/nil0x42/phpsploit
+  - https://github.com/snort3/snort3
+  - https://github.com/inverse-inc/packetfence
