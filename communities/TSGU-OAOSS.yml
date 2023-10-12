@@ -1,0 +1,19 @@
+---
+community_name: TSGU-OAOSS
+community_org_url: https://gitee.com/TSGU-OAOSS
+community_logo_url: https://gitee.com/TSGU-OAOSS.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/TSGU-OAOSS/Root
+    - https://gitee.com/TSGU-OAOSS/user-management-system
+    - https://gitee.com/TSGU-OAOSS/ai-os
+    - https://gitee.com/TSGU-OAOSS/2048-game
+    - https://gitee.com/TSGU-OAOSS/simple-data-structure
+    - https://gitee.com/TSGU-OAOSS/gobang
+    - https://gitee.com/TSGU-OAOSS/qt
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/TSGU-OAOSS/Root
+    - https://gitee.com/TSGU-OAOSS/ffmpeg_learn
+    - https://gitee.com/TSGU-OAOSS/OAOS_main
