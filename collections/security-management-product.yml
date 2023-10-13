@@ -1,0 +1,17 @@
+ident: security-management-product
+name: Security Management Product
+name_cn: 安全管理产品
+slug: /security-management-product
+items:
+  - https://github.com/hashicorp/vault
+  - https://github.com/keepassxreboot/keepassxc
+  - https://github.com/cryptomator/cryptomator
+  - https://github.com/MacPass/MacPass
+  - https://github.com/bitwarden/clients
+  - https://github.com/PrivateBin/PrivateBin
+  - https://github.com/PhilippC/keepass2android
+  - https://github.com/Kunzisoft/KeePassDX
+  - https://github.com/bpellin/keepassdroid
+  - https://github.com/authpass/authpass
+  - https://github.com/IJHack/QtPass
+  - https://github.com/apache/ranger
