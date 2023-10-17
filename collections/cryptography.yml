@@ -1,0 +1,41 @@
+ident: cryptography
+name: Cryptography
+name_cn: 密码学
+slug: /cryptography
+items:
+  - https://github.com/bitwarden/server
+  - https://github.com/keepassx/keepassx
+  - https://github.com/keepassxreboot/keepassxc
+  - https://github.com/lesspass/lesspass
+  - https://github.com/MaKleSoft/padlock
+  - https://github.com/SpiderOak/Encryptr
+  - https://github.com/pwsafe/pwsafe
+  - https://github.com/dani-garcia/vaultwarden
+  - https://github.com/buttercup/buttercup-desktop
+  - https://github.com/keeweb/keeweb
+  - https://github.com/MacPass/MacPass
+  - https://github.com/gopasspw/gopass
+  - https://github.com/PhilippC/keepass2android
+  - https://github.com/Kunzisoft/KeePassDX
+  - https://github.com/passbolt/passbolt_api
+  - https://github.com/android-password-store/Android-Password-Store
+  - https://github.com/padloc/padloc
+  - https://github.com/authpass/authpass
+  - https://github.com/cloudflare/gokey
+  - https://github.com/mprimi/portable-secret
+  - https://github.com/drduh/pwd.sh
+  - https://github.com/keepassxreboot/keepassxc-browser
+  - https://github.com/mssun/passforios
+  - https://github.com/sakurity/securelogin
+  - https://github.com/Lyndir/MasterPassword
+  - https://github.com/openwall/john
+  - https://github.com/golang/crypto
+  - https://github.com/Legrandin/pycryptodome
+  - https://github.com/open-keychain/open-keychain
+  - https://github.com/hacl-star/hacl-star
+  - https://github.com/libtom/libtomcrypt
+  - https://github.com/hashtopolis/hashtopolis
+  - https://github.com/nuxsmin/sysPass
+  - https://github.com/pubkey/eth-crypto
+  - https://github.com/esig/dss
+  - https://github.com/ConsenSys/gnark
