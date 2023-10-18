@@ -1,0 +1,14 @@
+ident: office-automation-OA
+name: Office Automation OA
+name_cn: 办公自动化
+slug: /office-automation-OA
+items:
+  - https://github.com/MicrosoftDocs/live-share
+  - https://github.com/indico/indico
+  - https://github.com/CollaboraOnline/online
+  - https://gitee.com/aaluoxiang/oa_system
+  - https://gitee.com/o2oa/O2OA
+  - https://gitee.com/gouguopen/office
+  - https://gitee.com/glorylion/JFinalOA
+  - https://gitee.com/bestfeng/yimioa
+  - https://gitee.com/cysoft_1/oa
