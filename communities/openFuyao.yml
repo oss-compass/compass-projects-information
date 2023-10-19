@@ -1,0 +1,10 @@
+---
+community_name: openFuyao
+community_org_url: https://gitee.com/openInula/
+community_logo_url: https://gitee.com/openfuyao.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openInula/inula
+  governance-repositories:
+    repo_urls: []
