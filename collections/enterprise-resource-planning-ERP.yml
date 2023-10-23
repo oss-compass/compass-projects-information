@@ -1,0 +1,17 @@
+ident: enterprise-resource-planning-ERP
+name: Enterprise Resource Planning ERP
+name_cn: ERP系统
+slug: /enterprise-resource-planning-ERP
+items:
+  - https://github.com/odoo/odoo
+  - https://github.com/frappe/erpnext
+  - https://github.com/Dolibarr/dolibarr
+  - https://github.com/jishenghua/jshERP
+  - https://github.com/idurar/idurar-erp-crm
+  - https://github.com/metasfresh/metasfresh
+  - https://github.com/FJ-OMS/oms-erp
+  - https://gitee.com/jishenghua/JSH_ERP
+  - https://gitee.com/redragon/redragon-erp
+  - https://gitee.com/FINERME/psi
+  - https://gitee.com/getrebuild/rebuild
+  - https://gitee.com/doc_wei01/erp-pro
