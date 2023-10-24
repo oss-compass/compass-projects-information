@@ -1,0 +1,25 @@
+ident: customer-relationship-management-CRM
+name: Customer Relationship Management CRM
+name_cn: 客户关系管理（CRM）
+slug: /customer-relationship-management-CRM
+items:
+  - https://github.com/salesagility/SuiteCRM
+  - https://github.com/odoo/odoo
+  - https://github.com/monicahq/monica
+  - https://github.com/frappe/erpnext
+  - https://github.com/akaunting/akaunting
+  - https://github.com/openblocks-dev/openblocks
+  - https://github.com/InvoicePlane/InvoicePlane
+  - https://github.com/Bottelet/DaybydayCRM
+  - https://github.com/YetiForceCompany/YetiForceCRM
+  - https://github.com/metasfresh/metasfresh
+  - https://github.com/krayin/laravel-crm
+  - https://github.com/espocrm/espocrm
+  - https://github.com/oroinc/crm-application
+  - https://github.com/vtiger-crm/vtigercrm
+  - https://github.com/fatfreecrm/fat_free_crm
+  - https://github.com/oroinc/crm
+  - https://github.com/MicroPyramid/Django-CRM
+  - https://gitee.com/getrebuild/rebuild
+  - https://gitee.com/wukongcrm/72crm-java
+  - https://gitee.com/wukongcrm/crm_pro
