@@ -1,0 +1,16 @@
+ident: human-resource-management-HRM
+name: Human Resource Management HRM
+name_cn: 人力资源管理
+slug: /human-resource-management-HRM
+items:
+  - https://github.com/ever-co/ever-gauzy
+  - https://github.com/orangehrm/orangehrm
+  - https://github.com/frappe/hrms
+  - https://github.com/atesgoral/hrm-solutions
+  - https://github.com/pbrong/hrms
+  - https://github.com/kmanjari/hrms
+  - https://github.com/optimajet/HRM
+  - https://gitee.com/lenve/vhr
+  - https://gitee.com/ibizlab/iBizEHR
+  - https://gitee.com/agileai/aeaihr
+  - https://gitee.com/dongfangx/EHR2
