@@ -8,5 +8,7 @@ resource_types:
     - https://github.com/Green-Software-Foundation/patterns
     - https://github.com/Green-Software-Foundation/learn
     - https://github.com/Green-Software-Foundation/sci
+    - https://github.com/Green-Software-Foundation/ief
+    - https://github.com/Green-Software-Foundation/green-software-maturity-matrix
   governance-repositories:
     repo_urls: []
