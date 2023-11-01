@@ -1,0 +1,22 @@
+ident: graph-processing
+name: Graph Processing
+name_cn: 图形处理
+slug: /graph-processing
+items:
+  - https://github.com/flameshot-org/flameshot
+  - https://github.com/tldraw/tldraw
+  - https://github.com/blender/blender
+  - https://github.com/EmbarkStudios/rust-gpu
+  - https://github.com/KDE/krita
+  - https://github.com/glium/glium
+  - https://github.com/crosire/reshade
+  - https://github.com/servo/webrender
+  - https://github.com/PixarAnimationStudios/OpenSubdiv
+  - https://github.com/apitrace/apitrace
+  - https://github.com/Kitware/VTK
+  - https://github.com/nortikin/sverchok
+  - https://github.com/embree/embree
+  - https://github.com/openexr/openexr
+  - https://github.com/pencil2d/pencil
+  - https://github.com/PintaProject/Pinta
+  - https://github.com/buddhi1980/mandelbulber2
