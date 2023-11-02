@@ -56,4 +56,5 @@ resource_types:
         repo_urls: 
         - https://github.com/oceanbase/oceanbase.github.io
         - https://github.com/oceanbase/.github
+        
     
