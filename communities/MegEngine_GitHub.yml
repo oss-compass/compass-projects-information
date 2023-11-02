@@ -52,5 +52,6 @@ resource_types:
     governance-repositories:
         repo_urls: 
         - https://github.com/MegEngine/.github
+        
 
     
