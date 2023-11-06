@@ -5,5 +5,4 @@ slug: /container-registry
 items:
   - https://github.com/distribution/distribution
   - https://github.com/goharbor/harbor
-  - https://github.com/coreos/quay
   - https://github.com/jfrog/artifactory-docker-examples

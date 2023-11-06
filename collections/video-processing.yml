@@ -1,0 +1,41 @@
+ident: video-processing
+name: Video Processing
+name_cn: 视频处理
+slug: /video-processing
+items:
+  - https://github.com/mltframework/shotcut
+  - https://github.com/OpenShot/openshot-qt
+  - https://github.com/jliljebl/flowblade
+  - https://github.com/olive-editor/olive
+  - https://github.com/mean00/avidemux2
+  - https://github.com/cinelerra-gg/cinelerra-gg
+  - https://github.com/NatronGitHub/Natron
+  - https://github.com/mifi/lossless-cut
+  - https://github.com/mifi/editly
+  - https://github.com/yangjie10930/EpMedia
+  - https://github.com/tnfe/FFCreator
+  - https://github.com/layerhub-io/react-design-editor
+  - https://github.com/ozmartian/vidcutter
+  - https://github.com/LLhon/Android-Video-Editor
+  - https://github.com/exebetche/vlsub
+  - https://github.com/vlc-qt/vlc-qt
+  - https://github.com/johang/vlc-bittorrent
+  - https://github.com/videolan/vlc
+  - https://github.com/smacke/ffsubsync
+  - https://github.com/altdesktop/playerctl
+  - https://github.com/videolan/vlc-android
+  - https://github.com/videolan/vlc-ios
+  - https://github.com/tiangolo/nginx-rtmp-docker
+  - https://github.com/nurupo/vlc-pause-click-plugin
+  - https://github.com/solid-software/flutter_vlc_player
+  - https://github.com/adrg/libvlc-go
+  - https://github.com/SimonIT/spotifylyrics
+  - https://github.com/videolan/libvlcsharp
+  - https://github.com/HandBrake/HandBrake
+  - https://github.com/asciinema/asciinema
+  - https://github.com/Dash-Industry-Forum/dash.js
+  - https://github.com/xiph/rav1e
+  - https://github.com/vime-js/vime
+  - https://github.com/changsanjiang/SJVideoPlayer
+  - https://github.com/KDE/kdenlive
+  - https://github.com/strukturag/libde265
