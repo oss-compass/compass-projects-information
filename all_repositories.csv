@@ -1717,6 +1717,7 @@ https://gitee.com/anolis/hygon-tpm2-tss
 https://gitee.com/anolis/ilogtail
 https://gitee.com/anolis/ima-evm-utils
 https://gitee.com/anolis/image-service
+https://gitee.com/anolis/intel-cloud-kernel
 https://gitee.com/anolis/intel-lkvs
 https://gitee.com/anolis/intel-qemu-kvm
 https://gitee.com/anolis/io_uring-echo-server
@@ -38983,6 +38984,8 @@ https://github.com/GrahamCampbell/Laravel-Markdown
 https://github.com/GrahamDumpleton/mod_wsgi
 https://github.com/GraphIt-DSL/graphit
 https://github.com/Graylog2/graylog2-server
+https://github.com/Green-Software-Foundation/green-software-maturity-matrix
+https://github.com/Green-Software-Foundation/ief
 https://github.com/Green-Software-Foundation/learn
 https://github.com/Green-Software-Foundation/patterns
 https://github.com/Green-Software-Foundation/sci
@@ -40578,6 +40581,7 @@ https://github.com/alili/feishuAPI
 https://github.com/alimy/mir
 https://github.com/alipay/SoloPi
 https://github.com/alisaifee/flask-limiter
+https://github.com/alison-carrera/onn
 https://github.com/allegroai/clearml
 https://github.com/allenai/allennlp
 https://github.com/allinurl/goaccess
@@ -41407,6 +41411,7 @@ https://github.com/chartjs/Chart.js
 https://github.com/cheeriojs/cheerio
 https://github.com/chef/chef
 https://github.com/chenall/grub4dos
+https://github.com/cheng-li/pyramid
 https://github.com/chenshuanj/mallmold
 https://github.com/chenshuo/muduo
 https://github.com/chenyuduan/apns
@@ -49085,6 +49090,7 @@ https://github.com/digitalbazaar/forge
 https://github.com/digitalfruit/limejs
 https://github.com/digitalocean/netbox
 https://github.com/digitalocean/nginxconfig.io
+https://github.com/digiteinfotech/kairon
 https://github.com/dimforge/nalgebra
 https://github.com/dimitrisraptis96/design-heaven
 https://github.com/dimsav/laravel-translatable
@@ -49487,6 +49493,7 @@ https://github.com/ever-co/ever-gauzy
 https://github.com/everit-org/json-schema
 https://github.com/evertramos/nginx-proxy-automation
 https://github.com/evidence-dev/evidence
+https://github.com/evidentlyai/evidently
 https://github.com/evilsocket/bettercap
 https://github.com/evolus/pencil
 https://github.com/evoluteur/colorpicker
@@ -49499,6 +49506,7 @@ https://github.com/exokitxr/exokit
 https://github.com/explodinggradients/ragas
 https://github.com/explosion/murmurhash
 https://github.com/explosion/spaCy
+https://github.com/explosion/thinc
 https://github.com/expressjs/body-parser
 https://github.com/expressjs/cookie-parser
 https://github.com/expressjs/express
@@ -50087,6 +50095,7 @@ https://github.com/graphql/graphql-js
 https://github.com/graphql/graphql-spec
 https://github.com/gravityonmars/Balloons.IO
 https://github.com/gre/slider.js
+https://github.com/great-expectations/great_expectations
 https://github.com/greatsuspender/thegreatsuspender
 https://github.com/greenbone/openvas-scanner
 https://github.com/greenkeeperio/greenkeeper
@@ -50870,8 +50879,10 @@ https://github.com/kazuhikoarase/qrcode-generator
 https://github.com/kazuho/picojson
 https://github.com/kazupon/vue-i18n
 https://github.com/kciter/qart.js
+https://github.com/kcl-lang/kcl
 https://github.com/kdeggelman/xcharts
 https://github.com/kdzwinel/betwixt
+https://github.com/kedro-org/kedro
 https://github.com/keen/pingpong
 https://github.com/keenwon/jqPaginator
 https://github.com/keepassx/keepassx
@@ -51788,6 +51799,7 @@ https://github.com/mkleehammer/pyodbc
 https://github.com/ml5js/ml5-library
 https://github.com/mleibman/SlickGrid
 https://github.com/mlflow/mlflow
+https://github.com/mlpack/mlpack
 https://github.com/mlrun/mlrun
 https://github.com/mltframework/shotcut
 https://github.com/mmorise/World
@@ -51802,6 +51814,7 @@ https://github.com/mock-server/mockserver
 https://github.com/mockery/mockery
 https://github.com/mockito/mockito
 https://github.com/mockk/mockk
+https://github.com/modAL-python/modAL
 https://github.com/modelmapper/modelmapper
 https://github.com/modmail-dev/modmail
 https://github.com/modolabs/Kurogo-Mobile-Web
@@ -52092,6 +52105,7 @@ https://github.com/nsqio/pynsq
 https://github.com/nswish/jQuery.AutoComplete
 https://github.com/ntnyq/omz-plugin-pnpm
 https://github.com/ntop/ntopng
+https://github.com/ntucllab/libact
 https://github.com/nu-book/zxing-cpp
 https://github.com/nuget/home
 https://github.com/nullishzero/PDFEdit
@@ -52520,6 +52534,7 @@ https://github.com/phoenixframework/phoenix
 https://github.com/phoenixframework/phoenix_live_view
 https://github.com/phonegap/phonegap
 https://github.com/photonstorm/phaser
+https://github.com/photoprism/photoprism
 https://github.com/php-imagine/Imagine
 https://github.com/php/php-src
 https://github.com/phpbb/phpbb
@@ -52711,6 +52726,7 @@ https://github.com/plantuml/plantuml
 https://github.com/plasma-umass/coz
 https://github.com/plasma-umass/scalene
 https://github.com/plasmicapp/plasmic
+https://github.com/plasticityai/magnitude
 https://github.com/platformio/platformio-core
 https://github.com/platformio/platformio-home
 https://github.com/platformio/platformio-node-helpers
@@ -52747,6 +52763,7 @@ https://github.com/polardb/polardbx-operator-docs
 https://github.com/polardb/polardbx-sql
 https://github.com/polardb/polardbx-tools
 https://github.com/polarismesh/femas
+https://github.com/polyaxon/polyaxon
 https://github.com/polymer/polymer
 https://github.com/ponxu/upload-jquery
 https://github.com/ponylang/ponyc
@@ -52764,6 +52781,7 @@ https://github.com/postgres/pgweb
 https://github.com/postgres/pgweb-static
 https://github.com/postgres/postgres
 https://github.com/postgres/postgres-old-soon-decommissioned
+https://github.com/postgresml/postgresml
 https://github.com/postlight/headless-wp-starter
 https://github.com/postmanlabs/postman-app-support
 https://github.com/pouchdb/pouchdb
@@ -53850,6 +53868,7 @@ https://github.com/shenkevin/jpinyin
 https://github.com/shentao/vue-global-events
 https://github.com/shenzhe/geohash
 https://github.com/shepherdwind/velocity.js
+https://github.com/sherpa-ai/sherpa
 https://github.com/shimat/opencvsharp
 https://github.com/shipyard/shipyard
 https://github.com/shirou/gopsutil
@@ -53945,6 +53964,7 @@ https://github.com/snapappointments/bootstrap-select
 https://github.com/snapcore/snapd
 https://github.com/snes9xgit/snes9x
 https://github.com/snipe/snipe-it
+https://github.com/snipsco/snips-nlu
 https://github.com/snort3/snort3
 https://github.com/snowplow/snowplow
 https://github.com/sobolevn/wakatime-zsh-plugin
@@ -55115,6 +55135,7 @@ https://github.com/vkohaupt/vokoscreen
 https://github.com/vladikoff/chromeos-apk
 https://github.com/vlang/v
 https://github.com/vlc-qt/vlc-qt
+https://github.com/vllm-project/vllm
 https://github.com/vmware/clarity
 https://github.com/vmware/govmomi
 https://github.com/vmware/open-vm-tools
@@ -55155,6 +55176,7 @@ https://github.com/vysheng/tg
 https://github.com/w-okada/voice-changer
 https://github.com/w1301625107/Vue-Gantt-chart
 https://github.com/w3tecch/express-typescript-boilerplate
+https://github.com/wa-lang/wa
 https://github.com/waavi/translation
 https://github.com/waditu/tushare
 https://github.com/wagtail/wagtail
@@ -55414,6 +55436,7 @@ https://github.com/yunionio/cloudpods
 https://github.com/yuzu-emu/yuzu-mainline
 https://github.com/yyzybb537/gls
 https://github.com/yyzybb537/libgo
+https://github.com/yzhao062/SUOD
 https://github.com/z-song/laravel-admin
 https://github.com/zTree/zTree_v3
 https://github.com/zabbix/zabbix
