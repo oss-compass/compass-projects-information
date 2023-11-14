@@ -1,0 +1,18 @@
+ident: Monitoring
+name: Monitoring
+name_cn: 系统监控
+slug: /monitoring
+items:
+  - https://github.com/zabbix/zabbix
+  - https://github.com/netdata/netdata
+  - https://github.com/apache/skywalking
+  - https://github.com/grafana/grafana
+  - https://github.com/prometheus/prometheus
+  - https://github.com/Unitech/pm2
+  - https://github.com/huginn/huginn
+  - https://github.com/getsentry/sentry
+  - https://github.com/louislam/uptime-kuma
+  - https://github.com/influxdata/influxdb
+  - https://github.com/nicolargo/glances
+
+  

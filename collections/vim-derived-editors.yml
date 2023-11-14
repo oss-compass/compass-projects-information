@@ -1,0 +1,20 @@
+ident: vim-derived-editors
+name: Vim Derived Editors
+name_cn: Vim 衍生编辑器
+slug: /vim-derived-editors
+items:
+  - https://github.com/neovim/neovim
+  - https://github.com/qvacua/vimr
+  - https://github.com/onivim/oni
+  - https://github.com/SpaceVim/SpaceVim
+  - https://github.com/equalsraf/neovim-qt
+  - https://github.com/macvim-dev/macvim
+  - https://github.com/vim/vim-win32-installer
+  - https://github.com/dexterleng/vimac
+  - https://github.com/philc/vimium
+  - https://github.com/coolwanglu/vim.js
+  - https://github.com/VSCodeVim/Vim
+  - https://github.com/vimperator/vimperator-labs
+  - https://github.com/emacs-evil/evil
+  - https://github.com/martanne/vis
+  - https://github.com/tmux/tmux

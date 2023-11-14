@@ -1,0 +1,21 @@
+ident: message-queue
+name: Message Queue
+name_cn: 消息队列
+slug: /message-queue
+items:
+  - https://github.com/apache/pulsar
+  - https://github.com/apache/rocketmq
+  - https://github.com/apache/inlong
+  - https://github.com/apache/kafka
+  - https://github.com/rabbitmq/rabbitmq-server
+  - https://github.com/apache/activemq
+  - https://github.com/EasyNetQ/EasyNetQ
+  - https://github.com/liftbridge-io/liftbridge
+  - https://github.com/softwaremill/elasticmq
+  - https://github.com/rabbitmq/rabbitmq-dotnet-client
+  - https://github.com/ruby-amqp/bunny
+  - https://github.com/bernardphp/bernard
+  - https://github.com/spring-cloud/spring-cloud-stream
+  - https://github.com/apache/activemq-artemis
+  - https://github.com/spring-projects/spring-amqp
+  - https://github.com/youzan/nsq

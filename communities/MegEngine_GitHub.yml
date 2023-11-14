@@ -1,0 +1,57 @@
+---
+community_name: MegEngine_GitHub
+community_logo_url: https://github.com/MegEngine.png
+community_org_url: https://github.com/MegEngine
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/MegEngine/ICD
+        - https://github.com/MegEngine/cutlass-bak
+        - https://github.com/MegEngine/awesome-megengine
+        - https://github.com/MegEngine/End-to-end-ASR-Transformer
+        - https://github.com/MegEngine/Docs
+        - https://github.com/MegEngine/cheat_sheet_for_pytorch_immigrant
+        - https://github.com/MegEngine/swin-transformer
+        - https://github.com/MegEngine/Hub
+        - https://github.com/MegEngine/MegRay
+        - https://github.com/MegEngine/torch2mge
+        - https://github.com/MegEngine/MegEngine
+        - https://github.com/MegEngine/MegCat
+        - https://github.com/MegEngine/Models
+        - https://github.com/MegEngine/Documentation
+        - https://github.com/MegEngine/cudnn-frontend
+        - https://github.com/MegEngine/MegCC
+        - https://github.com/MegEngine/xopr
+        - https://github.com/MegEngine/MegFlow
+        - https://github.com/MegEngine/ECCV2022-RIFE
+        - https://github.com/MegEngine/MegEngine-DMVFN
+        - https://github.com/MegEngine/midout
+        - https://github.com/MegEngine/invis
+        - https://github.com/MegEngine/mgeconvert
+        - https://github.com/MegEngine/Inference-Demo
+        - https://github.com/MegEngine/MegEngine-Benchmark
+        - https://github.com/MegEngine/FINet
+        - https://github.com/MegEngine/MegSpot
+        - https://github.com/MegEngine/mperf
+        - https://github.com/MegEngine/MegDiffusion
+        - https://github.com/MegEngine/NeRF
+        - https://github.com/MegEngine/MegEngine-SAM
+        - https://github.com/MegEngine/Resource
+        - https://github.com/MegEngine/megenginelite-rs
+        - https://github.com/MegEngine/examples
+        - https://github.com/MegEngine/PMRID
+        - https://github.com/MegEngine/Transfer-Learning-Library
+        - https://github.com/MegEngine/MegPeak
+        - https://github.com/MegEngine/MegRL
+        - https://github.com/MegEngine/OMNet
+        - https://github.com/MegEngine/InferLLM
+        - https://github.com/MegEngine/GyroFlow
+        - https://github.com/MegEngine/RepLKNet
+        - https://github.com/MegEngine/NBNet
+        - https://github.com/MegEngine/YOLOX
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/MegEngine/.github
+        
+
+    

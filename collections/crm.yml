@@ -1,0 +1,19 @@
+ident: crm
+name: CRM
+name_cn: 客户关系管理系统(CRM)
+slug: /crm
+items:
+  - https://github.com/salesagility/SuiteCRM
+  - https://github.com/odoo/odoo
+  - https://github.com/monicahq/monica
+  - https://github.com/frappe/erpnext
+  - https://github.com/akaunting/akaunting
+  - https://github.com/openblocks-dev/openblocks
+  - https://github.com/InvoicePlane/InvoicePlane
+  - https://github.com/Bottelet/DaybydayCRM
+  - https://github.com/YetiForceCompany/YetiForceCRM
+  - https://github.com/metasfresh/metasfresh
+  - https://github.com/krayin/laravel-crm
+  - https://github.com/espocrm/espocrm
+  - https://github.com/oroinc/crm-application
+  - https://github.com/vtiger-crm/vtigercrm

@@ -1,0 +1,23 @@
+ident: headless-cms
+name: Headless CMS
+name_cn: 无头CMS
+slug: /headless-cms
+items:
+  - https://github.com/strapi/strapi
+  - https://github.com/TryGhost/Ghost
+  - https://github.com/directus/directus
+  - https://github.com/payloadcms/payload
+  - https://github.com/webiny/webiny-js
+  - https://github.com/BuilderIO/builder
+  - https://github.com/agentejo/cockpit
+  - https://github.com/postlight/headless-wp-starter
+  - https://github.com/area17/twill
+  - https://github.com/splitbee/react-notion
+  - https://github.com/shopware/platform
+  - https://github.com/plasmicapp/plasmic
+  - https://github.com/Squidex/squidex
+  - https://github.com/grandnode/grandnode
+  - https://github.com/daptin/daptin
+  - https://github.com/getkirby/kirby
+  - https://github.com/dotCMS/core
+  - https://github.com/WebDevStudios/nextjs-wordpress-starter

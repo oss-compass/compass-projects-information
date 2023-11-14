@@ -1,0 +1,23 @@
+ident: arduino
+name: Arduino
+name_cn: Arduino
+slug: /arduino
+items:
+  - https://github.com/arendst/Tasmota
+  - https://github.com/MarlinFirmware/Marlin
+  - https://github.com/arduino/Arduino
+  - https://github.com/rwaldron/johnny-five
+  - https://github.com/tinygo-org/tinygo
+  - https://github.com/SpacehuhnTech/esp8266_deauther
+  - https://github.com/espressif/arduino-esp32
+  - https://github.com/gurugio/lowlevelprogramming-university
+  - https://github.com/hybridgroup/gobot
+  - https://github.com/bblanchon/ArduinoJson
+  - https://github.com/tzapu/WiFiManager
+  - https://github.com/Arduino-IRremote/Arduino-IRremote
+  - https://github.com/hybridgroup/cylon
+  - https://github.com/arduino/arduino-cli
+  - https://github.com/olikraus/u8g2
+  - https://github.com/blynkkk/blynk-library
+  - https://github.com/NerdLang/nerd
+  - https://github.com/Serial-Studio/Serial-Studio

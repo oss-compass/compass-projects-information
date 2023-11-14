@@ -1,0 +1,22 @@
+ident: container-technology
+name: Container Technology
+name_cn: 容器技术
+slug: /container-technology
+items:
+  - https://github.com/containers/podman
+  - https://github.com/cri-o/cri-o
+  - https://github.com/kubernetes/kubernetes # 容器编排也放这里边吗
+  - https://github.com/kubernetes/minikube
+  - https://github.com/lxc/lxc
+  - https://github.com/lxc/lxd
+  - https://github.com/moby/moby
+  - https://github.com/rkt/rkt
+  - https://github.com/containers/buildah
+  # (as a project type, instead of a repo) - https://github.com/docker
+  # (as a project type, instead of a repo) - https://github.com/containers
+  - https://github.com/abiosoft/colima
+  - https://github.com/alibaba/pouch
+  - https://gitee.com/openeuler/iSulad
+  - https://github.com/rancher/rancher
+  - https://github.com/containers/skopeo
+  - https://github.com/containers/crun

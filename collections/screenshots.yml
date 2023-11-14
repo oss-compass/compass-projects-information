@@ -1,0 +1,12 @@
+ident: screenshots
+name: Screenshots
+name_cn: 屏幕截图工具
+slug: /screenshots
+items:
+  - https://github.com/ShareX/ShareX
+  - https://github.com/spatie/browsershot
+  - https://github.com/greenshot/greenshot
+  - https://github.com/flameshot-org/flameshot
+  - https://github.com/ksnip/ksnip
+  - https://github.com/KDE/spectacle
+  - https://github.com/shutter-project/shutter

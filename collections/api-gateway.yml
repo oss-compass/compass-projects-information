@@ -1,0 +1,25 @@
+ident: api-gateway
+name: API Gateway
+name_cn: API 网关
+slug: /api-gateway
+items:
+  - https://github.com/kubernetes/ingress-nginx
+  - https://github.com/Kong/kong
+  - https://github.com/apache/apisix
+  - https://github.com/TykTechnologies/tyk
+  - https://github.com/hashicorp/consul
+  - https://github.com/Miserlou/Zappa
+  - https://github.com/apache/shenyu
+  - https://github.com/luraproject/lura
+  - https://github.com/megaease/easegress
+  - https://github.com/eolinker/apinto
+  - https://github.com/spring-cloud/spring-cloud-gateway
+  - https://github.com/Netflix/zuul
+  - https://github.com/alibaba/higress
+  - https://github.com/emqx/neuron
+  - https://github.com/hango-io/hango-gateway
+  - https://gitee.com/fizzgate/fizz-gateway
+  - https://github.com/kumahq/kuma
+  
+
+

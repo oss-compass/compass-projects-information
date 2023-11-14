@@ -1,0 +1,6 @@
+ident: desktop-operation-system
+name: Desktop operation system
+name_cn: 桌面操作系统
+slug: /desktop-operation-system
+items:
+  - https://github.com/SerenityOS/serenity

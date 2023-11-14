@@ -1,0 +1,21 @@
+ident: css-framework
+name: CSS Framework
+name_cn: CSS 框架
+slug: /css-framework
+items:
+  - https://github.com/twbs/bootstrap
+  - https://github.com/tailwindlabs/tailwindcss
+  - https://github.com/materializecss/materialize
+  - https://github.com/foundation/foundation-sites
+  - https://github.com/jgthms/bulma
+  - https://github.com/Semantic-Org/Semantic-UI
+  - https://github.com/uikit/uikit
+  - https://github.com/pure-css/pure
+  - https://github.com/picturepan2/spectre
+  - https://github.com/ant-design/ant-design
+  - https://github.com/tachyons-css/tachyons
+  - https://github.com/ElemeFE/element
+  - https://github.com/vuetifyjs/vuetify
+  - https://github.com/chakra-ui/chakra-ui
+  - https://github.com/carbon-design-system/carbon
+  - https://github.com/unocss/unocss

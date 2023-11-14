@@ -1,0 +1,33 @@
+ident: sql-database
+name: SQL Database
+name_cn: 关系型数据库
+slug: /sql-database
+items:
+  - https://gitee.com/opengauss/openGauss-server
+  - https://github.com/oceanbase/oceanbase
+  - https://github.com/pingcap/tidb
+  - https://github.com/MariaDB/server
+  - https://github.com/postgres/postgres
+  - https://github.com/redis/redis
+  - https://github.com/tikv/tikv
+  - https://github.com/dragonflydb/dragonfly
+  - https://github.com/apache/incubator-kvrocks
+  - https://github.com/etcd-io/etcd
+  - https://github.com/google/leveldb
+  - https://github.com/apple/foundationdb
+  - https://github.com/Tencent/MMKV
+  - https://github.com/boltdb/bolt
+  - https://github.com/arangodb/arangodb
+  - https://github.com/dgraph-io/badger
+  - https://github.com/codenotary/immudb
+  - https://github.com/tidwall/buntdb
+  - https://github.com/hivedb/hive
+  - https://github.com/flower-corp/rosedb
+  - https://github.com/facebook/rocksdb
+  - https://github.com/memcached/memcached
+  - https://github.com/patrickmn/go-cache
+  - https://github.com/syndtr/goleveldb
+  - https://github.com/cockroachdb/pebble
+  - https://github.com/nutsdb/nutsdb
+  - https://github.com/Snapchat/KeyDB
+  - https://github.com/OpenAtomFoundation/pika

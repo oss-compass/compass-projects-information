@@ -1,0 +1,15 @@
+ident: geographic-information-system
+name: Geographic Information System
+name_cn: 地理信息系统（GIS）
+slug: /geographic-information-system
+items:
+  - https://github.com/qgis/QGIS
+  - https://github.com/OSGeo/grass
+  - https://github.com/openlayers/openlayers
+  - https://github.com/mapbox/mapbox-gl-js
+  - https://github.com/Leaflet/Leaflet
+  - https://github.com/geoserver/geoserver
+  - https://github.com/mapserver/mapserver
+  - https://github.com/postgis/postgis
+  - https://github.com/geotools/geotools
+  - https://github.com/KDE/marble

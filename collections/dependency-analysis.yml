@@ -1,0 +1,25 @@
+ident: dependency-analysis
+name: Dependency Analysis
+name_cn: 依赖分析
+slug: /dependency-analysis
+items:
+  - https://github.com/sverweij/dependency-cruiser
+  - https://github.com/lunasec-io/lunasec
+  - https://github.com/SVF-tools/SVF
+  - https://github.com/loov/goda
+  - https://github.com/webpro/knip
+  - https://github.com/Insolita/unused-scanner
+  - https://github.com/deps-rs/deps.rs
+  - https://github.com/Helcaraxan/gomod
+  - https://github.com/AppThreat/dep-scan
+  - https://github.com/trailofbits/it-depends
+  - https://github.com/aspiers/git-deps
+  - https://github.com/sandworm-hq/sandworm-guard-js
+  - https://github.com/aderyabin/localer
+  - https://github.com/realvizu/NsDepCop
+  - https://github.com/uptake/pkgnet
+  - https://github.com/rakhimov/cppdep
+  - https://github.com/DanielBok/copulae
+  - https://github.com/ExpediaGroup/jarviz
+  - https://github.com/pichillilorenzo/deps-report
+  - https://github.com/coq-community/coq-dpdgraph

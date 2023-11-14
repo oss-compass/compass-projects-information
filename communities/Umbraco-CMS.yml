@@ -1,0 +1,16 @@
+---
+community_name: Umbraco-CMS
+community_org_url: https://github.com/umbraco
+community_logo_url: https://github.com/umbraco.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/umbraco/Umbraco-CMS
+    - https://github.com/umbraco/UmbracoDocs
+    - https://github.com/umbraco/Umbraco.CMS.Backoffice
+    - https://github.com/umbraco/Umbraco.UI
+    - https://github.com/umbraco/Umbraco.StorageProviders
+    - https://github.com/umbraco/Umbraco.Playwright.Testhelpers
+    - https://github.com/umbraco/Umbraco.JsonModels.Builders

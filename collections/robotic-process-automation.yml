@@ -1,0 +1,15 @@
+ident: robotic-process-automation
+name: Robotic Process Automation
+name_cn: 机器人流程自动化
+slug: /robotic-process-automation
+items:
+  - https://github.com/robotframework/robotframework
+  - https://github.com/UiPath/CoreWF
+  - https://github.com/AutomationAnywhere?q=&type=all&language=&sort=stargazers
+  - https://github.com/aisingapore/TagUI
+  - https://github.com/apache/airflow
+  - https://github.com/robocorp/rpaframework
+  - https://github.com/automagica/automagica
+  - https://github.com/asweigart/pyautogui
+  - https://github.com/RaiMan/SikuliX1
+  - https://github.com/saucepleez/taskt

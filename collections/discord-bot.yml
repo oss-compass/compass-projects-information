@@ -1,0 +1,29 @@
+ident: discord-bot
+name: Discord bot
+name_cn: Discord 机器人
+slug: /discord-bot
+items:
+  - https://github.com/discordjs/discord.js
+  - https://github.com/LAION-AI/Open-Assistant
+  - https://github.com/Rapptz/discord.py
+  - https://github.com/jagrosh/MusicBot
+  - https://github.com/SudhanPlayz/Discord-MusicBot
+  - https://github.com/V4NSH4J/discord-mass-DM-GO
+  - https://github.com/Zero6992/chatGPT-discord-bot
+  - https://github.com/Discord4J/Discord4J
+  - https://github.com/eritislami/evobot
+  - https://github.com/modmail-dev/modmail
+  - https://github.com/Clytage/rawon
+  - https://github.com/discordjs/guide
+  - https://github.com/LlmKira/Openaibot
+  - https://github.com/DSharpPlus/DSharpPlus
+  - https://github.com/python-discord/bot
+  - https://github.com/botlabs-gg/yagpdb
+  - https://github.com/DiscordSRV/DiscordSRV
+  - https://github.com/Cog-Creators/Red-DiscordBot
+  - https://github.com/DV8FromTheWorld/JDA
+  - https://github.com/discordrb/discordrb
+  - https://github.com/DisgoOrg/disgo
+  - https://github.com/harmonyland/harmony
+  - https://github.com/SinisterRectus/Discordia
+  - https://github.com/qeled/discordie

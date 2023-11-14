@@ -1,0 +1,15 @@
+ident: backend-as-a-service
+name: Backend-as-a-Service
+name_cn: 后端即服务（BAAS）
+slug: /backend-as-a-service
+items:
+  - https://github.com/appwrite/appwrite
+  - https://github.com/surrealdb/surrealdb
+  - https://github.com/heroiclabs/nakama
+  - https://github.com/nhost/nhost
+  - https://github.com/smallbets/userbase
+  - https://github.com/CloudBoost/cloudboost
+  - https://github.com/doubleleft/hook
+  - https://github.com/Erudika/para
+  - https://github.com/ConduitPlatform/Conduit
+  - https://github.com/SwellRT/swellrt

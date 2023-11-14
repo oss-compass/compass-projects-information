@@ -1,0 +1,13 @@
+ident: unified-modeling-language-tookit
+name: Unified Modeling Language Tookit
+name_cn: 统一建模语言（UML）工具
+slug: /unified-modeling-language-tookit
+items:
+  - https://github.com/jgraph/drawio-desktop
+  - https://github.com/prikhi/pencil
+  - https://github.com/KDE/umbrello
+  - https://github.com/umlet/umlet
+  - https://github.com/ObeoNetwork/UML-Designer
+  - https://github.com/ModelioOpenSource
+  - https://github.com/argouml-tigris-org/argouml
+  - https://github.com/plantuml/plantuml

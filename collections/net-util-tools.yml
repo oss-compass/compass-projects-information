@@ -1,0 +1,18 @@
+ident: net-util-tools
+name: Net Util Tools
+name_cn: 网络应用工具
+slug: /net-util-tools
+items:
+  - https://github.com/shadowsocks/shadowsocks-windows # no change in 2 years
+  - https://github.com/shadowsocks/shadowsocks-android
+  - https://github.com/matomo-org/matomo
+  - https://github.com/vernesong/OpenClash
+  - https://github.com/shadowsocks/shadowsocks-rust
+  - https://github.com/cydrobolt/polr # no change in 3 years
+  - https://github.com/ivre/ivre
+  - https://github.com/nmap/npcap
+  - https://github.com/FreeRDP/Remmina
+  - https://github.com/phpipam/phpipam
+  - https://github.com/PowerDNS-Admin/PowerDNS-Admin
+  - https://github.com/coderaiser/cloudcmd
+  - https://github.com/magma/magma

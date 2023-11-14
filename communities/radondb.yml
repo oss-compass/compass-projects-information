@@ -1,0 +1,39 @@
+---
+community_name: radondb
+community_logo_url: https://github.com/radondb.png
+community_org_url: https://github.com/radondb
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/radondb/radon
+        - https://github.com/radondb/xenon
+        - https://github.com/radondb/benchyou
+        - https://github.com/radondb/go-jepsen
+        - https://github.com/radondb/radondb-ansible
+        - https://github.com/radondb/docker-tpcc
+        - https://github.com/radondb/radon-dockerfile
+        - https://github.com/radondb/k8s-mysql
+        - https://github.com/radondb/k8s-radon
+        - https://github.com/radondb/k8s-radondb
+        - https://github.com/radondb/radondb-mysql-kubernetes
+        - https://github.com/radondb/radondb-clickhouse-kubernetes
+        - https://github.com/radondb/clickhouse-cluster-helm
+        - https://github.com/radondb/radondb-postgresql-kubernetes
+        - https://github.com/radondb/tokudb
+        - https://github.com/radondb/tokudb-xtrabackup
+        - https://github.com/radondb/radondb-postgresql-operator
+        - https://github.com/radondb/radondb-clickhouse-operator
+        - https://github.com/radondb/ClickHouse
+        - https://github.com/radondb/pg_recovery
+        - https://github.com/radondb/das
+        - https://github.com/radondb/postgres-containters
+        - https://github.com/radondb/multi-platform-postgresql
+        - https://github.com/radondb/controller-util
+        - https://github.com/radondb/postgres-aws-s3
+        - https://github.com/radondb/postgres_exporter
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/radondb/old.radondb.github.io
+        - https://github.com/radondb/website
+        - https://github.com/radondb/community
+    

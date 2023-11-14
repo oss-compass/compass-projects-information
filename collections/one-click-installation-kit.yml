@@ -1,0 +1,17 @@
+ident: one-click-installation-kit
+name: One Click Installation Kit
+name_cn: 服务器一键安装包
+slug: /one-click-installation-kit
+items:
+  - https://gitee.com/cunkai/HomebrewCN
+  - https://gitee.com/yeszao/dnmp
+  - https://gitee.com/q7104475/kubeode
+  - https://gitee.com/Tinywan/dnmp # no change in 1 years
+  - https://gitee.com/ibisheng/deploy
+  - https://gitee.com/licess/lnmp
+  - https://gitee.com/inrgihc/greenplum_installer # no change in 1 years
+  - https://gitee.com/linuxeye/oneinstack
+  - https://gitee.com/hrpzcf/AwesomePyKit
+  - https://gitee.com/openeuler/pyporter
+  - https://gitee.com/xiaoyucc521/dnmp
+  - https://gitee.com/RubyKids/rbenv-cn

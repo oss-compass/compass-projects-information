@@ -1,0 +1,19 @@
+ident: social-network-system-SNS
+name: Social Network System SNS
+name_cn: SNS社交系统
+slug: /social-network-system-SNS
+items:
+  - https://github.com/mastodon/mastodon
+  - https://github.com/diaspora/diaspora
+  - https://github.com/Chocobozzz/PeerTube
+  - https://github.com/humhub/humhub
+  - https://github.com/misskey-dev/misskey
+  - https://github.com/pump-io/pump.io # no change in 1 years
+  - https://github.com/coralproject/talk
+  - https://github.com/RetroShare/RetroShare
+  - https://github.com/mozilla/hubs
+  - https://github.com/bookwyrm-social/bookwyrm
+  - https://github.com/idno/known
+  - https://github.com/opensource-socialnetwork/opensource-socialnetwork
+  - https://gitee.com/lxinet/jeesns
+  - https://gitee.com/Discuz/discuz-fe

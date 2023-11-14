@@ -1,0 +1,22 @@
+ident: computer-vision-face-recognition
+name: Computer Vision Face Recognition
+name_cn: 计算机视觉和人脸识别
+slug: /computer-vision-face-recognition
+items:
+  - https://github.com/opencv/opencv
+  - https://github.com/deepfakes/faceswap
+  - https://github.com/ultralytics/yolov5
+  - https://github.com/facebookresearch/detectron2
+  - https://github.com/aleju/imgaug # no change in 3 years
+  - https://github.com/opencv/cvat
+  - https://github.com/opencv/opencv_contrib
+  - https://github.com/PointCloudLibrary/pcl
+  - https://github.com/kornia/kornia
+  - https://github.com/PaddlePaddle/PaddleDetection
+  - https://github.com/hybridgroup/gocv
+  - https://github.com/PaddlePaddle/PaddleClas
+  - https://github.com/colmap/colmap
+  - https://github.com/openMVG/openMVG
+  - https://github.com/shimat/opencvsharp
+  - https://github.com/alicevision/AliceVision
+  - https://github.com/opendatacam/opendatacam # no change in 2 years

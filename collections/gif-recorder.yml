@@ -1,0 +1,22 @@
+ident: gif-recorder
+name: Gif Recorder
+name_cn: Gif 制作
+slug: /gif-recorder
+items:
+  - https://github.com/ShareX/ShareX
+  - https://github.com/phw/peek
+  - https://github.com/aardio/Gif123
+  - https://github.com/phisch/giph
+  - https://github.com/natario1/GIFCompressor
+  - https://github.com/ffiirree/Capturer
+  - https://github.com/mrousavy/ImgurSniper
+  - https://github.com/ewnd9/record-desktop
+  - https://github.com/rhcarvalho/byzanz-gui
+  - https://github.com/Speiser/dot-screencap
+  - https://github.com/crvshlab/capa
+  - https://github.com/LonamiWebs/Capshot
+  - https://github.com/dennougorilla/glips
+  - https://github.com/luchko/mpl_animationmanager
+  - https://github.com/raydac/japagoge
+  - https://github.com/dennougorilla/gifgin
+  - https://github.com/topics/imgur

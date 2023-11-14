@@ -1,0 +1,19 @@
+ident: crontab
+name: Crontab
+name_cn: 定时任务
+slug: /crontab
+items:
+  - https://github.com/agenda/agenda
+  - https://github.com/whyour/qinglong
+  - https://github.com/ouqiang/gocron
+  - https://github.com/jhuckaby/Cronicle
+  - https://github.com/iwannay/jiacrontab
+  - https://github.com/harrisiirak/cron-parser
+  - https://github.com/jmrozanec/cron-utils
+  - https://github.com/osgochina/swoole-crontab
+  - https://github.com/vixie/cron/
+  - https://github.com/cronie-crond/cronie
+  - https://github.com/systemd-cron/systemd-cron
+  - https://github.com/jmettraux/rufus-scheduler
+  - https://github.com/atifaziz/NCrontab
+  - https://github.com/rk/go-cron

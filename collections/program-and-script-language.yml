@@ -1,0 +1,30 @@
+ident: program-and-script-language
+name: Program And Script Language
+name_cn: 编程语言和脚本语言
+slug: /program-and-script-language
+items:
+  - https://github.com/microsoft/TypeScript
+  - https://github.com/JuliaLang/julia
+  - https://github.com/DefinitelyTyped/DefinitelyTyped
+  - https://github.com/php/php-src
+  - https://github.com/vlang/v
+  - https://github.com/elixir-lang/elixir
+  - https://github.com/ruby/ruby
+  - https://github.com/ethereum/solidity
+  - https://github.com/ziglang/zig
+  - https://github.com/nikic/PHP-Parser
+  - https://github.com/scala/scala
+  - https://github.com/AssemblyScript/assemblyscript
+  - https://github.com/tc39/ecma262
+  - https://github.com/nim-lang/Nim
+  - https://github.com/RustPython/RustPython
+  - https://github.com/clojure/clojure
+  - https://github.com/clojure/clojurescript
+  - https://github.com/purescript/purescript
+  - https://github.com/imba/imba
+  - https://github.com/lua/lua
+  - https://github.com/wren-lang/wren
+  - https://github.com/Lexikos/AutoHotkey_L
+  - https://github.com/alda-lang/alda
+  - https://github.com/ponylang/ponyc
+  - https://github.com/HaxeFoundation/haxe

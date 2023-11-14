@@ -1,0 +1,11 @@
+ident: animation-library
+name: Animation Library
+name_cn: 动画库
+slug: /animation-library
+items:
+  - https://github.com/airbnb/lottie-android
+  - https://github.com/aurelhubert/tween-engine
+  - https://github.com/daimajia/AndroidViewAnimations
+  - https://github.com/lgvalle/Material-Animations
+  - https://github.com/andkulikov/Transitions-Everywhere
+  - https://github.com/pmndrs/react-spring

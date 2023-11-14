@@ -1,0 +1,21 @@
+ident: honeypot
+name: Honey Pot
+name_cn: 蜜罐工具
+slug: /honeypot
+items:
+  - https://github.com/cowrie/cowrie
+  - https://github.com/DataSoft/Honeyd
+  - https://github.com/mushorg/glastopf
+  - https://github.com/desaster/kippo
+  - https://github.com/buffer/thug
+  - https://github.com/DinoTools/dionaea
+  - https://github.com/zeroq/amun
+  - https://github.com/honeytrap/honeytrap
+  - https://github.com/honeynet/beeswarm
+  - https://github.com/mushorg/conpot
+  - https://github.com/pwnlandia/mhn
+  - https://github.com/telekom-security/tpotce
+  - https://github.com/hacklcx/HFish
+  - https://github.com/fabrimagic72/malware-samples
+  - https://github.com/cossacklabs/acra
+  - https://github.com/seccome/Ehoney

@@ -1,0 +1,11 @@
+ident: document-management-and-tools
+name: Document Management And Tools
+name_cn: 文档管理软件及工具
+slug: /document-management-and-tools
+items:
+  - https://github.com/tomaz/appledoc # no change in 2 years
+  - https://github.com/theseer/phpdox # no change in 2 years
+  - https://github.com/ruby/rdoc
+  - https://github.com/ysc/word # no change in 2 years
+  - https://github.com/OpenKM/document-management-system
+  - https://github.com/ciur/papermerge

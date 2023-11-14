@@ -1,0 +1,19 @@
+ident: webassembly
+name: WebAssembly(WASM)
+name_cn: WebAssembly(WASM)
+slug: /webassembly
+items:
+  # (as a project type, instead of a repo) - https://github.com/WebAssembly
+  - https://github.com/WasmEdge/WasmEdge
+  - https://github.com/wasmerio/wasmer
+  - https://github.com/bytecodealliance/wasmtime
+  - https://github.com/wasm3/wasm3
+  - https://github.com/bytecodealliance/wasm-micro-runtime
+  - https://github.com/lunatic-solutions/lunatic
+  - https://github.com/wasmerio/wasmer-go
+  - https://github.com/tetratelabs/wazero
+  - https://github.com/wasmerio/wasmer-python
+  - https://github.com/AssemblyScript/assemblyscript
+  - https://github.com/oracle/graal # - https://github.com/oracle/graal/tree/master/wasm
+  - https://github.com/GetFirefly/firefly
+

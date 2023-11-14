@@ -1,8 +1,0 @@
-community_name: MindSpore
-resource_types:
-  software-artifact-resources:
-      repo_urls: 
-        - https://gitee.com/mindspore/mindspore
-  governance-resources:
-      repo_urls: 
-        - https://gitee.com/mindspore/community

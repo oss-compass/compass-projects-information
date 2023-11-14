@@ -1,0 +1,28 @@
+ident: game-development-kit
+name: Game Development Kit
+name_cn: 游戏开发套件
+slug: /game-development-kit
+items:
+  - https://github.com/photonstorm/phaser
+  - https://github.com/cocos2d/cocos2d-x
+  - https://github.com/godotengine/godot
+  - https://github.com/libgdx/libgdx
+  - https://github.com/MonoGame/MonoGame
+  - https://github.com/4ian/GDevelop
+  - https://github.com/superpowers/superpowers-core
+  - https://github.com/jMonkeyEngine/jmonkeyengine
+  - https://github.com/BabylonJS/Babylon.js
+  - https://github.com/defold/defold
+  - https://github.com/amethyst/amethyst
+  - https://github.com/urho3d/Urho3D
+  - https://github.com/oxygine/oxygine-framework
+  - https://github.com/GarageGames/Torque3D
+  - https://github.com/ivansafrin/Polycode
+  - https://github.com/openfl/openfl
+  - https://github.com/liballeg/allegro5
+  - https://github.com/SFML/SFML
+  - https://github.com/craftworkgames/MonoGame.Extended
+  - https://github.com/pygame/pygame
+  - https://github.com/GooTechnologies/goojs
+  - https://github.com/HaxeFlixel/flixel
+  - https://github.com/jMonkeyEngine/sdk

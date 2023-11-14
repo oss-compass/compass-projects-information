@@ -1,0 +1,17 @@
+ident: cloud-native-storage
+name: Cloud Native Storage
+name_cn: 云原生存储
+slug: /cloud-native-storage
+items:
+  - https://github.com/ceph/ceph
+  - https://github.com/gluster/glusterfs
+  - https://github.com/minio/minio
+  - https://github.com/openebs/openebs
+  - https://github.com/longhorn/longhorn
+  - https://github.com/rook/rook
+  - https://github.com/portworx/pxc
+  - https://github.com/sodafoundation/api
+  - https://github.com/cubefs/cubefs
+  - https://github.com/heketi/heketi
+  - https://github.com/moosefs/moosefs
+  - https://github.com/dragonfly/dragonfly

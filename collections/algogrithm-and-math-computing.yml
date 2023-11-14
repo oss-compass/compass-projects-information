@@ -1,0 +1,21 @@
+ident: algogrithm-and-math-computing
+name: Algogrithm And Math Computing
+name_cn: 算法及数学计算
+slug: /algogrithm-and-math-computing
+items:
+  - https://github.com/numpy/numpy
+  - https://github.com/mathjax/MathJax
+  - https://github.com/google/or-tools
+  - https://github.com/numba/numba
+  - https://github.com/pymc-devs/pymc
+  - https://github.com/aidenybai/million
+  - https://github.com/DEAP/deap
+  - https://github.com/xianyi/OpenBLAS
+  - https://github.com/cvxpy/cvxpy
+  - https://github.com/arrayfire/arrayfire
+  - https://github.com/billryan/algorithm-exercise # no change in 2 years
+  - https://github.com/blaze/blaze
+  - https://github.com/scipy-lectures/scipy-lecture-notes
+  - https://github.com/mathnet/mathnet-numerics
+  - https://github.com/dimforge/nalgebra
+  - https://github.com/ceres-solver/ceres-solver

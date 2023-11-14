@@ -1,0 +1,9 @@
+ident: Quantum-Computing
+name: Quantum Computing
+name_cn: 量子计算
+slug: /Quantum-Computing
+items:
+  - https://github.com/XanaduAI/strawberryfields # no change in 1 years
+  - https://github.com/pyscf/pyscf
+  - https://github.com/QuantumBFS/Yao.jl
+  - https://github.com/PennyLaneAI/pennylane

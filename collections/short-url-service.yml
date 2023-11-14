@@ -1,0 +1,12 @@
+ident: short-url-service
+name: Short URL Service
+name_cn: 短网址服务
+slug: /short-url-service
+items:
+  - https://github.com/cydrobolt/polr
+  - https://github.com/YOURLS/YOURLS
+  - https://github.com/thedevs-network/kutt
+  - https://github.com/shlinkio/shlink
+  - https://github.com/unvented/shortic
+  - https://github.com/nokonoko/Uguu
+  - https://github.com/barats/ohUrlShortener

@@ -1,0 +1,15 @@
+ident: IOT-Edge-Computing
+name: IOT Edge Computing
+name_cn: 物联网和边缘计算
+slug: /IOT-Edge-Computing
+items:
+  - https://github.com/blinker-iot/blinker-library
+  - https://github.com/Koenkk/zigbee2mqtt
+  - https://github.com/Pi4J/pi4j-v1 # no change in 2 years
+  - https://github.com/RT-Thread/rt-thread
+  - https://github.com/particle-iot/device-os
+  - https://github.com/SoCo/SoCo
+  - https://github.com/dresden-elektronik/deconz-rest-plugin
+  - https://github.com/octoblu/meshblu # no change in 3 years
+  - https://github.com/cesanta/v7 # no change in 3 years
+  - https://github.com/sitewhere/sitewhere # no change in 2 years

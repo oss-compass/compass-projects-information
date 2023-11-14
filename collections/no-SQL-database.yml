@@ -1,0 +1,45 @@
+ident: no-SQL-database
+name: No SQL database
+name_cn: 非关系型数据库
+slug: /no-SQL-database
+items:
+  - https://github.com/aerospike/aerospike-server
+  - https://github.com/basho/riak
+  - https://github.com/basho/riak_kv
+  - https://github.com/ReactiveMongo/ReactiveMongo
+  - https://github.com/EventStore/EventStore
+  - https://github.com/rethinkdb/rethinkdb
+  - https://github.com/moneta-rb/moneta
+  - https://github.com/yapstudios/YapDatabase # no change in 3 years
+  - https://github.com/yinqiwen/ardb # no change in 4 years
+  - https://github.com/dgraph-io/dgraph #图数据库
+  - https://github.com/neo4j/neo4j #图数据库
+  - https://github.com/arangodb/arangodb #图数据库
+  - https://github.com/edgedb/edgedb #图数据库
+  - https://github.com/vesoft-inc/nebula #图数据库
+  - https://github.com/orientechnologies/orientdb #图数据库
+  - https://github.com/JanusGraph/janusgraph #图数据库
+  - https://github.com/RedisGraph/RedisGraph #图数据库
+  - https://github.com/cayleygraph/cayley #图数据库
+  - https://github.com/terminusdb/terminusdb #图数据库
+  - https://github.com/memgraph/memgraph #图数据库
+  - https://github.com/bitnine-oss/agensgraph #图数据库
+  - https://github.com/indradb/indradb #图数据库
+  - https://github.com/apache/incubator-hugegraph #图数据库
+  - https://github.com/mongodb/mongo  #文档数据库
+  - https://github.com/apache/couchdb  #文档数据库
+  - https://github.com/ravendb/ravendb  #文档数据库
+  - https://github.com/pouchdb/pouchdb  #文档数据库
+  - https://github.com/mbdavid/LiteDB  #文档数据库
+  - https://github.com/pingcap/tidb    #文档数据库
+  - https://github.com/redis/redis     #键值数据库
+  - https://github.com/facebook/rocksdb #键值数据库
+  - https://github.com/apache/cassandra #键值数据库
+  - https://github.com/etcd-io/etcd #键值数据库
+  - https://github.com/google/leveldb #键值数据库
+  - https://github.com/etcd-io/bbolt #键值数据库
+  - https://github.com/couchbase/forestdb #键值数据库
+  - https://github.com/scylladb/scylladb #键值数据库
+  - https://github.com/tikv/tikv #键值数据库
+  - https://github.com/memcached/memcached #键值数据库
+  - https://github.com/tarantool/tarantool #键值数据库

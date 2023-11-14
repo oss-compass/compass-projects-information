@@ -1,0 +1,14 @@
+ident: media-players
+name: Media Players
+name_cn: 媒体播放器
+slug: /media-players
+items:
+  - https://github.com/videojs/video.js
+  - https://github.com/sampotts/plyr
+  - https://github.com/wavesurfer-js/wavesurfer.js
+  - https://github.com/goldfire/howler.js
+  - https://github.com/FFmpeg/FFmpeg
+  - https://github.com/plexinc/plex-media-player
+  - https://github.com/osmc/osmc
+  - https://github.com/xbmc/xbmc
+  - https://github.com/videolan/vlc

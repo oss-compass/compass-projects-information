@@ -1,0 +1,13 @@
+---
+community_name: maplibre
+community_org_url: https://github.com/maplibre
+community_logo_url: https://github.com/maplibre.png
+resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/maplibre/maplibre
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/maplibre/maplibre-gl-js
+    - https://github.com/maplibre/maplibre-native
+    - https://github.com/maplibre/maplibre-style-spec

@@ -1,0 +1,11 @@
+---
+community_name: doris
+community_logo_url: 
+community_org_url: https://github.com/apache/doris
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/apache/incubator-doris
+    governance-repositories:
+        repo_urls: []
+    

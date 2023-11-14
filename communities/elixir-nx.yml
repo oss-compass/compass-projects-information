@@ -1,0 +1,23 @@
+---
+community_name: elixir-nx
+community_org_url: https://github.com/elixir-nx
+community_logo_url: https://github.com/elixir-nx.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/elixir-nx/scholar
+    - https://github.com/elixir-nx/explorer
+    - https://github.com/elixir-nx/nx
+    - https://github.com/elixir-nx/bumblebee
+    - https://github.com/elixir-nx/tokenizers
+    - https://github.com/elixir-nx/ex_faiss
+    - https://github.com/elixir-nx/xla
+    - https://github.com/elixir-nx/axon
+    - https://github.com/elixir-nx/nx_signal
+    - https://github.com/elixir-nx/complex
+    - https://github.com/elixir-nx/scidata
+    - https://github.com/elixir-nx/axon_onnx
+    - https://github.com/elixir-nx/nx_image
+    - https://github.com/elixir-nx/stb_image

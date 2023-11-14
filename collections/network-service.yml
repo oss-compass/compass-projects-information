@@ -1,0 +1,21 @@
+ident: network-service
+name: Network Service
+name_cn: 网络服务
+slug: /network-service
+items:
+  - https://github.com/caddyserver/caddy
+  - https://github.com/containous/traefik
+  - https://github.com/XX-net/XX-Net
+  - https://github.com/Dreamacro/clash
+  - https://github.com/bannedbook/fanqiang
+  - https://github.com/envoyproxy/envoy
+  - https://github.com/yichengchen/clashX
+  - https://github.com/getlantern/lantern
+  - https://github.com/SoftEtherVPN/SoftEtherVPN
+  - https://github.com/sshuttle/sshuttle
+  - https://github.com/OpenVPN/openvpn
+  - https://github.com/Anankke/SSPanel-Uim
+  - https://github.com/HMBSbige/ShadowsocksR-Windows
+  - https://github.com/Jrohy/multi-v2ray
+  - https://github.com/microsoft/reverse-proxy
+  - https://github.com/Jigsaw-Code/outline-server

@@ -1,0 +1,22 @@
+ident: data-visualization
+name: Data Visualization
+name_cn: 数据可视化
+slug: /data-visualization
+items:
+  - https://github.com/d3/d3
+  - https://github.com/apache/superset
+  - https://github.com/plotly/plotly.js
+  - https://github.com/matplotlib/matplotlib
+  - https://github.com/tidyverse/ggplot2
+  - https://github.com/bokeh/bokeh
+  - https://github.com/chartjs/Chart.js
+  - https://github.com/vega/vega
+  - https://github.com/rstudio/ggvis
+  - https://github.com/Leaflet/Leaflet
+  - https://github.com/apache/echarts
+  - https://github.com/metabase/metabase
+  - https://github.com/dataease/dataease
+  - https://github.com/datageartech/datagear
+  - https://github.com/edp963/davinci
+  - https://github.com/rawgraphs/rawgraphs-app
+  

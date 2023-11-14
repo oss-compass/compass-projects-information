@@ -1,0 +1,10 @@
+ident: e-commerce-and-e-payment
+name: E-commerce and E-payment
+name_cn: 电子商务和在线支付
+slug: /e-commerce-and-e-payment
+items:
+  - https://github.com/magento/magento2
+  - https://github.com/woocommerce/woocommerce
+  - https://github.com/opencart/opencart
+  - https://github.com/PrestaShop/PrestaShop
+  - https://github.com/Payum/Payum

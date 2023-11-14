@@ -1,0 +1,16 @@
+ident: text-segmentation
+name: Text Segmentation
+name_cn: 中英文分词
+slug: /text-segmentation
+items:
+  - https://github.com/go-ego/gse
+  - https://github.com/rsennrich/subword-nmt
+  - https://github.com/blmoistawinde/HarvestText
+  - https://github.com/fukuball/jieba-php # no change in 1 years
+  - https://github.com/NVlabs/ODISE
+  - https://gitee.com/lionsoul/jcseg
+  - https://gitee.com/ownthink/Jiagu # no change in 2 years
+  - https://gitee.com/lionsoul/friso # no change in 2 years
+  - https://gitee.com/baidu/lac
+  - https://gitee.com/indexea/ideaseg
+  - https://gitee.com/yspyhphh/hanlp-tokenizer

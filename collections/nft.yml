@@ -1,0 +1,9 @@
+ident: nft
+name: NFT
+name_cn: NFT非同质化通证
+slug: /nft
+items:
+  - https://github.com/codeSTACKr/create-10k-nft-collection
+  - https://github.com/ProjectOpenSea/seaport
+  - https://github.com/fingerchar/fingernft
+  - https://github.com/NotLuksus/nft-art-generator

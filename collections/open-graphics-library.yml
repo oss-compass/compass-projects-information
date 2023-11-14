@@ -1,0 +1,22 @@
+ident: open-graphics-library
+name: Open Graphics Library
+name_cn: 开放图形库
+slug: /open-graphics-library
+items:
+  - https://github.com/alacritty/alacritty
+  - https://github.com/kovidgoyal/kitty
+  - https://github.com/ssloy/tinyrenderer
+  - https://github.com/google/filament
+  - https://github.com/lettier/3d-game-shaders-for-beginners
+  - https://github.com/bkaradzic/bgfx
+  - https://github.com/raysan5/raylib
+  - https://github.com/SFTtech/openage
+  - https://github.com/OpenRCT2/OpenRCT2
+  - https://github.com/fogleman/Craft
+  - https://github.com/openframeworks/openFrameworks
+  - https://github.com/cats-oss/android-gpuimage
+  - https://github.com/SFML/SFML
+  - https://github.com/isl-org/Open3D
+  - https://github.com/gfx-rs/wgpu
+  - https://github.com/olive-editor/olive
+  - https://github.com/fschutt/azul

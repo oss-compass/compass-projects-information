@@ -1,0 +1,19 @@
+ident: vlc-player
+name: VLC player
+name_cn: VLC 播放器
+slug: /vlc-player
+items:
+  - https://github.com/exebetche/vlsub
+  - https://github.com/vlc-qt/vlc-qt
+  - https://github.com/johang/vlc-bittorrent
+  - https://github.com/videolan/vlc
+  - https://github.com/smacke/ffsubsync
+  - https://github.com/altdesktop/playerctl
+  - https://github.com/videolan/vlc-android
+  - https://github.com/videolan/vlc-ios
+  - https://github.com/tiangolo/nginx-rtmp-docker
+  - https://github.com/nurupo/vlc-pause-click-plugin
+  - https://github.com/solid-software/flutter_vlc_player
+  - https://github.com/adrg/libvlc-go
+  - https://github.com/SimonIT/spotifylyrics
+  - https://github.com/videolan/libvlcsharp

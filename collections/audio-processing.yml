@@ -1,0 +1,25 @@
+ident: audio-processing
+name: Audio Processing
+name_cn: 音频处理
+slug: /audio-processing
+items:
+  - https://github.com/goldfire/howler.js
+  - https://github.com/lyswhut/lx-music-desktop
+  - https://github.com/koel/koel
+  - https://github.com/Tonejs/Tone.js
+  - https://github.com/beetbox/beets
+  - https://github.com/AudioKit/AudioKit
+  - https://github.com/sonic-pi-net/sonic-pi
+  - https://github.com/audacity/audacity
+  - https://github.com/katspaugh/wavesurfer.js
+  - https://github.com/LMMS/lmms
+  - https://github.com/overtone/overtone
+  - https://github.com/librosa/librosa
+  - https://github.com/cmus/cmus
+  - https://github.com/badaix/snapcast
+  - https://github.com/supercollider/supercollider
+  - https://github.com/naudio/NAudio
+  - https://github.com/navidrome/navidrome
+  - https://github.com/clementine-player/Clementine
+  - https://github.com/clangen/musikcube
+  - https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine

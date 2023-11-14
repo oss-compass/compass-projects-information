@@ -1,0 +1,14 @@
+ident: task-and-project-management
+name: Task And Project Management
+name_cn: 任务和项目管理
+slug: /task-and-project-management
+items:
+  - https://github.com/mattermost/focalboard
+  - https://github.com/tasks/tasks
+  - https://github.com/kuaifan/dootask
+  - https://gitee.com/aipaw/wookteam
+  - https://gitee.com/vilson/vue-projectManage # no change in 1 years
+  - https://gitee.com/sinbo/kooteam # no change in 3 years
+  - https://gitee.com/wwccss/zentaopms
+  - https://gitee.com/aipaw/dootask
+  - https://gitee.com/actionview/av # no change in 1 years

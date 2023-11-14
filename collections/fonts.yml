@@ -1,0 +1,26 @@
+ident: fonts
+name: Fonts
+name_cn: 字体
+slug: /fonts
+items:
+  - https://github.com/FortAwesome/Font-Awesome
+  - https://github.com/tonsky/FiraCode
+  - https://github.com/ryanoasis/nerd-fonts
+  - https://github.com/rsms/inter
+  - https://github.com/atelier-anchor/smiley-sans
+  - https://github.com/JetBrains/JetBrainsMono
+  - https://github.com/IBM/plex
+  - https://github.com/ubuwaits/beautiful-web-type
+  - https://github.com/IdreesInc/Monocraft
+  - https://github.com/kiliman/operator-mono-lig
+  - https://github.com/arrowtype/recursive
+  - https://github.com/rubjo/victor-mono
+  - https://github.com/impallari/Raleway
+  - https://github.com/EbenSorkin/Merriweather
+  - https://github.com/liberationfonts/liberation-fonts
+  - https://github.com/googlefonts/opensans
+  - https://github.com/adobe-fonts/source-sans
+  - https://github.com/googlefonts/Inconsolata
+  - https://github.com/notofonts/noto-fonts
+  - https://github.com/googlefonts/roboto
+  - https://github.com/google/fonts

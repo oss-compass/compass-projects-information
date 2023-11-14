@@ -1,0 +1,25 @@
+ident: headless-browser
+name: Headless browser
+name_cn: 无头浏览器
+slug: /headless-browser
+items:
+  - https://github.com/ariya/phantomjs
+  - https://github.com/ArchiveBox/ArchiveBox
+  - https://github.com/berstend/puppeteer-extra
+  - https://github.com/scrapy-plugins/scrapy-playwright
+  - https://github.com/vgalin/html2image
+  - https://github.com/watzon/marionette
+  - https://github.com/MarketingPipeline/Python-Selenium-Action
+  - https://github.com/sjdirect/abotx
+  - https://github.com/elacuesta/scrapy-pyppeteer
+  - https://github.com/s4kibs4mi/snapify
+  - https://github.com/TarekJor/bookmark-archiver
+  - https://github.com/yuis-ice/jseval
+  - https://github.com/Riadayal/Pytest-headless
+  - https://github.com/NaniteFactory/chromebot
+  - https://github.com/Elmasekar/Behave-headless
+  - https://github.com/praveenLT/java-testng-headless-testing
+  - https://github.com/Elmasekar/Python-selenium-headless
+  - https://github.com/Data-Wrangling-with-JavaScript/nodejs-visualization-example
+  - https://github.com/psyb0t/phantomime
+  - https://github.com/scrapfly/python-scrapfly

@@ -1,0 +1,34 @@
+ident: vim-plug-ins
+name: Vim plug-ins
+name_cn: Vim 插件
+slug: /vim-plug-ins
+items:
+  - https://github.com/VundleVim/Vundle.vim
+  - https://github.com/tpope/vim-pathogen
+  - https://github.com/preservim/nerdtree
+  - https://github.com/ycm-core/YouCompleteMe
+  - https://github.com/ctrlpvim/ctrlp.vim
+  - https://github.com/vim-syntastic/syntastic
+  - https://github.com/vim-airline/vim-airline
+  - https://github.com/tpope/vim-commentary
+  - https://github.com/tpope/vim-fugitive
+  - https://github.com/tpope/vim-surround
+  - https://github.com/fatih/vim-go
+  - https://github.com/SirVer/ultisnips
+  - https://github.com/lervag/vimtex
+  - https://github.com/airblade/vim-gitgutter
+  - https://github.com/preservim/vim-markdown
+  - https://github.com/preservim/tagbar
+  - https://github.com/ryanoasis/vim-devicons
+  - https://github.com/tpope/vim-repeat
+  - https://github.com/mg979/vim-visual-multi
+  - https://github.com/easymotion/vim-easymotion
+  - https://github.com/tpope/vim-rails
+  - https://github.com/pangloss/vim-javascript
+  - https://github.com/sheerun/vim-polyglot
+  - https://github.com/tpope/vim-sensible
+  - https://github.com/ludovicchabant/vim-gutentags
+  - https://github.com/neomake/neomake
+  - https://github.com/MaxMEllon/vim-jsx-pretty
+  - https://github.com/terryma/vim-multiple-cursors
+  - https://github.com/vim-autoformat/vim-autoformat

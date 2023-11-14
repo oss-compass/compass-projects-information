@@ -1,0 +1,15 @@
+ident: smart-home
+name: Smart home
+name_cn: 智能家居
+slug: /smart-home
+items:
+  - https://github.com/home-assistant/core
+  - https://github.com/openhab/openhab-core
+  - https://github.com/WebThingsIO/gateway
+  - https://github.com/node-red/node-red
+  - https://github.com/eclipse-archived/smarthome
+  - https://github.com/thingsboard/thingsboard
+  - https://github.com/MycroftAI/mycroft-core
+  - https://github.com/domoticz/domoticz
+  - https://github.com/jeedom/core
+  - https://github.com/openhab/openhabian

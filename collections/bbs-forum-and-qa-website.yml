@@ -1,0 +1,19 @@
+ident: bbs-forum-and-qa-website
+name: BBS Forum And Qa Website
+name_cn: BBS论坛及问答网站
+slug: /bbs-forum-and-qa-website
+items:
+  - https://github.com/NodeBB/NodeBB
+  - https://github.com/vanillaforums/vanilla
+  - https://github.com/rafalp/Misago
+  - https://github.com/Kunena/Kunena-Forum
+  - https://github.com/phpbb/phpbb
+  - https://github.com/q2a/question2answer
+  - https://github.com/thredded/thredded
+  - https://github.com/debiki/talkyard
+  - https://github.com/mybb/mybb
+  - https://gitee.com/Discuz/DiscuzX
+  - https://gitee.com/veal98/Echo
+  - https://gitee.com/mlogclub/bbs-go
+  - https://gitee.com/diyhi/bbs
+  - https://gitee.com/dl88250/symphony

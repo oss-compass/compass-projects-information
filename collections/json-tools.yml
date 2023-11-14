@@ -1,0 +1,20 @@
+ident: json-tools
+name: Json Tools
+name_cn: JSON工具
+slug: /json-tools
+items:
+  - https://github.com/nlohmann/json
+  - https://github.com/alibaba/fastjson
+  - https://github.com/stedolan/jq
+  - https://github.com/Tencent/rapidjson
+  - https://github.com/josdejong/jsoneditor
+  - https://github.com/JamesNK/Newtonsoft.Json
+  - https://github.com/json-api/json-api
+  - https://github.com/SBJson/SBJson
+  - https://github.com/Julian/jsonschema
+  - https://github.com/json-editor/json-editor
+  - https://github.com/json-schema-faker/json-schema-faker
+  - https://github.com/json-schema-org/json-schema-spec
+  - https://github.com/akheron/jansson
+  - https://github.com/json-c/json-c
+  - https://github.com/json4s/json4s

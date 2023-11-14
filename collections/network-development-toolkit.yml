@@ -1,0 +1,21 @@
+ident: network-development-toolkit
+name: Network Development Toolkit
+name_cn: 网络开发包
+slug: /network-development-toolkit
+items:
+  - https://github.com/psf/requests
+  - https://github.com/curl/curl
+  - https://github.com/swoole/swoole-src
+  - https://github.com/chenshuo/muduo
+  - https://github.com/SecureAuthCorp/impacket
+  - https://github.com/apple/swift-nio
+  - https://github.com/google/gopacket # no change in 1 years
+  - https://github.com/aaugustin/websockets
+  - https://gitee.com/smartboot/smart-socket
+  - https://github.com/boostorg/beast
+  - https://github.com/kerryjiang/SuperSocket
+  - https://github.com/golang/net
+  - https://github.com/clj-commons/aleph
+  - https://github.com/crossbario/autobahn-python
+  - https://github.com/quinn-rs/quinn
+  - https://github.com/Corvusoft/restbed # no change in 1 years

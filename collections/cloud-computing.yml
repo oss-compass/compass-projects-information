@@ -1,0 +1,16 @@
+ident: cloud-computing
+name: Cloud Computing
+name_cn: 云计算
+slug: /cloud-computing
+items:
+  - https://github.com/GoogleCloudPlatform/terraformer
+  - https://github.com/cloudtools/troposphere
+  - https://github.com/fog/fog
+  - https://github.com/aws/karpenter
+  - https://github.com/openstack/nova
+  - https://github.com/aws-amplify/amplify-cli
+  - https://github.com/GoogleCloudPlatform/PerfKitBenchmarker
+  - https://github.com/cloudfoundry/cli
+  - https://github.com/GoogleCloudPlatform/gcsfuse
+  - https://github.com/yunionio/cloudpods
+  - https://github.com/cloudtools/stacker

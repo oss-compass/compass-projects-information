@@ -1,0 +1,22 @@
+ident: bar-code-and-qr-code
+name: Bar Code And Qr Code
+name_cn: 条形码和二维码
+slug: /bar-code-and-qr-code
+items:
+  - https://github.com/x-hw/amazing-qr # no change in 2 years
+  - https://github.com/claudiodangelis/qrcp
+  - https://github.com/soldair/node-qrcode
+  - https://github.com/bndw/wifi-card
+  - https://github.com/ciaochaos/qrbtf
+  - https://github.com/EFPrefix/EFQRCode
+  - https://github.com/nayuki/QR-Code-generator
+  - https://github.com/endroid/qr-code
+  - https://github.com/zxing/zxing
+  - https://github.com/zxingify/zxingify-objc
+  - https://github.com/zxingify/zxing-js/library
+  - https://github.com/lincolnloop/python-qrcode
+  - https://github.com/mebjas/html5-qrcode
+  - https://github.com/zpao/qrcode.react
+  - https://github.com/kciter/qart.js
+  - https://github.com/kingsic/SGQRCode # no change in 1 years
+  - https://gitee.com/jenly1314/ZXingLite

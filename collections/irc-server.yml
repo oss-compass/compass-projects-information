@@ -1,0 +1,22 @@
+ident: irc-server
+name: IRC Server
+name_cn: IRC 服务器
+slug: /irc-server
+items:
+  - https://github.com/ergochat/ergo
+  - https://github.com/inspircd/inspircd
+  - https://github.com/bitlbee/bitlbee
+  - https://github.com/MaskRay/wechatircd
+  - https://github.com/unrealircd/unrealircd
+  - https://github.com/42wim/matterircd
+  - https://github.com/jpdias/botnet-lab
+  - https://github.com/inspircd/inspircd-docker
+  - https://github.com/heyitsanthony/etcdircd
+  - https://github.com/tomhiggins/anyfesto
+  - https://github.com/shalture/shalture
+  - https://github.com/ngircd/ngircd
+  - https://github.com/eggheads/eggdrop/tree/develop/src/mod/ircd-ratbox
+  - https://github.com/ultimate-ircd/ultimate-ircd
+  - https://github.com/thedark1337/DarkIRCd
+  - https://github.com/jrosdahl/openircd
+  - https://github.com/quakenet/ircd

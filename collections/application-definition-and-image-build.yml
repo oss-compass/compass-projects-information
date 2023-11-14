@@ -1,0 +1,17 @@
+ident: application-definition-and-image-build
+name: Application Definition & Image Build
+name_cn: 应用程序定义和镜像构建
+slug: /application-definition-and-image-build
+items:
+  - https://github.com/docker/compose
+  - https://github.com/helm/helm
+  - https://github.com/hashicorp/terraform
+  - https://github.com/ansible/ansible
+  - https://github.com/hashicorp/packer
+  - https://github.com/containers/buildah
+  - https://github.com/GoogleContainerTools/kaniko
+  - https://github.com/containers/podman
+  - https://github.com/buildpacks/pack
+  - https://github.com/cnabio/cnab-spec
+  - https://github.com/habitat-sh/habitat
+  - https://github.com/bazelbuild/bazel

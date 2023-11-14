@@ -1,0 +1,61 @@
+---
+community_name: OpenCloudOS
+community_logo_url: https://gitee.com/OpenCloudOS.png
+community_org_url: https://gitee.com/OpenCloudOS
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/OpenCloudOS/SIG-release
+        - https://gitee.com/OpenCloudOS/SIG-infra
+        - https://gitee.com/OpenCloudOS/SIG-Testing
+        - https://gitee.com/OpenCloudOS/tsuite-example
+        - https://gitee.com/OpenCloudOS/ADVobfuscator
+        - https://gitee.com/OpenCloudOS/SysDocs
+        - https://gitee.com/OpenCloudOS/sig-storage
+        - https://gitee.com/OpenCloudOS/sig-system-performance-tool
+        - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
+        - https://gitee.com/OpenCloudOS/OpenCloudOS-Packages
+        - https://gitee.com/OpenCloudOS/OpenCloudOS-tools
+        - https://gitee.com/OpenCloudOS/nettrace
+        - https://gitee.com/OpenCloudOS/tke-k8s-distro
+        - https://gitee.com/OpenCloudOS/perf-prof
+        - https://gitee.com/OpenCloudOS/fuse-extent
+        - https://gitee.com/OpenCloudOS/LonganChkout
+        - https://gitee.com/OpenCloudOS/RustKvm
+        - https://gitee.com/OpenCloudOS/lkp-extent
+        - https://gitee.com/OpenCloudOS/linux
+        - https://gitee.com/OpenCloudOS/SIG-Security
+        - https://gitee.com/OpenCloudOS/SIG-compliance
+        - https://gitee.com/OpenCloudOS/SIG-Marketing
+        - https://gitee.com/OpenCloudOS/libfuse
+        - https://gitee.com/OpenCloudOS/lkp-tests
+        - https://gitee.com/OpenCloudOS/SIG-kernel
+        - https://gitee.com/OpenCloudOS/SIG-ops
+        - https://gitee.com/OpenCloudOS/SIG-Stream
+        - https://gitee.com/OpenCloudOS/TencentOS-kernel-0
+        - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel-Stream
+        - https://gitee.com/OpenCloudOS/toc
+        - https://gitee.com/OpenCloudOS/sig-docs
+        - https://gitee.com/OpenCloudOS/sig-cloud-native
+        - https://gitee.com/OpenCloudOS/sig-network
+        - https://gitee.com/OpenCloudOS/risc-v-arch-sig
+        - https://gitee.com/OpenCloudOS/sig-dpu
+        - https://gitee.com/OpenCloudOS/sig-bpf
+        - https://gitee.com/OpenCloudOS/sig-ecological-adaptation
+        - https://gitee.com/OpenCloudOS/SIG-EX-NDE
+        - https://gitee.com/OpenCloudOS/EX-NDE
+        - https://gitee.com/OpenCloudOS/Contributor
+        - https://gitee.com/OpenCloudOS/sig
+        - https://gitee.com/OpenCloudOS/ArkWork
+        - https://gitee.com/OpenCloudOS/packages-testing
+        - https://gitee.com/OpenCloudOS/oc-kernel-intel
+        - https://gitee.com/OpenCloudOS/gitee-api
+        - https://gitee.com/OpenCloudOS/rpm_info
+        - https://gitee.com/OpenCloudOS/Document
+        - https://gitee.com/OpenCloudOS/pkgs-info
+        - https://gitee.com/OpenCloudOS/dev-tools
+        - https://gitee.com/OpenCloudOS/doc_pub
+    governance-repositories:
+        repo_urls: 
+        - https://gitee.com/OpenCloudOS/community
+    

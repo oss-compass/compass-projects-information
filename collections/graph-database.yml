@@ -1,0 +1,20 @@
+ident: graph-database
+name: Graph Database
+name_cn: 图数据库
+slug: /graph-database
+items:
+  - https://github.com/dgraph-io/dgraph
+  - https://github.com/neo4j/neo4j
+  - https://github.com/arangodb/arangodb
+  - https://github.com/edgedb/edgedb
+  - https://github.com/vesoft-inc/nebula
+  - https://github.com/orientechnologies/orientdb
+  - https://github.com/JanusGraph/janusgraph
+  - https://github.com/RedisGraph/RedisGraph
+  - https://github.com/cayleygraph/cayley
+  - https://github.com/terminusdb/terminusdb
+  - https://github.com/memgraph/memgraph
+  - https://github.com/bitnine-oss/agensgraph
+  - https://github.com/indradb/indradb
+  - https://github.com/apache/incubator-hugegraph
+

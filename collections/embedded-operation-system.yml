@@ -1,0 +1,18 @@
+ident: embedded-operation-system
+name: Embedded operation system
+name_cn: 嵌入式操作系统
+slug: /embedded-operation-system
+items:
+  - https://github.com/Entware/Entware
+  - https://github.com/CoreELEC/CoreELEC
+  - https://github.com/KnightOS/KnightOS # no change in 2 years
+  - https://github.com/tinyos/tinyos-main # no change in 2 years
+  - https://github.com/ARMmbed/mbed-os
+  - https://github.com/jbruchon/elks
+  - https://github.com/numworks/epsilon
+  - https://github.com/teslamotors/buildroot # no change in 4 years
+  - https://github.com/Marus/cortex-debug
+  - https://github.com/OpenAtomFoundation/TencentOS-tiny
+  - https://github.com/InfiniTimeOrg/InfiniTime
+  - https://github.com/FreeRTOS/FreeRTOS
+  - https://github.com/FreeRTOS/FreeRTOS-Kernel

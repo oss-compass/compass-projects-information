@@ -1,0 +1,38 @@
+---
+community_name: emacs-eaf
+community_org_url: https://github.com/emacs-eaf
+community_logo_url: https://github.com/emacs-eaf.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/emacs-eaf/eaf-map
+    - https://github.com/emacs-eaf/emacs-application-framework
+    - https://github.com/emacs-eaf/eaf-file-manager
+    - https://github.com/emacs-eaf/eaf-netease-cloud-music
+    - https://github.com/emacs-eaf/eaf-vue-demo
+    - https://github.com/emacs-eaf/eaf-system-monitor
+    - https://github.com/emacs-eaf/eaf-music-player
+    - https://github.com/emacs-eaf/eaf-rss-reader
+    - https://github.com/emacs-eaf/eaf-camera
+    - https://github.com/emacs-eaf/eaf-vue-mindmap
+    - https://github.com/emacs-eaf/eaf-git
+    - https://github.com/emacs-eaf/eaf-browser
+    - https://github.com/emacs-eaf/eaf-sunburst
+    - https://github.com/emacs-eaf/eaf-pdf-viewer
+    - https://github.com/emacs-eaf/eaf-mindmap
+    - https://github.com/emacs-eaf/eaf-terminal
+    - https://github.com/emacs-eaf/eaf-video-player
+    - https://github.com/emacs-eaf/eaf-markdown-previewer
+    - https://github.com/emacs-eaf/eaf-image-viewer
+    - https://github.com/emacs-eaf/eaf-org-previewer
+    - https://github.com/emacs-eaf/eaf-jupyter
+    - https://github.com/emacs-eaf/eaf-photo-editor
+    - https://github.com/emacs-eaf/eaf-file-sender
+    - https://github.com/emacs-eaf/eaf-file-browser
+    - https://github.com/emacs-eaf/eaf-demo
+    - https://github.com/emacs-eaf/eaf-airshare
+    - https://github.com/emacs-eaf/eaf-js-video-player
+    - https://github.com/emacs-eaf/eaf-vue-tailwindcss
+    - https://github.com/emacs-eaf/eaf-markmap

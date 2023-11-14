@@ -1,0 +1,19 @@
+---
+community_name: tensorbase
+community_logo_url: https://github.com/tensorbase.png
+community_org_url: https://github.com/tensorbase
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/tensorbase/tensorbase
+        - https://github.com/tensorbase/baselog
+        - https://github.com/tensorbase/tensorbase_frontier_edition
+        - https://github.com/tensorbase/tools
+        - https://github.com/tensorbase/arrow-datafusion
+        - https://github.com/tensorbase/arrow-rs
+        - https://github.com/tensorbase/benchmarks
+        - https://github.com/tensorbase/basejit
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/tensorbase/tensorbase.github.io
+    

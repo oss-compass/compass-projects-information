@@ -1,0 +1,14 @@
+ident: obs-studio
+name: OBS Studio
+name_cn: OBS Studio
+slug: /obs-studio
+items:
+  - https://github.com/obsproject/obs-studio
+  - https://github.com/obsproject/obs-websocket
+  - https://github.com/Xaymar/obs-StreamFX
+  - https://github.com/obsproject/obs-browser
+  - https://github.com/CatxFish/obs-virtual-cam
+  - https://github.com/bazukas/obs-linuxbrowser
+  - https://github.com/obs-ndi/obs-ndi
+  - https://github.com/bazukas/obs-qtwebkit
+  - https://github.com/univrsal/input-overlay

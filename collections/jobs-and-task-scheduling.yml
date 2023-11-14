@@ -1,0 +1,16 @@
+ident: jobs-and-task-scheduling
+name: Jobs And Task Scheduling
+name_cn: 作业或任务调度
+slug: /jobs-and-task-scheduling
+items:
+  - https://github.com/xuxueli/xxl-job
+  - https://github.com/KFCFans/PowerJob
+  - https://github.com/arkhipenko/TaskScheduler
+  - https://github.com/dask/dask
+  - https://github.com/agenda/agenda
+  - https://github.com/agronholm/apscheduler
+  - https://github.com/yigit/android-priority-jobqueue
+  - https://github.com/kiegroup/optaplanner
+  - https://github.com/moby/swarmkit
+  - https://github.com/lukas-krecan/ShedLock
+  - https://github.com/breejs/bree

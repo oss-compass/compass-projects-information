@@ -1,0 +1,17 @@
+ident: search-engine
+name: Search Engine
+name_cn: 搜索引擎
+slug: /search-engine
+items:
+  - https://github.com/elasticsearch/elasticsearch
+  - https://github.com/meilisearch/meilisearch
+  - https://github.com/searx/searx
+  - https://github.com/blevesearch/bleve
+  - https://github.com/NLPchina/elasticsearch-sql
+  - https://github.com/opensearch-project/OpenSearch
+  - https://github.com/elastic/elasticsearch-dsl-py
+  - https://github.com/qdrant/qdrant
+  - https://github.com/yacy/yacy_search_server
+  - https://github.com/apache/lucenenet
+  - https://github.com/DEgITx/rats-search
+  - https://github.com/10up/ElasticPress

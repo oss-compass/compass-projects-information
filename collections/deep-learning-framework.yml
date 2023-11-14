@@ -1,0 +1,29 @@
+ident: deep-learning-framework
+name: Deep Learning Framework
+name_cn: 深度学习框架
+slug: /deep-learning-framework
+items:
+  - https://github.com/tensorflow/tensorflow
+  - https://github.com/pytorch/pytorch
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/PaddlePaddle/Paddle
+  - https://github.com/microsoft/CNTK
+  - https://github.com/keras-team/keras
+  - https://github.com/apache/mxnet
+  - https://github.com/onnx/onnx
+  - https://github.com/fastmachinelearning/hls4ml
+  - https://github.com/google/deepvariant
+  - https://github.com/albermax/innvestigate
+  - https://github.com/PaddlePaddle/VisualDL
+  - https://github.com/NVIDIA-Merlin/HugeCTR
+  - https://github.com/KevinMusgrave/pytorch-metric-learning
+  - https://github.com/deepjavalibrary/djl
+  - https://github.com/yoshitomo-matsubara/torchdistill
+  - https://github.com/google/flax
+  - https://github.com/mindspore-ai/mindspore
+  - https://github.com/facebookresearch/fairo
+  - https://github.com/eclipse/deeplearning4j
+  - https://github.com/google/jax
+  - https://github.com/huggingface/transformers
+  - https://github.com/huggingface/peft
+  - https://github.com/microsoft/DeepSpeed

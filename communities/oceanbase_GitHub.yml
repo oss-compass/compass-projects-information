@@ -1,0 +1,60 @@
+---
+community_name: oceanbase_GitHub
+community_logo_url: https://github.com/oceanbase.png
+community_org_url: https://github.com/oceanbase
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/oceanbase/obdeploy
+        - https://github.com/oceanbase/obclient
+        - https://github.com/oceanbase/kernel-quickstart
+        - https://github.com/oceanbase/connector-c-doc
+        - https://github.com/oceanbase/oblogclient
+        - https://github.com/oceanbase/oceanbase-proxy-doc
+        - https://github.com/oceanbase/miniob
+        - https://github.com/oceanbase/odc
+        - https://github.com/oceanbase/obkv-hbase-client-java
+        - https://github.com/oceanbase/obkv-table-client-rs
+        - https://github.com/oceanbase/oms-doc
+        - https://github.com/oceanbase/sql-lifecycle-management
+        - https://github.com/oceanbase/oceanbase
+        - https://github.com/oceanbase/oceanbase-doc
+        - https://github.com/oceanbase/obd-doc
+        - https://github.com/oceanbase/obspark
+        - https://github.com/oceanbase/ocp-doc
+        - https://github.com/oceanbase/obconnector-c
+        - https://github.com/oceanbase/oceanbase-design
+        - https://github.com/oceanbase/oceanbase-connector-c-doc
+        - https://github.com/oceanbase/tutorials-doc
+        - https://github.com/oceanbase/oceanbase-diagnostic-tool
+        - https://github.com/oceanbase/obkv-table-client-java
+        - https://github.com/oceanbase/odc-doc
+        - https://github.com/oceanbase/ob-deps
+        - https://github.com/oceanbase/ob-open-test
+        - https://github.com/oceanbase/devcon
+        - https://github.com/oceanbase/obdumper-loader-doc
+        - https://github.com/oceanbase/flink-connector-oceanbase
+        - https://github.com/oceanbase/obconnector-j
+        - https://github.com/oceanbase/connector-j-doc
+        - https://github.com/oceanbase/benchmarksql
+        - https://github.com/oceanbase/kernel-advanced
+        - https://github.com/oceanbase/oblogmsg
+        - https://github.com/oceanbase/oblogproxy
+        - https://github.com/oceanbase/LCL
+        - https://github.com/oceanbase/ob-connector-odbc
+        - https://github.com/oceanbase/obagent
+        - https://github.com/oceanbase/ocp-express
+        - https://github.com/oceanbase/odc-parser-js
+        - https://github.com/oceanbase/obkv-table-client-go
+        - https://github.com/oceanbase/connector-odbc-doc
+        - https://github.com/oceanbase/ob-example
+        - https://github.com/oceanbase/odc-client
+        - https://github.com/oceanbase/ob-operator
+        - https://github.com/oceanbase/code-guide-doc
+        - https://github.com/oceanbase/obproxy
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/oceanbase/oceanbase.github.io
+        - https://github.com/oceanbase/.github
+        
+    

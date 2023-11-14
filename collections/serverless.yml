@@ -1,0 +1,18 @@
+ident: serverless
+name: Serverless
+name_cn: Serverless无服务器
+slug: /serverless-framework
+items:
+  - https://github.com/AnomalyInnovations/serverless-stack-com
+  - https://github.com/aws/chalice
+  - https://github.com/getlift/lift
+  - https://github.com/middyjs/middy
+  - https://github.com/midwayjs/midway
+  - https://github.com/Miserlou/Zappa
+  - https://github.com/Serverless-Devs/Serverless-Devs
+  - https://github.com/serverless-nextjs/serverless-next.js
+  - https://github.com/serverless/components
+  - https://github.com/serverless/serverless
+  - https://github.com/vendia/serverless-express
+  - https://github.com/webiny/webiny-js
+  - https://github.com/fission/fission

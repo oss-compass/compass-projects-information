@@ -1,0 +1,23 @@
+ident: open-source-LLMs-tools
+name: Open Source LLMs Tools
+name_cn: 开源LLMs工具
+slug: /open-source-LLMs-tools
+items:
+  - https://github.com/langchain-ai/langchain
+  - https://github.com/Significant-Gravitas/Auto-GPT
+  - https://github.com/jerryjliu/llama_index
+  - https://github.com/chroma-core/chroma
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/milvus-io/milvus
+  - https://github.com/mindsdb/mindsdb
+  - https://github.com/microsoft/prompt-engine
+  - https://github.com/ShishirPatil/gorilla
+  - https://github.com/FlowiseAI/Flowise
+  - https://github.com/langgenius/dify
+  - https://github.com/StanGirard/quivr
+  - https://github.com/ray-project/ray
+
+  
+
+
+

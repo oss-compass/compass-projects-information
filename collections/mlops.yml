@@ -1,0 +1,40 @@
+ident: mlops
+name: MLOps
+name_cn: 自动化机器学习
+slug: /mlops
+items:
+  - https://github.com/microsoft/nni
+  - https://github.com/magda-io/magda
+  - https://github.com/milvus-io/milvus
+  - https://github.com/feast-dev/feast
+  - https://github.com/tobegit3hub/advisor
+  - https://github.com/optuna/optuna
+  - https://github.com/h2oai/h2o-3
+  - https://github.com/MLReef/mlreef
+  - https://github.com/SeldonIO/alibi
+  - https://github.com/guildai/guildai
+  - https://github.com/mlflow/mlflow
+  - https://github.com/VertaAI/modeldb
+  - https://github.com/bentoml/BentoML
+  - https://github.com/pycaret/pycaret
+  - https://github.com/whylabs/whylogs
+  - https://github.com/argoproj/argo-workflows
+  - https://github.com/zenml-io/zenml
+  - https://github.com/aimhubio/aim
+  - https://github.com/interpretml/interpret
+  - https://github.com/mlrun/mlrun
+  - https://github.com/microsoft/pai
+  - https://github.com/allegroai/clearml
+  - https://github.com/iterative/dvc
+  - https://github.com/determined-ai/determined
+  - https://github.com/InfuseAI/primehub
+  - https://github.com/treeverse/lakeFS
+  - https://github.com/activeloopai/deeplake
+  - https://github.com/Netflix/metaflow
+  - https://github.com/flyteorg/flyte
+  - https://github.com/SchedMD/slurm
+  - https://github.com/ray-project/ray
+  - https://github.com/tensorflow/tensorboard
+  - https://github.com/Unity-Technologies/ml-agents
+  - https://github.com/ml5js/ml5-library
+  - https://github.com/keras-team/autokeras

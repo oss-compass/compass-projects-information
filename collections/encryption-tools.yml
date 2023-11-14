@@ -1,0 +1,11 @@
+ident: encryption-tools
+name: Encryption tools
+name_cn: 加密工具
+slug: /encryption-tools
+items:
+  - https://github.com/openssl/openssl
+  - https://github.com/gpg/gnupg
+  - https://github.com/certbot/certbot
+  - https://github.com/openssh/openssh-portable
+  - https://github.com/AuditProject/truecrypt-verified-mirror
+  - https://github.com/veracrypt/VeraCrypt

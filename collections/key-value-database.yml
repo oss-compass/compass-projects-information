@@ -1,0 +1,18 @@
+ident: key-value-database
+name: Key-Value Database
+name_cn: Key-Value 数据库
+slug: /key-value-database
+items:
+  - https://github.com/redis/redis
+  - https://github.com/facebook/rocksdb
+  - https://github.com/apache/cassandra
+  - https://github.com/etcd-io/etcd
+  - https://github.com/google/leveldb
+  - https://github.com/etcd-io/bbolt
+  - https://github.com/couchbase/forestdb
+  - https://github.com/scylladb/scylladb
+  - https://github.com/tikv/tikv
+  - https://github.com/arangodb/arangodb
+  - https://github.com/memcached/memcached
+  - https://github.com/tarantool/tarantool
+  - https://github.com/rethinkdb/rethinkdb

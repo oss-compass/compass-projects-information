@@ -1,0 +1,33 @@
+ident: e2e-testing
+name: E2E Testing
+name_cn: 端到端测试
+slug: /e2e-testing
+items:
+  - https://github.com/cypress-io/cypress
+  - https://github.com/goldbergyoni/javascript-testing-best-practices
+  - https://github.com/wix/Detox
+  - https://github.com/codeceptjs/CodeceptJS
+  - https://github.com/qawolf/qawolf
+  - https://github.com/cypress-io/cypress-example-recipes
+  - https://github.com/w3tecch/express-typescript-boilerplate
+  - https://github.com/sorry-cypress/sorry-cypress
+  - https://github.com/pixielabs/cavy
+  - https://github.com/kentcdodds/testing-workshop
+  - https://github.com/cypress-io/cypress-example-kitchensink
+  - https://github.com/microsoft/playwright-test
+  - https://github.com/imranhsayed/nextjs-headless-wordpress
+  - https://github.com/lathonez/clicker
+  - https://github.com/konfer-be/typeplate
+  - https://github.com/gusgard/react-native-swiper-flatlist
+  - https://github.com/DevExpress/testcafe
+  - https://github.com/webdriverio/webdriverio
+  - https://github.com/nightwatchjs/nightwatch
+  - https://github.com/puppeteer/puppeteer
+  - https://github.com/microsoft/playwright
+  - https://github.com/vlucas/test-e2e
+  - https://github.com/angular/protractor
+  - https://github.com/getgauge/taiko
+  - https://github.com/getgauge/gauge
+  - https://github.com/appium/appium
+  - https://github.com/aerokube/selenoid
+  - https://github.com/serenity-js/serenity-js

@@ -1,0 +1,9 @@
+ident: supply-chain-management-SCM
+name: Supply Chain Management SCM
+name_cn: 供应链管理(SCM)
+slug: /supply-chain-management-SCM
+items:
+  - https://github.com/doublechaintech/scm-biz-suite
+  - https://github.com/getrebuild/rebuild
+  - https://github.com/openboxes/openboxes
+  - https://gitee.com/kingborn/master-erp # no change in 1 years

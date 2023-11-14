@@ -1,0 +1,20 @@
+ident: full-text-search-engine
+name: Full text search engine
+name_cn: 全文搜索引擎
+slug: /full-text-search-engine
+items:
+  - https://github.com/elastic/elasticsearch
+  - https://github.com/apache/lucene-solr
+  - https://github.com/meilisearch/MeiliSearch
+  - https://github.com/sphinxsearch/sphinx
+  - https://github.com/xapian/xapian
+  - https://github.com/algolia/instantsearch
+  - https://github.com/mchaput/whoosh
+  - https://github.com/typesense/typesense
+  - https://github.com/searchkit/searchkit
+  - https://github.com/blevesearch/bleve
+  - https://github.com/terrier-org/terrier-core
+  - https://github.com/opensearch-project/OpenSearch
+  - https://github.com/manticoresoftware/manticoresearch
+  - https://github.com/quickwit-oss/tantivy
+  - https://github.com/flaxsearch/luwak

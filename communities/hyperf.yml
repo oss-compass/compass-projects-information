@@ -1,0 +1,101 @@
+---
+community_name: hyperf
+community_org_url: https://github.com/hyperf
+community_logo_url: https://github.com/hyperf.png
+resource_types:
+  governance-repositories:
+    repo_urls:
+    - https://github.com/hyperf/hyperf
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/hyperf/nano
+    - https://github.com/hyperf/db-connection
+    - https://github.com/hyperf/amqp
+    - https://github.com/hyperf/di
+    - https://github.com/hyperf/rpc-client
+    - https://github.com/hyperf/server
+    - https://github.com/hyperf/socketio-server
+    - https://github.com/hyperf/utils
+    - https://github.com/hyperf/async-queue
+    - https://github.com/hyperf/cache
+    - https://github.com/hyperf/circuit-breaker
+    - https://github.com/hyperf/command
+    - https://github.com/hyperf/config-aliyun-acm
+    - https://github.com/hyperf/config-apollo
+    - https://github.com/hyperf/config-center
+    - https://github.com/hyperf/config-etcd
+    - https://github.com/hyperf/config-nacos
+    - https://github.com/hyperf/config-zookeeper
+    - https://github.com/hyperf/config
+    - https://github.com/hyperf/constants
+    - https://github.com/hyperf/consul
+    - https://github.com/hyperf/context
+    - https://github.com/hyperf/contract
+    - https://github.com/hyperf/coordinator
+    - https://github.com/hyperf/crontab
+    - https://github.com/hyperf/dag
+    - https://github.com/hyperf/database-pgsql
+    - https://github.com/hyperf/database
+    - https://github.com/hyperf/db
+    - https://github.com/hyperf/devtool
+    - https://github.com/hyperf/dispatcher
+    - https://github.com/hyperf/elatiscsearch
+    - https://github.com/hyperf/etcd
+    - https://github.com/hyperf/event
+    - https://github.com/hyperf/exception-handler
+    - https://github.com/hyperf/filesystem
+    - https://github.com/hyperf/framework
+    - https://github.com/hyperf/graphql
+    - https://github.com/hyperf/grpc-client
+    - https://github.com/hyperf/grpc-server
+    - https://github.com/hyperf/grpc
+    - https://github.com/hyperf/guzzle
+    - https://github.com/hyperf/http-message
+    - https://github.com/hyperf/http-server
+    - https://github.com/hyperf/json-rpc
+    - https://github.com/hyperf/kafka
+    - https://github.com/hyperf/load-balancer
+    - https://github.com/hyperf/logger
+    - https://github.com/hyperf/macroable
+    - https://github.com/hyperf/memory
+    - https://github.com/hyperf/metric
+    - https://github.com/hyperf/model-cache
+    - https://github.com/hyperf/model-listener
+    - https://github.com/hyperf/nacos
+    - https://github.com/hyperf/nats
+    - https://github.com/hyperf/nsq
+    - https://github.com/hyperf/paginator
+    - https://github.com/hyperf/phar
+    - https://github.com/hyperf/pool
+    - https://github.com/hyperf/process
+    - https://github.com/hyperf/rate-limit
+    - https://github.com/hyperf/reactive-x
+    - https://github.com/hyperf/redis
+    - https://github.com/hyperf/resource-grpc
+    - https://github.com/hyperf/resource
+    - https://github.com/hyperf/retry
+    - https://github.com/hyperf/rpc-multiplex
+    - https://github.com/hyperf/rpc-server
+    - https://github.com/hyperf/rpc
+    - https://github.com/hyperf/rpn
+    - https://github.com/hyperf/scout
+    - https://github.com/hyperf/service-governance-consul
+    - https://github.com/hyperf/service-governance-nacos
+    - https://github.com/hyperf/service-governance
+    - https://github.com/hyperf/session
+    - https://github.com/hyperf/signal
+    - https://github.com/hyperf/snowflake
+    - https://github.com/hyperf/socket
+    - https://github.com/hyperf/super-globals
+    - https://github.com/hyperf/swagger
+    - https://github.com/hyperf/swoole-tracker
+    - https://github.com/hyperf/task
+    - https://github.com/hyperf/testing
+    - https://github.com/hyperf/tracer
+    - https://github.com/hyperf/translation
+    - https://github.com/hyperf/validation
+    - https://github.com/hyperf/view-engine
+    - https://github.com/hyperf/view
+    - https://github.com/hyperf/watcher
+    - https://github.com/hyperf/websocket-client
+    - https://github.com/hyperf/websocket-server

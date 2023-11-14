@@ -1,0 +1,20 @@
+ident: emoji
+name: Emoji
+name_cn: Emoji 应用
+slug: /emoji
+items:
+  - https://github.com/carloscuesta/gitmoji
+  - https://github.com/twitter/twemoji
+  - https://github.com/microsoft/fluentui-emoji
+  - https://github.com/ikatyang/emoji-cheat-sheet
+  - https://github.com/missive/emoji-mart
+  - https://github.com/carloscuesta/gitmoji-cli
+  - https://github.com/github/gemoji
+  - https://github.com/hfg-gmuend/openmoji
+  - https://github.com/muan/emoji
+  - https://github.com/muan/mojibar
+  - https://github.com/liuchengxu/git-commit-emoji-cn
+  - https://github.com/mathiasbynens/emoji-regex
+  - https://github.com/muan/emojilib
+  - https://github.com/thedevelobear/react-rewards
+  - https://github.com/vanniktech/Emoji

@@ -1,0 +1,9 @@
+ident: office-software
+name: Office Software
+name_cn: 办公软件
+slug: /office-software
+items:
+  - https://github.com/LibreOffice/core
+  - https://github.com/apache/openoffice
+  - https://github.com/ONLYOFFICE/DocumentServer
+  - https://github.com/KDE/calligra

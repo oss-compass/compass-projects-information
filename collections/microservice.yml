@@ -1,0 +1,20 @@
+ident: microservice
+name: Microservice
+name_cn: 微服务
+slug: /microservice
+items:
+  - https://github.com/go-kit/kit
+  - https://github.com/go-kratos/kratos
+  - https://github.com/alibaba/ice
+  - https://github.com/micro/micro
+  - https://gitee.com/owenwangwen/open-capacity-platform
+  - https://github.com/nameko/nameko
+  - https://github.com/zuihou/lamp-cloud
+  - https://gitee.com/zuihou111/lamp-cloud
+  - https://github.com/senecajs/seneca
+  - https://gitee.com/JbootProjects/jboot
+  - https://github.com/AxonFramework/AxonFramework
+  - https://github.com/go-chassis/go-chassis
+  - https://gitee.com/matevip/matecloud
+  - https://gitee.com/596392912/mica
+  - https://gitee.com/nepxion/Discovery

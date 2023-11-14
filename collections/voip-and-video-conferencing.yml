@@ -1,0 +1,22 @@
+ident: voip-and-video-conferencing
+name: VoIP and Video Conferencing
+name_cn: VoIP 和视频会议
+slug: /voip-and-video-conferencing
+items:
+  - https://github.com/jitsi/jitsi-meet
+  - https://github.com/BelledonneCommunications/liblinphone
+  - https://github.com/signalwire/freeswitch
+  - https://github.com/mumble-voip/mumble
+  - https://github.com/bigbluebutton/bigbluebutton
+  - https://github.com/asterisk/asterisk
+  - https://github.com/meetecho/janus-gateway
+  - https://github.com/kamailio/kamailio
+  - https://github.com/strukturag/spreed-webrtc
+  - https://github.com/FreePBX/framework
+  - https://github.com/OpenSIPS/opensips
+  - https://github.com/onsip/SIP.js
+  - https://github.com/OpenVidu/openvidu
+  - https://github.com/savoirfairelinux/jami-client-gnome
+  - https://github.com/versatica/mediasoup
+  - https://github.com/nextcloud/spreed
+  - https://github.com/pjsip/pjproject

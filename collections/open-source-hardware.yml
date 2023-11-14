@@ -1,0 +1,9 @@
+ident: open-source-hardware
+name: Open Source Hardware
+name_cn: 开源硬件
+slug: /open-source-hardware
+items:
+  - https://github.com/arduino/Arduino
+  - https://github.com/raspberrypi/linux
+  - https://github.com/FreeCAD/FreeCAD
+  - https://github.com/openscad/openscad

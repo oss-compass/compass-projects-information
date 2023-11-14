@@ -1,0 +1,19 @@
+ident: mail-server
+name: Mail Server
+name_cn: 邮件服务器
+slug: /mail-server
+items:
+  - https://github.com/apache/james-project
+  - https://github.com/docker-mailserver/docker-mailserver
+  - https://github.com/dovecot/core
+  - https://github.com/foxcpp/maddy
+  - https://github.com/iredmail/iRedMail
+  - https://github.com/maildev/maildev
+  - https://github.com/mailhog/MailHog-Server
+  - https://github.com/mailslurper/mailslurper
+  - https://github.com/Mailu/Mailu
+  - https://github.com/moggers87/salmon
+  - https://github.com/onevcat/Hedwig
+  - https://github.com/ONLYOFFICE/CommunityServer
+  - https://github.com/ONLYOFFICE/Docker-MailServer
+  - https://github.com/sj26/mailcatcher

@@ -1,0 +1,14 @@
+ident: code-search
+name: Code Search
+name_cn: 代码搜索
+slug: /code-search
+items:
+  - https://github.com/google/codesearch
+  - https://github.com/sourcegraph/sourcegraph
+  - https://github.com/Genivia/ugrep
+  - https://github.com/yinwang0/pysonar2
+  - https://github.com/openrewrite/rewrite
+  - https://github.com/ruben2020/codequery
+  - https://github.com/OpenGenus/quark
+  - https://github.com/boyter/searchcode-server
+  - https://github.com/oschina/kooder

@@ -1,0 +1,11 @@
+ident: mail-client
+name: Mail Client
+name_cn: 邮件客户端
+slug: /mail-client
+items:
+  - https://github.com/Foundry376/Mailspring
+  - https://github.com/nylas/nylas-mail
+  - https://github.com/roundcube/roundcubemail
+  - https://github.com/RainLoop/rainloop-webmail
+  - https://github.com/postalserver/postal
+  - https://github.com/simple-login/app

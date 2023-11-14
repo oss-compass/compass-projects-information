@@ -1,0 +1,21 @@
+ident: git-development-kit
+name: Git development kit
+name_cn: Git 开发包
+slug: /git-development-kit
+items:
+  - https://github.com/libgit2/libgit2
+  - https://github.com/SkinnyMind/libgit2dart
+  - https://github.com/SatyendraBanjare/luagit2
+  - https://github.com/libgit2/libgit2sharp
+  - https://github.com/libgit2/rugged
+  - https://github.com/libgit2/git2go
+  - https://github.com/petersalomonsen/wasm-git
+  - https://github.com/Uncommon/Xit
+  - https://github.com/ropensci/git2r
+  - https://github.com/p-ranav/cppgit2
+  - https://github.com/SwiftDocOrg/Git
+  - https://github.com/jelmer/dulwich
+  - https://github.com/gitpython-developers/GitPython
+  - https://github.com/libgit2/pygit2
+  - https://github.com/ruby-git/ruby-git
+  - https://github.com/nodegit/nodegit

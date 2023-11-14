@@ -1,0 +1,10 @@
+---
+community_name: eBPFShield
+community_org_url: https://github.com/ebpfshield-io
+community_logo_url: https://github.com/ebpfshield-io.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ebpfshield-io/eBPFShield

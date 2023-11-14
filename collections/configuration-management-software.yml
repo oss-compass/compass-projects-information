@@ -1,0 +1,16 @@
+ident: configuration-management-software
+name: Configuration Management Software
+name_cn: 配置管理软件
+slug: /configuration-management-software
+items:
+  - https://github.com/rvm/rvm
+  - https://github.com/miyagawa/cpanminus
+  - https://github.com/luarocks/luarocks
+  - https://github.com/gitextensions/gitextensions
+  - https://github.com/jordansissel/fpm
+  - https://github.com/nim-lang/nimble
+  - https://github.com/composer/composer
+  - https://github.com/gitblit/gitblit
+  - https://github.com/NuGet/NuGetGallery
+  - https://github.com/chocolatey/ChocolateyGUI
+  - https://github.com/lightbend/config

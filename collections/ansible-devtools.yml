@@ -1,0 +1,21 @@
+ident: ansible-devtools
+name: Ansible DevTools
+name_cn: Ansible 开发包
+slug: /ansible-devtools
+items:
+  - https://github.com/ansible-community/molecule
+  - https://github.com/ansible-community/molecule-plugins
+  - 'https://github.com/ansible-community/protogen  # deprecated?'
+  - https://github.com/ansible-community/role2collection
+  - https://github.com/ansible/ansible-compat
+  - https://github.com/ansible/ansible-language-server
+  - https://github.com/ansible/ansible-lint
+  - https://github.com/ansible/ansible-lint-action
+  - https://github.com/ansible/ansible-navigator
+  - https://github.com/ansible/creator-ee
+  - https://github.com/ansible/devtools
+  - https://github.com/ansible/mkdocs-ansible
+  - https://github.com/ansible/vscode-ansible
+  - https://github.com/pycontribs/enrich
+  - https://github.com/pycontribs/selinux
+  - https://github.com/pycontribs/subprocess-tee

@@ -1,0 +1,15 @@
+---
+community_name: stonedb
+community_org_url: https://github.com/stoneatom
+community_logo_url: https://github.com/stoneatom.png
+resource_types:
+  governance-repositories:
+    repo_urls: 
+    - https://github.com/stoneatom/.github
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/stoneatom/stonedb-libs
+    - https://github.com/stoneatom/stonedb-helm  
+    - https://github.com/stoneatom/stonedb
+    - https://github.com/stoneatom/stonedb-docs
+    - https://github.com/stoneatom/stonedb-docker

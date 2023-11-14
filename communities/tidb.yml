@@ -1,0 +1,73 @@
+---
+community_name: tidb
+community_logo_url: https://github.com/pingcap.png
+community_org_url: https://github.com/pingcap
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/pingcap/django-tidb
+        - https://github.com/pingcap/tidb-academy-labs
+        - https://github.com/pingcap/docs-cn
+        - https://github.com/pingcap/tidb-inspect-tools
+        - https://github.com/pingcap/diagnosis-ui
+        - https://github.com/pingcap/vldb-boss-2018
+        - https://github.com/pingcap/activerecord-tidb-adapter
+        - https://github.com/pingcap/tidb-insight
+        - https://github.com/pingcap/tidb-course-201-lab
+        - https://github.com/pingcap/tidb
+        - https://github.com/pingcap/Auto-GPT-TiDB-Serverless-Plugin
+        - https://github.com/pingcap/TiDB-Lambda-integration
+        - https://github.com/pingcap/tiunimanager-ui
+        - https://github.com/pingcap/tiflow
+        - https://github.com/pingcap/tiup
+        - https://github.com/pingcap/boost-extra
+        - https://github.com/pingcap/sp500-insight-template
+        - https://github.com/pingcap/tiflow-operator
+        - https://github.com/pingcap/kvproto
+        - https://github.com/pingcap/tidb-tools
+        - https://github.com/pingcap/tispark
+        - https://github.com/pingcap/tidb-dashboard
+        - https://github.com/pingcap/hibernate-tidb        
+        - https://github.com/pingcap/monitoring
+        - https://github.com/pingcap/tidb-vision
+        - https://github.com/pingcap/docs
+        - https://github.com/pingcap/ossinsight-lite
+        - https://github.com/pingcap/tidb-dev-guide
+        - https://github.com/pingcap/homebrew-brew
+        - https://github.com/pingcap/tipb
+        - https://github.com/pingcap/tidb-map
+        - https://github.com/pingcap/TiProxy
+        - https://github.com/pingcap/check
+        - https://github.com/pingcap/tiflash
+        - https://github.com/pingcap/tidb-datanucleus-adapter
+        - https://github.com/pingcap/diag
+        - https://github.com/pingcap/tidb-binlog
+        - https://github.com/pingcap/dbt-tidb
+        - https://github.com/pingcap/tidb-prisma-vercel-demo
+        - https://github.com/pingcap/gardener-extension-os-ubuntu-tidb
+        - https://github.com/pingcap/sqlalchemy-tidb
+        - https://github.com/pingcap/docs-staging
+        - https://github.com/pingcap/tidb-loadbalance
+        - https://github.com/pingcap/steam-insight-template
+        - https://github.com/pingcap/tidb-ctl
+        - https://github.com/pingcap/tidb-operator
+        - https://github.com/pingcap/tidb-docker-compose
+        - https://github.com/pingcap/docs-tidb-operator
+        - https://github.com/pingcap/tiunimanager
+        - https://github.com/pingcap/book.tidb.net
+        - https://github.com/pingcap/realtime-hackernewsdb-on-serverless
+        - https://github.com/pingcap/tidb-bench
+        - https://github.com/pingcap/tipocket
+        - https://github.com/pingcap/docs-dm
+        - https://github.com/pingcap/tidb-examples
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/pingcap/community-website
+        - https://github.com/pingcap/community
+        - https://github.com/pingcap/blog-cn
+        - https://github.com/pingcap/blog
+        - https://github.com/pingcap/presentations
+        - https://github.com/pingcap/weekly
+        - https://github.com/pingcap/meetup
+        
+    

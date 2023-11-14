@@ -1,0 +1,13 @@
+ident: ides-and-editors
+name: IDEs and Editors
+name_cn: 编辑器和集成开发环境
+slug: /ides-and-editors
+items:
+  - https://github.com/microsoft/vscode
+  - https://github.com/vim/vim
+  - https://github.com/emacs-mirror/emacs
+  - https://github.com/apache/netbeans
+  - https://github.com/JetBrains/intellij-community
+  - https://github.com/atom/atom
+  - https://github.com/geany/geany
+  - https://github.com/obfuscated/codeblocks_sf

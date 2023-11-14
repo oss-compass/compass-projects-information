@@ -1,0 +1,13 @@
+ident: workflow-engine-and-tools
+name: Workflow Engine And Tools
+name_cn: 流程引擎及工具
+slug: /workflow-engine-and-tools
+items:
+  - https://gitee.com/dromara/liteFlow
+  - https://gitee.com/lwj/flow
+  - https://gitee.com/mirrors/drawio
+  - https://gitee.com/mcg-helper/mcg-helper
+  - https://gitee.com/tianya_studio/ESTDesigner
+  - https://gitee.com/smartboot/smart-flow
+  - https://gitee.com/zhuzl002/bpm-web # no change in 2 years
+  - https://gitee.com/zengfr/stepchain

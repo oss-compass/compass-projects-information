@@ -1,0 +1,16 @@
+ident: network-protocol-analysis
+name: Network Protocol Analysis
+name_cn: 网络协议分析工具
+slug: /network-protocol-analysis
+items:
+  - https://github.com/wireshark/wireshark
+  - https://github.com/the-tcpdump-group/tcpdump
+  - https://github.com/jpr5/ngrep
+  - https://github.com/secdev/scapy
+  - https://github.com/zeek/zeek
+  - https://github.com/snort3/snort3
+  - https://github.com/arkime/arkime
+  - https://github.com/OISF/suricata
+  - https://github.com/seladb/PcapPlusPlus
+  - https://github.com/ntop/ntopng
+  - https://github.com/kpcyrd/sniffglue

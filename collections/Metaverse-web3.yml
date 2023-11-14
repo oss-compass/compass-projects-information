@@ -1,0 +1,7 @@
+ident: Metaverse-web3
+name: Metaverse web3
+name_cn: 元宇宙和Web3
+slug: /Metaverse-web3
+items:
+  - https://github.com/ChainSafe/web3.js
+  - https://github.com/web3ui/web3uikit

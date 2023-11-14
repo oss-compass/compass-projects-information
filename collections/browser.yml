@@ -1,0 +1,11 @@
+ident: browser
+name: Browser
+name_cn: 浏览器
+slug: /browser
+items:
+  - https://github.com/mozilla-mobile/firefox-ios
+  - https://github.com/mozilla-mobile/firefox-android
+  - https://github.com/brave/brave-browser
+  - https://github.com/Alex313031/thorium
+  - https://github.com/chromium/chromium
+  - https://github.com/servo/servo

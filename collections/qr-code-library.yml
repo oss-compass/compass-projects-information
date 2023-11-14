@@ -1,0 +1,20 @@
+ident: qr-code-library
+name: QR code library
+name_cn: 二维码解析生成库
+slug: /qr-code-library
+items:
+  - https://github.com/nayuki/QR-Code-generator
+  - https://github.com/zxing-js/library
+  - https://github.com/micjahn/ZXing.Net
+  - https://github.com/TheLevelUp/ZXingObjC
+  - https://github.com/skip2/go-qrcode
+  - https://github.com/dmtx/libdmtx
+  - https://github.com/zxing-cpp/zxing-cpp
+  - https://github.com/NaturalHistoryMuseum/pyzbar
+  - https://github.com/davidshimjs/qrcodejs
+  - https://github.com/cozmo/jsQR
+  - https://github.com/lincolnloop/python-qrcode
+  - https://github.com/dlbeer/quirc
+  - https://github.com/ftylitak/qzxing
+  - https://github.com/mchehab/zbar
+  - https://github.com/zxing/zxing

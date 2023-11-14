@@ -1,0 +1,14 @@
+ident: web-popup-component
+name: Web popup component
+name_cn: Web 弹窗组件
+slug: /web-popup-component
+items:
+  - https://gitee.com/layui/layui
+  - https://gitee.com/monksoul/LayX
+  - https://github.com/HubSpot/vex
+  - https://github.com/bootboxjs/bootbox
+  - https://github.com/sciactive/pnotify
+  - https://github.com/CodeSeven/toastr
+  - https://github.com/marcelodolza/iziModal
+  - https://github.com/caroso1222/notyf
+  - https://github.com/sweetalert2/sweetalert2

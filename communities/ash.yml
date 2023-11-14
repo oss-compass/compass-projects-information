@@ -1,0 +1,25 @@
+---
+community_name: ash
+community_org_url: https://www.ash-hq.org
+community_logo_url: https://github.com/ash-project.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ash-project/ash
+    - https://github.com/ash-project/ash_json_api
+    - https://github.com/ash-project/ash_graphql
+    - https://github.com/ash-project/ash_postgres
+    - https://github.com/ash-project/ash_oban
+    - https://github.com/ash-project/ash_hq
+    - https://github.com/ash-project/spark
+    - https://github.com/ash-project/reactor
+    - https://github.com/ash-project/ash_phoenix
+    - https://github.com/ash-project/ash_blog
+    - https://github.com/ash-project/ash_admin
+    - https://github.com/ash-project/ash_archival
+    - https://github.com/ash-project/ash_state_machine
+    - https://github.com/ash-project/ash_csv
+    - https://github.com/ash-project/ash_paper_trail
+    - https://github.com/ash-project/ash_json_api_wrapper

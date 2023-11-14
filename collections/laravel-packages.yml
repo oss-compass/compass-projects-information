@@ -1,0 +1,40 @@
+ident: laravel-packages
+name: Laravel Packages
+name_cn: Laravel 扩展包
+slug: /laravel-packages
+items:
+  - https://github.com/barryvdh/laravel-debugbar
+  - https://github.com/SpartnerNL/Laravel-Excel
+  - https://github.com/spatie/laravel-permission
+  - https://github.com/spatie/laravel-backup
+  - https://github.com/laravel/telescope
+  - https://github.com/laravel/horizon
+  - https://github.com/fruitcake/laravel-cors
+  - https://github.com/laravel-enso/enso
+  - https://github.com/vinkla/laravel-hashids
+  - https://github.com/UniSharp/laravel-filemanager
+  - https://github.com/laravel/passport
+  - https://github.com/laravel/scout
+  - https://github.com/Intervention/image
+  - https://github.com/laravel/cashier-stripe
+  - https://github.com/yajra/laravel-datatables
+  - https://github.com/waavi/translation
+  - https://github.com/laravel/socialite
+  - https://github.com/barryvdh/laravel-snappy
+  - https://github.com/spatie/laravel-medialibrary
+  - https://github.com/kodeine/laravel-acl
+  - https://github.com/spatie/laravel-activitylog
+  - https://github.com/d13r/laravel-breadcrumbs
+  - https://github.com/renatomarinho/laravel-page-speed
+  - https://github.com/tenancy/multi-tenant
+  - https://github.com/kristijanhusak/laravel-form-builder
+  - https://github.com/dimsav/laravel-translatable
+  - https://github.com/artesaos/seotools
+  - https://github.com/lavary/laravel-menu
+  - https://github.com/orchestral/tenanti
+  - https://github.com/laravel/slack-notification-channel
+  - https://github.com/spatie/laravel-responsecache
+  - https://github.com/GrahamCampbell/Laravel-Markdown
+  - https://github.com/404labfr/laravel-impersonate
+  - https://github.com/spatie/laravel-view-models
+  - https://github.com/mollie/laravel-mollie

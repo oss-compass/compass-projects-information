@@ -1,0 +1,25 @@
+ident: domain-specific-language
+name: Domain Specific Language
+name_cn: 领域特定语言
+slug: /domain-specific-language
+items:
+  - https://github.com/penrose/penrose
+  - https://github.com/facebookresearch/TensorComprehensions
+  - https://github.com/JetBrains/MPS
+  - https://github.com/topics/domain-specific-language
+  - https://github.com/paritytech/ink
+  - https://github.com/ThoughtWorksInc/DeepLearning.scala
+  - https://github.com/textX/textX
+  - https://github.com/seq-lang/seq
+  - https://github.com/zanellia/prometeo
+  - https://github.com/hofstadter-io/self-driving-desktop
+  - https://github.com/andrewbihl/bsed
+  - https://github.com/usethesource/rascal
+  - https://github.com/langium/langium
+  - https://github.com/GraphIt-DSL/graphit
+  - https://github.com/c3d/xl
+  - https://github.com/lambdacube3d/lambdacube-edsl
+  - https://github.com/ContextMapper/context-mapper-dsl
+  - https://github.com/aporia-ai/kubesurvival
+  - https://github.com/simongray/clojure-dsl-resources
+  - https://github.com/pybel/pybel

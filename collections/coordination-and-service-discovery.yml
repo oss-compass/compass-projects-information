@@ -1,0 +1,19 @@
+ident: coordination-and-service-discovery
+name: Coordination & Service Discovery
+name_cn: 协调与服务发现
+slug: /coordination-and-service-discovery
+items:
+  - https://github.com/apache/zookeeper
+  - https://github.com/etcd-io/etcd
+  - https://github.com/hashicorp/consul
+  - https://github.com/Netflix/eureka
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/hashicorp/serf
+  - https://github.com/skynetservices/skydns
+  - https://github.com/alibaba/nacos
+  - https://github.com/ha/doozerd
+  - https://github.com/linkerd/linkerd
+  - https://github.com/hashicorp/nomad
+  - https://github.com/istio/istio
+  - https://github.com/ha/doozer
+  - https://github.com/weaveworks/weave

@@ -1,0 +1,18 @@
+ident: instant-messaging
+name: IM
+name_cn: 即时通讯软件
+slug: /instant-messaging
+items:
+  - https://github.com/RocketChat/Rocket.Chat
+  - https://github.com/jitsi/jitsi-meet
+  - https://github.com/signalapp/Signal-Desktop
+  - https://github.com/mattermost/mattermost-server
+  - https://github.com/zulip/zulip
+  - https://github.com/nextcloud/spreed
+  - https://github.com/telegramdesktop/tdesktop
+  - https://github.com/TokTok/c-toxcore
+  - https://github.com/irungentoo/toxcore
+  - https://github.com/wireapp/wire-desktop
+  - https://github.com/pidgin/pidgin
+  - https://github.com/dino/dino
+  - https://github.com/savoirfairelinux/jami-client-gnome

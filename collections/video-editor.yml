@@ -1,0 +1,19 @@
+ident: video-editor
+name: Video Editor
+name_cn: 视频剪辑
+slug: /video-editor
+items:
+  - https://github.com/mltframework/shotcut
+  - https://github.com/OpenShot/openshot-qt
+  - https://github.com/jliljebl/flowblade
+  - https://github.com/olive-editor/olive
+  - https://github.com/mean00/avidemux2
+  - https://github.com/cinelerra-gg/cinelerra-gg
+  - https://github.com/NatronGitHub/Natron
+  - https://github.com/mifi/lossless-cut
+  - https://github.com/mifi/editly
+  - https://github.com/yangjie10930/EpMedia
+  - https://github.com/tnfe/FFCreator
+  - https://github.com/layerhub-io/react-design-editor
+  - https://github.com/ozmartian/vidcutter
+  - https://github.com/LLhon/Android-Video-Editor
