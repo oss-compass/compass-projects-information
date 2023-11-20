@@ -1,0 +1,16 @@
+ident: data-mining-and-analysis
+name: Data Mining And Analysis
+name_cn: 数据挖掘或分析
+slug: /data-mining-and-analysis
+items:
+  - https://github.com/WeBankFinTech/DataSphereStudio
+  - https://github.com/WZBSocialScienceCenter/pdftabextract # no change in 1 years
+  - https://github.com/datawhalechina/team-learning-data-mining # no change in 1 years
+  - https://github.com/annoviko/pyclustering # no change in 2 years
+  - https://github.com/astroML/astroML # no change in 1 years
+  - https://github.com/tyrasd/overpass-turbo
+  - https://github.com/elki-project/elki
+  - https://github.com/LibCity/Bigscity-LibCity
+  - https://github.com/erikaduan/r_tips
+  - https://github.com/ideoforms/python-twitter-examples # no change in 1 years
+  - https://github.com/Waikato/moa
