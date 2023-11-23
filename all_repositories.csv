@@ -39209,6 +39209,7 @@ https://github.com/Leonidas-from-XIV/node-xml2js
 https://github.com/Lexikos/AutoHotkey_L
 https://github.com/LibChecker/LibChecker
 https://github.com/LibChecker/LibChecker-Rules
+https://github.com/LibCity/Bigscity-LibCity
 https://github.com/LibreOffice/core
 https://github.com/LibrePDF/OpenPDF
 https://github.com/LibrePlan/libreplan
@@ -39390,9 +39391,25 @@ https://github.com/NRules/NRules
 https://github.com/NTNU-IHB/FMI4cpp
 https://github.com/NV/chrome-devtools-autosave
 https://github.com/NVIDIA-Merlin/HugeCTR
+https://github.com/NVIDIA/CUDALibrarySamples
+https://github.com/NVIDIA/FasterTransformer
+https://github.com/NVIDIA/MatX
 https://github.com/NVIDIA/Megatron-LM
+https://github.com/NVIDIA/MinkowskiEngine
 https://github.com/NVIDIA/TensorRT
+https://github.com/NVIDIA/TensorRT-LLM
+https://github.com/NVIDIA/apex
+https://github.com/NVIDIA/cccl
+https://github.com/NVIDIA/cuCollections
+https://github.com/NVIDIA/cuQuantum
+https://github.com/NVIDIA/cub
+https://github.com/NVIDIA/cuda-gdb
+https://github.com/NVIDIA/cuda-quantum
+https://github.com/NVIDIA/cutlass
 https://github.com/NVIDIA/gpu-monitoring-tools
+https://github.com/NVIDIA/gpu-operator
+https://github.com/NVIDIA/libcudacxx
+https://github.com/NVIDIA/nccl
 https://github.com/NVIDIA/thrust
 https://github.com/NVlabs/ODISE
 https://github.com/NXPNFCProject/NFC_NCIHAL_libnfc-nci
@@ -40340,7 +40357,9 @@ https://github.com/VirusTotal/yara
 https://github.com/VoronDesign/Voron-2
 https://github.com/VundleVim/Vundle.vim
 https://github.com/WP-API/WP-API
+https://github.com/WZBSocialScienceCenter/pdftabextract
 https://github.com/WagicProject/wagic
+https://github.com/Waikato/moa
 https://github.com/WangNan0/kbuild-standalone
 https://github.com/Warzone2100/warzone2100
 https://github.com/WasmEdge/WasmEdge
@@ -40348,6 +40367,7 @@ https://github.com/We5ter/Scanners-Box
 https://github.com/WeAllJS/weallbehave
 https://github.com/WeAllJS/weallcontribute
 https://github.com/WeAreROLI/JUCE
+https://github.com/WeBankFinTech/DataSphereStudio
 https://github.com/WeBankFinTech/fes-design
 https://github.com/WeBankFinTech/fes.js
 https://github.com/WebDevStudios/nextjs-wordpress-starter
@@ -40650,6 +40670,7 @@ https://github.com/animate-css/animate.css
 https://github.com/animir/node-rate-limiter-flexible
 https://github.com/anishathalye/git-remote-dropbox
 https://github.com/ankane/searchkick
+https://github.com/annoviko/pyclustering
 https://github.com/ansible-community/molecule
 https://github.com/ansible-community/molecule-plugins
 https://github.com/ansible-community/role2collection
@@ -41008,6 +41029,7 @@ https://github.com/astanin/python-tabulate
 https://github.com/astaxie/bat
 https://github.com/astaxie/build-web-application-with-golang
 https://github.com/asterisk/asterisk
+https://github.com/astroML/astroML
 https://github.com/astropy/astropy
 https://github.com/asweigart/pyautogui
 https://github.com/asynkron/protoactor-go
@@ -41772,6 +41794,8 @@ https://github.com/datafaker-net/datafaker
 https://github.com/datageartech/datagear
 https://github.com/datastacktv/data-engineer-roadmap
 https://github.com/datastax/java-driver
+https://github.com/datavane/datavines
+https://github.com/datawhalechina/team-learning-data-mining
 https://github.com/date-fns/date-fns
 https://github.com/dateutil/dateutil
 https://github.com/davezuko/react-redux-starter-kit
@@ -49325,6 +49349,7 @@ https://github.com/eggert/tz
 https://github.com/eggjs/egg
 https://github.com/eggjs/egg-cluster
 https://github.com/egoist/slogan
+https://github.com/ehang-io/nps
 https://github.com/ehcache/ehcache3
 https://github.com/ehmicky/nve
 https://github.com/eightmedia/hammer.js
@@ -49374,6 +49399,7 @@ https://github.com/elixir-nx/stb_image
 https://github.com/elixir-nx/tokenizers
 https://github.com/elixir-nx/xla
 https://github.com/elixirs/faker
+https://github.com/elki-project/elki
 https://github.com/elvishew/xLog
 https://github.com/emacs-eaf/eaf-airshare
 https://github.com/emacs-eaf/eaf-browser
@@ -49445,6 +49471,7 @@ https://github.com/erda-project/erda
 https://github.com/erengy/taiga
 https://github.com/ergochat/ergo
 https://github.com/ericdrowell/KineticJS
+https://github.com/erikaduan/r_tips
 https://github.com/eriklindernoren/PyTorch-GAN
 https://github.com/erikras/react-redux-universal-hot-example
 https://github.com/eritislami/evobot
@@ -49497,6 +49524,7 @@ https://github.com/evertramos/nginx-proxy-automation
 https://github.com/evidence-dev/evidence
 https://github.com/evidentlyai/evidently
 https://github.com/evilsocket/bettercap
+https://github.com/evilsocket/opensnitch
 https://github.com/evolus/pencil
 https://github.com/evoluteur/colorpicker
 https://github.com/ewnd9/record-desktop
@@ -49749,6 +49777,7 @@ https://github.com/firehol/firehol
 https://github.com/firehol/netdata
 https://github.com/fireice-uk/xmr-stak
 https://github.com/firekylin/firekylin
+https://github.com/firezone/firezone
 https://github.com/fish-shell/fish-shell
 https://github.com/fission/fission
 https://github.com/fixteam/fixflow
@@ -50095,6 +50124,7 @@ https://github.com/graphql-python/graphene
 https://github.com/graphql/express-graphql
 https://github.com/graphql/graphql-js
 https://github.com/graphql/graphql-spec
+https://github.com/gravitational/teleport
 https://github.com/gravityonmars/Balloons.IO
 https://github.com/gre/slider.js
 https://github.com/great-expectations/great_expectations
@@ -50210,6 +50240,7 @@ https://github.com/hellokaton/java-bible
 https://github.com/helm/helm
 https://github.com/helm/helm-2to3
 https://github.com/henricavalcante/tungsten-replicator
+https://github.com/henrypp/simplewall
 https://github.com/henryyan/jquery-ui-portlet
 https://github.com/henryyan/kft-activiti-demo
 https://github.com/heroiclabs/nakama
@@ -50436,6 +50467,7 @@ https://github.com/ideal-postcodes/postcodes.io
 https://github.com/ideawu/icomet
 https://github.com/ideawu/ssdb
 https://github.com/idempiere/idempiere
+https://github.com/ideoforms/python-twitter-examples
 https://github.com/idno/known
 https://github.com/idurar/idurar-erp-crm
 https://github.com/ifcharming/voltdb2.1
@@ -50855,6 +50887,7 @@ https://github.com/kLabUM/rrcf
 https://github.com/kadirahq/lokka
 https://github.com/kailong321200875/vue-element-plus-admin
 https://github.com/kairosdb/kairosdb
+https://github.com/kaiyuanshe/kaiyuanshe.github.io
 https://github.com/kaldi-asr/kaldi
 https://github.com/kamailio/kamailio
 https://github.com/kamilfb/mqtt-spy
@@ -51768,6 +51801,25 @@ https://github.com/mindmup/legacy-mindmup
 https://github.com/mindprojects/jqzoom
 https://github.com/mindsdb/mindsdb
 https://github.com/mindspore-ai/mindspore
+https://github.com/mindspore-lab/infrastructure
+https://github.com/mindspore-lab/mindaudio
+https://github.com/mindspore-lab/mindcv
+https://github.com/mindspore-lab/minddiffusion
+https://github.com/mindspore-lab/mindediting
+https://github.com/mindspore-lab/mindface
+https://github.com/mindspore-lab/mindformers
+https://github.com/mindspore-lab/mindnlp
+https://github.com/mindspore-lab/mindocr
+https://github.com/mindspore-lab/mindone
+https://github.com/mindspore-lab/mindpet
+https://github.com/mindspore-lab/mindpose
+https://github.com/mindspore-lab/mindrec
+https://github.com/mindspore-lab/mindrl
+https://github.com/mindspore-lab/mindrlhf
+https://github.com/mindspore-lab/mindsearch
+https://github.com/mindspore-lab/mindyolo
+https://github.com/mindspore-lab/models
+https://github.com/mindspore-lab/pangu_alpha
 https://github.com/minetest/minetest
 https://github.com/mingrammer/diagrams
 https://github.com/mingrammer/flog
@@ -52139,6 +52191,7 @@ https://github.com/oauthlib/oauthlib
 https://github.com/oazabir/Droptiles
 https://github.com/obfuscated/codeblocks_sf
 https://github.com/obgm/libcoap
+https://github.com/objective-see/LuLu
 https://github.com/oblac/jodd
 https://github.com/obs-ndi/obs-ndi
 https://github.com/obsproject/obs-browser
@@ -52353,6 +52406,7 @@ https://github.com/openstack/swift
 https://github.com/openstack/taskflow
 https://github.com/openstack/tooz
 https://github.com/openstf/stf
+https://github.com/openstreetmap/iD
 https://github.com/opentaps/opentaps_seas
 https://github.com/opentelecoms-org/jsmpp
 https://github.com/openthos/openthos
@@ -53327,6 +53381,7 @@ https://github.com/raphlinus/pulldown-cmark
 https://github.com/raphw/byte-buddy
 https://github.com/rapi-doc/RapiDoc
 https://github.com/rapid7/metasploit-framework
+https://github.com/rapiz1/rathole
 https://github.com/raspberrypi/linux
 https://github.com/raspberrypi/noobs
 https://github.com/raszi/node-tmp
@@ -53599,6 +53654,7 @@ https://github.com/s4kibs4mi/java-developer-roadmap
 https://github.com/s4kibs4mi/snapify
 https://github.com/saadeghi/daisyui
 https://github.com/saadhaxxan/Django-2FA-2-Factor-Authentication
+https://github.com/safing/portmaster
 https://github.com/sagemath/sage
 https://github.com/sagemath/sage-archive-2023-02-01
 https://github.com/sagesharp/foss-heartbeat
@@ -54824,6 +54880,7 @@ https://github.com/typicode/hotel
 https://github.com/typicode/husky
 https://github.com/typicode/json-server
 https://github.com/typicode/lowdb
+https://github.com/tyrasd/overpass-turbo
 https://github.com/tzapu/WiFiManager
 https://github.com/u-boot/u-boot
 https://github.com/u-root/u-root
@@ -55190,6 +55247,7 @@ https://github.com/wangeditor-team/wangEditor
 https://github.com/wangfupeng1988/wangEditor
 https://github.com/wanghetommy/ichartjs
 https://github.com/wangrongding/frontend-park
+https://github.com/wangyu-/udp2raw
 https://github.com/warmcat/libwebsockets
 https://github.com/warner/python-ecdsa
 https://github.com/warpech/jquery-handsontable
@@ -55231,6 +55289,7 @@ https://github.com/weechat/weechat
 https://github.com/wei1224hf/wls
 https://github.com/weibocom/motan
 https://github.com/weilanwl/coloruicss
+https://github.com/weirui88888/anyphoto-web
 https://github.com/wekan/wekan
 https://github.com/wendux/fly
 https://github.com/wenlng/go-captcha

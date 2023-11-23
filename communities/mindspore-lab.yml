@@ -1,0 +1,28 @@
+---
+community_name: mindspore-lab
+community_org_url: https://github.com/mindspore-lab
+community_logo_url: https://github.com/mindspore-lab.png
+resource_types:
+  governance-repositories:
+    repo_urls: []
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/mindspore-lab/mindcv
+    - https://github.com/mindspore-lab/mindaudio
+    - https://github.com/mindspore-lab/mindface
+    - https://github.com/mindspore-lab/mindnlp
+    - https://github.com/mindspore-lab/minddiffusion
+    - https://github.com/mindspore-lab/mindsearch
+    - https://github.com/mindspore-lab/mindediting
+    - https://github.com/mindspore-lab/mindformers
+    - https://github.com/mindspore-lab/mindocr
+    - https://github.com/mindspore-lab/infrastructure
+    - https://github.com/mindspore-lab/mindrec
+    - https://github.com/mindspore-lab/mindrl
+    - https://github.com/mindspore-lab/mindyolo
+    - https://github.com/mindspore-lab/mindpose
+    - https://github.com/mindspore-lab/pangu_alpha
+    - https://github.com/mindspore-lab/mindpet
+    - https://github.com/mindspore-lab/mindrlhf
+    - https://github.com/mindspore-lab/models
+    - https://github.com/mindspore-lab/mindone
