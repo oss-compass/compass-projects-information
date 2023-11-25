@@ -1,0 +1,21 @@
+---
+community_name: ByConity
+community_org_url: https://github.com/ByConity
+community_logo_url: https://github.com/ByConity.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ByConity/ByConity
+    - https://github.com/ByConity/incubator-brpc
+    - https://github.com/ByConity/byconity-deploy
+    - https://github.com/ByConity/breakpad
+    - https://github.com/ByConity/byconity-tpcds
+    - https://github.com/ByConity/CRoaring
+    - https://github.com/ByConity/cassandra
+    - https://github.com/ByConity/libhdfs3-open
+    - https://github.com/ByConity/numactl
+    - https://github.com/ByConity/libmaxminddb
+    - https://github.com/ByConity/ipdb-c
+  governance-repositories:
+    repo_urls:
+    - https://github.com/ByConity/byconity.github.io
