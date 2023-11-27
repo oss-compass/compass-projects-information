@@ -6,7 +6,6 @@ resource_types:
     software-artifact-repositories:
         repo_urls: 
         - https://gitee.com/openeuler/A-FOT
-        - https://gitee.com/openeuler/A-guard
         - https://gitee.com/openeuler/A-Ops
         - https://gitee.com/openeuler/A-Tune
         - https://gitee.com/openeuler/A-Tune-BPF-Collection
@@ -17,22 +16,18 @@ resource_types:
         - https://gitee.com/openeuler/Agith
         - https://gitee.com/openeuler/ai-tools
         - https://gitee.com/openeuler/allwinner-kernel
-        - https://gitee.com/openeuler/anbox
         - https://gitee.com/openeuler/aops-apollo
         - https://gitee.com/openeuler/aops-ceres
         - https://gitee.com/openeuler/aops-diana
         - https://gitee.com/openeuler/aops-hermes
         - https://gitee.com/openeuler/aops-vulcanus
         - https://gitee.com/openeuler/aops-zeus
-        - https://gitee.com/openeuler/api-guarder
         - https://gitee.com/openeuler/AppAPIChecker
         - https://gitee.com/openeuler/arkui-linux
         - https://gitee.com/openeuler/astream
         - https://gitee.com/openeuler/async-libfuse
         - https://gitee.com/openeuler/attest-tools
-        - https://gitee.com/openeuler/authz
         - https://gitee.com/openeuler/auto_py2to3
-        - https://gitee.com/openeuler/avocado-vt
         - https://gitee.com/openeuler/AvxToNeon
         - https://gitee.com/openeuler/beijing_est_institute_2021
         - https://gitee.com/openeuler/bgmprovider
@@ -51,22 +46,15 @@ resource_types:
         - https://gitee.com/openeuler/btfhub
         - https://gitee.com/openeuler/btfhub-archive
         - https://gitee.com/openeuler/c2rust
-        - https://gitee.com/openeuler/cache-proxy
         - https://gitee.com/openeuler/capsule
         - https://gitee.com/openeuler/ccps
         - https://gitee.com/openeuler/ceph_dev
-        - https://gitee.com/openeuler/certificate-center
-        - https://gitee.com/openeuler/ci-bot
         - https://gitee.com/openeuler/clibcni
         - https://gitee.com/openeuler/cloudnative
-        - https://gitee.com/openeuler/community-issue
-        - https://gitee.com/openeuler/compass-ci
         - https://gitee.com/openeuler/compass-ci-web
         - https://gitee.com/openeuler/compat-winapp
-        - https://gitee.com/openeuler/compiler-test
         - https://gitee.com/openeuler/compliance
         - https://gitee.com/openeuler/compliance-sbom
-        - https://gitee.com/openeuler/container-test
         - https://gitee.com/openeuler/Cpds
         - https://gitee.com/openeuler/cpds-agent
         - https://gitee.com/openeuler/cpds-analyzer
@@ -76,13 +64,10 @@ resource_types:
         - https://gitee.com/openeuler/CPM4OSSP-SERVER
         - https://gitee.com/openeuler/CPM4OSSP-UI
         - https://gitee.com/openeuler/CPython
-        - https://gitee.com/openeuler/CreateImage
         - https://gitee.com/openeuler/CTinspector
         - https://gitee.com/openeuler/CuckooSQL
         - https://gitee.com/openeuler/curl-rust
         - https://gitee.com/openeuler/custom_build_tool
-        - https://gitee.com/openeuler/cve-ease
-        - https://gitee.com/openeuler/cve-manager
         - https://gitee.com/openeuler/dcs
         - https://gitee.com/openeuler/dde
         - https://gitee.com/openeuler/deepin-rpm-installer
@@ -91,8 +76,6 @@ resource_types:
         - https://gitee.com/openeuler/dim_tools
         - https://gitee.com/openeuler/distributed-beget
         - https://gitee.com/openeuler/distributed-codelabs
-        - https://gitee.com/openeuler/docs
-        - https://gitee.com/openeuler/docs-accompany-reading
         - https://gitee.com/openeuler/donau-pam-adopt
         - https://gitee.com/openeuler/donau-slurm-wrappers
         - https://gitee.com/openeuler/dpdk
@@ -104,22 +87,15 @@ resource_types:
         - https://gitee.com/openeuler/DyscheOS-meta
         - https://gitee.com/openeuler/DyscheOS-utils
         - https://gitee.com/openeuler/eagle
-        - https://gitee.com/openeuler/easy-checker
         - https://gitee.com/openeuler/easybox
         - https://gitee.com/openeuler/eggo
         - https://gitee.com/openeuler/elfin-parser
         - https://gitee.com/openeuler/embedded
-        - https://gitee.com/openeuler/embedded-ci
         - https://gitee.com/openeuler/embedded-ipc
-        - https://gitee.com/openeuler/env_check
         - https://gitee.com/openeuler/etipc
         - https://gitee.com/openeuler/etmem
-        - https://gitee.com/openeuler/eulerfs
         - https://gitee.com/openeuler/eulerfs-test
-        - https://gitee.com/openeuler/eulerlauncher
         - https://gitee.com/openeuler/EulerMonitor
-        - https://gitee.com/openeuler/eulerpublisher
-        - https://gitee.com/openeuler/EulerRobot
         - https://gitee.com/openeuler/evs
         - https://gitee.com/openeuler/extfuse
         - https://gitee.com/openeuler/extuner
@@ -128,7 +104,6 @@ resource_types:
         - https://gitee.com/openeuler/ft_mmi
         - https://gitee.com/openeuler/ft_multimedia
         - https://gitee.com/openeuler/ft_utils
-        - https://gitee.com/openeuler/G11N
         - https://gitee.com/openeuler/gala-anteater
         - https://gitee.com/openeuler/gala-docs
         - https://gitee.com/openeuler/gala-gopher
@@ -141,17 +116,11 @@ resource_types:
         - https://gitee.com/openeuler/gcc-for-openEuler
         - https://gitee.com/openeuler/GearOS
         - https://gitee.com/openeuler/geo-coding
-        - https://gitee.com/openeuler/git-basics
-        - https://gitee.com/openeuler/gitbook-theme-hugo
-        - https://gitee.com/openeuler/globalization
         - https://gitee.com/openeuler/GNFC
-        - https://gitee.com/openeuler/go-gitee
         - https://gitee.com/openeuler/gostone
         - https://gitee.com/openeuler/ha-api
         - https://gitee.com/openeuler/ha-web
-        - https://gitee.com/openeuler/hands-on
         - https://gitee.com/openeuler/hikptool
-        - https://gitee.com/openeuler/hinic3
         - https://gitee.com/openeuler/hmir
         - https://gitee.com/openeuler/hostha
         - https://gitee.com/openeuler/hotpatch_meta
@@ -159,12 +128,7 @@ resource_types:
         - https://gitee.com/openeuler/hpcpilot
         - https://gitee.com/openeuler/hpcrunner
         - https://gitee.com/openeuler/hsak
-        - https://gitee.com/openeuler/hw-buaa-lab
         - https://gitee.com/openeuler/ifm_nettle
-        - https://gitee.com/openeuler/imageTailor
-        - https://gitee.com/openeuler/infrastructure
-        - https://gitee.com/openeuler/install-scripts
-        - https://gitee.com/openeuler/integration-test
         - https://gitee.com/openeuler/Intel-Arch-doc
         - https://gitee.com/openeuler/Intel-gcc
         - https://gitee.com/openeuler/Intel-glibc
@@ -172,9 +136,7 @@ resource_types:
         - https://gitee.com/openeuler/intel-lkvs
         - https://gitee.com/openeuler/intel-qemu
         - https://gitee.com/openeuler/isula-build
-        - https://gitee.com/openeuler/isula-transform
         - https://gitee.com/openeuler/iSulad
-        - https://gitee.com/openeuler/iSulad-img
         - https://gitee.com/openeuler/itrustee_client
         - https://gitee.com/openeuler/itrustee_sdk
         - https://gitee.com/openeuler/itrustee_tzdriver
@@ -235,11 +197,8 @@ resource_types:
         - https://gitee.com/openeuler/kylin-installer
         - https://gitee.com/openeuler/kylin-user-guide
         - https://gitee.com/openeuler/lanzhou_university_2021
-        - https://gitee.com/openeuler/lboot
         - https://gitee.com/openeuler/lcr
         - https://gitee.com/openeuler/lep
-        - https://gitee.com/openeuler/lfs-course
-        - https://gitee.com/openeuler/li-wen
         - https://gitee.com/openeuler/lib-shim-v2
         - https://gitee.com/openeuler/libarchive-rust
         - https://gitee.com/openeuler/libboundscheck
@@ -250,20 +209,12 @@ resource_types:
         - https://gitee.com/openeuler/libvirt
         - https://gitee.com/openeuler/libwd
         - https://gitee.com/openeuler/libxml2-rust
-        - https://gitee.com/openeuler/linux-operation
         - https://gitee.com/openeuler/llvm-project
         - https://gitee.com/openeuler/lxcfs-tools
-        - https://gitee.com/openeuler/lzu-icc-nsg
-        - https://gitee.com/openeuler/m1600-driver
-        - https://gitee.com/openeuler/marketing
         - https://gitee.com/openeuler/mate-desktop
         - https://gitee.com/openeuler/mcs
         - https://gitee.com/openeuler/memory-scan
         - https://gitee.com/openeuler/memwatch
-        - https://gitee.com/openeuler/micro-certification
-        - https://gitee.com/openeuler/migration-assistant
-        - https://gitee.com/openeuler/migration-tools
-        - https://gitee.com/openeuler/mugen
         - https://gitee.com/openeuler/nankai_university_2021
         - https://gitee.com/openeuler/native-turbo
         - https://gitee.com/openeuler/native-turbo-kernel
@@ -277,43 +228,17 @@ resource_types:
         - https://gitee.com/openeuler/numafast
         - https://gitee.com/openeuler/nvme-snsd
         - https://gitee.com/openeuler/nvwa
-        - https://gitee.com/openeuler/oe-performance
-        - https://gitee.com/openeuler/oebuild
-        - https://gitee.com/openeuler/oec-application
-        - https://gitee.com/openeuler/oec-cloud
-        - https://gitee.com/openeuler/oec-hardware
-        - https://gitee.com/openeuler/oecp
-        - https://gitee.com/openeuler/oemaker
         - https://gitee.com/openeuler/omnidata-hive-connector
         - https://gitee.com/openeuler/oncn-bwm
-        - https://gitee.com/openeuler/open-source-summer
-        - https://gitee.com/openeuler/opendesign
-        - https://gitee.com/openeuler/opendesign-backend
-        - https://gitee.com/openeuler/opendesign-build
-        - https://gitee.com/openeuler/opendesign-components
-        - https://gitee.com/openeuler/opendesign-datastat
-        - https://gitee.com/openeuler/opendesign-deployment
-        - https://gitee.com/openeuler/opendesign-internship
-        - https://gitee.com/openeuler/opendesign-miniprogram
-        - https://gitee.com/openeuler/opendesign-resources
-        - https://gitee.com/openeuler/opendesign-templates
-        - https://gitee.com/openeuler/openEuler_chroot
-        - https://gitee.com/openeuler/openEuler-Advisor
         - https://gitee.com/openeuler/openEuler-bootstrap
         - https://gitee.com/openeuler/openeuler-docker-images
-        - https://gitee.com/openeuler/openeuler-jenkins
-        - https://gitee.com/openeuler/openEuler-lsb
         - https://gitee.com/openeuler/openEuler-menus
-        - https://gitee.com/openeuler/openeuler-obs
-        - https://gitee.com/openeuler/openeuler-os-build
         - https://gitee.com/openeuler/openEuler-pkginfo
-        - https://gitee.com/openeuler/openEuler-portal
         - https://gitee.com/openeuler/openEuler-rpm-config
         - https://gitee.com/openeuler/openeuler-wiki-bot
         - https://gitee.com/openeuler/openjfx8
         - https://gitee.com/openeuler/openRSO
         - https://gitee.com/openeuler/opensd
-        - https://gitee.com/openeuler/opensource-intern
         - https://gitee.com/openeuler/openstack
         - https://gitee.com/openeuler/openstack-kolla-ansible-plugin
         - https://gitee.com/openeuler/openstack-kolla-plugin
@@ -325,9 +250,7 @@ resource_types:
         - https://gitee.com/openeuler/OSPerformance
         - https://gitee.com/openeuler/OSPerformanceTools
         - https://gitee.com/openeuler/pacemaker-mgmt
-        - https://gitee.com/openeuler/package-reinforce-test
         - https://gitee.com/openeuler/passwd_group_generator
-        - https://gitee.com/openeuler/patch-tracking
         - https://gitee.com/openeuler/peking_university_2021
         - https://gitee.com/openeuler/perlporter
         - https://gitee.com/openeuler/PilotGo
@@ -343,7 +266,6 @@ resource_types:
         - https://gitee.com/openeuler/pin-gcc-client
         - https://gitee.com/openeuler/pin-server
         - https://gitee.com/openeuler/pkgporter
-        - https://gitee.com/openeuler/pkgship
         - https://gitee.com/openeuler/plymouth-theme-kiran
         - https://gitee.com/openeuler/portal-application-license-monitor
         - https://gitee.com/openeuler/portal-mulit-cluster-script
@@ -355,22 +277,14 @@ resource_types:
         - https://gitee.com/openeuler/pyisula
         - https://gitee.com/openeuler/pyporter
         - https://gitee.com/openeuler/python-multi_key_dict
-        - https://gitee.com/openeuler/QA
-        - https://gitee.com/openeuler/QARobot
         - https://gitee.com/openeuler/qax-gm-certificates
         - https://gitee.com/openeuler/qemu
-        - https://gitee.com/openeuler/qla2xxx
         - https://gitee.com/openeuler/qt6
-        - https://gitee.com/openeuler/quick-issue
-        - https://gitee.com/openeuler/radiaTest
         - https://gitee.com/openeuler/raspberrypi
         - https://gitee.com/openeuler/raspberrypi-build
         - https://gitee.com/openeuler/raspberrypi-kernel
         - https://gitee.com/openeuler/re2-rust
-        - https://gitee.com/openeuler/release-management
-        - https://gitee.com/openeuler/release-tools
         - https://gitee.com/openeuler/Replay-N
-        - https://gitee.com/openeuler/reproducible-builds
         - https://gitee.com/openeuler/RISC-V
         - https://gitee.com/openeuler/rockchip
         - https://gitee.com/openeuler/rockchip-kernel
@@ -386,43 +300,27 @@ resource_types:
         - https://gitee.com/openeuler/security-committee
         - https://gitee.com/openeuler/security-facility
         - https://gitee.com/openeuler/security-tool
-        - https://gitee.com/openeuler/service_capability
-        - https://gitee.com/openeuler/service_trainning
-        - https://gitee.com/openeuler/signatrust
         - https://gitee.com/openeuler/skylark
         - https://gitee.com/openeuler/sonic-linux-kernel
-        - https://gitee.com/openeuler/sssnic-driver
         - https://gitee.com/openeuler/stortrace
         - https://gitee.com/openeuler/stratovirt
-        - https://gitee.com/openeuler/summer2022
         - https://gitee.com/openeuler/sw-committee
-        - https://gitee.com/openeuler/sync-bot
         - https://gitee.com/openeuler/sysboost
         - https://gitee.com/openeuler/syscare
         - https://gitee.com/openeuler/syscontainer-tools
         - https://gitee.com/openeuler/sysmaster
         - https://gitee.com/openeuler/sysmonitor
-        - https://gitee.com/openeuler/taishan-oslab
-        - https://gitee.com/openeuler/talent-assessment
         - https://gitee.com/openeuler/tarsier
-        - https://gitee.com/openeuler/TC
         - https://gitee.com/openeuler/TCP_option_address
-        - https://gitee.com/openeuler/technical-certification
         - https://gitee.com/openeuler/tee-gp-proxy
-        - https://gitee.com/openeuler/test-tools
-        - https://gitee.com/openeuler/tool-collections
-        - https://gitee.com/openeuler/tp-libvirt
-        - https://gitee.com/openeuler/tp-qemu
         - https://gitee.com/openeuler/trucker
         - https://gitee.com/openeuler/uadk
         - https://gitee.com/openeuler/uadk_engine
         - https://gitee.com/openeuler/ub-dhcp
         - https://gitee.com/openeuler/ub-lldpd
-        - https://gitee.com/openeuler/ubackup
         - https://gitee.com/openeuler/ukui
         - https://gitee.com/openeuler/umdk
         - https://gitee.com/openeuler/UniProton
-        - https://gitee.com/openeuler/user-committee
         - https://gitee.com/openeuler/utshell
         - https://gitee.com/openeuler/utsudo
         - https://gitee.com/openeuler/vectorBlas
@@ -435,26 +333,15 @@ resource_types:
         - https://gitee.com/openeuler/wayca-scheduler-bench
         - https://gitee.com/openeuler/wine-app
         - https://gitee.com/openeuler/wisdom-advisor
-        - https://gitee.com/openeuler/wsl
         - https://gitee.com/openeuler/wuhan_uni_tech_2021
         - https://gitee.com/openeuler/X-diagnosis
         - https://gitee.com/openeuler/xenomai
         - https://gitee.com/openeuler/xmlpull
-        - https://gitee.com/openeuler/yocto-embedded-tools
-        - https://gitee.com/openeuler/yocto-meta-openembedded
-        - https://gitee.com/openeuler/yocto-meta-openeuler
-        - https://gitee.com/openeuler/yocto-meta-qt5
-        - https://gitee.com/openeuler/yocto-meta-rockchip
-        - https://gitee.com/openeuler/yocto-meta-ros
-        - https://gitee.com/openeuler/yocto-meta-virtualization
-        - https://gitee.com/openeuler/yocto-poky
         - https://gitee.com/openeuler/zephyr-cn
         - https://gitee.com/openeuler/zvm
         - https://gitee.com/src-openeuler/openEuler-repos
         - https://gitee.com/src-openeuler/iSulad
-        - https://gitee.com/src-openeuler/iSulad-img
         - https://gitee.com/src-openeuler/clibcni
-        - https://gitee.com/src-openeuler/authz
         - https://gitee.com/src-openeuler/lcr
         - https://gitee.com/src-openeuler/syscontainer-tools
         - https://gitee.com/src-openeuler/lxcfs-tools
@@ -515,7 +402,6 @@ resource_types:
         - https://gitee.com/src-openeuler/cairo
         - https://gitee.com/src-openeuler/c-ares
         - https://gitee.com/src-openeuler/cdparanoia
-        - https://gitee.com/src-openeuler/cdrkit
         - https://gitee.com/src-openeuler/ceph
         - https://gitee.com/src-openeuler/checkpolicy
         - https://gitee.com/src-openeuler/cheese
@@ -560,8 +446,6 @@ resource_types:
         - https://gitee.com/src-openeuler/diffutils
         - https://gitee.com/src-openeuler/ding-libs
         - https://gitee.com/src-openeuler/dmidecode
-        - https://gitee.com/src-openeuler/dnf
-        - https://gitee.com/src-openeuler/dnf-plugins-core
         - https://gitee.com/src-openeuler/dnsmasq
         - https://gitee.com/src-openeuler/docbook-dtds
         - https://gitee.com/src-openeuler/docbook-style-xsl
@@ -576,9 +460,6 @@ resource_types:
         - https://gitee.com/src-openeuler/ed
         - https://gitee.com/src-openeuler/edac-utils
         - https://gitee.com/src-openeuler/edk2
-        - https://gitee.com/src-openeuler/efibootmgr
-        - https://gitee.com/src-openeuler/efi-rpm-macros
-        - https://gitee.com/src-openeuler/efivar
         - https://gitee.com/src-openeuler/elfutils
         - https://gitee.com/src-openeuler/enchant
         - https://gitee.com/src-openeuler/ethtool
@@ -648,7 +529,6 @@ resource_types:
         - https://gitee.com/src-openeuler/grilo
         - https://gitee.com/src-openeuler/groff
         - https://gitee.com/src-openeuler/grpc
-        - https://gitee.com/src-openeuler/grub2
         - https://gitee.com/src-openeuler/grubby
         - https://gitee.com/src-openeuler/gsettings-desktop-schemas
         - https://gitee.com/src-openeuler/gsm
@@ -688,7 +568,6 @@ resource_types:
         - https://gitee.com/src-openeuler/iptraf-ng
         - https://gitee.com/src-openeuler/iptstate
         - https://gitee.com/src-openeuler/iputils
-        - https://gitee.com/src-openeuler/ipxe
         - https://gitee.com/src-openeuler/irqbalance
         - https://gitee.com/src-openeuler/iso-codes
         - https://gitee.com/src-openeuler/ivtv-firmware
@@ -734,7 +613,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libdbi
         - https://gitee.com/src-openeuler/libdmx
         - https://gitee.com/src-openeuler/libdnet
-        - https://gitee.com/src-openeuler/libdnf
         - https://gitee.com/src-openeuler/libdrm
         - https://gitee.com/src-openeuler/libecap
         - https://gitee.com/src-openeuler/libedit
@@ -820,7 +698,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libsigsegv
         - https://gitee.com/src-openeuler/libSM
         - https://gitee.com/src-openeuler/libsndfile
-        - https://gitee.com/src-openeuler/libsolv
         - https://gitee.com/src-openeuler/libssh
         - https://gitee.com/src-openeuler/libtalloc
         - https://gitee.com/src-openeuler/libtasn1
@@ -1309,13 +1186,10 @@ resource_types:
         - https://gitee.com/src-openeuler/tpm2-abrmd
         - https://gitee.com/src-openeuler/google-noto-cjk-fonts
         - https://gitee.com/src-openeuler/perl-Text-Tabs-Wrap
-        - https://gitee.com/src-openeuler/anaconda
-        - https://gitee.com/src-openeuler/anaconda-user-help
         - https://gitee.com/src-openeuler/atmel-firmware
         - https://gitee.com/src-openeuler/autoconf
         - https://gitee.com/src-openeuler/automake
         - https://gitee.com/src-openeuler/b43-openfwwf
-        - https://gitee.com/src-openeuler/blivet-gui
         - https://gitee.com/src-openeuler/capstone
         - https://gitee.com/src-openeuler/container-selinux
         - https://gitee.com/src-openeuler/docker-anaconda-addon
@@ -1337,7 +1211,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libtomcrypt
         - https://gitee.com/src-openeuler/libtommath
         - https://gitee.com/src-openeuler/lldpad
-        - https://gitee.com/src-openeuler/lorax
         - https://gitee.com/src-openeuler/lxcfs
         - https://gitee.com/src-openeuler/lxsession
         - https://gitee.com/src-openeuler/notification-daemon
@@ -1346,7 +1219,6 @@ resource_types:
         - https://gitee.com/src-openeuler/pyparted
         - https://gitee.com/src-openeuler/python-beaker
         - https://gitee.com/src-openeuler/python-coverage
-        - https://gitee.com/src-openeuler/python-crypto
         - https://gitee.com/src-openeuler/python-mako
         - https://gitee.com/src-openeuler/python-meh
         - https://gitee.com/src-openeuler/python-ntplib
@@ -1364,7 +1236,6 @@ resource_types:
         - https://gitee.com/src-openeuler/spice-vdagent
         - https://gitee.com/src-openeuler/star
         - https://gitee.com/src-openeuler/tmux
-        - https://gitee.com/src-openeuler/uboot-tools
         - https://gitee.com/src-openeuler/unique
         - https://gitee.com/src-openeuler/vconfig
         - https://gitee.com/src-openeuler/xfsdump
@@ -1381,8 +1252,6 @@ resource_types:
         - https://gitee.com/src-openeuler/yelp
         - https://gitee.com/src-openeuler/yelp-xsl
         - https://gitee.com/src-openeuler/zd1211-firmware
-        - https://gitee.com/src-openeuler/openEuler_chroot
-        - https://gitee.com/src-openeuler/openEuler-latest-release
         - https://gitee.com/src-openeuler/xorg-x11-drv-v4l
         - https://gitee.com/src-openeuler/A-Tune
         - https://gitee.com/src-openeuler/celt051
@@ -1490,7 +1359,6 @@ resource_types:
         - https://gitee.com/src-openeuler/qt5-qtsvg
         - https://gitee.com/src-openeuler/qt5-qtxmlpatterns
         - https://gitee.com/src-openeuler/rdate
-        - https://gitee.com/src-openeuler/rpmdevtools
         - https://gitee.com/src-openeuler/scap-security-guide
         - https://gitee.com/src-openeuler/scipy
         - https://gitee.com/src-openeuler/SDL
@@ -1510,8 +1378,6 @@ resource_types:
         - https://gitee.com/src-openeuler/xdg-user-dirs
         - https://gitee.com/src-openeuler/xdg-utils
         - https://gitee.com/src-openeuler/xorg-x11-xinit
-        - https://gitee.com/src-openeuler/osc
-        - https://gitee.com/src-openeuler/obs-build
         - https://gitee.com/src-openeuler/cppcheck
         - https://gitee.com/src-openeuler/gnome-bluetooth
         - https://gitee.com/src-openeuler/gnome-user-docs
@@ -1519,7 +1385,6 @@ resource_types:
         - https://gitee.com/src-openeuler/mksh
         - https://gitee.com/src-openeuler/python-construct
         - https://gitee.com/src-openeuler/python-iso8601
-        - https://gitee.com/src-openeuler/u2f-hidraw-policy
         - https://gitee.com/src-openeuler/gspell
         - https://gitee.com/src-openeuler/kae_driver
         - https://gitee.com/src-openeuler/libkae
@@ -1592,7 +1457,6 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Unicode-UTF8
         - https://gitee.com/src-openeuler/python-bottle
         - https://gitee.com/src-openeuler/python-mimeparse
-        - https://gitee.com/src-openeuler/copy-jdk-configs
         - https://gitee.com/src-openeuler/docbook-utils
         - https://gitee.com/src-openeuler/opensp
         - https://gitee.com/src-openeuler/patchutils
@@ -1659,9 +1523,7 @@ resource_types:
         - https://gitee.com/src-openeuler/python-sphinxcontrib-websupport
         - https://gitee.com/src-openeuler/subunit
         - https://gitee.com/src-openeuler/libass
-        - https://gitee.com/src-openeuler/phonon
         - https://gitee.com/src-openeuler/qt5-qtwebengine
-        - https://gitee.com/src-openeuler/sip
         - https://gitee.com/src-openeuler/tslib
         - https://gitee.com/src-openeuler/openblas
         - https://gitee.com/src-openeuler/crash-trace-command
@@ -1709,18 +1571,13 @@ resource_types:
         - https://gitee.com/src-openeuler/memcached
         - https://gitee.com/src-openeuler/python-traceback2
         - https://gitee.com/src-openeuler/perl-Text-CharWidth
-        - https://gitee.com/src-openeuler/re2
-        - https://gitee.com/src-openeuler/gstreamer1-plugins-good
         - https://gitee.com/src-openeuler/libffado
         - https://gitee.com/src-openeuler/dbusmenu-qt
-        - https://gitee.com/src-openeuler/gtk
         - https://gitee.com/src-openeuler/perl-Sub-Exporter-Progressive
         - https://gitee.com/src-openeuler/m17n-db
-        - https://gitee.com/src-openeuler/opusfile
         - https://gitee.com/src-openeuler/perl-Pod-Coverage
         - https://gitee.com/src-openeuler/perl-XML-XPath
         - https://gitee.com/src-openeuler/qt5-qttools
-        - https://gitee.com/src-openeuler/espeak-ng
         - https://gitee.com/src-openeuler/plexus-classworlds
         - https://gitee.com/src-openeuler/perl-Net-SMTP-SSL
         - https://gitee.com/src-openeuler/apache-commons-lang3
@@ -1761,7 +1618,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-backports_abc
         - https://gitee.com/src-openeuler/python-sqlalchemy
         - https://gitee.com/src-openeuler/qt5-qtmultimedia
-        - https://gitee.com/src-openeuler/SDL2
         - https://gitee.com/src-openeuler/apache-commons-collections
         - https://gitee.com/src-openeuler/apache-commons-compress
         - https://gitee.com/src-openeuler/apache-commons-net
@@ -1827,7 +1683,6 @@ resource_types:
         - https://gitee.com/src-openeuler/cmake
         - https://gitee.com/src-openeuler/gnome-icon-theme-symbolic
         - https://gitee.com/src-openeuler/gnome-menus
-        - https://gitee.com/src-openeuler/libwmf
         - https://gitee.com/src-openeuler/python-olefile
         - https://gitee.com/src-openeuler/python-pillow
         - https://gitee.com/src-openeuler/baobab
@@ -1852,7 +1707,6 @@ resource_types:
         - https://gitee.com/src-openeuler/maven-plugin-bundle
         - https://gitee.com/src-openeuler/maven-remote-resources-plugin
         - https://gitee.com/src-openeuler/maven-reporting-impl
-        - https://gitee.com/src-openeuler/libgovirt
         - https://gitee.com/src-openeuler/plexus-resources
         - https://gitee.com/src-openeuler/pngquant
         - https://gitee.com/src-openeuler/gnome-characters
@@ -1864,14 +1718,7 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Font-TTF
         - https://gitee.com/src-openeuler/sushi
         - https://gitee.com/src-openeuler/libwpg
-        - https://gitee.com/src-openeuler/clamav
-        - https://gitee.com/src-openeuler/glibmm24
-        - https://gitee.com/src-openeuler/libsigcpp20
         - https://gitee.com/src-openeuler/gtkspell
-        - https://gitee.com/src-openeuler/xapian-core
-        - https://gitee.com/src-openeuler/container-exception-logger
-        - https://gitee.com/src-openeuler/marisa
-        - https://gitee.com/src-openeuler/opencc
         - https://gitee.com/src-openeuler/perl-Devel-Symdump
         - https://gitee.com/src-openeuler/perl-GSSAPI
         - https://gitee.com/src-openeuler/potrace
@@ -1881,20 +1728,17 @@ resource_types:
         - https://gitee.com/src-openeuler/librevenge
         - https://gitee.com/src-openeuler/libwpd
         - https://gitee.com/src-openeuler/perl-IO-Multiplex
-        - https://gitee.com/src-openeuler/gtkmm30
         - https://gitee.com/src-openeuler/gtkspell3
         - https://gitee.com/src-openeuler/gtkspellmm30
         - https://gitee.com/src-openeuler/java-base64
         - https://gitee.com/src-openeuler/sshj
         - https://gitee.com/src-openeuler/trilead-ssh2
-        - https://gitee.com/src-openeuler/flite
         - https://gitee.com/src-openeuler/maven-parent
         - https://gitee.com/src-openeuler/plexus-containers
         - https://gitee.com/src-openeuler/GraphicsMagick
         - https://gitee.com/src-openeuler/args4j
         - https://gitee.com/src-openeuler/plexus-pom
         - https://gitee.com/src-openeuler/avalon-framework
-        - https://gitee.com/src-openeuler/gnome-packagekit
         - https://gitee.com/src-openeuler/perl-IO-String
         - https://gitee.com/src-openeuler/perl-Net-Server
         - https://gitee.com/src-openeuler/alsa-plugins
@@ -1929,7 +1773,6 @@ resource_types:
         - https://gitee.com/src-openeuler/gnome-system-monitor
         - https://gitee.com/src-openeuler/gperf
         - https://gitee.com/src-openeuler/gtk-doc
-        - https://gitee.com/src-openeuler/gtksourceview3
         - https://gitee.com/src-openeuler/gubbi-fonts
         - https://gitee.com/src-openeuler/gutenprint
         - https://gitee.com/src-openeuler/ibus-hangul
@@ -1951,13 +1794,11 @@ resource_types:
         - https://gitee.com/src-openeuler/jline
         - https://gitee.com/src-openeuler/jsoup
         - https://gitee.com/src-openeuler/kacst-fonts
-        - https://gitee.com/src-openeuler/keyrings-filesystem
         - https://gitee.com/src-openeuler/kryo
         - https://gitee.com/src-openeuler/libao
         - https://gitee.com/src-openeuler/libappindicator
         - https://gitee.com/src-openeuler/libfabric
         - https://gitee.com/src-openeuler/libgphoto2
-        - https://gitee.com/src-openeuler/libid3tag
         - https://gitee.com/src-openeuler/libmtp
         - https://gitee.com/src-openeuler/libpeas
         - https://gitee.com/src-openeuler/libpq
@@ -1971,7 +1812,6 @@ resource_types:
         - https://gitee.com/src-openeuler/lohit-malayalam-fonts
         - https://gitee.com/src-openeuler/lohit-marathi-fonts
         - https://gitee.com/src-openeuler/lohit-odia-fonts
-        - https://gitee.com/src-openeuler/mac-robber
         - https://gitee.com/src-openeuler/mallard-rng
         - https://gitee.com/src-openeuler/mc
         - https://gitee.com/src-openeuler/meanwhile
@@ -1979,7 +1819,6 @@ resource_types:
         - https://gitee.com/src-openeuler/minlog
         - https://gitee.com/src-openeuler/motif
         - https://gitee.com/src-openeuler/mpich
-        - https://gitee.com/src-openeuler/multilib-rpm-config
         - https://gitee.com/src-openeuler/mutt
         - https://gitee.com/src-openeuler/nasm
         - https://gitee.com/src-openeuler/native-platform
@@ -1997,12 +1836,10 @@ resource_types:
         - https://gitee.com/src-openeuler/golang-googlecode-goprotobuf
         - https://gitee.com/src-openeuler/js-jquery
         - https://gitee.com/src-openeuler/libfprint
-        - https://gitee.com/src-openeuler/libspiro
         - https://gitee.com/src-openeuler/maven-dependency-tree
         - https://gitee.com/src-openeuler/maven-file-management
         - https://gitee.com/src-openeuler/maven-plugin-testing
         - https://gitee.com/src-openeuler/maven-scm
-        - https://gitee.com/src-openeuler/nilfs-utils
         - https://gitee.com/src-openeuler/nss-altfiles
         - https://gitee.com/src-openeuler/nvme-cli
         - https://gitee.com/src-openeuler/openjade
@@ -2092,7 +1929,6 @@ resource_types:
         - https://gitee.com/src-openeuler/xorg-x11-xbitmaps
         - https://gitee.com/src-openeuler/xorg-x11-xtrans-devel
         - https://gitee.com/src-openeuler/yelp-tools
-        - https://gitee.com/src-openeuler/dvdplusrw-tools
         - https://gitee.com/src-openeuler/lohit-tamil-fonts
         - https://gitee.com/src-openeuler/golang-github-coreos-go-iptables
         - https://gitee.com/src-openeuler/golang-github-vishvananda-netlink
@@ -2102,13 +1938,11 @@ resource_types:
         - https://gitee.com/src-openeuler/amtk
         - https://gitee.com/src-openeuler/apache-commons-configuration
         - https://gitee.com/src-openeuler/aws-sdk-java
-        - https://gitee.com/src-openeuler/babl
         - https://gitee.com/src-openeuler/batik
         - https://gitee.com/src-openeuler/bcel
         - https://gitee.com/src-openeuler/bean-validation-api
         - https://gitee.com/src-openeuler/clang
         - https://gitee.com/src-openeuler/classmate
-        - https://gitee.com/src-openeuler/cldr-emoji-annotation
         - https://gitee.com/src-openeuler/clutter-gst2
         - https://gitee.com/src-openeuler/dain-snappy
         - https://gitee.com/src-openeuler/dom4j
@@ -2116,14 +1950,10 @@ resource_types:
         - https://gitee.com/src-openeuler/egl-wayland
         - https://gitee.com/src-openeuler/extra166y
         - https://gitee.com/src-openeuler/fasterxml-oss-parent
-        - https://gitee.com/src-openeuler/festival
-        - https://gitee.com/src-openeuler/festival-freebsoft-utils
         - https://gitee.com/src-openeuler/gcab
-        - https://gitee.com/src-openeuler/gegl04
         - https://gitee.com/src-openeuler/geronimo-interceptor
         - https://gitee.com/src-openeuler/geronimo-jta
         - https://gitee.com/src-openeuler/geronimo-validation
-        - https://gitee.com/src-openeuler/gimp
         - https://gitee.com/src-openeuler/glassfish-jsp-api
         - https://gitee.com/src-openeuler/groovy
         - https://gitee.com/src-openeuler/hibernate
@@ -2149,7 +1979,6 @@ resource_types:
         - https://gitee.com/src-openeuler/librabbitmq
         - https://gitee.com/src-openeuler/libsmbios
         - https://gitee.com/src-openeuler/libstemmer
-        - https://gitee.com/src-openeuler/libxmlb
         - https://gitee.com/src-openeuler/lynx
         - https://gitee.com/src-openeuler/maven-filtering
         - https://gitee.com/src-openeuler/maven-invoker
@@ -2158,11 +1987,8 @@ resource_types:
         - https://gitee.com/src-openeuler/maven-verifier
         - https://gitee.com/src-openeuler/mingw-crt
         - https://gitee.com/src-openeuler/mingw-filesystem
-        - https://gitee.com/src-openeuler/mt-st
         - https://gitee.com/src-openeuler/multiverse
-        - https://gitee.com/src-openeuler/nbdkit
         - https://gitee.com/src-openeuler/netty-tcnative
-        - https://gitee.com/src-openeuler/nginx
         - https://gitee.com/src-openeuler/ntfs-3g
         - https://gitee.com/src-openeuler/nvml
         - https://gitee.com/src-openeuler/objenesis
@@ -2182,7 +2008,6 @@ resource_types:
         - https://gitee.com/src-openeuler/qt
         - https://gitee.com/src-openeuler/regexp
         - https://gitee.com/src-openeuler/scala
-        - https://gitee.com/src-openeuler/sox
         - https://gitee.com/src-openeuler/unicode-ucd
         - https://gitee.com/src-openeuler/vala
         - https://gitee.com/src-openeuler/xbean
@@ -2190,7 +2015,6 @@ resource_types:
         - https://gitee.com/src-openeuler/jboss-jacc-1.4-api
         - https://gitee.com/src-openeuler/perl-libwww-perl
         - https://gitee.com/src-openeuler/libldm
-        - https://gitee.com/src-openeuler/libmypaint
         - https://gitee.com/src-openeuler/python-humanize
         - https://gitee.com/src-openeuler/c3p0
         - https://gitee.com/src-openeuler/imlib2
@@ -2204,19 +2028,14 @@ resource_types:
         - https://gitee.com/src-openeuler/proxool
         - https://gitee.com/src-openeuler/python-hwdata
         - https://gitee.com/src-openeuler/python-kitchen
-        - https://gitee.com/src-openeuler/raptor2
-        - https://gitee.com/src-openeuler/sblim-sfcCommon
         - https://gitee.com/src-openeuler/stax2-api
         - https://gitee.com/src-openeuler/stream-lib
         - https://gitee.com/src-openeuler/wildfly-common
         - https://gitee.com/src-openeuler/xapool
-        - https://gitee.com/src-openeuler/xhtml1-dtds
         - https://gitee.com/src-openeuler/xnio
         - https://gitee.com/src-openeuler/aalto-xml
         - https://gitee.com/src-openeuler/aesh
-        - https://gitee.com/src-openeuler/breeze-icon-theme
         - https://gitee.com/src-openeuler/byteman
-        - https://gitee.com/src-openeuler/djvulibre
         - https://gitee.com/src-openeuler/folks
         - https://gitee.com/src-openeuler/gsound
         - https://gitee.com/src-openeuler/leveldb
@@ -2238,11 +2057,8 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Net-CIDR-Lite
         - https://gitee.com/src-openeuler/gnu-getopt
         - https://gitee.com/src-openeuler/hibernate3
-        - https://gitee.com/src-openeuler/libgdither
         - https://gitee.com/src-openeuler/frei0r-plugins
         - https://gitee.com/src-openeuler/infinispan
-        - https://gitee.com/src-openeuler/libburn
-        - https://gitee.com/src-openeuler/libisofs
         - https://gitee.com/src-openeuler/python-argcomplete
         - https://gitee.com/src-openeuler/gnome-tweaks
         - https://gitee.com/src-openeuler/jboss-remoting-jmx
@@ -2250,13 +2066,10 @@ resource_types:
         - https://gitee.com/src-openeuler/maven-javadoc-plugin
         - https://gitee.com/src-openeuler/perl-BSD-Resource
         - https://gitee.com/src-openeuler/perl-String-CRC32
-        - https://gitee.com/src-openeuler/suitesparse
         - https://gitee.com/src-openeuler/java_cup
         - https://gitee.com/src-openeuler/fastutil
         - https://gitee.com/src-openeuler/lucene
-        - https://gitee.com/src-openeuler/conmon
         - https://gitee.com/src-openeuler/netty
-        - https://gitee.com/src-openeuler/gavl
         - https://gitee.com/src-openeuler/eclipselink-persistence-api
         - https://gitee.com/src-openeuler/ehcache-core
         - https://gitee.com/src-openeuler/kernel
@@ -2274,8 +2087,6 @@ resource_types:
         - https://gitee.com/src-openeuler/vim
         - https://gitee.com/src-openeuler/openEuler-rpm-config
         - https://gitee.com/src-openeuler/bind
-        - https://gitee.com/src-openeuler/hfsplus-tools
-        - https://gitee.com/src-openeuler/pcaudiolib
         - https://gitee.com/src-openeuler/plymouth
         - https://gitee.com/src-openeuler/python-requests
         - https://gitee.com/src-openeuler/tinycdb
@@ -2295,7 +2106,6 @@ resource_types:
         - https://gitee.com/src-openeuler/openEuler-logos
         - https://gitee.com/src-openeuler/containerd
         - https://gitee.com/src-openeuler/ruby
-        - https://gitee.com/src-openeuler/python-blivet
         - https://gitee.com/src-openeuler/kata_integration
         - https://gitee.com/src-openeuler/acpica-tools
         - https://gitee.com/src-openeuler/arm-trusted-firmware
@@ -2369,7 +2179,6 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Unicode-LineBreak
         - https://gitee.com/src-openeuler/python-backports-unittest_mock
         - https://gitee.com/src-openeuler/open-iscsi
-        - https://gitee.com/src-openeuler/mongo-c-driver
         - https://gitee.com/src-openeuler/perl-File-Copy-Recursive
         - https://gitee.com/src-openeuler/python-gflags
         - https://gitee.com/src-openeuler/python-semantic_version
@@ -2395,8 +2204,6 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Test-Pod-Coverage
         - https://gitee.com/src-openeuler/perl-Test-Requires
         - https://gitee.com/src-openeuler/perl-Text-Glob
-        - https://gitee.com/src-openeuler/redis
-        - https://gitee.com/src-openeuler/sassc
         - https://gitee.com/src-openeuler/keepalived
         - https://gitee.com/src-openeuler/ndisc6
         - https://gitee.com/src-openeuler/perl-Module-Install-ReadmeFromPod
@@ -2419,13 +2226,10 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-File-BaseDir
         - https://gitee.com/src-openeuler/perl-File-DesktopEntry
         - https://gitee.com/src-openeuler/custom_build_tool
-        - https://gitee.com/src-openeuler/gcc_secure
         - https://gitee.com/src-openeuler/kf5
         - https://gitee.com/src-openeuler/libisoburn
         - https://gitee.com/src-openeuler/pbzip2
-        - https://gitee.com/src-openeuler/python-pycdlib
         - https://gitee.com/src-openeuler/python-toml
-        - https://gitee.com/src-openeuler/python-keyczar
         - https://gitee.com/src-openeuler/gcc
         - https://gitee.com/src-openeuler/openjdk-1.8.0
         - https://gitee.com/src-openeuler/alsa-utils
@@ -2433,11 +2237,9 @@ resource_types:
         - https://gitee.com/src-openeuler/antlr
         - https://gitee.com/src-openeuler/amanda
         - https://gitee.com/src-openeuler/ant
-        - https://gitee.com/src-openeuler/anthy
         - https://gitee.com/src-openeuler/apache-commons-logging
         - https://gitee.com/src-openeuler/apache-ivy
         - https://gitee.com/src-openeuler/aqute-bnd
-        - https://gitee.com/src-openeuler/assimp
         - https://gitee.com/src-openeuler/atlas
         - https://gitee.com/src-openeuler/bacula
         - https://gitee.com/src-openeuler/compiler-rt
@@ -2449,7 +2251,6 @@ resource_types:
         - https://gitee.com/src-openeuler/gsl
         - https://gitee.com/src-openeuler/haproxy
         - https://gitee.com/src-openeuler/hplip
-        - https://gitee.com/src-openeuler/ImageMagick
         - https://gitee.com/src-openeuler/jboss-remoting
         - https://gitee.com/src-openeuler/jcifs
         - https://gitee.com/src-openeuler/jcsp
@@ -2466,7 +2267,6 @@ resource_types:
         - https://gitee.com/src-openeuler/ladspa
         - https://gitee.com/src-openeuler/libdvdread
         - https://gitee.com/src-openeuler/libEMF
-        - https://gitee.com/src-openeuler/libgnomeui
         - https://gitee.com/src-openeuler/libmodplug
         - https://gitee.com/src-openeuler/libomp
         - https://gitee.com/src-openeuler/libpng12
@@ -2551,8 +2351,6 @@ resource_types:
         - https://gitee.com/src-openeuler/thai-scalable-fonts
         - https://gitee.com/src-openeuler/tibetan-machine-uni-fonts
         - https://gitee.com/src-openeuler/totem
-        - https://gitee.com/src-openeuler/twolame
-        - https://gitee.com/src-openeuler/ucs-miscfixed-fonts
         - https://gitee.com/src-openeuler/units
         - https://gitee.com/src-openeuler/varnish
         - https://gitee.com/src-openeuler/vdo
@@ -2563,14 +2361,9 @@ resource_types:
         - https://gitee.com/src-openeuler/xsane
         - https://gitee.com/src-openeuler/xstream
         - https://gitee.com/src-openeuler/yum-metadata-parser
-        - https://gitee.com/src-openeuler/zerofree
-        - https://gitee.com/src-openeuler/libaesgm
-        - https://gitee.com/src-openeuler/urlview
         - https://gitee.com/src-openeuler/vinagre
         - https://gitee.com/src-openeuler/kurdit-unikurd-web-fonts
         - https://gitee.com/src-openeuler/kxml
-        - https://gitee.com/src-openeuler/kyotocabinet
-        - https://gitee.com/src-openeuler/lame
         - https://gitee.com/src-openeuler/lato-fonts
         - https://gitee.com/src-openeuler/ledmon
         - https://gitee.com/src-openeuler/leveldb-java
@@ -2588,7 +2381,6 @@ resource_types:
         - https://gitee.com/src-openeuler/bullet
         - https://gitee.com/src-openeuler/bytelist
         - https://gitee.com/src-openeuler/gnome-abrt
-        - https://gitee.com/src-openeuler/dkms
         - https://gitee.com/src-openeuler/ibus-kkc
         - https://gitee.com/src-openeuler/ibus-m17n
         - https://gitee.com/src-openeuler/icedtea-web
@@ -2612,20 +2404,17 @@ resource_types:
         - https://gitee.com/src-openeuler/python-WSGIProxy2
         - https://gitee.com/src-openeuler/python-webob
         - https://gitee.com/src-openeuler/libhbaapi
-        - https://gitee.com/src-openeuler/libhbalinux
         - https://gitee.com/src-openeuler/oniguruma
         - https://gitee.com/src-openeuler/perl-Config-General
         - https://gitee.com/src-openeuler/perl-Package-Constants
         - https://gitee.com/src-openeuler/perl-Tie-IxHash
         - https://gitee.com/src-openeuler/php
-        - https://gitee.com/src-openeuler/PyPAM
         - https://gitee.com/src-openeuler/python-cached_property
         - https://gitee.com/src-openeuler/python-docker
         - https://gitee.com/src-openeuler/python-docker-pycreds
         - https://gitee.com/src-openeuler/python-dockerpty
         - https://gitee.com/src-openeuler/python-ecdsa
         - https://gitee.com/src-openeuler/python-ldap
-        - https://gitee.com/src-openeuler/tidy
         - https://gitee.com/src-openeuler/cloud-utils
         - https://gitee.com/src-openeuler/perl-Business-ISBN
         - https://gitee.com/src-openeuler/perl-Business-ISBN-Data
@@ -2645,30 +2434,19 @@ resource_types:
         - https://gitee.com/src-openeuler/gnuplot
         - https://gitee.com/src-openeuler/gnome-terminal
         - https://gitee.com/src-openeuler/convmv
-        - https://gitee.com/src-openeuler/boom-boot
         - https://gitee.com/src-openeuler/docker-compose
-        - https://gitee.com/src-openeuler/dpkg
-        - https://gitee.com/src-openeuler/icoutils
         - https://gitee.com/src-openeuler/perl-Config-IniFiles
         - https://gitee.com/src-openeuler/perl-IO-stringy
         - https://gitee.com/src-openeuler/python-memcached
         - https://gitee.com/src-openeuler/python-psycopg2
-        - https://gitee.com/src-openeuler/seabios
         - https://gitee.com/src-openeuler/python-filelock
         - https://gitee.com/src-openeuler/python-importlib-metadata
         - https://gitee.com/src-openeuler/python-tox
         - https://gitee.com/src-openeuler/python-zipp
-        - https://gitee.com/src-openeuler/procinfo
-        - https://gitee.com/src-openeuler/annobin
         - https://gitee.com/src-openeuler/python-zope-event
         - https://gitee.com/src-openeuler/python-zope-interface
-        - https://gitee.com/src-openeuler/rcs
-        - https://gitee.com/src-openeuler/rootsh
-        - https://gitee.com/src-openeuler/scsi-target-utils
-        - https://gitee.com/src-openeuler/afflib
         - https://gitee.com/src-openeuler/apache-commons-parent
         - https://gitee.com/src-openeuler/classloader-leak-test-framework
-        - https://gitee.com/src-openeuler/debootstrap
         - https://gitee.com/src-openeuler/DevIL
         - https://gitee.com/src-openeuler/dietlibc
         - https://gitee.com/src-openeuler/eclipse
@@ -2679,14 +2457,12 @@ resource_types:
         - https://gitee.com/src-openeuler/java-comment-preprocessor
         - https://gitee.com/src-openeuler/jflex
         - https://gitee.com/src-openeuler/lensfun
-        - https://gitee.com/src-openeuler/libewf
         - https://gitee.com/src-openeuler/maven-antrun-plugin
         - https://gitee.com/src-openeuler/maven-assembly-plugin
         - https://gitee.com/src-openeuler/maven-clean-plugin
         - https://gitee.com/src-openeuler/maven-dependency-analyzer
         - https://gitee.com/src-openeuler/maven-dependency-plugin
         - https://gitee.com/src-openeuler/mchange-commons
-        - https://gitee.com/src-openeuler/mypaint-brushes
         - https://gitee.com/src-openeuler/ocaml-calendar
         - https://gitee.com/src-openeuler/ocaml-camlp4
         - https://gitee.com/src-openeuler/ocaml-camomile
@@ -2721,14 +2497,12 @@ resource_types:
         - https://gitee.com/src-openeuler/python-varlink
         - https://gitee.com/src-openeuler/python-wrapt
         - https://gitee.com/src-openeuler/qt-assistant-adp
-        - https://gitee.com/src-openeuler/sleuthkit
         - https://gitee.com/src-openeuler/sonatype-oss-parent
         - https://gitee.com/src-openeuler/springframework
         - https://gitee.com/src-openeuler/ttfautohint
         - https://gitee.com/src-openeuler/wsdl4j
         - https://gitee.com/src-openeuler/libavc1394
         - https://gitee.com/src-openeuler/libdvdnav
-        - https://gitee.com/src-openeuler/emacs-auctex
         - https://gitee.com/src-openeuler/hibernate-jpa-2.1-api
         - https://gitee.com/src-openeuler/gtk-vnc
         - https://gitee.com/src-openeuler/jdom2
@@ -2746,36 +2520,27 @@ resource_types:
         - https://gitee.com/src-openeuler/ltrace
         - https://gitee.com/src-openeuler/plexus-sec-dispatcher
         - https://gitee.com/src-openeuler/plexus-velocity
-        - https://gitee.com/src-openeuler/poly2tri
         - https://gitee.com/src-openeuler/rng-tools
         - https://gitee.com/src-openeuler/rpm-ostree
         - https://gitee.com/src-openeuler/ecj
         - https://gitee.com/src-openeuler/efl
         - https://gitee.com/src-openeuler/pcp
-        - https://gitee.com/src-openeuler/proj
         - https://gitee.com/src-openeuler/fop
-        - https://gitee.com/src-openeuler/libsodium
         - https://gitee.com/src-openeuler/nano
         - https://gitee.com/src-openeuler/navilu-fonts
-        - https://gitee.com/src-openeuler/libpinyin
         - https://gitee.com/src-openeuler/opencryptoki
         - https://gitee.com/src-openeuler/perl-Digest-SHA1
         - https://gitee.com/src-openeuler/python-ptyprocess
-        - https://gitee.com/src-openeuler/reiserfs-utils
         - https://gitee.com/src-openeuler/virt-manager
         - https://gitee.com/src-openeuler/cyrus-imapd
-        - https://gitee.com/src-openeuler/latex2html
         - https://gitee.com/src-openeuler/openwsman
-        - https://gitee.com/src-openeuler/clucene
         - https://gitee.com/src-openeuler/gnu-free-fonts
         - https://gitee.com/src-openeuler/portaudio
         - https://gitee.com/src-openeuler/xmlunit
         - https://gitee.com/src-openeuler/xpp3
         - https://gitee.com/src-openeuler/python-cssselect
-        - https://gitee.com/src-openeuler/irrlicht
         - https://gitee.com/src-openeuler/jack-audio-connection-kit
         - https://gitee.com/src-openeuler/ocaml-ounit
-        - https://gitee.com/src-openeuler/libmad
         - https://gitee.com/src-openeuler/objectweb-asm
         - https://gitee.com/src-openeuler/ocaml-curses
         - https://gitee.com/src-openeuler/perl-Crypt-OpenSSL-Guess
@@ -2845,9 +2610,6 @@ resource_types:
         - https://gitee.com/src-openeuler/vdsm
         - https://gitee.com/src-openeuler/vdsm-jsonrpc-java
         - https://gitee.com/src-openeuler/dyninst
-        - https://gitee.com/src-openeuler/aalib
-        - https://gitee.com/src-openeuler/biosdevname
-        - https://gitee.com/src-openeuler/dogtail
         - https://gitee.com/src-openeuler/opa-psm2
         - https://gitee.com/src-openeuler/mcelog
         - https://gitee.com/src-openeuler/perl-XML-TokeParser
@@ -2855,11 +2617,7 @@ resource_types:
         - https://gitee.com/src-openeuler/python-execnet
         - https://gitee.com/src-openeuler/python-path
         - https://gitee.com/src-openeuler/python-pytest-shutil
-        - https://gitee.com/src-openeuler/rear
-        - https://gitee.com/src-openeuler/syslinux
         - https://gitee.com/src-openeuler/perl-Sub-Uplevel
-        - https://gitee.com/src-openeuler/mysql
-        - https://gitee.com/src-openeuler/fonts-rpm-macros
         - https://gitee.com/src-openeuler/libmemcached
         - https://gitee.com/src-openeuler/open-sans-fonts
         - https://gitee.com/src-openeuler/libreswan
@@ -2881,8 +2639,6 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-MIME-Types
         - https://gitee.com/src-openeuler/python-alsa
         - https://gitee.com/src-openeuler/python-evdev
-        - https://gitee.com/src-openeuler/tuna
-        - https://gitee.com/src-openeuler/uchardet
         - https://gitee.com/src-openeuler/python-ruamel-yaml
         - https://gitee.com/src-openeuler/python-ruamel-yaml-clib
         - https://gitee.com/src-openeuler/gssntlmssp
@@ -2916,7 +2672,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-service-identity
         - https://gitee.com/src-openeuler/zinc
         - https://gitee.com/src-openeuler/pv
-        - https://gitee.com/src-openeuler/galera
         - https://gitee.com/src-openeuler/python-cherrypy
         - https://gitee.com/src-openeuler/python-networkx
         - https://gitee.com/src-openeuler/python-pecan
@@ -2948,7 +2703,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-matplotlib
         - https://gitee.com/src-openeuler/python-mistune
         - https://gitee.com/src-openeuler/python-pathlib
-        - https://gitee.com/src-openeuler/python-pickleshare
         - https://gitee.com/src-openeuler/python-pybtex
         - https://gitee.com/src-openeuler/python-pybtex-docutils
         - https://gitee.com/src-openeuler/python-pydotplus
@@ -2958,9 +2712,7 @@ resource_types:
         - https://gitee.com/src-openeuler/python-traitlets
         - https://gitee.com/src-openeuler/python-wcwidth
         - https://gitee.com/src-openeuler/python-zmq
-        - https://gitee.com/src-openeuler/qhull
         - https://gitee.com/src-openeuler/SuperLU
-        - https://gitee.com/src-openeuler/apache2-mod_xforward
         - https://gitee.com/src-openeuler/perl-BSSolv
         - https://gitee.com/src-openeuler/perl-Canary-Stability
         - https://gitee.com/src-openeuler/perl-common-sense
@@ -2974,18 +2726,10 @@ resource_types:
         - https://gitee.com/src-openeuler/rubygem-gem2rpm
         - https://gitee.com/src-openeuler/rubygem-rack
         - https://gitee.com/src-openeuler/rust-packaging
-        - https://gitee.com/src-openeuler/sphinx
         - https://gitee.com/src-openeuler/nodejs
-        - https://gitee.com/src-openeuler/obs-bundled-gems
-        - https://gitee.com/src-openeuler/obs-server
-        - https://gitee.com/src-openeuler/obs-service-download_files
-        - https://gitee.com/src-openeuler/obs-service-extract_file
-        - https://gitee.com/src-openeuler/obs-service-rust2rpm
-        - https://gitee.com/src-openeuler/obs-service-set_version
         - https://gitee.com/src-openeuler/passenger
         - https://gitee.com/src-openeuler/ezmorph
         - https://gitee.com/src-openeuler/findbugs-bcel
-        - https://gitee.com/src-openeuler/fuse-python
         - https://gitee.com/src-openeuler/glassfish-annotation-api
         - https://gitee.com/src-openeuler/golang-googlecode-go-crypto
         - https://gitee.com/src-openeuler/golang-googlecode-text
@@ -3245,9 +2989,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-winrm
         - https://gitee.com/src-openeuler/bam
         - https://gitee.com/src-openeuler/bcftools
-        - https://gitee.com/src-openeuler/oec-hardware
-        - https://gitee.com/src-openeuler/oec-application
-        - https://gitee.com/src-openeuler/doracms
         - https://gitee.com/src-openeuler/mock
         - https://gitee.com/src-openeuler/python-pyroute2
         - https://gitee.com/src-openeuler/rocksdb
@@ -3260,7 +3001,6 @@ resource_types:
         - https://gitee.com/src-openeuler/mlpack
         - https://gitee.com/src-openeuler/opencl
         - https://gitee.com/src-openeuler/opennn
-        - https://gitee.com/src-openeuler/obs_meta
         - https://gitee.com/src-openeuler/cjkuni-uming-fonts
         - https://gitee.com/src-openeuler/exo
         - https://gitee.com/src-openeuler/fcitx-configtool
@@ -4329,7 +4069,6 @@ resource_types:
         - https://gitee.com/src-openeuler/mod_security_crs
         - https://gitee.com/src-openeuler/openoffice.org-dict-cs_CZ
         - https://gitee.com/src-openeuler/openoffice-lv
-        - https://gitee.com/src-openeuler/pakchois
         - https://gitee.com/src-openeuler/perl-B-Lint
         - https://gitee.com/src-openeuler/perl-Module-Pluggable
         - https://gitee.com/src-openeuler/perl-Pod-LaTeX
@@ -4358,12 +4097,9 @@ resource_types:
         - https://gitee.com/src-openeuler/custodia
         - https://gitee.com/src-openeuler/dleyna-core
         - https://gitee.com/src-openeuler/dleyna-connector-dbus
-        - https://gitee.com/src-openeuler/fabtests
-        - https://gitee.com/src-openeuler/farstream02
         - https://gitee.com/src-openeuler/foomatic
         - https://gitee.com/src-openeuler/foomatic-db
         - https://gitee.com/src-openeuler/glassfish-jaxb
-        - https://gitee.com/src-openeuler/glassfish-jaxb-api
         - https://gitee.com/src-openeuler/gom
         - https://gitee.com/src-openeuler/gupnp-dlna
         - https://gitee.com/src-openeuler/keycloak-httpd-client-install
@@ -5580,7 +5316,6 @@ resource_types:
         - https://gitee.com/src-openeuler/rapidjson
         - https://gitee.com/src-openeuler/slapi-nis
         - https://gitee.com/src-openeuler/tmpwatch
-        - https://gitee.com/src-openeuler/python-dasbus
         - https://gitee.com/src-openeuler/freeimage
         - https://gitee.com/src-openeuler/perl-Any-URI-Escape
         - https://gitee.com/src-openeuler/perl-Config-Tiny
@@ -5734,8 +5469,6 @@ resource_types:
         - https://gitee.com/src-openeuler/jdom
         - https://gitee.com/src-openeuler/libabigail
         - https://gitee.com/src-openeuler/libmpeg2
-        - https://gitee.com/src-openeuler/libopenraw
-        - https://gitee.com/src-openeuler/libzapojit
         - https://gitee.com/src-openeuler/linkchecker
         - https://gitee.com/src-openeuler/maven-shared
         - https://gitee.com/src-openeuler/maven-verifier-plugin
@@ -5913,7 +5646,6 @@ resource_types:
         - https://gitee.com/src-openeuler/ros
         - https://gitee.com/src-openeuler/rosconsole
         - https://gitee.com/src-openeuler/hello
-        - https://gitee.com/src-openeuler/pkgship
         - https://gitee.com/src-openeuler/apache-mod_jk
         - https://gitee.com/src-openeuler/apache-rpm-macros
         - https://gitee.com/src-openeuler/hunspell-as
@@ -5948,8 +5680,6 @@ resource_types:
         - https://gitee.com/src-openeuler/ps_mem
         - https://gitee.com/src-openeuler/relaxngDatatype
         - https://gitee.com/src-openeuler/nim
-        - https://gitee.com/src-openeuler/abi-compliance-checker
-        - https://gitee.com/src-openeuler/abi-dumper
         - https://gitee.com/src-openeuler/attica
         - https://gitee.com/src-openeuler/bamf
         - https://gitee.com/src-openeuler/grantlee
@@ -5991,7 +5721,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libwbxml
         - https://gitee.com/src-openeuler/mysql-connector-java
         - https://gitee.com/src-openeuler/mysql-selinux
-        - https://gitee.com/src-openeuler/openEuler-lsb
         - https://gitee.com/src-openeuler/python-kerberos
         - https://gitee.com/src-openeuler/mozjs68
         - https://gitee.com/src-openeuler/isula-build
@@ -6024,7 +5753,6 @@ resource_types:
         - https://gitee.com/src-openeuler/py3c
         - https://gitee.com/src-openeuler/beakerlib
         - https://gitee.com/src-openeuler/libnma
-        - https://gitee.com/src-openeuler/gtk4
         - https://gitee.com/src-openeuler/raspberrypi-bluetooth
         - https://gitee.com/src-openeuler/meld
         - https://gitee.com/src-openeuler/uget
@@ -6157,7 +5885,6 @@ resource_types:
         - https://gitee.com/src-openeuler/perl-Sub-Info
         - https://gitee.com/src-openeuler/perl-Term-Table
         - https://gitee.com/src-openeuler/perl-Test2-Suite
-        - https://gitee.com/src-openeuler/oemaker
         - https://gitee.com/src-openeuler/dtkcore2
         - https://gitee.com/src-openeuler/dtkwidget2
         - https://gitee.com/src-openeuler/java-client-kubevirt
@@ -6264,8 +5991,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libzen
         - https://gitee.com/src-openeuler/lightdm-gtk-greeter
         - https://gitee.com/src-openeuler/jxrlib
-        - https://gitee.com/src-openeuler/papirus-icon-theme
-        - https://gitee.com/src-openeuler/onboard
         - https://gitee.com/src-openeuler/qt5-qtvirtualkeyboard
         - https://gitee.com/src-openeuler/qt5-qtspeech
         - https://gitee.com/src-openeuler/qt5dxcb-plugin
@@ -6311,7 +6036,6 @@ resource_types:
         - https://gitee.com/src-openeuler/plasma-breeze
         - https://gitee.com/src-openeuler/xcb-util-cursor
         - https://gitee.com/src-openeuler/weston
-        - https://gitee.com/src-openeuler/patch-tracking
         - https://gitee.com/src-openeuler/python-lhsmdu
         - https://gitee.com/src-openeuler/vmtop
         - https://gitee.com/src-openeuler/openstack-nova
@@ -6955,7 +6679,6 @@ resource_types:
         - https://gitee.com/src-openeuler/atril
         - https://gitee.com/src-openeuler/mathjax
         - https://gitee.com/src-openeuler/shotwell
-        - https://gitee.com/src-openeuler/isula-transform
         - https://gitee.com/src-openeuler/ros_comm_msgs
         - https://gitee.com/src-openeuler/pluginlib
         - https://gitee.com/src-openeuler/glassfish-transaction-api
@@ -7356,10 +7079,6 @@ resource_types:
         - https://gitee.com/src-openeuler/fcitx-qt5
         - https://gitee.com/src-openeuler/libgxim
         - https://gitee.com/src-openeuler/python-keras-rl2
-        - https://gitee.com/src-openeuler/NutShell-Kernel
-        - https://gitee.com/src-openeuler/NutShell-riscv-pk
-        - https://gitee.com/src-openeuler/NutShell-systemd
-        - https://gitee.com/src-openeuler/NutShell-riscv-glibc
         - https://gitee.com/src-openeuler/actionlib
         - https://gitee.com/src-openeuler/angles
         - https://gitee.com/src-openeuler/bond_core
@@ -7370,7 +7089,6 @@ resource_types:
         - https://gitee.com/src-openeuler/common_msgs
         - https://gitee.com/src-openeuler/openslam_gmapping
         - https://gitee.com/src-openeuler/slam_gmapping
-        - https://gitee.com/src-openeuler/openEuler-Advisor
         - https://gitee.com/src-openeuler/uperf
         - https://gitee.com/src-openeuler/linux-sgx-driver
         - https://gitee.com/src-openeuler/intel-sgx-ssl
@@ -7387,9 +7105,6 @@ resource_types:
         - https://gitee.com/src-openeuler/pyScss
         - https://gitee.com/src-openeuler/kmodtool
         - https://gitee.com/src-openeuler/kiran-flameshot
-        - https://gitee.com/src-openeuler/ostree_assembly
-        - https://gitee.com/src-openeuler/atomic
-        - https://gitee.com/src-openeuler/rpm-ostree-toolbox
         - https://gitee.com/src-openeuler/Lmod
         - https://gitee.com/src-openeuler/lua-term
         - https://gitee.com/src-openeuler/A-Tune-UI
@@ -7443,7 +7158,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-flake8
         - https://gitee.com/src-openeuler/python-clufter
         - https://gitee.com/src-openeuler/mod_wsgi
-        - https://gitee.com/src-openeuler/easy-checker
         - https://gitee.com/src-openeuler/t1utils
         - https://gitee.com/src-openeuler/openstack-ironic
         - https://gitee.com/src-openeuler/openstack-ironic-python-agent
@@ -7462,7 +7176,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-tempora
         - https://gitee.com/src-openeuler/libumem
         - https://gitee.com/src-openeuler/novnc
-        - https://gitee.com/src-openeuler/avocado
         - https://gitee.com/src-openeuler/python-cursive
         - https://gitee.com/src-openeuler/ccache
         - https://gitee.com/src-openeuler/gazelle-cni
@@ -7694,13 +7407,11 @@ resource_types:
         - https://gitee.com/src-openeuler/python-ironic-inspector-client
         - https://gitee.com/src-openeuler/filebench
         - https://gitee.com/src-openeuler/liburing
-        - https://gitee.com/src-openeuler/api-guarder
         - https://gitee.com/src-openeuler/openstack-horizon
         - https://gitee.com/src-openeuler/python-sphinxcontrib-log-cabinet
         - https://gitee.com/src-openeuler/zssh
         - https://gitee.com/src-openeuler/qt-at-spi
         - https://gitee.com/src-openeuler/python-limits
-        - https://gitee.com/src-openeuler/python-elasticsearch7
         - https://gitee.com/src-openeuler/python-Flask-Limiter
         - https://gitee.com/src-openeuler/python-rdflib
         - https://gitee.com/src-openeuler/mdb
@@ -7786,7 +7497,6 @@ resource_types:
         - https://gitee.com/src-openeuler/eggo
         - https://gitee.com/src-openeuler/rstudio
         - https://gitee.com/src-openeuler/GATK
-        - https://gitee.com/src-openeuler/linux-test-project
         - https://gitee.com/src-openeuler/mxparser
         - https://gitee.com/src-openeuler/xmlpull
         - https://gitee.com/src-openeuler/bedtools
@@ -7850,7 +7560,6 @@ resource_types:
         - https://gitee.com/src-openeuler/tracker3-miners
         - https://gitee.com/src-openeuler/tepl
         - https://gitee.com/src-openeuler/tracker3
-        - https://gitee.com/src-openeuler/migration-assistant
         - https://gitee.com/src-openeuler/Picard
         - https://gitee.com/src-openeuler/openstack-trove
         - https://gitee.com/src-openeuler/guacamole
@@ -7956,7 +7665,6 @@ resource_types:
         - https://gitee.com/src-openeuler/rubygem-bundler_ext
         - https://gitee.com/src-openeuler/rubygem-webpack-rails
         - https://gitee.com/src-openeuler/puppet-agent-puppet-strings
-        - https://gitee.com/src-openeuler/cobbler
         - https://gitee.com/src-openeuler/python-ldap3
         - https://gitee.com/src-openeuler/low-memory-monitor
         - https://gitee.com/src-openeuler/graphene
@@ -8002,7 +7710,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libportal
         - https://gitee.com/src-openeuler/trimmomatic
         - https://gitee.com/src-openeuler/firesim
-        - https://gitee.com/src-openeuler/mugen
         - https://gitee.com/src-openeuler/python-rpkg
         - https://gitee.com/src-openeuler/python-dbusmock
         - https://gitee.com/src-openeuler/tldr
@@ -8011,7 +7718,6 @@ resource_types:
         - https://gitee.com/src-openeuler/bedops
         - https://gitee.com/src-openeuler/gpdb
         - https://gitee.com/src-openeuler/mongo-tools
-        - https://gitee.com/src-openeuler/dnf-plugin-ovl
         - https://gitee.com/src-openeuler/python-cccolutils
         - https://gitee.com/src-openeuler/nodejs-nodemon
         - https://gitee.com/src-openeuler/perl-File-Next
@@ -8123,7 +7829,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-storops
         - https://gitee.com/src-openeuler/python-hidapi
         - https://gitee.com/src-openeuler/ptpython
-        - https://gitee.com/src-openeuler/pkgdiff
         - https://gitee.com/src-openeuler/lxde-common
         - https://gitee.com/src-openeuler/lxde-icon-theme
         - https://gitee.com/src-openeuler/lxdm
@@ -8172,7 +7877,6 @@ resource_types:
         - https://gitee.com/src-openeuler/gamemode
         - https://gitee.com/src-openeuler/bpytop
         - https://gitee.com/src-openeuler/python-pylama
-        - https://gitee.com/src-openeuler/python-jenkins
         - https://gitee.com/src-openeuler/python-lefthandclient
         - https://gitee.com/src-openeuler/python-sphinx-testing
         - https://gitee.com/src-openeuler/python-opentracing
@@ -8330,7 +8034,6 @@ resource_types:
         - https://gitee.com/src-openeuler/banner
         - https://gitee.com/src-openeuler/nccl
         - https://gitee.com/src-openeuler/telegraf
-        - https://gitee.com/src-openeuler/kata-micro-kernel
         - https://gitee.com/src-openeuler/vhostmd
         - https://gitee.com/src-openeuler/rubygem-fluent-plugin-elasticsearch
         - https://gitee.com/src-openeuler/rubygem-elasticsearch-ruby
@@ -8353,8 +8056,6 @@ resource_types:
         - https://gitee.com/src-openeuler/image_pipeline
         - https://gitee.com/src-openeuler/common_tutorials
         - https://gitee.com/src-openeuler/geometry_tutorials
-        - https://gitee.com/src-openeuler/yocto-pseudo
-        - https://gitee.com/src-openeuler/yocto-opkg-utils
         - https://gitee.com/src-openeuler/docbook5-schemas
         - https://gitee.com/src-openeuler/argus
         - https://gitee.com/src-openeuler/genders
@@ -8374,12 +8075,6 @@ resource_types:
         - https://gitee.com/src-openeuler/kubeedge
         - https://gitee.com/src-openeuler/python-supervisor
         - https://gitee.com/src-openeuler/native-turbo
-        - https://gitee.com/src-openeuler/masscan
-        - https://gitee.com/src-openeuler/whois
-        - https://gitee.com/src-openeuler/netsniff-ng
-        - https://gitee.com/src-openeuler/bird
-        - https://gitee.com/src-openeuler/fstrm
-        - https://gitee.com/src-openeuler/nfdump
         - https://gitee.com/src-openeuler/robodoc
         - https://gitee.com/src-openeuler/libgsasl
         - https://gitee.com/src-openeuler/libntlm
@@ -8411,25 +8106,12 @@ resource_types:
         - https://gitee.com/src-openeuler/ethercat-igh
         - https://gitee.com/src-openeuler/beanstalkd
         - https://gitee.com/src-openeuler/teuthology
-        - https://gitee.com/src-openeuler/cgit
-        - https://gitee.com/src-openeuler/php-pecl-zip
-        - https://gitee.com/src-openeuler/gnustep-make
-        - https://gitee.com/src-openeuler/php-pear
-        - https://gitee.com/src-openeuler/zipkin
-        - https://gitee.com/src-openeuler/gnustep-base
         - https://gitee.com/src-openeuler/claws-mail
         - https://gitee.com/src-openeuler/gumbo-parser
         - https://gitee.com/src-openeuler/libytnef
         - https://gitee.com/src-openeuler/libetpan
-        - https://gitee.com/src-openeuler/libnatpmp
-        - https://gitee.com/src-openeuler/siege
         - https://gitee.com/src-openeuler/patchelf
-        - https://gitee.com/src-openeuler/msgpack-c
-        - https://gitee.com/src-openeuler/pugixml
-        - https://gitee.com/src-openeuler/libtorrent
-        - https://gitee.com/src-openeuler/librsync
         - https://gitee.com/src-openeuler/newlib
-        - https://gitee.com/src-openeuler/python-jedi
         - https://gitee.com/src-openeuler/flang
         - https://gitee.com/src-openeuler/openjdk-17
         - https://gitee.com/src-openeuler/raspberrypi-eeprom
@@ -8447,82 +8129,7 @@ resource_types:
         - https://gitee.com/src-openeuler/kiran-session-manager
         - https://gitee.com/src-openeuler/kiran-widgets-qt5
         - https://gitee.com/src-openeuler/dust
-        - https://gitee.com/src-openeuler/a52dec
-        - https://gitee.com/src-openeuler/arpack
-        - https://gitee.com/src-openeuler/asdcplib
-        - https://gitee.com/src-openeuler/blis
-        - https://gitee.com/src-openeuler/ceres-solver
-        - https://gitee.com/src-openeuler/cliquer
-        - https://gitee.com/src-openeuler/coin-or-cbc
-        - https://gitee.com/src-openeuler/coin-or-cgl
-        - https://gitee.com/src-openeuler/coin-or-clp
-        - https://gitee.com/src-openeuler/coin-or-coinutils
-        - https://gitee.com/src-openeuler/coin-or-data-miplib3
-        - https://gitee.com/src-openeuler/coin-or-data-netlib
-        - https://gitee.com/src-openeuler/coin-or-dylp
-        - https://gitee.com/src-openeuler/coin-or-osi
-        - https://gitee.com/src-openeuler/coin-or-sample
-        - https://gitee.com/src-openeuler/coin-or-vol
-        - https://gitee.com/src-openeuler/compat-lua
-        - https://gitee.com/src-openeuler/daala
-        - https://gitee.com/src-openeuler/dcmtk
-        - https://gitee.com/src-openeuler/eigen3
-        - https://gitee.com/src-openeuler/faad2
-        - https://gitee.com/src-openeuler/fbida
-        - https://gitee.com/src-openeuler/fbset
-        - https://gitee.com/src-openeuler/flexiblas
-        - https://gitee.com/src-openeuler/gdcm
-        - https://gitee.com/src-openeuler/gecode
-        - https://gitee.com/src-openeuler/glslang
-        - https://gitee.com/src-openeuler/gpac
-        - https://gitee.com/src-openeuler/id3lib
-        - https://gitee.com/src-openeuler/libcaca
-        - https://gitee.com/src-openeuler/libcddb
-        - https://gitee.com/src-openeuler/libcec
-        - https://gitee.com/src-openeuler/libdc1394
-        - https://gitee.com/src-openeuler/libdca
-        - https://gitee.com/src-openeuler/libdvbpsi
-        - https://gitee.com/src-openeuler/libebml
-        - https://gitee.com/src-openeuler/libfreenect
-        - https://gitee.com/src-openeuler/libharu
-        - https://gitee.com/src-openeuler/libmatroska
-        - https://gitee.com/src-openeuler/libmicrodns
-        - https://gitee.com/src-openeuler/libmp4v2
-        - https://gitee.com/src-openeuler/libmysofa
-        - https://gitee.com/src-openeuler/libopenmpt
-        - https://gitee.com/src-openeuler/librttopo
-        - https://gitee.com/src-openeuler/librx
-        - https://gitee.com/src-openeuler/libspatialaudio
-        - https://gitee.com/src-openeuler/libtiger
-        - https://gitee.com/src-openeuler/libucil
-        - https://gitee.com/src-openeuler/libunicap
-        - https://gitee.com/src-openeuler/lilv
-        - https://gitee.com/src-openeuler/lirc
-        - https://gitee.com/src-openeuler/live555
-        - https://gitee.com/src-openeuler/lv2
-        - https://gitee.com/src-openeuler/man2html
         - https://gitee.com/src-openeuler/metis
-        - https://gitee.com/src-openeuler/mp
-        - https://gitee.com/src-openeuler/mpi4py
-        - https://gitee.com/src-openeuler/mumps
-        - https://gitee.com/src-openeuler/nauty
-        - https://gitee.com/src-openeuler/netcdf-cxx
-        - https://gitee.com/src-openeuler/openslide
-        - https://gitee.com/src-openeuler/platform
-        - https://gitee.com/src-openeuler/python-sphinx_lv2_theme
-        - https://gitee.com/src-openeuler/rust-srpm-macros
-        - https://gitee.com/src-openeuler/scalapack
-        - https://gitee.com/src-openeuler/schroedinger
-        - https://gitee.com/src-openeuler/scotch
-        - https://gitee.com/src-openeuler/serd
-        - https://gitee.com/src-openeuler/sord
-        - https://gitee.com/src-openeuler/sparsehash
-        - https://gitee.com/src-openeuler/sratom
-        - https://gitee.com/src-openeuler/sysconftool
-        - https://gitee.com/src-openeuler/vapoursynth
-        - https://gitee.com/src-openeuler/vlc
-        - https://gitee.com/src-openeuler/vmaf
-        - https://gitee.com/src-openeuler/vtk
         - https://gitee.com/src-openeuler/xxhash
         - https://gitee.com/src-openeuler/qt-gui
         - https://gitee.com/src-openeuler/rqt
@@ -8784,7 +8391,6 @@ resource_types:
         - https://gitee.com/src-openeuler/libslirp
         - https://gitee.com/src-openeuler/libvarlink
         - https://gitee.com/src-openeuler/ssh-key-dir
-        - https://gitee.com/src-openeuler/install-scripts
         - https://gitee.com/src-openeuler/layer-shell-qt
         - https://gitee.com/src-openeuler/kwayland-server
         - https://gitee.com/src-openeuler/ddcutil
@@ -8806,7 +8412,6 @@ resource_types:
         - https://gitee.com/src-openeuler/hue
         - https://gitee.com/src-openeuler/astream
         - https://gitee.com/src-openeuler/nestos-installer
-        - https://gitee.com/src-openeuler/imageTailor
         - https://gitee.com/src-openeuler/python-fastjsonschema
         - https://gitee.com/src-openeuler/jsonnet
         - https://gitee.com/src-openeuler/rubygem-racc
@@ -8832,8 +8437,6 @@ resource_types:
         - https://gitee.com/src-openeuler/qfs
         - https://gitee.com/src-openeuler/giraph
         - https://gitee.com/src-openeuler/datafu
-        - https://gitee.com/src-openeuler/axel
-        - https://gitee.com/src-openeuler/txt2man
         - https://gitee.com/src-openeuler/kmod-drbd90
         - https://gitee.com/src-openeuler/TCP_option_address
         - https://gitee.com/src-openeuler/urdfdom
@@ -8863,7 +8466,6 @@ resource_types:
         - https://gitee.com/src-openeuler/gi-docgen
         - https://gitee.com/src-openeuler/libadwaita
         - https://gitee.com/src-openeuler/calcite
-        - https://gitee.com/src-openeuler/wordpress
         - https://gitee.com/src-openeuler/kite-sdk
         - https://gitee.com/src-openeuler/impala
         - https://gitee.com/src-openeuler/knox
@@ -8909,7 +8511,6 @@ resource_types:
         - https://gitee.com/src-openeuler/nload
         - https://gitee.com/src-openeuler/python-setuptools-declarative-requirements
         - https://gitee.com/src-openeuler/python-pypiserver
-        - https://gitee.com/src-openeuler/CreateImage
         - https://gitee.com/src-openeuler/TRF
         - https://gitee.com/src-openeuler/mint-y-icons
         - https://gitee.com/src-openeuler/mint-x-icons
@@ -9184,7 +8785,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-Platypus-Opt
         - https://gitee.com/src-openeuler/python-openbox
         - https://gitee.com/src-openeuler/python-ConfigSpace
-        - https://gitee.com/src-openeuler/ubackup
         - https://gitee.com/src-openeuler/NetworkManager-pptp
         - https://gitee.com/src-openeuler/python-tinycss2
         - https://gitee.com/src-openeuler/tint2
@@ -9202,7 +8802,6 @@ resource_types:
         - https://gitee.com/src-openeuler/pyArango
         - https://gitee.com/src-openeuler/arangodb
         - https://gitee.com/src-openeuler/NetworkManager-l2tp
-        - https://gitee.com/src-openeuler/restic
         - https://gitee.com/src-openeuler/k3s-selinux
         - https://gitee.com/src-openeuler/k3s
         - https://gitee.com/src-openeuler/k3s-containerd
@@ -9240,11 +8839,9 @@ resource_types:
         - https://gitee.com/src-openeuler/flamegraph
         - https://gitee.com/src-openeuler/pin-server
         - https://gitee.com/src-openeuler/pin-gcc-client
-        - https://gitee.com/src-openeuler/yocto-poky
         - https://gitee.com/src-openeuler/rubygem-log4r
         - https://gitee.com/src-openeuler/rubygem-net-sftp
         - https://gitee.com/src-openeuler/optimized-routines
-        - https://gitee.com/src-openeuler/mandoc
         - https://gitee.com/src-openeuler/tinyproxy
         - https://gitee.com/src-openeuler/python-isula
         - https://gitee.com/src-openeuler/rubygem-fog-libvirt
@@ -9338,7 +8935,6 @@ resource_types:
         - https://gitee.com/src-openeuler/bsfilter
         - https://gitee.com/src-openeuler/edgex-go
         - https://gitee.com/src-openeuler/python-tomli-w
-        - https://gitee.com/src-openeuler/i3
         - https://gitee.com/src-openeuler/procenv
         - https://gitee.com/src-openeuler/libvirt-dbus
         - https://gitee.com/src-openeuler/qax-gm-certificates
@@ -9359,14 +8955,12 @@ resource_types:
         - https://gitee.com/src-openeuler/lustre
         - https://gitee.com/src-openeuler/daos
         - https://gitee.com/src-openeuler/oneDAL
-        - https://gitee.com/src-openeuler/qla2xxx
         - https://gitee.com/src-openeuler/Kmesh
         - https://gitee.com/src-openeuler/hikptool
         - https://gitee.com/src-openeuler/teleport
         - https://gitee.com/src-openeuler/exim
         - https://gitee.com/src-openeuler/k3s-plugins
         - https://gitee.com/src-openeuler/mold
-        - https://gitee.com/src-openeuler/nvidia-gpu-kernel-modules
         - https://gitee.com/src-openeuler/okular
         - https://gitee.com/src-openeuler/tcmu-runner
         - https://gitee.com/src-openeuler/ceph-iscsi
@@ -9406,7 +9000,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-flatbuffers
         - https://gitee.com/src-openeuler/re2-rust
         - https://gitee.com/src-openeuler/dsoftbus
-        - https://gitee.com/src-openeuler/trinity
         - https://gitee.com/src-openeuler/libarchive-rust
         - https://gitee.com/src-openeuler/libxml2-rust
         - https://gitee.com/src-openeuler/fstools
@@ -9545,7 +9138,6 @@ resource_types:
         - https://gitee.com/src-openeuler/ros2_srdfdom
         - https://gitee.com/src-openeuler/webkit2gtk5
         - https://gitee.com/src-openeuler/webkit2gtk4
-        - https://gitee.com/src-openeuler/i3status
         - https://gitee.com/src-openeuler/apptainer
         - https://gitee.com/src-openeuler/squashfuse
         - https://gitee.com/src-openeuler/perl-Algorithm-C3
@@ -9554,7 +9146,6 @@ resource_types:
         - https://gitee.com/src-openeuler/webp-pixbuf-loader
         - https://gitee.com/src-openeuler/tinytoml
         - https://gitee.com/src-openeuler/c2rust
-        - https://gitee.com/src-openeuler/dmenu
         - https://gitee.com/src-openeuler/qt6-qttranslations
         - https://gitee.com/src-openeuler/qt6-qtwebengine
         - https://gitee.com/src-openeuler/qt6-qt5compat
@@ -9627,7 +9218,6 @@ resource_types:
         - https://gitee.com/src-openeuler/compat-rest
         - https://gitee.com/src-openeuler/libhv
         - https://gitee.com/src-openeuler/kea
-        - https://gitee.com/src-openeuler/m1600-driver
         - https://gitee.com/src-openeuler/rubygem-capng_c
         - https://gitee.com/src-openeuler/dtkcommon
         - https://gitee.com/src-openeuler/oec-cloud
@@ -10210,7 +9800,6 @@ resource_types:
         - https://gitee.com/src-openeuler/polly-15
         - https://gitee.com/src-openeuler/flang-15
         - https://gitee.com/src-openeuler/perl-HTTP-CookieJar
-        - https://gitee.com/src-openeuler/sssnic-driver
         - https://gitee.com/src-openeuler/rpkg
         - https://gitee.com/src-openeuler/python-stack-data
         - https://gitee.com/src-openeuler/python-executing
@@ -10224,9 +9813,7 @@ resource_types:
         - https://gitee.com/src-openeuler/mysqld_exporter
         - https://gitee.com/src-openeuler/ub-lldpd
         - https://gitee.com/src-openeuler/ub-dhcp
-        - https://gitee.com/src-openeuler/hinic3
         - https://gitee.com/src-openeuler/QingShuang
-        - https://gitee.com/src-openeuler/SmartHBA-2100-8i-driver
         - https://gitee.com/src-openeuler/pulsar
         - https://gitee.com/src-openeuler/libgmem
         - https://gitee.com/src-openeuler/python-watchfiles
@@ -10289,12 +9876,6 @@ resource_types:
         - https://gitee.com/src-openeuler/python-pytest-ruff
         - https://gitee.com/src-openeuler/lizardfs
         - https://gitee.com/src-openeuler/eventmesh
-        - https://gitee.com/src-openeuler/xcompmgr
-        - https://gitee.com/src-openeuler/i3blocks-contrib
-        - https://gitee.com/src-openeuler/i3blocks
-        - https://gitee.com/src-openeuler/feh
-        - https://gitee.com/src-openeuler/acpi
-        - https://gitee.com/src-openeuler/i3lock
         - https://gitee.com/src-openeuler/python-html5-parser
         - https://gitee.com/src-openeuler/paraver-kernel
         - https://gitee.com/src-openeuler/BSC-wxparaver
@@ -10459,12 +10040,10 @@ resource_types:
         - https://gitee.com/src-openeuler/python-pytest-subprocess
         - https://gitee.com/src-openeuler/xscreensaver
         - https://gitee.com/src-openeuler/appres
-        - https://gitee.com/src-openeuler/opennjet
         - https://gitee.com/src-openeuler/gala-ragdoll
         - https://gitee.com/src-openeuler/chatglm.cpp
         - https://gitee.com/src-openeuler/llama.cpp
         - https://gitee.com/src-openeuler/CTinspector
-        - https://gitee.com/src-openeuler/cve-ease
         - https://gitee.com/src-openeuler/PilotGo-plugin-grafana
         - https://gitee.com/src-openeuler/PilotGo
         - https://gitee.com/src-openeuler/PilotGo-plugin-prometheus
@@ -10473,15 +10052,434 @@ resource_types:
         - https://gitee.com/src-openeuler/kmail-account-wizard
         - https://gitee.com/src-openeuler/pim-data-exporter
         - https://gitee.com/src-openeuler/akonadi-import-wizard
+        - https://gitee.com/openeuler/docs
     governance-repositories:
         repo_urls: 
-        - https://gitee.com/openeuler/sig-Edge
-        - https://gitee.com/openeuler/sig-OpenBoard
+        - https://gitee.com/openeuler/A-guard
+        - https://gitee.com/openeuler/anbox
+        - https://gitee.com/openeuler/api-guarder
+        - https://gitee.com/openeuler/authz
+        - https://gitee.com/openeuler/avocado-vt
+        - https://gitee.com/openeuler/cache-proxy
+        - https://gitee.com/openeuler/certificate-center
+        - https://gitee.com/openeuler/ci-bot
+        - https://gitee.com/openeuler/community-issue
+        - https://gitee.com/openeuler/compass-ci
+        - https://gitee.com/openeuler/compiler-test
+        - https://gitee.com/openeuler/container-test
+        - https://gitee.com/openeuler/CreateImage
+        - https://gitee.com/openeuler/cve-ease
+        - https://gitee.com/openeuler/cve-manager
+        - https://gitee.com/openeuler/docs-accompany-reading
+        - https://gitee.com/openeuler/easy-checker
+        - https://gitee.com/openeuler/embedded-ci
+        - https://gitee.com/openeuler/env_check
+        - https://gitee.com/openeuler/eulerfs
+        - https://gitee.com/openeuler/eulerlauncher
+        - https://gitee.com/openeuler/eulerpublisher
+        - https://gitee.com/openeuler/EulerRobot
+        - https://gitee.com/openeuler/G11N
+        - https://gitee.com/openeuler/git-basics
+        - https://gitee.com/openeuler/gitbook-theme-hugo
+        - https://gitee.com/openeuler/globalization
+        - https://gitee.com/openeuler/go-gitee
+        - https://gitee.com/openeuler/hands-on
+        - https://gitee.com/openeuler/hinic3
+        - https://gitee.com/openeuler/hw-buaa-lab
+        - https://gitee.com/openeuler/imageTailor
+        - https://gitee.com/openeuler/infrastructure
+        - https://gitee.com/openeuler/install-scripts
+        - https://gitee.com/openeuler/integration-test
+        - https://gitee.com/openeuler/isula-transform
+        - https://gitee.com/openeuler/iSulad-img
+        - https://gitee.com/openeuler/lboot
+        - https://gitee.com/openeuler/lfs-course
+        - https://gitee.com/openeuler/li-wen
+        - https://gitee.com/openeuler/linux-operation
+        - https://gitee.com/openeuler/lzu-icc-nsg
+        - https://gitee.com/openeuler/m1600-driver
+        - https://gitee.com/openeuler/marketing
+        - https://gitee.com/openeuler/micro-certification
+        - https://gitee.com/openeuler/migration-assistant
+        - https://gitee.com/openeuler/migration-tools
+        - https://gitee.com/openeuler/mugen
+        - https://gitee.com/openeuler/oe-performance
+        - https://gitee.com/openeuler/oebuild
+        - https://gitee.com/openeuler/oec-application
+        - https://gitee.com/openeuler/oec-cloud
+        - https://gitee.com/openeuler/oec-hardware
+        - https://gitee.com/openeuler/oecp
+        - https://gitee.com/openeuler/oemaker
+        - https://gitee.com/openeuler/open-source-summer
+        - https://gitee.com/openeuler/opendesign
+        - https://gitee.com/openeuler/opendesign-backend
+        - https://gitee.com/openeuler/opendesign-build
+        - https://gitee.com/openeuler/opendesign-components
+        - https://gitee.com/openeuler/opendesign-datastat
+        - https://gitee.com/openeuler/opendesign-deployment
+        - https://gitee.com/openeuler/opendesign-internship
+        - https://gitee.com/openeuler/opendesign-miniprogram
+        - https://gitee.com/openeuler/opendesign-resources
+        - https://gitee.com/openeuler/opendesign-templates
+        - https://gitee.com/openeuler/openEuler_chroot
+        - https://gitee.com/openeuler/openEuler-Advisor
+        - https://gitee.com/openeuler/openeuler-jenkins
+        - https://gitee.com/openeuler/openEuler-lsb
+        - https://gitee.com/openeuler/openeuler-obs
+        - https://gitee.com/openeuler/openeuler-os-build
+        - https://gitee.com/openeuler/openEuler-portal
+        - https://gitee.com/openeuler/opensource-intern
+        - https://gitee.com/openeuler/package-reinforce-test
+        - https://gitee.com/openeuler/patch-tracking
+        - https://gitee.com/openeuler/pkgship
+        - https://gitee.com/openeuler/QA
+        - https://gitee.com/openeuler/QARobot
+        - https://gitee.com/openeuler/qla2xxx
+        - https://gitee.com/openeuler/quick-issue
+        - https://gitee.com/openeuler/radiaTest
+        - https://gitee.com/openeuler/release-management
+        - https://gitee.com/openeuler/release-tools
+        - https://gitee.com/openeuler/reproducible-builds
+        - https://gitee.com/openeuler/service_capability
+        - https://gitee.com/openeuler/service_trainning
+        - https://gitee.com/openeuler/signatrust
+        - https://gitee.com/openeuler/sssnic-driver
+        - https://gitee.com/openeuler/summer2022
+        - https://gitee.com/openeuler/sync-bot
+        - https://gitee.com/openeuler/taishan-oslab
+        - https://gitee.com/openeuler/talent-assessment
+        - https://gitee.com/openeuler/TC
+        - https://gitee.com/openeuler/technical-certification
+        - https://gitee.com/openeuler/test-tools
+        - https://gitee.com/openeuler/tool-collections
+        - https://gitee.com/openeuler/tp-libvirt
+        - https://gitee.com/openeuler/tp-qemu
+        - https://gitee.com/openeuler/ubackup
+        - https://gitee.com/openeuler/user-committee
+        - https://gitee.com/openeuler/wsl
+        - https://gitee.com/openeuler/yocto-embedded-tools
+        - https://gitee.com/openeuler/yocto-meta-openembedded
+        - https://gitee.com/openeuler/yocto-meta-openeuler
+        - https://gitee.com/openeuler/yocto-meta-qt5
+        - https://gitee.com/openeuler/yocto-meta-rockchip
+        - https://gitee.com/openeuler/yocto-meta-ros
+        - https://gitee.com/openeuler/yocto-meta-virtualization
+        - https://gitee.com/openeuler/yocto-poky
+        - https://gitee.com/src-openeuler/iSulad-img
+        - https://gitee.com/src-openeuler/authz
+        - https://gitee.com/src-openeuler/cdrkit
+        - https://gitee.com/src-openeuler/dnf
+        - https://gitee.com/src-openeuler/dnf-plugins-core
+        - https://gitee.com/src-openeuler/efibootmgr
+        - https://gitee.com/src-openeuler/efi-rpm-macros
+        - https://gitee.com/src-openeuler/efivar
+        - https://gitee.com/src-openeuler/grub2
+        - https://gitee.com/src-openeuler/ipxe
+        - https://gitee.com/src-openeuler/libdnf
+        - https://gitee.com/src-openeuler/libsolv
+        - https://gitee.com/src-openeuler/anaconda
+        - https://gitee.com/src-openeuler/anaconda-user-help
+        - https://gitee.com/src-openeuler/blivet-gui
+        - https://gitee.com/src-openeuler/lorax
+        - https://gitee.com/src-openeuler/python-crypto
+        - https://gitee.com/src-openeuler/uboot-tools
+        - https://gitee.com/src-openeuler/openEuler_chroot
+        - https://gitee.com/src-openeuler/openEuler-latest-release
+        - https://gitee.com/src-openeuler/rpmdevtools
+        - https://gitee.com/src-openeuler/osc
+        - https://gitee.com/src-openeuler/obs-build
+        - https://gitee.com/src-openeuler/u2f-hidraw-policy
+        - https://gitee.com/src-openeuler/copy-jdk-configs
+        - https://gitee.com/src-openeuler/phonon
+        - https://gitee.com/src-openeuler/sip
+        - https://gitee.com/src-openeuler/re2
+        - https://gitee.com/src-openeuler/gstreamer1-plugins-good
+        - https://gitee.com/src-openeuler/gtk
+        - https://gitee.com/src-openeuler/opusfile
+        - https://gitee.com/src-openeuler/espeak-ng
+        - https://gitee.com/src-openeuler/SDL2
+        - https://gitee.com/src-openeuler/libwmf
+        - https://gitee.com/src-openeuler/libgovirt
+        - https://gitee.com/src-openeuler/clamav
+        - https://gitee.com/src-openeuler/glibmm24
+        - https://gitee.com/src-openeuler/libsigcpp20
+        - https://gitee.com/src-openeuler/xapian-core
+        - https://gitee.com/src-openeuler/container-exception-logger
+        - https://gitee.com/src-openeuler/marisa
+        - https://gitee.com/src-openeuler/opencc
+        - https://gitee.com/src-openeuler/gtkmm30
+        - https://gitee.com/src-openeuler/flite
+        - https://gitee.com/src-openeuler/gnome-packagekit
+        - https://gitee.com/src-openeuler/gtksourceview3
+        - https://gitee.com/src-openeuler/keyrings-filesystem
+        - https://gitee.com/src-openeuler/libid3tag
+        - https://gitee.com/src-openeuler/mac-robber
+        - https://gitee.com/src-openeuler/multilib-rpm-config
+        - https://gitee.com/src-openeuler/libspiro
+        - https://gitee.com/src-openeuler/nilfs-utils
+        - https://gitee.com/src-openeuler/dvdplusrw-tools
+        - https://gitee.com/src-openeuler/babl
+        - https://gitee.com/src-openeuler/cldr-emoji-annotation
+        - https://gitee.com/src-openeuler/festival
+        - https://gitee.com/src-openeuler/festival-freebsoft-utils
+        - https://gitee.com/src-openeuler/gegl04
+        - https://gitee.com/src-openeuler/gimp
+        - https://gitee.com/src-openeuler/libxmlb
+        - https://gitee.com/src-openeuler/mt-st
+        - https://gitee.com/src-openeuler/nbdkit
+        - https://gitee.com/src-openeuler/nginx
+        - https://gitee.com/src-openeuler/sox
+        - https://gitee.com/src-openeuler/libmypaint
+        - https://gitee.com/src-openeuler/raptor2
+        - https://gitee.com/src-openeuler/sblim-sfcCommon
+        - https://gitee.com/src-openeuler/xhtml1-dtds
+        - https://gitee.com/src-openeuler/breeze-icon-theme
+        - https://gitee.com/src-openeuler/djvulibre
+        - https://gitee.com/src-openeuler/libgdither
+        - https://gitee.com/src-openeuler/libburn
+        - https://gitee.com/src-openeuler/libisofs
+        - https://gitee.com/src-openeuler/suitesparse
+        - https://gitee.com/src-openeuler/conmon
+        - https://gitee.com/src-openeuler/gavl
+        - https://gitee.com/src-openeuler/hfsplus-tools
+        - https://gitee.com/src-openeuler/pcaudiolib
+        - https://gitee.com/src-openeuler/python-blivet
+        - https://gitee.com/src-openeuler/mongo-c-driver
+        - https://gitee.com/src-openeuler/redis
+        - https://gitee.com/src-openeuler/sassc
+        - https://gitee.com/src-openeuler/gcc_secure
+        - https://gitee.com/src-openeuler/python-pycdlib
+        - https://gitee.com/src-openeuler/python-keyczar
+        - https://gitee.com/src-openeuler/anthy
+        - https://gitee.com/src-openeuler/assimp
+        - https://gitee.com/src-openeuler/ImageMagick
+        - https://gitee.com/src-openeuler/libgnomeui
+        - https://gitee.com/src-openeuler/twolame
+        - https://gitee.com/src-openeuler/ucs-miscfixed-fonts
+        - https://gitee.com/src-openeuler/zerofree
+        - https://gitee.com/src-openeuler/libaesgm
+        - https://gitee.com/src-openeuler/urlview
+        - https://gitee.com/src-openeuler/kyotocabinet
+        - https://gitee.com/src-openeuler/lame
+        - https://gitee.com/src-openeuler/dkms
+        - https://gitee.com/src-openeuler/libhbalinux
+        - https://gitee.com/src-openeuler/PyPAM
+        - https://gitee.com/src-openeuler/tidy
+        - https://gitee.com/src-openeuler/boom-boot
+        - https://gitee.com/src-openeuler/dpkg
+        - https://gitee.com/src-openeuler/icoutils
+        - https://gitee.com/src-openeuler/seabios
+        - https://gitee.com/src-openeuler/procinfo
+        - https://gitee.com/src-openeuler/annobin
+        - https://gitee.com/src-openeuler/rcs
+        - https://gitee.com/src-openeuler/rootsh
+        - https://gitee.com/src-openeuler/scsi-target-utils
+        - https://gitee.com/src-openeuler/afflib
+        - https://gitee.com/src-openeuler/debootstrap
+        - https://gitee.com/src-openeuler/libewf
+        - https://gitee.com/src-openeuler/mypaint-brushes
+        - https://gitee.com/src-openeuler/sleuthkit
+        - https://gitee.com/src-openeuler/emacs-auctex
+        - https://gitee.com/src-openeuler/poly2tri
+        - https://gitee.com/src-openeuler/proj
+        - https://gitee.com/src-openeuler/libsodium
+        - https://gitee.com/src-openeuler/libpinyin
+        - https://gitee.com/src-openeuler/reiserfs-utils
+        - https://gitee.com/src-openeuler/latex2html
+        - https://gitee.com/src-openeuler/clucene
+        - https://gitee.com/src-openeuler/irrlicht
+        - https://gitee.com/src-openeuler/libmad
+        - https://gitee.com/src-openeuler/aalib
+        - https://gitee.com/src-openeuler/biosdevname
+        - https://gitee.com/src-openeuler/dogtail
+        - https://gitee.com/src-openeuler/rear
+        - https://gitee.com/src-openeuler/syslinux
+        - https://gitee.com/src-openeuler/mysql
+        - https://gitee.com/src-openeuler/fonts-rpm-macros
+        - https://gitee.com/src-openeuler/tuna
+        - https://gitee.com/src-openeuler/uchardet
+        - https://gitee.com/src-openeuler/galera
+        - https://gitee.com/src-openeuler/python-pickleshare
+        - https://gitee.com/src-openeuler/qhull
+        - https://gitee.com/src-openeuler/apache2-mod_xforward
+        - https://gitee.com/src-openeuler/sphinx
+        - https://gitee.com/src-openeuler/obs-bundled-gems
+        - https://gitee.com/src-openeuler/obs-server
+        - https://gitee.com/src-openeuler/obs-service-download_files
+        - https://gitee.com/src-openeuler/obs-service-extract_file
+        - https://gitee.com/src-openeuler/obs-service-rust2rpm
+        - https://gitee.com/src-openeuler/obs-service-set_version
+        - https://gitee.com/src-openeuler/fuse-python
+        - https://gitee.com/src-openeuler/oec-hardware
+        - https://gitee.com/src-openeuler/oec-application
+        - https://gitee.com/src-openeuler/doracms
+        - https://gitee.com/src-openeuler/obs_meta
+        - https://gitee.com/src-openeuler/pakchois
+        - https://gitee.com/src-openeuler/fabtests
+        - https://gitee.com/src-openeuler/farstream02
+        - https://gitee.com/src-openeuler/glassfish-jaxb-api
+        - https://gitee.com/src-openeuler/python-dasbus
+        - https://gitee.com/src-openeuler/libopenraw
+        - https://gitee.com/src-openeuler/libzapojit
+        - https://gitee.com/src-openeuler/pkgship
+        - https://gitee.com/src-openeuler/abi-compliance-checker
+        - https://gitee.com/src-openeuler/abi-dumper
+        - https://gitee.com/src-openeuler/openEuler-lsb
+        - https://gitee.com/src-openeuler/gtk4
+        - https://gitee.com/src-openeuler/oemaker
+        - https://gitee.com/src-openeuler/papirus-icon-theme
+        - https://gitee.com/src-openeuler/onboard
+        - https://gitee.com/src-openeuler/patch-tracking
+        - https://gitee.com/src-openeuler/isula-transform
+        - https://gitee.com/src-openeuler/NutShell-Kernel
+        - https://gitee.com/src-openeuler/NutShell-riscv-pk
+        - https://gitee.com/src-openeuler/NutShell-systemd
+        - https://gitee.com/src-openeuler/NutShell-riscv-glibc
+        - https://gitee.com/src-openeuler/openEuler-Advisor
+        - https://gitee.com/src-openeuler/ostree_assembly
+        - https://gitee.com/src-openeuler/atomic
+        - https://gitee.com/src-openeuler/rpm-ostree-toolbox
+        - https://gitee.com/src-openeuler/easy-checker
+        - https://gitee.com/src-openeuler/avocado
+        - https://gitee.com/src-openeuler/api-guarder
+        - https://gitee.com/src-openeuler/python-elasticsearch7
+        - https://gitee.com/src-openeuler/linux-test-project
+        - https://gitee.com/src-openeuler/migration-assistant
+        - https://gitee.com/src-openeuler/cobbler
+        - https://gitee.com/src-openeuler/mugen
+        - https://gitee.com/src-openeuler/dnf-plugin-ovl
+        - https://gitee.com/src-openeuler/pkgdiff
+        - https://gitee.com/src-openeuler/python-jenkins
+        - https://gitee.com/src-openeuler/kata-micro-kernel
+        - https://gitee.com/src-openeuler/yocto-pseudo
+        - https://gitee.com/src-openeuler/yocto-opkg-utils
+        - https://gitee.com/src-openeuler/masscan
+        - https://gitee.com/src-openeuler/whois
+        - https://gitee.com/src-openeuler/netsniff-ng
+        - https://gitee.com/src-openeuler/bird
+        - https://gitee.com/src-openeuler/fstrm
+        - https://gitee.com/src-openeuler/nfdump
+        - https://gitee.com/src-openeuler/cgit
+        - https://gitee.com/src-openeuler/php-pecl-zip
+        - https://gitee.com/src-openeuler/gnustep-make
+        - https://gitee.com/src-openeuler/php-pear
+        - https://gitee.com/src-openeuler/zipkin
+        - https://gitee.com/src-openeuler/gnustep-base
+        - https://gitee.com/src-openeuler/libnatpmp
+        - https://gitee.com/src-openeuler/siege
+        - https://gitee.com/src-openeuler/msgpack-c
+        - https://gitee.com/src-openeuler/pugixml
+        - https://gitee.com/src-openeuler/libtorrent
+        - https://gitee.com/src-openeuler/librsync
+        - https://gitee.com/src-openeuler/python-jedi
+        - https://gitee.com/src-openeuler/a52dec
+        - https://gitee.com/src-openeuler/arpack
+        - https://gitee.com/src-openeuler/asdcplib
+        - https://gitee.com/src-openeuler/blis
+        - https://gitee.com/src-openeuler/ceres-solver
+        - https://gitee.com/src-openeuler/cliquer
+        - https://gitee.com/src-openeuler/coin-or-cbc
+        - https://gitee.com/src-openeuler/coin-or-cgl
+        - https://gitee.com/src-openeuler/coin-or-clp
+        - https://gitee.com/src-openeuler/coin-or-coinutils
+        - https://gitee.com/src-openeuler/coin-or-data-miplib3
+        - https://gitee.com/src-openeuler/coin-or-data-netlib
+        - https://gitee.com/src-openeuler/coin-or-dylp
+        - https://gitee.com/src-openeuler/coin-or-osi
+        - https://gitee.com/src-openeuler/coin-or-sample
+        - https://gitee.com/src-openeuler/coin-or-vol
+        - https://gitee.com/src-openeuler/compat-lua
+        - https://gitee.com/src-openeuler/daala
+        - https://gitee.com/src-openeuler/dcmtk
+        - https://gitee.com/src-openeuler/eigen3
+        - https://gitee.com/src-openeuler/faad2
+        - https://gitee.com/src-openeuler/fbida
+        - https://gitee.com/src-openeuler/fbset
+        - https://gitee.com/src-openeuler/flexiblas
+        - https://gitee.com/src-openeuler/gdcm
+        - https://gitee.com/src-openeuler/gecode
+        - https://gitee.com/src-openeuler/glslang
+        - https://gitee.com/src-openeuler/gpac
+        - https://gitee.com/src-openeuler/id3lib
+        - https://gitee.com/src-openeuler/libcaca
+        - https://gitee.com/src-openeuler/libcddb
+        - https://gitee.com/src-openeuler/libcec
+        - https://gitee.com/src-openeuler/libdc1394
+        - https://gitee.com/src-openeuler/libdca
+        - https://gitee.com/src-openeuler/libdvbpsi
+        - https://gitee.com/src-openeuler/libebml
+        - https://gitee.com/src-openeuler/libfreenect
+        - https://gitee.com/src-openeuler/libharu
+        - https://gitee.com/src-openeuler/libmatroska
+        - https://gitee.com/src-openeuler/libmicrodns
+        - https://gitee.com/src-openeuler/libmp4v2
+        - https://gitee.com/src-openeuler/libmysofa
+        - https://gitee.com/src-openeuler/libopenmpt
+        - https://gitee.com/src-openeuler/librttopo
+        - https://gitee.com/src-openeuler/librx
+        - https://gitee.com/src-openeuler/libspatialaudio
+        - https://gitee.com/src-openeuler/libtiger
+        - https://gitee.com/src-openeuler/libucil
+        - https://gitee.com/src-openeuler/libunicap
+        - https://gitee.com/src-openeuler/lilv
+        - https://gitee.com/src-openeuler/lirc
+        - https://gitee.com/src-openeuler/live555
+        - https://gitee.com/src-openeuler/lv2
+        - https://gitee.com/src-openeuler/man2html
+        - https://gitee.com/src-openeuler/mp
+        - https://gitee.com/src-openeuler/mpi4py
+        - https://gitee.com/src-openeuler/mumps
+        - https://gitee.com/src-openeuler/nauty
+        - https://gitee.com/src-openeuler/netcdf-cxx
+        - https://gitee.com/src-openeuler/openslide
+        - https://gitee.com/src-openeuler/platform
+        - https://gitee.com/src-openeuler/python-sphinx_lv2_theme
+        - https://gitee.com/src-openeuler/rust-srpm-macros
+        - https://gitee.com/src-openeuler/scalapack
+        - https://gitee.com/src-openeuler/schroedinger
+        - https://gitee.com/src-openeuler/scotch
+        - https://gitee.com/src-openeuler/serd
+        - https://gitee.com/src-openeuler/sord
+        - https://gitee.com/src-openeuler/sparsehash
+        - https://gitee.com/src-openeuler/sratom
+        - https://gitee.com/src-openeuler/sysconftool
+        - https://gitee.com/src-openeuler/vapoursynth
+        - https://gitee.com/src-openeuler/vlc
+        - https://gitee.com/src-openeuler/vmaf
+        - https://gitee.com/src-openeuler/vtk
+        - https://gitee.com/src-openeuler/install-scripts
+        - https://gitee.com/src-openeuler/imageTailor
+        - https://gitee.com/src-openeuler/axel
+        - https://gitee.com/src-openeuler/txt2man
+        - https://gitee.com/src-openeuler/wordpress
+        - https://gitee.com/src-openeuler/CreateImage
+        - https://gitee.com/src-openeuler/ubackup
+        - https://gitee.com/src-openeuler/restic
+        - https://gitee.com/src-openeuler/yocto-poky
+        - https://gitee.com/src-openeuler/mandoc
+        - https://gitee.com/src-openeuler/i3
+        - https://gitee.com/src-openeuler/qla2xxx
+        - https://gitee.com/src-openeuler/nvidia-gpu-kernel-modules
+        - https://gitee.com/src-openeuler/trinity
+        - https://gitee.com/src-openeuler/i3status
+        - https://gitee.com/src-openeuler/dmenu
+        - https://gitee.com/src-openeuler/m1600-driver
+        - https://gitee.com/src-openeuler/sssnic-driver
+        - https://gitee.com/src-openeuler/hinic3
+        - https://gitee.com/src-openeuler/SmartHBA-2100-8i-driver
+        - https://gitee.com/src-openeuler/xcompmgr
+        - https://gitee.com/src-openeuler/i3blocks-contrib
+        - https://gitee.com/src-openeuler/i3blocks
+        - https://gitee.com/src-openeuler/feh
+        - https://gitee.com/src-openeuler/acpi
+        - https://gitee.com/src-openeuler/i3lock
+        - https://gitee.com/src-openeuler/opennjet
+        - https://gitee.com/src-openeuler/cve-ease
         - https://gitee.com/openeuler/sig-OSCourse
         - https://gitee.com/openeuler/community
-        - https://gitee.com/openeuler/nestos-website
         - https://gitee.com/openeuler/website
         - https://gitee.com/openeuler/website-v2
-
-   
+        - https://gitee.com/openeuler/nestos-website
+        - https://gitee.com/openeuler/sig-Edge
+        - https://gitee.com/openeuler/sig-OpenBoard
     
