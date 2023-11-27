@@ -1,0 +1,83 @@
+---
+community_name: openEuler_Compiler
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/bishengjdk-8
+        - https://gitee.com/openeuler/bishengjdk-11
+        - https://gitee.com/openeuler/bishengjdk-17
+        - https://gitee.com/openeuler/bishengjdk-riscv
+        - https://gitee.com/src-openeuler/openjdk-1.8.0
+        - https://gitee.com/src-openeuler/openjdk-11
+        - https://gitee.com/src-openeuler/openjdk-17
+        - https://gitee.com/src-openeuler/openjdk-latest
+        - https://gitee.com/openeuler/gcc
+        - https://gitee.com/src-openeuler/gcc
+        - https://gitee.com/openeuler/gcc-anti-sca
+        - https://gitee.com/src-openeuler/ccache
+        - https://gitee.com/openeuler/CPython
+        - https://gitee.com/openeuler/A-FOT
+        - https://gitee.com/src-openeuler/A-FOT
+        - https://gitee.com/src-openeuler/autofdo
+        - https://gitee.com/src-openeuler/gcc-cross
+        - https://gitee.com/src-openeuler/flang
+        - https://gitee.com/src-openeuler/flang-15
+        - https://gitee.com/openeuler/bishengjdk-build
+        - https://gitee.com/openeuler/BiSheng-Adoptium
+        - https://gitee.com/openeuler/openjfx8
+        - https://gitee.com/openeuler/bgmprovider
+        - https://gitee.com/openeuler/gcc-for-openEuler
+        - https://gitee.com/openeuler/compiler-docs
+        - https://gitee.com/src-openeuler/spirv-llvm-translator
+        - https://gitee.com/src-openeuler/openjfx8
+        - https://gitee.com/src-openeuler/openjfx11
+        - https://gitee.com/src-openeuler/WLLVM
+        - https://gitee.com/src-openeuler/compiler-rt
+        - https://gitee.com/src-openeuler/compiler-rt-15
+        - https://gitee.com/src-openeuler/clang
+        - https://gitee.com/src-openeuler/clang-15
+        - https://gitee.com/src-openeuler/jtreg
+        - https://gitee.com/src-openeuler/llvm-bolt
+        - https://gitee.com/src-openeuler/llvm-bolt-15
+        - https://gitee.com/src-openeuler/llvm
+        - https://gitee.com/src-openeuler/llvm-15
+        - https://gitee.com/src-openeuler/llvm-libunwind
+        - https://gitee.com/src-openeuler/llvm-libunwind-15
+        - https://gitee.com/src-openeuler/lld
+        - https://gitee.com/src-openeuler/lld-15
+        - https://gitee.com/src-openeuler/libcxx
+        - https://gitee.com/src-openeuler/libcxx-15
+        - https://gitee.com/src-openeuler/libcxxabi
+        - https://gitee.com/src-openeuler/libcxxabi-15
+        - https://gitee.com/src-openeuler/openmp
+        - https://gitee.com/src-openeuler/openmp-15
+        - https://gitee.com/src-openeuler/lldb
+        - https://gitee.com/src-openeuler/libclc
+        - https://gitee.com/src-openeuler/polly-15
+        - https://gitee.com/src-openeuler/binutils
+        - https://gitee.com/src-openeuler/icedtea-web
+        - https://gitee.com/src-openeuler/gcc-12
+        - https://gitee.com/src-openeuler/optimized-routines
+        - https://gitee.com/src-openeuler/gcc-for-openEuler
+        - https://gitee.com/openeuler/llvm-project
+        - https://gitee.com/openeuler/BiShengCLanguage
+        - https://gitee.com/openeuler/OpenArkCompiler
+        - https://gitee.com/src-openeuler/llvm-mlir
+        - https://gitee.com/src-openeuler/mlir-15
+        - https://gitee.com/src-openeuler/Bear
+        - https://gitee.com/src-openeuler/gn
+        - https://gitee.com/src-openeuler/tinytoml
+        - https://gitee.com/openeuler/pin-gcc-client
+        - https://gitee.com/openeuler/pin-server
+        - https://gitee.com/openeuler/pin-for-openEuler
+        - https://gitee.com/src-openeuler/pin-gcc-client
+        - https://gitee.com/src-openeuler/pin-server
+        - https://gitee.com/src-openeuler/pin-for-openEuler
+        - https://gitee.com/src-openeuler/gcc-7
+        - https://gitee.com/src-openeuler/gcc-10
+    governance-repositories:
+        repo_urls: []
+
+    

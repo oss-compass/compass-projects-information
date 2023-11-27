@@ -1,0 +1,79 @@
+---
+community_name: openEuler_Computing
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/libgmem
+        - https://gitee.com/src-openeuler/libgmem
+        - https://gitee.com/src-openeuler/procps-ng
+        - https://gitee.com/src-openeuler/irqbalance
+        - https://gitee.com/src-openeuler/psmisc
+        - https://gitee.com/src-openeuler/numad
+        - https://gitee.com/src-openeuler/kmod
+        - https://gitee.com/src-openeuler/tzdata
+        - https://gitee.com/src-openeuler/numactl
+        - https://gitee.com/src-openeuler/glibc
+        - https://gitee.com/src-openeuler/libthai
+        - https://gitee.com/src-openeuler/libinput
+        - https://gitee.com/src-openeuler/tuned
+        - https://gitee.com/src-openeuler/newlib
+        - https://gitee.com/src-openeuler/libqb
+        - https://gitee.com/src-openeuler/userspace-rcu
+        - https://gitee.com/src-openeuler/libatomic_ops
+        - https://gitee.com/src-openeuler/boost
+        - https://gitee.com/src-openeuler/gperftools
+        - https://gitee.com/src-openeuler/libhugetlbfs
+        - https://gitee.com/src-openeuler/memkind
+        - https://gitee.com/src-openeuler/libevdev
+        - https://gitee.com/src-openeuler/mpfr
+        - https://gitee.com/src-openeuler/nspr
+        - https://gitee.com/src-openeuler/lockdev
+        - https://gitee.com/src-openeuler/gmp
+        - https://gitee.com/src-openeuler/npth
+        - https://gitee.com/src-openeuler/jamm
+        - https://gitee.com/src-openeuler/double-conversion
+        - https://gitee.com/src-openeuler/ps_mem
+        - https://gitee.com/src-openeuler/gdb
+        - https://gitee.com/src-openeuler/libipt
+        - https://gitee.com/src-openeuler/systemtap
+        - https://gitee.com/src-openeuler/dyninst
+        - https://gitee.com/src-openeuler/lttng-ust
+        - https://gitee.com/src-openeuler/lm_sensors
+        - https://gitee.com/src-openeuler/hwdata
+        - https://gitee.com/src-openeuler/linux-firmware
+        - https://gitee.com/src-openeuler/alsa-firmware
+        - https://gitee.com/src-openeuler/alsa-lib
+        - https://gitee.com/src-openeuler/alsa-tools
+        - https://gitee.com/src-openeuler/dmidecode
+        - https://gitee.com/src-openeuler/i2c-tools
+        - https://gitee.com/src-openeuler/hwinfo
+        - https://gitee.com/src-openeuler/acpid
+        - https://gitee.com/src-openeuler/upower
+        - https://gitee.com/src-openeuler/beanstalkd
+        - https://gitee.com/src-openeuler/libsamplerate
+        - https://gitee.com/src-openeuler/libogg
+        - https://gitee.com/src-openeuler/pulseaudio
+        - https://gitee.com/src-openeuler/libsndfile
+        - https://gitee.com/src-openeuler/flac
+        - https://gitee.com/src-openeuler/libijs
+        - https://gitee.com/src-openeuler/libmpc
+        - https://gitee.com/src-openeuler/libvisual
+        - https://gitee.com/src-openeuler/opus
+        - https://gitee.com/src-openeuler/ORBit2
+        - https://gitee.com/src-openeuler/libwacom
+        - https://gitee.com/src-openeuler/arpack-ng
+        - https://gitee.com/src-openeuler/libumem
+        - https://gitee.com/src-openeuler/protobuf-c
+        - https://gitee.com/src-openeuler/scipy
+        - https://gitee.com/src-openeuler/shapelib
+        - https://gitee.com/src-openeuler/strace
+        - https://gitee.com/openeuler/kspack-go
+        - https://gitee.com/openeuler/kspack-java
+        - https://gitee.com/openeuler/kspack-c
+        - https://gitee.com/openeuler/kspack-rust
+    governance-repositories:
+        repo_urls: []
+
+    

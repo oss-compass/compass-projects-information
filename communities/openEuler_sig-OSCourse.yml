@@ -1,0 +1,23 @@
+---
+community_name: openEuler_sig-OSCourse
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/sig-OSCourse
+        - https://gitee.com/openeuler/hands-on
+        - https://gitee.com/openeuler/linux-operation
+        - https://gitee.com/openeuler/open-source-summer
+        - https://gitee.com/openeuler/opensource-intern
+        - https://gitee.com/openeuler/summer2022
+        - https://gitee.com/openeuler/taishan-oslab
+        - https://gitee.com/openeuler/git-basics
+        - https://gitee.com/openeuler/micro-certification
+        - https://gitee.com/openeuler/lfs-course
+        - https://gitee.com/openeuler/hw-buaa-lab
+        - https://gitee.com/openeuler/lzu-icc-nsg
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,100 @@
+---
+community_name: openEuler_xfce
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/hddtemp
+        - https://gitee.com/src-openeuler/xfdashboard
+        - https://gitee.com/src-openeuler/xfce4-settings
+        - https://gitee.com/src-openeuler/xfce4-dev-tools
+        - https://gitee.com/src-openeuler/thunarx-python
+        - https://gitee.com/src-openeuler/tumbler
+        - https://gitee.com/src-openeuler/libglademm24
+        - https://gitee.com/src-openeuler/xfconf
+        - https://gitee.com/src-openeuler/libgnomecanvasmm26
+        - https://gitee.com/src-openeuler/xfce4-volumed-pulse
+        - https://gitee.com/src-openeuler/python-distutils-extra
+        - https://gitee.com/src-openeuler/xfce4-appfinder
+        - https://gitee.com/src-openeuler/xfwm4
+        - https://gitee.com/src-openeuler/xfce4-session
+        - https://gitee.com/src-openeuler/Thunar
+        - https://gitee.com/src-openeuler/xfdesktop
+        - https://gitee.com/src-openeuler/xfce4-power-manager
+        - https://gitee.com/src-openeuler/xfce4-panel
+        - https://gitee.com/src-openeuler/libmpd
+        - https://gitee.com/src-openeuler/libxfce4ui
+        - https://gitee.com/src-openeuler/libxfce4util
+        - https://gitee.com/src-openeuler/mousepad
+        - https://gitee.com/src-openeuler/parole
+        - https://gitee.com/src-openeuler/ristretto
+        - https://gitee.com/src-openeuler/catfish
+        - https://gitee.com/src-openeuler/exo
+        - https://gitee.com/src-openeuler/garcon
+        - https://gitee.com/src-openeuler/gigolo
+        - https://gitee.com/src-openeuler/thunar-archive-plugin
+        - https://gitee.com/src-openeuler/thunar-media-tags-plugin
+        - https://gitee.com/src-openeuler/thunar-vcs-plugin
+        - https://gitee.com/src-openeuler/thunar-volman
+        - https://gitee.com/src-openeuler/xarchiver
+        - https://gitee.com/src-openeuler/xfburn
+        - https://gitee.com/src-openeuler/xfce-polkit
+        - https://gitee.com/src-openeuler/xfce-theme-manager
+        - https://gitee.com/src-openeuler/xfce4-battery-plugin
+        - https://gitee.com/src-openeuler/xfce4-calculator-plugin
+        - https://gitee.com/src-openeuler/xfce4-clipman-plugin
+        - https://gitee.com/src-openeuler/xfce4-cpufreq-plugin
+        - https://gitee.com/src-openeuler/xfce4-cpugraph-plugin
+        - https://gitee.com/src-openeuler/xfce4-datetime-plugin
+        - https://gitee.com/src-openeuler/xfce4-dict
+        - https://gitee.com/src-openeuler/xfce4-diskperf-plugin
+        - https://gitee.com/src-openeuler/xfce4-eyes-plugin
+        - https://gitee.com/src-openeuler/xfce4-fsguard-plugin
+        - https://gitee.com/src-openeuler/xfce4-genmon-plugin
+        - https://gitee.com/src-openeuler/xfce4-mailwatch-plugin
+        - https://gitee.com/src-openeuler/xfce4-mount-plugin
+        - https://gitee.com/src-openeuler/xfce4-mpc-plugin
+        - https://gitee.com/src-openeuler/xfce4-netload-plugin
+        - https://gitee.com/src-openeuler/xfce4-notes-plugin
+        - https://gitee.com/src-openeuler/xfce4-notifyd
+        - https://gitee.com/src-openeuler/xfce4-panel-profiles
+        - https://gitee.com/src-openeuler/xfce4-places-plugin
+        - https://gitee.com/src-openeuler/xfce4-pulseaudio-plugin
+        - https://gitee.com/src-openeuler/xfce4-screensaver
+        - https://gitee.com/src-openeuler/xfce4-screenshooter
+        - https://gitee.com/src-openeuler/xfce4-sensors-plugin
+        - https://gitee.com/src-openeuler/xfce4-smartbookmark-plugin
+        - https://gitee.com/src-openeuler/xfce4-statusnotifier-plugin
+        - https://gitee.com/src-openeuler/xfce4-systemload-plugin
+        - https://gitee.com/src-openeuler/xfce4-taskmanager
+        - https://gitee.com/src-openeuler/xfce4-terminal
+        - https://gitee.com/src-openeuler/xfce4-time-out-plugin
+        - https://gitee.com/src-openeuler/xfce4-timer-plugin
+        - https://gitee.com/src-openeuler/xfce4-vala
+        - https://gitee.com/src-openeuler/xfce4-verve-plugin
+        - https://gitee.com/src-openeuler/xfce4-wavelan-plugin
+        - https://gitee.com/src-openeuler/xfce4-weather-plugin
+        - https://gitee.com/src-openeuler/xfce4-whiskermenu-plugin
+        - https://gitee.com/src-openeuler/xfce4-xkb-plugin
+        - https://gitee.com/src-openeuler/lxde-common
+        - https://gitee.com/src-openeuler/lxde-icon-theme
+        - https://gitee.com/src-openeuler/lxdm
+        - https://gitee.com/src-openeuler/lxinput
+        - https://gitee.com/src-openeuler/lxmenu-data
+        - https://gitee.com/src-openeuler/lxtask
+        - https://gitee.com/src-openeuler/lxappearance
+        - https://gitee.com/src-openeuler/lxhotkey
+        - https://gitee.com/src-openeuler/lxlauncher
+        - https://gitee.com/src-openeuler/lxpanel
+        - https://gitee.com/src-openeuler/lxshortcut
+        - https://gitee.com/src-openeuler/lxterminal
+        - https://gitee.com/src-openeuler/pcmanfm
+        - https://gitee.com/src-openeuler/libfm
+        - https://gitee.com/src-openeuler/menu-cache
+        - https://gitee.com/src-openeuler/libudfread
+        - https://gitee.com/src-openeuler/keybinder
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,37 @@
+---
+community_name: openEuler_Virt
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/skylark
+        - https://gitee.com/openeuler/vmtop
+        - https://gitee.com/src-openeuler/libvirt-glib
+        - https://gitee.com/src-openeuler/libvirt-python
+        - https://gitee.com/src-openeuler/perl-Sys-Virt
+        - https://gitee.com/src-openeuler/skylark
+        - https://gitee.com/src-openeuler/virglrenderer
+        - https://gitee.com/src-openeuler/vmtop
+        - https://gitee.com/src-openeuler/edk2
+        - https://gitee.com/openeuler/libcareplus
+        - https://gitee.com/openeuler/libvirt
+        - https://gitee.com/src-openeuler/libcareplus
+        - https://gitee.com/src-openeuler/libvirt
+        - https://gitee.com/openeuler/qemu
+        - https://gitee.com/src-openeuler/qemu
+        - https://gitee.com/openeuler/capsule
+        - https://gitee.com/src-openeuler/capsule
+        - https://gitee.com/openeuler/stratovirt
+        - https://gitee.com/src-openeuler/stratovirt
+        - https://gitee.com/src-openeuler/open-vm-tools
+        - https://gitee.com/src-openeuler/vagrant
+        - https://gitee.com/src-openeuler/vagrant-lxc
+        - https://gitee.com/src-openeuler/vagrant-libvirt
+        - https://gitee.com/src-openeuler/vagrant-hostmanager
+        - https://gitee.com/src-openeuler/libvirt-dbus
+        - https://gitee.com/openeuler/rust_shyper
+    governance-repositories:
+        repo_urls: []
+
+    

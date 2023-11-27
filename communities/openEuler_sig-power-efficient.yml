@@ -1,0 +1,17 @@
+---
+community_name: openEuler_sig-power-efficient
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/powerapi
+        - https://gitee.com/openeuler/eagle
+        - https://gitee.com/openeuler/dcs
+        - https://gitee.com/src-openeuler/powerapi
+        - https://gitee.com/src-openeuler/eagle
+        - https://gitee.com/src-openeuler/dcs
+    governance-repositories:
+        repo_urls: []
+
+    

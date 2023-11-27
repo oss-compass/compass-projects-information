@@ -1,0 +1,28 @@
+---
+community_name: openEuler_sig-QA
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/avocado-vt
+        - https://gitee.com/openeuler/tp-qemu
+        - https://gitee.com/openeuler/test-tools
+        - https://gitee.com/openeuler/tp-libvirt
+        - https://gitee.com/openeuler/package-reinforce-test
+        - https://gitee.com/openeuler/integration-test
+        - https://gitee.com/openeuler/EulerRobot
+        - https://gitee.com/openeuler/container-test
+        - https://gitee.com/openeuler/compiler-test
+        - https://gitee.com/openeuler/QARobot
+        - https://gitee.com/src-openeuler/avocado
+        - https://gitee.com/src-openeuler/mugen
+        - https://gitee.com/src-openeuler/linux-test-project
+        - https://gitee.com/openeuler/mugen
+        - https://gitee.com/openeuler/radiaTest
+        - https://gitee.com/openeuler/QA
+        - https://gitee.com/src-openeuler/trinity
+    governance-repositories:
+        repo_urls: []
+
+    

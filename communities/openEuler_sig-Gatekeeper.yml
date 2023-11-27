@@ -1,0 +1,21 @@
+---
+community_name: openEuler_sig-Gatekeeper
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/openeuler-jenkins
+        - https://gitee.com/openeuler/ci-bot
+        - https://gitee.com/openeuler/CreateImage
+        - https://gitee.com/openeuler/openEuler_chroot
+        - https://gitee.com/openeuler/openeuler-obs
+        - https://gitee.com/openeuler/openeuler-os-build
+        - https://gitee.com/openeuler/A-guard
+        - https://gitee.com/src-openeuler/CreateImage
+        - https://gitee.com/src-openeuler/openEuler_chroot
+        - https://gitee.com/src-openeuler/python-jenkins
+    governance-repositories:
+        repo_urls: []
+
+    

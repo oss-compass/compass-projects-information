@@ -1,0 +1,57 @@
+---
+community_name: openEuler_sig-desktop-apps
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/lilypond
+        - https://gitee.com/src-openeuler/meld
+        - https://gitee.com/src-openeuler/musescore
+        - https://gitee.com/src-openeuler/qstardict
+        - https://gitee.com/src-openeuler/stardict
+        - https://gitee.com/src-openeuler/thunderbird
+        - https://gitee.com/src-openeuler/tilda
+        - https://gitee.com/src-openeuler/uget
+        - https://gitee.com/src-openeuler/vnpy
+        - https://gitee.com/src-openeuler/aisleriot
+        - https://gitee.com/src-openeuler/lyx
+        - https://gitee.com/src-openeuler/pdfsam
+        - https://gitee.com/src-openeuler/pympress
+        - https://gitee.com/src-openeuler/sigil
+        - https://gitee.com/src-openeuler/texworks
+        - https://gitee.com/src-openeuler/xchm
+        - https://gitee.com/src-openeuler/zegrapher
+        - https://gitee.com/src-openeuler/datovka
+        - https://gitee.com/src-openeuler/openttd
+        - https://gitee.com/src-openeuler/gummi
+        - https://gitee.com/src-openeuler/feathernotes
+        - https://gitee.com/src-openeuler/yokadi
+        - https://gitee.com/src-openeuler/zathura
+        - https://gitee.com/src-openeuler/minder
+        - https://gitee.com/src-openeuler/osmo
+        - https://gitee.com/src-openeuler/gnumeric
+        - https://gitee.com/src-openeuler/formiko
+        - https://gitee.com/src-openeuler/featherpad
+        - https://gitee.com/src-openeuler/input-pad
+        - https://gitee.com/src-openeuler/chmlib
+        - https://gitee.com/src-openeuler/granite
+        - https://gitee.com/src-openeuler/lasem
+        - https://gitee.com/src-openeuler/psiconv
+        - https://gitee.com/src-openeuler/gendesk
+        - https://gitee.com/src-openeuler/gtksourceview2
+        - https://gitee.com/src-openeuler/libdatovka
+        - https://gitee.com/src-openeuler/girara
+        - https://gitee.com/src-openeuler/libgringotts
+        - https://gitee.com/src-openeuler/goffice
+        - https://gitee.com/src-openeuler/mhash
+        - https://gitee.com/src-openeuler/gammaray
+        - https://gitee.com/src-openeuler/zathura-cb
+        - https://gitee.com/src-openeuler/zathura-djvu
+        - https://gitee.com/src-openeuler/zathura-pdf-poppler
+        - https://gitee.com/src-openeuler/zathura-ps
+        - https://gitee.com/src-openeuler/libmcrypt
+    governance-repositories:
+        repo_urls: []
+
+    

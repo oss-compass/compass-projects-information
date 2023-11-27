@@ -1,0 +1,26 @@
+---
+community_name: openEuler_sig-embedded
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/embedded-ipc
+        - https://gitee.com/openeuler/lep
+        - https://gitee.com/openeuler/UniProton
+        - https://gitee.com/openeuler/mcs
+        - https://gitee.com/src-openeuler/patchelf
+        - https://gitee.com/src-openeuler/yaffs2
+        - https://gitee.com/src-openeuler/mtd-utils
+        - https://gitee.com/openeuler/embedded
+        - https://gitee.com/src-openeuler/ct-ng
+        - https://gitee.com/src-openeuler/libmetal
+        - https://gitee.com/src-openeuler/OpenAMP
+        - https://gitee.com/src-openeuler/embedded-kernel
+        - https://gitee.com/src-openeuler/libftdi
+        - https://gitee.com/src-openeuler/urjtag
+        - https://gitee.com/openeuler/etipc
+    governance-repositories:
+        repo_urls: []
+
+    

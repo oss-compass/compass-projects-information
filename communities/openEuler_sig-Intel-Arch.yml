@@ -1,0 +1,15 @@
+---
+community_name: openEuler_sig-Intel-Arch
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/intel-kernel
+        - https://gitee.com/openeuler/intel-qemu
+        - https://gitee.com/openeuler/intel-lkvs
+        - https://gitee.com/src-openeuler/accel-config
+    governance-repositories:
+        repo_urls: []
+
+    

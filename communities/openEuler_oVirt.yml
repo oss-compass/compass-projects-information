@@ -1,0 +1,101 @@
+---
+community_name: openEuler_oVirt
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/riemann-c-client
+        - https://gitee.com/src-openeuler/rubygem-ovirt-engine-sdk4
+        - https://gitee.com/src-openeuler/unboundid-ldapsdk
+        - https://gitee.com/src-openeuler/ioprocess
+        - https://gitee.com/src-openeuler/imgbased
+        - https://gitee.com/src-openeuler/nodejs-yarn
+        - https://gitee.com/src-openeuler/nispor
+        - https://gitee.com/src-openeuler/nmstate
+        - https://gitee.com/src-openeuler/nsis-simple-service-plugin
+        - https://gitee.com/src-openeuler/go-ovirt-engine-sdk4
+        - https://gitee.com/src-openeuler/safelease
+        - https://gitee.com/src-openeuler/snmp4j
+        - https://gitee.com/src-openeuler/ansible-runner-service
+        - https://gitee.com/src-openeuler/freeipa
+        - https://gitee.com/src-openeuler/ovirt-ansible-vm-infra
+        - https://gitee.com/src-openeuler/ovirt-ansible-image-template
+        - https://gitee.com/src-openeuler/ovirt-engine-wildfly
+        - https://gitee.com/src-openeuler/ovirt-ansible-hosted-engine-setup
+        - https://gitee.com/src-openeuler/ovirt-lldp-labeler
+        - https://gitee.com/src-openeuler/ovirt-guest-agent
+        - https://gitee.com/src-openeuler/ovirt-ansible-roles
+        - https://gitee.com/src-openeuler/ovirt-vmconsole
+        - https://gitee.com/src-openeuler/ovirt-imageio-daemon
+        - https://gitee.com/src-openeuler/ovirt-node-ng-image-update
+        - https://gitee.com/src-openeuler/ovirt-ansible-infra
+        - https://gitee.com/src-openeuler/ovirt-engine-extensions-api
+        - https://gitee.com/src-openeuler/ovirt-engine-extension-aaa-jdbc
+        - https://gitee.com/src-openeuler/ovirt-iso-uploader
+        - https://gitee.com/src-openeuler/ovirt-engine-nodejs
+        - https://gitee.com/src-openeuler/ovirt-engine-api-explorer
+        - https://gitee.com/src-openeuler/ovirt-ansible-v2v-conversion-host
+        - https://gitee.com/src-openeuler/ovirt-jboss-modules-maven-plugin
+        - https://gitee.com/src-openeuler/ovirt-node-ng
+        - https://gitee.com/src-openeuler/ovirt-provider-ovn
+        - https://gitee.com/src-openeuler/ovirt-engine-extension-logger-log4j
+        - https://gitee.com/src-openeuler/ovirt-setup-lib
+        - https://gitee.com/src-openeuler/ovirt-engine
+        - https://gitee.com/src-openeuler/ovirt-guest-tools-iso
+        - https://gitee.com/src-openeuler/ovirt-ansible-engine-setup
+        - https://gitee.com/src-openeuler/ovirt-scheduler-proxy
+        - https://gitee.com/src-openeuler/ovirt-engine-cli
+        - https://gitee.com/src-openeuler/ovirt-ansible-cluster-upgrade
+        - https://gitee.com/src-openeuler/ovirt-hosted-engine-setup
+        - https://gitee.com/src-openeuler/ovirt-engine-extension-aaa-ldap
+        - https://gitee.com/src-openeuler/ovirt-engine-dwh
+        - https://gitee.com/src-openeuler/ovirt-dependencies
+        - https://gitee.com/src-openeuler/ovirt-host-deploy
+        - https://gitee.com/src-openeuler/otopi
+        - https://gitee.com/src-openeuler/ovirt-engine-metrics
+        - https://gitee.com/src-openeuler/ovirt-release43
+        - https://gitee.com/src-openeuler/ovirt-engine-api-model
+        - https://gitee.com/src-openeuler/ovirt-guest-agent-windows
+        - https://gitee.com/src-openeuler/openstack-java-sdk
+        - https://gitee.com/src-openeuler/ovirt-engine-appliance
+        - https://gitee.com/src-openeuler/ovirt-imageio-common
+        - https://gitee.com/src-openeuler/ovirt-hosted-engine-ha
+        - https://gitee.com/src-openeuler/ovirt-imageio
+        - https://gitee.com/src-openeuler/ovirt-cockpit-sso
+        - https://gitee.com/src-openeuler/ovirt-host
+        - https://gitee.com/src-openeuler/ovirt-web-ui
+        - https://gitee.com/src-openeuler/ovirt-engine-wildfly-overlay
+        - https://gitee.com/src-openeuler/ovirt-ansible-collection
+        - https://gitee.com/src-openeuler/ovirt-imageio-proxy
+        - https://gitee.com/src-openeuler/ovirt-engine-ui-extensions
+        - https://gitee.com/src-openeuler/ovirt-ansible-shutdown-env
+        - https://gitee.com/src-openeuler/ovirt-engine-extension-aaa-misc
+        - https://gitee.com/src-openeuler/ovirt-log-collector
+        - https://gitee.com/src-openeuler/ovirt-engine-nodejs-modules
+        - https://gitee.com/src-openeuler/ovirt-ansible-disaster-recovery
+        - https://gitee.com/src-openeuler/ovirt-ansible-manageiq
+        - https://gitee.com/src-openeuler/ovirt-ansible-repositories
+        - https://gitee.com/src-openeuler/highlight
+        - https://gitee.com/src-openeuler/mingw-spice-vdagent
+        - https://gitee.com/src-openeuler/makeself
+        - https://gitee.com/src-openeuler/mom
+        - https://gitee.com/src-openeuler/java-client-kubevirt
+        - https://gitee.com/src-openeuler/java-ovirt-engine-sdk4
+        - https://gitee.com/src-openeuler/collectd
+        - https://gitee.com/src-openeuler/cockpit-ovirt
+        - https://gitee.com/src-openeuler/vhostmd
+        - https://gitee.com/src-openeuler/virt-viewer
+        - https://gitee.com/src-openeuler/v2v-conversion-host
+        - https://gitee.com/src-openeuler/vdsm-jsonrpc-java
+        - https://gitee.com/src-openeuler/vdsm
+        - https://gitee.com/src-openeuler/virt-manager
+        - https://gitee.com/src-openeuler/engine-db-query
+        - https://gitee.com/src-openeuler/linux-system-roles
+        - https://gitee.com/src-openeuler/python-ansible-runner
+        - https://gitee.com/src-openeuler/python-daemon
+        - https://gitee.com/src-openeuler/python-ovirt-engine-sdk4
+    governance-repositories:
+        repo_urls: []
+
+    

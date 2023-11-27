@@ -1,0 +1,99 @@
+---
+community_name: openEuler_System-tool
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/freeipmi
+        - https://gitee.com/src-openeuler/fakechroot
+        - https://gitee.com/src-openeuler/fprintd
+        - https://gitee.com/src-openeuler/fontawesome-fonts
+        - https://gitee.com/src-openeuler/fwupd
+        - https://gitee.com/src-openeuler/fswatch
+        - https://gitee.com/src-openeuler/fcoe-utils
+        - https://gitee.com/src-openeuler/freeradius
+        - https://gitee.com/src-openeuler/bpytop
+        - https://gitee.com/src-openeuler/bacula
+        - https://gitee.com/src-openeuler/b43-tools
+        - https://gitee.com/src-openeuler/bolt
+        - https://gitee.com/src-openeuler/varnish
+        - https://gitee.com/src-openeuler/v4l-utils
+        - https://gitee.com/src-openeuler/watchdog
+        - https://gitee.com/src-openeuler/wsmancli
+        - https://gitee.com/src-openeuler/sblim-sfcb
+        - https://gitee.com/src-openeuler/supermin
+        - https://gitee.com/src-openeuler/sil-abyssinica-fonts
+        - https://gitee.com/src-openeuler/sil-scheherazade-fonts
+        - https://gitee.com/src-openeuler/sblim-sfcc
+        - https://gitee.com/src-openeuler/sane-backends
+        - https://gitee.com/src-openeuler/smc-fonts
+        - https://gitee.com/src-openeuler/speech-dispatcher
+        - https://gitee.com/src-openeuler/sanlock
+        - https://gitee.com/src-openeuler/system-config-printer
+        - https://gitee.com/src-openeuler/rfkill
+        - https://gitee.com/src-openeuler/rocksdb
+        - https://gitee.com/src-openeuler/argyllcms
+        - https://gitee.com/src-openeuler/tog-pegasus
+        - https://gitee.com/src-openeuler/tang
+        - https://gitee.com/src-openeuler/mod_fcgid
+        - https://gitee.com/src-openeuler/microcode_ctl
+        - https://gitee.com/src-openeuler/mstflint
+        - https://gitee.com/src-openeuler/mksh
+        - https://gitee.com/src-openeuler/mod_security
+        - https://gitee.com/src-openeuler/minicom
+        - https://gitee.com/src-openeuler/m17n-lib
+        - https://gitee.com/src-openeuler/m17n-db
+        - https://gitee.com/src-openeuler/mod_auth_gssapi
+        - https://gitee.com/src-openeuler/mtx
+        - https://gitee.com/src-openeuler/unicode-ucd
+        - https://gitee.com/src-openeuler/usb_modeswitch
+        - https://gitee.com/src-openeuler/haproxy
+        - https://gitee.com/src-openeuler/hivex
+        - https://gitee.com/src-openeuler/hplip
+        - https://gitee.com/src-openeuler/pps-tools
+        - https://gitee.com/src-openeuler/partclone
+        - https://gitee.com/src-openeuler/pinfo
+        - https://gitee.com/src-openeuler/portreserve
+        - https://gitee.com/src-openeuler/dejavu-fonts
+        - https://gitee.com/src-openeuler/initial-setup
+        - https://gitee.com/src-openeuler/julietaula-montserrat-fonts
+        - https://gitee.com/src-openeuler/gutenprint
+        - https://gitee.com/src-openeuler/gfs2-utils
+        - https://gitee.com/src-openeuler/khmeros-fonts
+        - https://gitee.com/src-openeuler/kde-filesystem
+        - https://gitee.com/src-openeuler/libhangul
+        - https://gitee.com/src-openeuler/libsmbios
+        - https://gitee.com/src-openeuler/libreswan
+        - https://gitee.com/src-openeuler/libotf
+        - https://gitee.com/src-openeuler/liblognorm
+        - https://gitee.com/src-openeuler/libraw1394
+        - https://gitee.com/src-openeuler/libguestfs
+        - https://gitee.com/src-openeuler/leveldb
+        - https://gitee.com/src-openeuler/logwatch
+        - https://gitee.com/src-openeuler/lklug-fonts
+        - https://gitee.com/src-openeuler/entr
+        - https://gitee.com/src-openeuler/custodia
+        - https://gitee.com/src-openeuler/colord-gtk
+        - https://gitee.com/src-openeuler/cgdcbxd
+        - https://gitee.com/src-openeuler/cim-schema
+        - https://gitee.com/src-openeuler/yapet
+        - https://gitee.com/src-openeuler/nrpe
+        - https://gitee.com/src-openeuler/nagios
+        - https://gitee.com/src-openeuler/netlabel_tools
+        - https://gitee.com/src-openeuler/nvmetcli
+        - https://gitee.com/src-openeuler/NetworkManager-libreswan
+        - https://gitee.com/src-openeuler/openwsman
+        - https://gitee.com/src-openeuler/openhpi
+        - https://gitee.com/src-openeuler/open-sans-fonts
+        - https://gitee.com/src-openeuler/overpass-fonts
+        - https://gitee.com/src-openeuler/liberation-fonts
+        - https://gitee.com/src-openeuler/autofs
+        - https://gitee.com/src-openeuler/libgphoto2
+        - https://gitee.com/src-openeuler/nvme-cli
+        - https://gitee.com/src-openeuler/libnvme
+        - https://gitee.com/src-openeuler/cups-filters
+    governance-repositories:
+        repo_urls: []
+
+    

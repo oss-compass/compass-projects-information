@@ -1,0 +1,40 @@
+---
+community_name: openEuler_sig-OS-Builder
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/anaconda-user-help
+        - https://gitee.com/src-openeuler/anaconda
+        - https://gitee.com/src-openeuler/grub2
+        - https://gitee.com/src-openeuler/efibootmgr
+        - https://gitee.com/src-openeuler/ipxe
+        - https://gitee.com/src-openeuler/uboot-tools
+        - https://gitee.com/src-openeuler/install-scripts
+        - https://gitee.com/src-openeuler/blivet-gui
+        - https://gitee.com/openeuler/install-scripts
+        - https://gitee.com/src-openeuler/python-blivet
+        - https://gitee.com/src-openeuler/python-dasbus
+        - https://gitee.com/src-openeuler/python-pycdlib
+        - https://gitee.com/src-openeuler/syslinux
+        - https://gitee.com/src-openeuler/cobbler
+        - https://gitee.com/src-openeuler/efivar
+        - https://gitee.com/src-openeuler/cdrkit
+        - https://gitee.com/src-openeuler/dnf-plugin-ovl
+        - https://gitee.com/src-openeuler/dnf-plugins-core
+        - https://gitee.com/src-openeuler/dnf
+        - https://gitee.com/src-openeuler/libdnf
+        - https://gitee.com/src-openeuler/libsolv
+        - https://gitee.com/src-openeuler/efi-rpm-macros
+        - https://gitee.com/openeuler/imageTailor
+        - https://gitee.com/openeuler/oemaker
+        - https://gitee.com/src-openeuler/imageTailor
+        - https://gitee.com/src-openeuler/lorax
+        - https://gitee.com/src-openeuler/oemaker
+        - https://gitee.com/openeuler/wsl
+        - https://gitee.com/openeuler/lboot
+    governance-repositories:
+        repo_urls: []
+
+    

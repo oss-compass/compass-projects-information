@@ -1,0 +1,70 @@
+---
+community_name: openEuler_sig-mate-desktop
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/wireless-tools
+        - https://gitee.com/src-openeuler/wireless-regdb
+        - https://gitee.com/src-openeuler/re2c
+        - https://gitee.com/src-openeuler/im-chooser
+        - https://gitee.com/src-openeuler/libXpresent
+        - https://gitee.com/src-openeuler/libXNVCtrl
+        - https://gitee.com/src-openeuler/libmateweather
+        - https://gitee.com/src-openeuler/libmatemixer
+        - https://gitee.com/src-openeuler/libwnck
+        - https://gitee.com/src-openeuler/libmatekbd
+        - https://gitee.com/src-openeuler/eom
+        - https://gitee.com/src-openeuler/unique3
+        - https://gitee.com/src-openeuler/system-config-users-docs
+        - https://gitee.com/src-openeuler/system-config-users
+        - https://gitee.com/src-openeuler/caja-extensions
+        - https://gitee.com/src-openeuler/caja-actions
+        - https://gitee.com/src-openeuler/cjkuni-uming-fonts
+        - https://gitee.com/src-openeuler/caja
+        - https://gitee.com/src-openeuler/perl-ExtUtils-Depends
+        - https://gitee.com/src-openeuler/pangox-compat
+        - https://gitee.com/src-openeuler/perl-ExtUtils-PkgConfig
+        - https://gitee.com/src-openeuler/python-nbxmpp
+        - https://gitee.com/src-openeuler/python-precis_i18n
+        - https://gitee.com/src-openeuler/python-cssutils
+        - https://gitee.com/src-openeuler/perl-Glib
+        - https://gitee.com/src-openeuler/mate-screensaver
+        - https://gitee.com/src-openeuler/mate-session-manager
+        - https://gitee.com/src-openeuler/mate-utils
+        - https://gitee.com/src-openeuler/mate-user-guide
+        - https://gitee.com/src-openeuler/mate-media
+        - https://gitee.com/src-openeuler/mate-control-center
+        - https://gitee.com/src-openeuler/mate-polkit
+        - https://gitee.com/src-openeuler/mate-settings-daemon
+        - https://gitee.com/src-openeuler/marco
+        - https://gitee.com/src-openeuler/mate-common
+        - https://gitee.com/src-openeuler/mate-sensors-applet
+        - https://gitee.com/src-openeuler/mate-system-monitor
+        - https://gitee.com/src-openeuler/mate-menus
+        - https://gitee.com/src-openeuler/mate-terminal
+        - https://gitee.com/src-openeuler/mate-notification-daemon
+        - https://gitee.com/src-openeuler/mate-power-manager
+        - https://gitee.com/src-openeuler/mate-themes
+        - https://gitee.com/src-openeuler/mate-desktop
+        - https://gitee.com/src-openeuler/mate-backgrounds
+        - https://gitee.com/src-openeuler/mate-icon-theme
+        - https://gitee.com/src-openeuler/mate-applets
+        - https://gitee.com/src-openeuler/mate-calc
+        - https://gitee.com/src-openeuler/mate-panel
+        - https://gitee.com/src-openeuler/gucharmap
+        - https://gitee.com/src-openeuler/gtk2-engines
+        - https://gitee.com/src-openeuler/gparted
+        - https://gitee.com/src-openeuler/gajim
+        - https://gitee.com/src-openeuler/gtksourceview4
+        - https://gitee.com/src-openeuler/gtk-murrine-engine
+        - https://gitee.com/src-openeuler/gcolor2
+        - https://gitee.com/src-openeuler/glade3
+        - https://gitee.com/src-openeuler/gtk-layer-shell
+        - https://gitee.com/src-openeuler/open-chinese-fonts
+        - https://gitee.com/openeuler/mate-desktop
+    governance-repositories:
+        repo_urls: []
+
+    

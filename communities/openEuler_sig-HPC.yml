@@ -1,0 +1,36 @@
+---
+community_name: openEuler_sig-HPC
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/apptainer
+        - https://gitee.com/src-openeuler/squashfuse
+        - https://gitee.com/src-openeuler/wrf
+        - https://gitee.com/src-openeuler/lammps
+        - https://gitee.com/src-openeuler/TRF
+        - https://gitee.com/openeuler/hpcrunner
+        - https://gitee.com/openeuler/hpc
+        - https://gitee.com/openeuler/elfin-parser
+        - https://gitee.com/openeuler/donau-slurm-wrappers
+        - https://gitee.com/openeuler/portal-mulit-cluster-script
+        - https://gitee.com/openeuler/hpcpilot
+        - https://gitee.com/openeuler/donau-pam-adopt
+        - https://gitee.com/openeuler/portal-application-license-monitor
+        - https://gitee.com/openeuler/BIDK
+        - https://gitee.com/src-openeuler/BSC-extrae
+        - https://gitee.com/src-openeuler/BSC-wxparaver
+        - https://gitee.com/src-openeuler/darshan
+        - https://gitee.com/src-openeuler/f2c
+        - https://gitee.com/src-openeuler/hpctoolkit
+        - https://gitee.com/src-openeuler/memP
+        - https://gitee.com/src-openeuler/mpiP
+        - https://gitee.com/src-openeuler/paraver-kernel
+        - https://gitee.com/src-openeuler/scorep
+        - https://gitee.com/src-openeuler/tau
+        - https://gitee.com/src-openeuler/slurm
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,88 @@
+---
+community_name: openEuler_sig-security-facility
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/cryptopp
+        - https://gitee.com/src-openeuler/aespipe
+        - https://gitee.com/src-openeuler/passwd_group_generator
+        - https://gitee.com/openeuler/passwd_group_generator
+        - https://gitee.com/openeuler/security-facility
+        - https://gitee.com/src-openeuler/strongswan
+        - https://gitee.com/openeuler/kunpengsecl
+        - https://gitee.com/src-openeuler/kunpengsecl
+        - https://gitee.com/openeuler/ksc-defender
+        - https://gitee.com/src-openeuler/ksc-defender
+        - https://gitee.com/src-openeuler/oath-toolkit
+        - https://gitee.com/src-openeuler/fapolicyd
+        - https://gitee.com/src-openeuler/scap-security-guide
+        - https://gitee.com/src-openeuler/scap-workbench
+        - https://gitee.com/src-openeuler/keycloak-httpd-client-install
+        - https://gitee.com/src-openeuler/mod_auth_openidc
+        - https://gitee.com/src-openeuler/mod_authnz_pam
+        - https://gitee.com/src-openeuler/certmonger
+        - https://gitee.com/src-openeuler/oscap-anaconda-addon
+        - https://gitee.com/src-openeuler/mysql-selinux
+        - https://gitee.com/src-openeuler/cracklib
+        - https://gitee.com/src-openeuler/libpwquality
+        - https://gitee.com/src-openeuler/pam
+        - https://gitee.com/src-openeuler/pam_wrapper
+        - https://gitee.com/src-openeuler/audit
+        - https://gitee.com/src-openeuler/mokutil
+        - https://gitee.com/src-openeuler/setroubleshoot
+        - https://gitee.com/src-openeuler/tpm2-tools
+        - https://gitee.com/src-openeuler/tpm2-tss
+        - https://gitee.com/src-openeuler/tpm2-abrmd
+        - https://gitee.com/src-openeuler/checkpolicy
+        - https://gitee.com/src-openeuler/libcap
+        - https://gitee.com/src-openeuler/libselinux
+        - https://gitee.com/src-openeuler/libsemanage
+        - https://gitee.com/src-openeuler/libsepol
+        - https://gitee.com/src-openeuler/mcstrans
+        - https://gitee.com/src-openeuler/selinux-policy
+        - https://gitee.com/src-openeuler/policycoreutils
+        - https://gitee.com/src-openeuler/security-tool
+        - https://gitee.com/openeuler/security-tool
+        - https://gitee.com/src-openeuler/apparmor
+        - https://gitee.com/src-openeuler/digest-list-tools
+        - https://gitee.com/src-openeuler/attest-tools
+        - https://gitee.com/openeuler/digest-list-tools
+        - https://gitee.com/openeuler/attest-tools
+        - https://gitee.com/openeuler/dim_tools
+        - https://gitee.com/src-openeuler/dim_tools
+        - https://gitee.com/openeuler/dim
+        - https://gitee.com/src-openeuler/dim
+        - https://gitee.com/src-openeuler/pesign-obs-integration
+        - https://gitee.com/src-openeuler/tss2
+        - https://gitee.com/src-openeuler/openssl_tpm2_engine
+        - https://gitee.com/src-openeuler/secpaver
+        - https://gitee.com/openeuler/secpaver
+        - https://gitee.com/src-openeuler/qax-gm-certificates
+        - https://gitee.com/openeuler/qax-gm-certificates
+        - https://gitee.com/src-openeuler/swtpm
+        - https://gitee.com/src-openeuler/libtpms
+        - https://gitee.com/src-openeuler/crypto-policies
+        - https://gitee.com/src-openeuler/gnupg2
+        - https://gitee.com/src-openeuler/gnutls
+        - https://gitee.com/src-openeuler/keyutils
+        - https://gitee.com/src-openeuler/nss
+        - https://gitee.com/src-openeuler/nss-pem
+        - https://gitee.com/src-openeuler/openssl
+        - https://gitee.com/src-openeuler/compat-openssl11
+        - https://gitee.com/src-openeuler/openssl-pkcs11
+        - https://gitee.com/src-openeuler/pyOpenSSL
+        - https://gitee.com/src-openeuler/softhsm
+        - https://gitee.com/src-openeuler/tpm2-tss-engine
+        - https://gitee.com/src-openeuler/tpm2-openssl
+        - https://gitee.com/openeuler/vtopia-agent
+        - https://gitee.com/openeuler/secscanner
+        - https://gitee.com/src-openeuler/secscanner
+        - https://gitee.com/openeuler/openssl
+        - https://gitee.com/openeuler/secDetector
+        - https://gitee.com/src-openeuler/secDetector
+    governance-repositories:
+        repo_urls: []
+
+    

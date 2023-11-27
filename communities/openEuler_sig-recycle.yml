@@ -1,0 +1,26 @@
+---
+community_name: openEuler_sig-recycle
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/anbox
+        - https://gitee.com/openeuler/iSulad-img
+        - https://gitee.com/openeuler/isula-transform
+        - https://gitee.com/openeuler/authz
+        - https://gitee.com/openeuler/eulerfs
+        - https://gitee.com/src-openeuler/isula-transform
+        - https://gitee.com/src-openeuler/iSulad-img
+        - https://gitee.com/src-openeuler/authz
+        - https://gitee.com/src-openeuler/kata-micro-kernel
+        - https://gitee.com/src-openeuler/NutShell-Kernel
+        - https://gitee.com/src-openeuler/NutShell-systemd
+        - https://gitee.com/src-openeuler/NutShell-riscv-pk
+        - https://gitee.com/src-openeuler/NutShell-riscv-glibc
+        - https://gitee.com/src-openeuler/python-keyczar
+        - https://gitee.com/src-openeuler/python-crypto
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,73 @@
+---
+community_name: openEuler_bigdata
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/openeuler-wiki-bot
+        - https://gitee.com/openeuler/vectorBlas
+        - https://gitee.com/openeuler/bigdata
+        - https://gitee.com/openeuler/omnidata-hive-connector
+        - https://gitee.com/src-openeuler/hive
+        - https://gitee.com/src-openeuler/hbase
+        - https://gitee.com/src-openeuler/hadoop
+        - https://gitee.com/src-openeuler/spark
+        - https://gitee.com/src-openeuler/ambari
+        - https://gitee.com/src-openeuler/flink
+        - https://gitee.com/src-openeuler/hadoop-3.1
+        - https://gitee.com/src-openeuler/bigtop
+        - https://gitee.com/src-openeuler/zookeeper
+        - https://gitee.com/src-openeuler/redis6
+        - https://gitee.com/src-openeuler/rain
+        - https://gitee.com/src-openeuler/redis5
+        - https://gitee.com/src-openeuler/impala
+        - https://gitee.com/src-openeuler/iceberg
+        - https://gitee.com/src-openeuler/ibis
+        - https://gitee.com/src-openeuler/ignite
+        - https://gitee.com/src-openeuler/notebook
+        - https://gitee.com/src-openeuler/giraph
+        - https://gitee.com/src-openeuler/gl2ps
+        - https://gitee.com/src-openeuler/zeppelin
+        - https://gitee.com/src-openeuler/telegraf
+        - https://gitee.com/src-openeuler/storm
+        - https://gitee.com/src-openeuler/alluxio
+        - https://gitee.com/src-openeuler/accumulo
+        - https://gitee.com/src-openeuler/avor
+        - https://gitee.com/src-openeuler/apache-ranger
+        - https://gitee.com/src-openeuler/apache-atlas
+        - https://gitee.com/src-openeuler/ftgl
+        - https://gitee.com/src-openeuler/flume
+        - https://gitee.com/src-openeuler/oozie
+        - https://gitee.com/src-openeuler/hudi
+        - https://gitee.com/src-openeuler/hue
+        - https://gitee.com/src-openeuler/mahout
+        - https://gitee.com/src-openeuler/jupyter
+        - https://gitee.com/src-openeuler/calcite
+        - https://gitee.com/src-openeuler/druid
+        - https://gitee.com/src-openeuler/delta
+        - https://gitee.com/src-openeuler/datafu
+        - https://gitee.com/src-openeuler/qfs
+        - https://gitee.com/src-openeuler/qrupdate
+        - https://gitee.com/src-openeuler/qscintilla
+        - https://gitee.com/src-openeuler/epstool
+        - https://gitee.com/src-openeuler/blaze
+        - https://gitee.com/src-openeuler/kite-sdk
+        - https://gitee.com/src-openeuler/kudu
+        - https://gitee.com/src-openeuler/knox
+        - https://gitee.com/src-openeuler/libhdfs
+        - https://gitee.com/src-openeuler/llama
+        - https://gitee.com/src-openeuler/lzip
+        - https://gitee.com/src-openeuler/libiodbc
+        - https://gitee.com/src-openeuler/ycsb
+        - https://gitee.com/src-openeuler/protobuf2
+        - https://gitee.com/src-openeuler/phantomjs
+        - https://gitee.com/src-openeuler/presto
+        - https://gitee.com/src-openeuler/python-jupyter-core
+        - https://gitee.com/src-openeuler/python-ipykernel
+        - https://gitee.com/src-openeuler/parquet-format
+        - https://gitee.com/src-openeuler/python-jupyter-client
+    governance-repositories:
+        repo_urls: []
+
+    

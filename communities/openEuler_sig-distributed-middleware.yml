@@ -1,0 +1,39 @@
+---
+community_name: openEuler_sig-distributed-middleware
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/distributed-codelabs
+        - https://gitee.com/src-openeuler/hmdfs
+        - https://gitee.com/src-openeuler/distributed-build
+        - https://gitee.com/src-openeuler/distributed-build_lite
+        - https://gitee.com/openeuler/distributed-beget
+        - https://gitee.com/src-openeuler/distributed-beget
+        - https://gitee.com/src-openeuler/systemabilitymgr_safwk
+        - https://gitee.com/src-openeuler/systemabilitymgr_samgr
+        - https://gitee.com/src-openeuler/hiviewdfx_hilog
+        - https://gitee.com/src-openeuler/distributedhardware_device_manager
+        - https://gitee.com/src-openeuler/libcoap
+        - https://gitee.com/src-openeuler/security_huks
+        - https://gitee.com/src-openeuler/security_device_auth
+        - https://gitee.com/src-openeuler/communication_ipc
+        - https://gitee.com/src-openeuler/commonlibrary_c_utils
+        - https://gitee.com/src-openeuler/notification_eventhandler
+        - https://gitee.com/src-openeuler/distributeddatamgr_kv_store
+        - https://gitee.com/src-openeuler/hiviewdfx_hisysevent
+        - https://gitee.com/src-openeuler/customization_config_policy
+        - https://gitee.com/src-openeuler/notification_common_event_service
+        - https://gitee.com/src-openeuler/distributeddatamgr_relational_store
+        - https://gitee.com/src-openeuler/security_dataclassification
+        - https://gitee.com/src-openeuler/security_device_security_level
+        - https://gitee.com/src-openeuler/filemanagement_dfs_service
+        - https://gitee.com/src-openeuler/distributeddatamgr_datamgr_service
+        - https://gitee.com/src-openeuler/distributeddatamgr_data_object
+        - https://gitee.com/src-openeuler/dsoftbus
+        - https://gitee.com/openeuler/dsoftbus_standard
+    governance-repositories:
+        repo_urls: []
+
+    

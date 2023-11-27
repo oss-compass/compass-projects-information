@@ -1,0 +1,29 @@
+---
+community_name: openEuler_sig-ebpf
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/CTinspector
+        - https://gitee.com/openeuler/Agith
+        - https://gitee.com/src-openeuler/eunomia-bpf
+        - https://gitee.com/openeuler/Kmesh
+        - https://gitee.com/src-openeuler/libbpf
+        - https://gitee.com/src-openeuler/bpftrace
+        - https://gitee.com/src-openeuler/bcc
+        - https://gitee.com/src-openeuler/goebpf
+        - https://gitee.com/src-openeuler/xdp-tools
+        - https://gitee.com/src-openeuler/Kmesh
+        - https://gitee.com/src-openeuler/bpftool
+        - https://gitee.com/openeuler/gala-gopher
+        - https://gitee.com/src-openeuler/gala-gopher
+        - https://gitee.com/openeuler/ketones
+        - https://gitee.com/openeuler/btfhub
+        - https://gitee.com/openeuler/btfhub-archive
+        - https://gitee.com/openeuler/safeguard
+        - https://gitee.com/openeuler/safeguard-web
+    governance-repositories:
+        repo_urls: []
+
+    
