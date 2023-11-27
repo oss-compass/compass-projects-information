@@ -1,0 +1,16 @@
+---
+community_name: openEuler_Packaging
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/nginx
+        - https://gitee.com/src-openeuler/rpmdevtools
+        - https://gitee.com/src-openeuler/multilib-rpm-config
+        - https://gitee.com/src-openeuler/pakchois
+        - https://gitee.com/src-openeuler/copy-jdk-configs
+    governance-repositories:
+        repo_urls: []
+
+    

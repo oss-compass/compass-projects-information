@@ -1,0 +1,64 @@
+---
+community_name: openEuler_DB
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/mysql5
+        - https://gitee.com/src-openeuler/perl-DBD-MySQL
+        - https://gitee.com/src-openeuler/gpdb
+        - https://gitee.com/src-openeuler/sqlite
+        - https://gitee.com/src-openeuler/perl-DBD-SQLite
+        - https://gitee.com/src-openeuler/opengauss-server
+        - https://gitee.com/src-openeuler/opengauss-dcf
+        - https://gitee.com/src-openeuler/nanomsg
+        - https://gitee.com/src-openeuler/apache-orc
+        - https://gitee.com/src-openeuler/cjson
+        - https://gitee.com/src-openeuler/postgresql
+        - https://gitee.com/src-openeuler/postgresql-odbc
+        - https://gitee.com/src-openeuler/greatsql
+        - https://gitee.com/src-openeuler/openGemini
+        - https://gitee.com/src-openeuler/masstree
+        - https://gitee.com/openeuler/masstree
+        - https://gitee.com/openeuler/cantian
+        - https://gitee.com/openeuler/cantian-connector-mysql
+        - https://gitee.com/src-openeuler/mariadb-connector-odbc
+        - https://gitee.com/src-openeuler/mongo-tools
+        - https://gitee.com/src-openeuler/mariadb
+        - https://gitee.com/src-openeuler/mysqltuner
+        - https://gitee.com/src-openeuler/geolatte-geom
+        - https://gitee.com/src-openeuler/glassfish-legal
+        - https://gitee.com/src-openeuler/canal
+        - https://gitee.com/src-openeuler/firebird
+        - https://gitee.com/src-openeuler/fastdb
+        - https://gitee.com/src-openeuler/foomatic-db
+        - https://gitee.com/src-openeuler/foomatic
+        - https://gitee.com/src-openeuler/pig
+        - https://gitee.com/src-openeuler/percona-server
+        - https://gitee.com/src-openeuler/percona-toolkit
+        - https://gitee.com/src-openeuler/phoenix
+        - https://gitee.com/src-openeuler/pgpool2
+        - https://gitee.com/src-openeuler/pgadmin4-server
+        - https://gitee.com/src-openeuler/perl-DBIx-Safe
+        - https://gitee.com/src-openeuler/percona-xtrabackup
+        - https://gitee.com/src-openeuler/postgresql-13
+        - https://gitee.com/src-openeuler/perl-DBD-MariaDB
+        - https://gitee.com/src-openeuler/perl-DBD-XBase
+        - https://gitee.com/src-openeuler/perl-DBD-Mock
+        - https://gitee.com/src-openeuler/perl-DBD-Pg
+        - https://gitee.com/src-openeuler/perl-DBD-SQLite2
+        - https://gitee.com/src-openeuler/tidb
+        - https://gitee.com/src-openeuler/tez
+        - https://gitee.com/src-openeuler/neo4j
+        - https://gitee.com/src-openeuler/unixODBC
+        - https://gitee.com/src-openeuler/libpq
+        - https://gitee.com/src-openeuler/livy
+        - https://gitee.com/src-openeuler/barman
+        - https://gitee.com/src-openeuler/bucardo
+        - https://gitee.com/src-openeuler/derby
+        - https://gitee.com/src-openeuler/h2
+    governance-repositories:
+        repo_urls: []
+
+    

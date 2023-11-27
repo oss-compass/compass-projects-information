@@ -1,0 +1,25 @@
+---
+community_name: openEuler_sig-RaspberryPi
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/allwinner-kernel
+        - https://gitee.com/openeuler/raspberrypi
+        - https://gitee.com/openeuler/raspberrypi-build
+        - https://gitee.com/openeuler/raspberrypi-kernel
+        - https://gitee.com/openeuler/rockchip
+        - https://gitee.com/openeuler/rockchip-kernel
+        - https://gitee.com/src-openeuler/pigpio
+        - https://gitee.com/src-openeuler/raspberrypi-bluetooth
+        - https://gitee.com/src-openeuler/raspberrypi-build
+        - https://gitee.com/src-openeuler/raspberrypi-eeprom
+        - https://gitee.com/src-openeuler/raspberrypi-firmware
+        - https://gitee.com/src-openeuler/raspberrypi-kernel
+        - https://gitee.com/src-openeuler/raspberrypi-userland
+        - https://gitee.com/src-openeuler/raspi-config
+    governance-repositories:
+        repo_urls: []
+
+    

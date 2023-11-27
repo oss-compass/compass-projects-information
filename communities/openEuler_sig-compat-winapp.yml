@@ -1,0 +1,36 @@
+---
+community_name: openEuler_sig-compat-winapp
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/compat-winapp
+        - https://gitee.com/openeuler/wine-app
+        - https://gitee.com/src-openeuler/isl
+        - https://gitee.com/src-openeuler/tslib
+        - https://gitee.com/src-openeuler/tinyxml
+        - https://gitee.com/src-openeuler/spirv-headers
+        - https://gitee.com/src-openeuler/spirv-tools
+        - https://gitee.com/src-openeuler/FAudio
+        - https://gitee.com/src-openeuler/mingw-wine-gecko
+        - https://gitee.com/src-openeuler/mingw-winpthreads
+        - https://gitee.com/src-openeuler/mingw-binutils
+        - https://gitee.com/src-openeuler/mingw-gcc
+        - https://gitee.com/src-openeuler/mingw-filesystem
+        - https://gitee.com/src-openeuler/mingw-headers
+        - https://gitee.com/src-openeuler/mingw-crt
+        - https://gitee.com/src-openeuler/jack-audio-connection-kit
+        - https://gitee.com/src-openeuler/cloog
+        - https://gitee.com/src-openeuler/vkd3d
+        - https://gitee.com/src-openeuler/efl
+        - https://gitee.com/src-openeuler/bullet
+        - https://gitee.com/src-openeuler/box86
+        - https://gitee.com/src-openeuler/libffado
+        - https://gitee.com/src-openeuler/libxmlpp
+        - https://gitee.com/src-openeuler/wine-mono
+        - https://gitee.com/src-openeuler/wine
+    governance-repositories:
+        repo_urls: []
+
+    

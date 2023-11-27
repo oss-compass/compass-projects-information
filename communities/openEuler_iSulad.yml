@@ -1,0 +1,29 @@
+---
+community_name: openEuler_iSulad
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/iSulad
+        - https://gitee.com/openeuler/isula-build
+        - https://gitee.com/openeuler/syscontainer-tools
+        - https://gitee.com/openeuler/async-libfuse
+        - https://gitee.com/openeuler/clibcni
+        - https://gitee.com/openeuler/lcr
+        - https://gitee.com/openeuler/lib-shim-v2
+        - https://gitee.com/openeuler/lxcfs-tools
+        - https://gitee.com/src-openeuler/iSulad
+        - https://gitee.com/src-openeuler/isula-build
+        - https://gitee.com/src-openeuler/syscontainer-tools
+        - https://gitee.com/src-openeuler/clibcni
+        - https://gitee.com/src-openeuler/lxc
+        - https://gitee.com/src-openeuler/lxcfs
+        - https://gitee.com/src-openeuler/libwebsockets
+        - https://gitee.com/src-openeuler/lcr
+        - https://gitee.com/src-openeuler/lib-shim-v2
+        - https://gitee.com/src-openeuler/lxcfs-tools
+    governance-repositories:
+        repo_urls: []
+
+    

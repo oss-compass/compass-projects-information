@@ -1,0 +1,50 @@
+---
+community_name: openEuler_Runtime
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/freetds
+        - https://gitee.com/src-openeuler/fftw
+        - https://gitee.com/src-openeuler/freeglut
+        - https://gitee.com/src-openeuler/usbmuxd
+        - https://gitee.com/src-openeuler/rhash
+        - https://gitee.com/src-openeuler/redland
+        - https://gitee.com/src-openeuler/kmod-kvdo
+        - https://gitee.com/src-openeuler/Imath
+        - https://gitee.com/src-openeuler/clutter-gst2
+        - https://gitee.com/src-openeuler/celt051
+        - https://gitee.com/src-openeuler/glew
+        - https://gitee.com/src-openeuler/gsl
+        - https://gitee.com/src-openeuler/pkcs11-helper
+        - https://gitee.com/src-openeuler/python-httplib2
+        - https://gitee.com/src-openeuler/atlas
+        - https://gitee.com/src-openeuler/alsa-plugins
+        - https://gitee.com/src-openeuler/mesa-demos
+        - https://gitee.com/src-openeuler/m2crypto
+        - https://gitee.com/src-openeuler/motif
+        - https://gitee.com/src-openeuler/OpenEXR
+        - https://gitee.com/src-openeuler/tinycdb
+        - https://gitee.com/src-openeuler/hdf5
+        - https://gitee.com/src-openeuler/libvoikko
+        - https://gitee.com/src-openeuler/libnice
+        - https://gitee.com/src-openeuler/libmpcdec
+        - https://gitee.com/src-openeuler/libao
+        - https://gitee.com/src-openeuler/librabbitmq
+        - https://gitee.com/src-openeuler/libavc1394
+        - https://gitee.com/src-openeuler/libshout
+        - https://gitee.com/src-openeuler/libstoragemgmt
+        - https://gitee.com/src-openeuler/libieee1284
+        - https://gitee.com/src-openeuler/libiec61883
+        - https://gitee.com/src-openeuler/libsmi
+        - https://gitee.com/src-openeuler/libvdpau
+        - https://gitee.com/src-openeuler/libva
+        - https://gitee.com/src-openeuler/xorg-x11-xtrans-devel
+        - https://gitee.com/src-openeuler/jemalloc
+        - https://gitee.com/src-openeuler/vdo
+        - https://gitee.com/src-openeuler/qt
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,47 @@
+---
+community_name: openEuler_sig-bio
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/bioinformatics
+        - https://gitee.com/src-openeuler/bamtools
+        - https://gitee.com/src-openeuler/bcftools
+        - https://gitee.com/src-openeuler/bedops
+        - https://gitee.com/src-openeuler/bedtools
+        - https://gitee.com/src-openeuler/bgenix
+        - https://gitee.com/src-openeuler/biobambam2
+        - https://gitee.com/src-openeuler/bowtie2
+        - https://gitee.com/src-openeuler/c-STAR
+        - https://gitee.com/src-openeuler/Control-FREEC
+        - https://gitee.com/src-openeuler/cufflinks
+        - https://gitee.com/src-openeuler/fastp
+        - https://gitee.com/src-openeuler/fastqc
+        - https://gitee.com/src-openeuler/GATK
+        - https://gitee.com/src-openeuler/gffcompare
+        - https://gitee.com/src-openeuler/gffread
+        - https://gitee.com/src-openeuler/htslib
+        - https://gitee.com/src-openeuler/iqtree
+        - https://gitee.com/src-openeuler/libdeflate
+        - https://gitee.com/src-openeuler/libmaus2
+        - https://gitee.com/src-openeuler/mafft
+        - https://gitee.com/src-openeuler/modeltest-ng
+        - https://gitee.com/src-openeuler/mrbayes
+        - https://gitee.com/src-openeuler/ncbi-blast
+        - https://gitee.com/src-openeuler/Picard
+        - https://gitee.com/src-openeuler/racon
+        - https://gitee.com/src-openeuler/raxml-ng
+        - https://gitee.com/src-openeuler/rstudio
+        - https://gitee.com/src-openeuler/samtools
+        - https://gitee.com/src-openeuler/seqtk
+        - https://gitee.com/src-openeuler/smartdenovo
+        - https://gitee.com/src-openeuler/stringtie
+        - https://gitee.com/src-openeuler/trimal
+        - https://gitee.com/src-openeuler/trimmomatic
+        - https://gitee.com/src-openeuler/vcftools
+        - https://gitee.com/src-openeuler/wtdbg2
+    governance-repositories:
+        repo_urls: []
+
+    

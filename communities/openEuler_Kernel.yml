@@ -1,0 +1,21 @@
+---
+community_name: openEuler_Kernel
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/kernel
+        - https://gitee.com/src-openeuler/kernel
+        - https://gitee.com/openeuler/kbuild-standalone
+        - https://gitee.com/openeuler/TCP_option_address
+        - https://gitee.com/openeuler/eulerfs-test
+        - https://gitee.com/openeuler/kernel-cloudnative
+        - https://gitee.com/openeuler/kconfigDetector
+        - https://gitee.com/src-openeuler/kconfigDetector
+        - https://gitee.com/openeuler/kernel-docs
+        - https://gitee.com/openeuler/kernel-ascend
+    governance-repositories:
+        repo_urls: []
+
+    

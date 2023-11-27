@@ -1,0 +1,18 @@
+---
+community_name: openEuler_sig-memsafety
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/utshell
+        - https://gitee.com/openeuler/utsudo
+        - https://gitee.com/src-openeuler/nix
+        - https://gitee.com/src-openeuler/which-rs
+        - https://gitee.com/src-openeuler/fast_rsync
+        - https://gitee.com/src-openeuler/coreutils-rs
+        - https://gitee.com/openeuler/easybox
+    governance-repositories:
+        repo_urls: []
+
+    

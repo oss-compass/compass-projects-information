@@ -1,0 +1,24 @@
+---
+community_name: openEuler_Infrastructure
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/infrastructure
+        - https://gitee.com/openeuler/website
+        - https://gitee.com/openeuler/go-gitee
+        - https://gitee.com/openeuler/gitbook-theme-hugo
+        - https://gitee.com/openeuler/tool-collections
+        - https://gitee.com/openeuler/cve-manager
+        - https://gitee.com/openeuler/cve-ease
+        - https://gitee.com/src-openeuler/cve-ease
+        - https://gitee.com/openeuler/eulerlauncher
+        - https://gitee.com/openeuler/signatrust
+        - https://gitee.com/openeuler/cache-proxy
+        - https://gitee.com/openeuler/eulerpublisher
+        - https://gitee.com/src-openeuler/software-package-server
+    governance-repositories:
+        repo_urls: []
+
+    

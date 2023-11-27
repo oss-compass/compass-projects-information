@@ -1,0 +1,48 @@
+---
+community_name: openEuler_ai
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/incubator-mxnet
+        - https://gitee.com/src-openeuler/nccl
+        - https://gitee.com/src-openeuler/glpk
+        - https://gitee.com/src-openeuler/tensorflow
+        - https://gitee.com/src-openeuler/SuperLUMT
+        - https://gitee.com/src-openeuler/sundials
+        - https://gitee.com/src-openeuler/sentencepiece
+        - https://gitee.com/src-openeuler/arm-ml-examples
+        - https://gitee.com/src-openeuler/armnn
+        - https://gitee.com/src-openeuler/openpmix
+        - https://gitee.com/src-openeuler/opencl-filesystem
+        - https://gitee.com/src-openeuler/opencv
+        - https://gitee.com/src-openeuler/opencl-headers
+        - https://gitee.com/src-openeuler/ompi
+        - https://gitee.com/src-openeuler/opencl-clhpp
+        - https://gitee.com/src-openeuler/opencl
+        - https://gitee.com/src-openeuler/oneDNN
+        - https://gitee.com/src-openeuler/octave
+        - https://gitee.com/src-openeuler/opennn
+        - https://gitee.com/src-openeuler/okhttp
+        - https://gitee.com/src-openeuler/mlpack
+        - https://gitee.com/src-openeuler/mindspore
+        - https://gitee.com/src-openeuler/ComputeLibrary
+        - https://gitee.com/src-openeuler/dlib
+        - https://gitee.com/src-openeuler/eigen
+        - https://gitee.com/src-openeuler/eli5
+        - https://gitee.com/src-openeuler/ensmallen
+        - https://gitee.com/src-openeuler/bazel
+        - https://gitee.com/src-openeuler/libsvm
+        - https://gitee.com/src-openeuler/libxsmm
+        - https://gitee.com/src-openeuler/lightgbm
+        - https://gitee.com/src-openeuler/pytorch
+        - https://gitee.com/src-openeuler/python-asttokens
+        - https://gitee.com/src-openeuler/python-horovod
+        - https://gitee.com/src-openeuler/prrte
+        - https://gitee.com/src-openeuler/jieba
+        - https://gitee.com/src-openeuler/python-notebook
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,21 @@
+---
+community_name: openEuler_sig-message-middleware
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/rocketmq
+        - https://gitee.com/src-openeuler/rabbitmq-java-client
+        - https://gitee.com/src-openeuler/rabbitmq-server
+        - https://gitee.com/src-openeuler/pulsar
+        - https://gitee.com/src-openeuler/eventmesh
+        - https://gitee.com/src-openeuler/kafka
+        - https://gitee.com/openeuler/amqp-proxy
+        - https://gitee.com/openeuler/mqtt-proxy
+        - https://gitee.com/openeuler/rocketmq-operator
+        - https://gitee.com/openeuler/mqtt-operator
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,56 @@
+---
+community_name: openEuler_sig-KIRAN-DESKTOP
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/kiran-avatar-editor
+        - https://gitee.com/src-openeuler/kiran-calendar
+        - https://gitee.com/src-openeuler/kiran-gtk-theme
+        - https://gitee.com/src-openeuler/kiran-icon-theme
+        - https://gitee.com/src-openeuler/kiran-themes
+        - https://gitee.com/src-openeuler/kiran-menu
+        - https://gitee.com/src-openeuler/kiran-screensaver-dialog
+        - https://gitee.com/src-openeuler/lightdm-kiran-greeter
+        - https://gitee.com/src-openeuler/kiran-wallpapers
+        - https://gitee.com/src-openeuler/plymouth-theme-kiran
+        - https://gitee.com/src-openeuler/kiran-flameshot
+        - https://gitee.com/src-openeuler/kiran-cc-daemon
+        - https://gitee.com/src-openeuler/lunar-date
+        - https://gitee.com/src-openeuler/gdbus-codegen-glibmm
+        - https://gitee.com/src-openeuler/kiran-log
+        - https://gitee.com/src-openeuler/zlog
+        - https://gitee.com/src-openeuler/kiran-control-panel
+        - https://gitee.com/src-openeuler/kiran-cpanel-account
+        - https://gitee.com/src-openeuler/kiran-cpanel-display
+        - https://gitee.com/src-openeuler/kiran-cpanel-menu
+        - https://gitee.com/src-openeuler/kiran-cpanel-mouse
+        - https://gitee.com/src-openeuler/kiran-cpanel-timedate
+        - https://gitee.com/src-openeuler/kiran-cpanel-appearance
+        - https://gitee.com/src-openeuler/kiran-cpanel-keyboard
+        - https://gitee.com/src-openeuler/kiran-cpanel-keybinding
+        - https://gitee.com/src-openeuler/kiran-cpanel-power
+        - https://gitee.com/src-openeuler/kiran-panel
+        - https://gitee.com/src-openeuler/kiran-session-manager
+        - https://gitee.com/src-openeuler/kiran-widgets-qt5
+        - https://gitee.com/src-openeuler/kiran-qdbusxml2cpp
+        - https://gitee.com/src-openeuler/libcutl
+        - https://gitee.com/src-openeuler/xsd
+        - https://gitee.com/src-openeuler/kiran-desktop
+        - https://gitee.com/src-openeuler/kiran-calculator
+        - https://gitee.com/src-openeuler/kiran-session-guard
+        - https://gitee.com/src-openeuler/kiran-screensaver
+        - https://gitee.com/src-openeuler/kiran-authentication-service
+        - https://gitee.com/src-openeuler/kiran-biometrics
+        - https://gitee.com/src-openeuler/kiran-authentication-devices
+        - https://gitee.com/src-openeuler/kiran-shell
+        - https://gitee.com/src-openeuler/kiran-manual
+        - https://gitee.com/src-openeuler/ks-ssr
+        - https://gitee.com/src-openeuler/ks-scmc
+        - https://gitee.com/src-openeuler/ks-scmc-gui
+        - https://gitee.com/src-openeuler/ks-vaudit
+    governance-repositories:
+        repo_urls: []
+
+    

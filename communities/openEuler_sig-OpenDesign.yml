@@ -1,0 +1,26 @@
+---
+community_name: openEuler_sig-OpenDesign
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/opendesign
+        - https://gitee.com/openeuler/opendesign-components
+        - https://gitee.com/openeuler/opendesign-resources
+        - https://gitee.com/openeuler/opendesign-templates
+        - https://gitee.com/openeuler/openEuler-portal
+        - https://gitee.com/openeuler/opendesign-deployment
+        - https://gitee.com/openeuler/opendesign-backend
+        - https://gitee.com/openeuler/opendesign-build
+        - https://gitee.com/openeuler/opendesign-miniprogram
+        - https://gitee.com/openeuler/opendesign-datastat
+        - https://gitee.com/openeuler/opendesign-internship
+        - https://gitee.com/openeuler/talent-assessment
+        - https://gitee.com/openeuler/certificate-center
+        - https://gitee.com/openeuler/docs-accompany-reading
+        - https://gitee.com/openeuler/quick-issue
+    governance-repositories:
+        repo_urls: []
+
+    

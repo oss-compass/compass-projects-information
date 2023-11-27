@@ -1,0 +1,58 @@
+---
+community_name: openEuler_A-Tune
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/A-Tune
+        - https://gitee.com/openeuler/A-Tune-UI
+        - https://gitee.com/openeuler/A-Tune-Collector
+        - https://gitee.com/openeuler/prefetch_tuning
+        - https://gitee.com/openeuler/EulerCopilot
+        - https://gitee.com/openeuler/native-turbo
+        - https://gitee.com/openeuler/native-turbo-kernel
+        - https://gitee.com/openeuler/wisdom-advisor
+        - https://gitee.com/openeuler/sysboost
+        - https://gitee.com/src-openeuler/native-turbo
+        - https://gitee.com/src-openeuler/wisdom-advisor
+        - https://gitee.com/src-openeuler/sysboost
+        - https://gitee.com/src-openeuler/EulerCopilot
+        - https://gitee.com/src-openeuler/A-Tune
+        - https://gitee.com/src-openeuler/A-Tune-UI
+        - https://gitee.com/src-openeuler/A-Tune-Collector
+        - https://gitee.com/src-openeuler/prefetch_tuning
+        - https://gitee.com/src-openeuler/python-networkx
+        - https://gitee.com/src-openeuler/python-netifaces
+        - https://gitee.com/src-openeuler/python-Keras_Preprocessing
+        - https://gitee.com/src-openeuler/python-hyperopt
+        - https://gitee.com/src-openeuler/python-nni
+        - https://gitee.com/src-openeuler/python-astor
+        - https://gitee.com/src-openeuler/python-json-tricks
+        - https://gitee.com/src-openeuler/python-pythonwebhdfs
+        - https://gitee.com/src-openeuler/python-absl-py
+        - https://gitee.com/src-openeuler/python-google-pasta
+        - https://gitee.com/src-openeuler/python-h5py
+        - https://gitee.com/src-openeuler/python-opt-einsum
+        - https://gitee.com/src-openeuler/python-pkgconfig
+        - https://gitee.com/src-openeuler/python-tensorboard
+        - https://gitee.com/src-openeuler/python-tensorboard-plugin-wit
+        - https://gitee.com/src-openeuler/python-estimator
+        - https://gitee.com/src-openeuler/python-Keras
+        - https://gitee.com/src-openeuler/python-keras-rl2
+        - https://gitee.com/src-openeuler/sysdig
+        - https://gitee.com/src-openeuler/python-openbox
+        - https://gitee.com/src-openeuler/python-ConfigSpace
+        - https://gitee.com/src-openeuler/python-Platypus-Opt
+        - https://gitee.com/src-openeuler/llama.cpp
+        - https://gitee.com/src-openeuler/chatglm.cpp
+        - https://gitee.com/src-openeuler/python-shap
+        - https://gitee.com/src-openeuler/python-sphinx-hoverxref
+        - https://gitee.com/src-openeuler/python-numba
+        - https://gitee.com/src-openeuler/python-slicer
+        - https://gitee.com/src-openeuler/python-cma
+        - https://gitee.com/src-openeuler/python-hiplot
+    governance-repositories:
+        repo_urls: []
+
+    

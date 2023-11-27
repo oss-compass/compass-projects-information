@@ -1,0 +1,44 @@
+---
+community_name: openEuler_sig-cinnamon
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/cinnamon
+        - https://gitee.com/src-openeuler/cinnamon-control-center
+        - https://gitee.com/src-openeuler/cinnamon-desktop
+        - https://gitee.com/src-openeuler/cinnamon-menu
+        - https://gitee.com/src-openeuler/cinnamon-screensaver
+        - https://gitee.com/src-openeuler/cinnamon-session
+        - https://gitee.com/src-openeuler/cinnamon-settings-daemon
+        - https://gitee.com/src-openeuler/cinnamon-spices-applets
+        - https://gitee.com/src-openeuler/cinnamon-spices-desklets
+        - https://gitee.com/src-openeuler/cinnamon-spices-extensions
+        - https://gitee.com/src-openeuler/cinnamon-spices-themes
+        - https://gitee.com/src-openeuler/cinnamon-themes
+        - https://gitee.com/src-openeuler/cjs
+        - https://gitee.com/src-openeuler/nemo
+        - https://gitee.com/src-openeuler/nemo-extensions
+        - https://gitee.com/src-openeuler/mdm
+        - https://gitee.com/src-openeuler/mdm-themes
+        - https://gitee.com/src-openeuler/muffin
+        - https://gitee.com/src-openeuler/cinnamon-translations
+        - https://gitee.com/src-openeuler/inxi
+        - https://gitee.com/src-openeuler/perl-XML-Dumper
+        - https://gitee.com/src-openeuler/xapps
+        - https://gitee.com/src-openeuler/mint-x-icons
+        - https://gitee.com/src-openeuler/mint-y-icons
+        - https://gitee.com/src-openeuler/mintlocale
+        - https://gitee.com/src-openeuler/python-plum-py
+        - https://gitee.com/src-openeuler/caribou
+        - https://gitee.com/src-openeuler/cinnamon-mozjs78
+        - https://gitee.com/src-openeuler/python-pam
+        - https://gitee.com/src-openeuler/python-tinycss2
+        - https://gitee.com/src-openeuler/python-xapp
+        - https://gitee.com/src-openeuler/tint2
+        - https://gitee.com/src-openeuler/xdotool
+    governance-repositories:
+        repo_urls: []
+
+    

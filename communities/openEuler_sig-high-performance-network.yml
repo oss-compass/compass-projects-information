@@ -1,0 +1,36 @@
+---
+community_name: openEuler_sig-high-performance-network
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/libvma
+        - https://gitee.com/src-openeuler/polycube
+        - https://gitee.com/src-openeuler/cilium
+        - https://gitee.com/src-openeuler/katran
+        - https://gitee.com/src-openeuler/pistache
+        - https://gitee.com/src-openeuler/libtins
+        - https://gitee.com/src-openeuler/go-bindata
+        - https://gitee.com/src-openeuler/seastar
+        - https://gitee.com/src-openeuler/oncn-bwm
+        - https://gitee.com/openeuler/dpdk
+        - https://gitee.com/openeuler/tarsier
+        - https://gitee.com/openeuler/oncn-bwm
+        - https://gitee.com/openeuler/evs
+        - https://gitee.com/src-openeuler/dwarves
+        - https://gitee.com/src-openeuler/pyang-swagger
+        - https://gitee.com/src-openeuler/pyang
+        - https://gitee.com/src-openeuler/tarsier
+        - https://gitee.com/openeuler/umdk
+        - https://gitee.com/src-openeuler/umdk
+        - https://gitee.com/src-openeuler/dpdk
+        - https://gitee.com/src-openeuler/lwip
+        - https://gitee.com/src-openeuler/gazelle
+        - https://gitee.com/openeuler/gazelle
+        - https://gitee.com/src-openeuler/rdma-core
+        - https://gitee.com/src-openeuler/perftest
+    governance-repositories:
+        repo_urls: []
+
+    

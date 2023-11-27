@@ -1,0 +1,24 @@
+---
+community_name: openEuler_sig-AccLib
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/uadk
+        - https://gitee.com/openeuler/uadk_engine
+        - https://gitee.com/openeuler/libwd
+        - https://gitee.com/openeuler/libkae
+        - https://gitee.com/openeuler/kae_driver
+        - https://gitee.com/openeuler/AvxToNeon
+        - https://gitee.com/openeuler/kml_adapter
+        - https://gitee.com/src-openeuler/libwd
+        - https://gitee.com/src-openeuler/uadk_engine
+        - https://gitee.com/src-openeuler/libkae
+        - https://gitee.com/src-openeuler/kae_driver
+        - https://gitee.com/openeuler/ifm_nettle
+        - https://gitee.com/openeuler/pyuadk
+    governance-repositories:
+        repo_urls: []
+
+    

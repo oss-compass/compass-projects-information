@@ -1,0 +1,19 @@
+---
+community_name: openEuler_sig-WayCa
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/WayCa
+        - https://gitee.com/openeuler/wayca-scheduler
+        - https://gitee.com/openeuler/wayca-scheduler-bench
+        - https://gitee.com/openeuler/hikptool
+        - https://gitee.com/src-openeuler/hikptool
+        - https://gitee.com/openeuler/KPL-gmssl
+        - https://gitee.com/openeuler/KPL-zlib
+        - https://gitee.com/openeuler/numafast
+    governance-repositories:
+        repo_urls: []
+
+    

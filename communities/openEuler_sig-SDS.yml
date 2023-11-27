@@ -1,0 +1,27 @@
+---
+community_name: openEuler_sig-SDS
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/ceph
+        - https://gitee.com/src-openeuler/ceph-deploy
+        - https://gitee.com/src-openeuler/ceph-ansible
+        - https://gitee.com/src-openeuler/ceph-csi
+        - https://gitee.com/src-openeuler/teuthology
+        - https://gitee.com/src-openeuler/daos
+        - https://gitee.com/src-openeuler/ceph-iscsi
+        - https://gitee.com/src-openeuler/gf-complete
+        - https://gitee.com/openeuler/ceph_dev
+        - https://gitee.com/src-openeuler/lustre
+        - https://gitee.com/src-openeuler/lustre-release
+        - https://gitee.com/src-openeuler/zfs
+        - https://gitee.com/src-openeuler/zettastor-dbs
+        - https://gitee.com/src-openeuler/lizardfs
+        - https://gitee.com/openeuler/fastblock
+        - https://gitee.com/openeuler/glusterfs-dashboard
+    governance-repositories:
+        repo_urls: []
+
+    

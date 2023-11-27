@@ -1,0 +1,63 @@
+---
+community_name: openEuler_sig-QT
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/adwaita-qt
+        - https://gitee.com/src-openeuler/libdbusextended-qt5
+        - https://gitee.com/src-openeuler/libmpris-qt5
+        - https://gitee.com/src-openeuler/qt-assistant-adp
+        - https://gitee.com/src-openeuler/qt-at-spi
+        - https://gitee.com/src-openeuler/qt-mobility
+        - https://gitee.com/src-openeuler/qt-settings
+        - https://gitee.com/src-openeuler/qt5
+        - https://gitee.com/src-openeuler/qt5-doc
+        - https://gitee.com/src-openeuler/qt5-qtenginio
+        - https://gitee.com/src-openeuler/qt5-qtnetworkauth
+        - https://gitee.com/src-openeuler/qt5-qtwebkit
+        - https://gitee.com/src-openeuler/qt6
+        - https://gitee.com/src-openeuler/qt6-qt3d
+        - https://gitee.com/src-openeuler/qt6-qt5compat
+        - https://gitee.com/src-openeuler/qt6-qtbase
+        - https://gitee.com/src-openeuler/qt6-qtcharts
+        - https://gitee.com/src-openeuler/qt6-qtcoap
+        - https://gitee.com/src-openeuler/qt6-qtconnectivity
+        - https://gitee.com/src-openeuler/qt6-qtdatavis3d
+        - https://gitee.com/src-openeuler/qt6-qtdeclarative
+        - https://gitee.com/src-openeuler/qt6-qtdoc
+        - https://gitee.com/src-openeuler/qt6-qthttpserver
+        - https://gitee.com/src-openeuler/qt6-qtimageformats
+        - https://gitee.com/src-openeuler/qt6-qtlanguageserver
+        - https://gitee.com/src-openeuler/qt6-qtlocation
+        - https://gitee.com/src-openeuler/qt6-qtlottie
+        - https://gitee.com/src-openeuler/qt6-qtmqtt
+        - https://gitee.com/src-openeuler/qt6-qtmultimedia
+        - https://gitee.com/src-openeuler/qt6-qtnetworkauth
+        - https://gitee.com/src-openeuler/qt6-qtopcua
+        - https://gitee.com/src-openeuler/qt6-qtpositioning
+        - https://gitee.com/src-openeuler/qt6-qtquick3dphysics
+        - https://gitee.com/src-openeuler/qt6-qtquick3d
+        - https://gitee.com/src-openeuler/qt6-qtquickcontrols2
+        - https://gitee.com/src-openeuler/qt6-qtquicktimeline
+        - https://gitee.com/src-openeuler/qt6-qtremoteobjects
+        - https://gitee.com/src-openeuler/qt6-qtscxml
+        - https://gitee.com/src-openeuler/qt6-qtsensors
+        - https://gitee.com/src-openeuler/qt6-qtserialbus
+        - https://gitee.com/src-openeuler/qt6-qtserialport
+        - https://gitee.com/src-openeuler/qt6-qtshadertools
+        - https://gitee.com/src-openeuler/qt6-qtspeech
+        - https://gitee.com/src-openeuler/qt6-qtsvg
+        - https://gitee.com/src-openeuler/qt6-qttools
+        - https://gitee.com/src-openeuler/qt6-qttranslations
+        - https://gitee.com/src-openeuler/qt6-qtvirtualkeyboard
+        - https://gitee.com/src-openeuler/qt6-qtwayland
+        - https://gitee.com/src-openeuler/qt6-qtwebchannel
+        - https://gitee.com/src-openeuler/qt6-qtwebengine
+        - https://gitee.com/src-openeuler/qt6-qtwebsockets
+        - https://gitee.com/src-openeuler/qt6-qtwebview
+    governance-repositories:
+        repo_urls: []
+
+    

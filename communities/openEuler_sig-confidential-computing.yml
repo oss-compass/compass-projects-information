@@ -1,0 +1,21 @@
+---
+community_name: openEuler_sig-confidential-computing
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/secGear
+        - https://gitee.com/openeuler/itrustee_sdk
+        - https://gitee.com/src-openeuler/linux-sgx
+        - https://gitee.com/src-openeuler/linux-sgx-driver
+        - https://gitee.com/src-openeuler/intel-sgx-ssl
+        - https://gitee.com/src-openeuler/ocaml-dune
+        - https://gitee.com/src-openeuler/secGear
+        - https://gitee.com/src-openeuler/itrustee_sdk
+        - https://gitee.com/src-openeuler/intel-device-plugins-for-kubernetes
+        - https://gitee.com/openeuler/tee-gp-proxy
+    governance-repositories:
+        repo_urls: []
+
+    

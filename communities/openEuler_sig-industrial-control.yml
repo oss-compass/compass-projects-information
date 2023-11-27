@@ -1,0 +1,35 @@
+---
+community_name: openEuler_sig-industrial-control
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/GearOS
+        - https://gitee.com/openeuler/xenomai
+        - https://gitee.com/openeuler/Preempt_RT
+        - https://gitee.com/src-openeuler/rtcheck
+        - https://gitee.com/src-openeuler/rteval
+        - https://gitee.com/src-openeuler/rt-tests
+        - https://gitee.com/src-openeuler/igh-ethercat-xenomai
+        - https://gitee.com/src-openeuler/ipipe
+        - https://gitee.com/src-openeuler/netopeer2
+        - https://gitee.com/src-openeuler/soem
+        - https://gitee.com/src-openeuler/soes
+        - https://gitee.com/src-openeuler/sysrepo
+        - https://gitee.com/src-openeuler/canopennode
+        - https://gitee.com/src-openeuler/canfestival
+        - https://gitee.com/src-openeuler/canfestival-xenomai
+        - https://gitee.com/src-openeuler/xenomai
+        - https://gitee.com/src-openeuler/ethercat-igh
+        - https://gitee.com/src-openeuler/libyang1
+        - https://gitee.com/src-openeuler/libmodbus
+        - https://gitee.com/src-openeuler/libmodbus-xenomai
+        - https://gitee.com/src-openeuler/libnetconf2
+        - https://gitee.com/src-openeuler/Xenomai4
+        - https://gitee.com/src-openeuler/Jailhouse
+        - https://gitee.com/openeuler/Jailhouse-gui
+    governance-repositories:
+        repo_urls: []
+
+    

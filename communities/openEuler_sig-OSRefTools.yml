@@ -1,0 +1,16 @@
+---
+community_name: openEuler_sig-OSRefTools
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/AppAPIChecker
+        - https://gitee.com/openeuler/OSAPIChecker
+        - https://gitee.com/openeuler/OSCompatibility
+        - https://gitee.com/openeuler/OSPerformance
+        - https://gitee.com/openeuler/OSPerformanceTools
+    governance-repositories:
+        repo_urls: []
+
+    

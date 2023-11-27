@@ -1,0 +1,15 @@
+---
+community_name: openEuler_sig-release-management
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/release-management
+        - https://gitee.com/openeuler/openEuler-lsb
+        - https://gitee.com/src-openeuler/openEuler-lsb
+        - https://gitee.com/src-openeuler/obs_meta
+    governance-repositories:
+        repo_urls: []
+
+    

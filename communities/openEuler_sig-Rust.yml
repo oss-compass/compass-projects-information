@@ -1,0 +1,16 @@
+---
+community_name: openEuler_sig-Rust
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/rust
+        - https://gitee.com/src-openeuler/rustup
+        - https://gitee.com/src-openeuler/rust-packaging
+        - https://gitee.com/src-openeuler/rust-cbindgen
+        - https://gitee.com/src-openeuler/rust-bindgen
+    governance-repositories:
+        repo_urls: []
+
+    

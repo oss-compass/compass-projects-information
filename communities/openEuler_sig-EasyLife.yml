@@ -1,0 +1,28 @@
+---
+community_name: openEuler_sig-EasyLife
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/openEuler-Advisor
+        - https://gitee.com/openeuler/openEuler-Advisor
+        - https://gitee.com/openeuler/li-wen
+        - https://gitee.com/src-openeuler/pkgship
+        - https://gitee.com/src-openeuler/python-elasticsearch7
+        - https://gitee.com/src-openeuler/patch-tracking
+        - https://gitee.com/openeuler/sync-bot
+        - https://gitee.com/openeuler/patch-tracking
+        - https://gitee.com/openeuler/pkgship
+        - https://gitee.com/openeuler/release-tools
+        - https://gitee.com/src-openeuler/abi-dumper
+        - https://gitee.com/src-openeuler/abi-compliance-checker
+        - https://gitee.com/src-openeuler/pkgdiff
+        - https://gitee.com/src-openeuler/easy-checker
+        - https://gitee.com/openeuler/easy-checker
+        - https://gitee.com/src-openeuler/api-guarder
+        - https://gitee.com/openeuler/api-guarder
+    governance-repositories:
+        repo_urls: []
+
+    

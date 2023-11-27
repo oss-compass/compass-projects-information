@@ -1,0 +1,26 @@
+---
+community_name: openEuler_sig-FangTian
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/ft_engine
+        - https://gitee.com/openeuler/ft_multimedia
+        - https://gitee.com/openeuler/ft_mmi
+        - https://gitee.com/openeuler/ft_utils
+        - https://gitee.com/openeuler/arkui-linux
+        - https://gitee.com/openeuler/ft_flutter
+        - https://gitee.com/openeuler/ft_surface
+        - https://gitee.com/openeuler/ft_wl_fwk
+        - https://gitee.com/src-openeuler/arkui-linux
+        - https://gitee.com/src-openeuler/ft_flutter
+        - https://gitee.com/src-openeuler/ft_engine
+        - https://gitee.com/src-openeuler/ft_multimedia
+        - https://gitee.com/src-openeuler/ft_mmi
+        - https://gitee.com/src-openeuler/ft_surface
+        - https://gitee.com/src-openeuler/ft_wl_fwk
+    governance-repositories:
+        repo_urls: []
+
+    
