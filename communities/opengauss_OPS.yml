@@ -1,0 +1,14 @@
+---
+community_name: opengauss_OPS
+community_logo_url: https://gitee.com/opengauss.png
+community_org_url: https://gitee.com/opengauss
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/openGauss-server
+        - https://gitee.com/opengauss/openGauss-third_party
+        - https://gitee.com/opengauss/ops
+        - https://gitee.com/opengauss/openGauss-workbench
+    governance-repositories:
+        repo_urls: []
+    
