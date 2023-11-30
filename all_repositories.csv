@@ -10843,9 +10843,11 @@ https://gitee.com/openeuler/CTinspector
 https://gitee.com/openeuler/Cpds
 https://gitee.com/openeuler/CreateImage
 https://gitee.com/openeuler/CuckooSQL
+https://gitee.com/openeuler/DDE-GoCode
 https://gitee.com/openeuler/DyscheOS-kernel
 https://gitee.com/openeuler/DyscheOS-meta
 https://gitee.com/openeuler/DyscheOS-utils
+https://gitee.com/openeuler/EulerCopilot
 https://gitee.com/openeuler/EulerMonitor
 https://gitee.com/openeuler/EulerRobot
 https://gitee.com/openeuler/G11N
@@ -10867,6 +10869,7 @@ https://gitee.com/openeuler/OSAPIChecker
 https://gitee.com/openeuler/OSCompatibility
 https://gitee.com/openeuler/OSPerformance
 https://gitee.com/openeuler/OSPerformanceTools
+https://gitee.com/openeuler/OpenArkCompiler
 https://gitee.com/openeuler/PRIP
 https://gitee.com/openeuler/PilotGo
 https://gitee.com/openeuler/PilotGo-plugin-container
@@ -10876,6 +10879,7 @@ https://gitee.com/openeuler/PilotGo-plugin-mysql
 https://gitee.com/openeuler/PilotGo-plugin-observation
 https://gitee.com/openeuler/PilotGo-plugin-prometheus
 https://gitee.com/openeuler/PilotGo-plugin-redis
+https://gitee.com/openeuler/PilotGo-plugin-topology
 https://gitee.com/openeuler/PilotGo-plugins
 https://gitee.com/openeuler/PilotGo-web
 https://gitee.com/openeuler/Preempt_RT
@@ -10885,7 +10889,9 @@ https://gitee.com/openeuler/RISC-V
 https://gitee.com/openeuler/Replay-N
 https://gitee.com/openeuler/TC
 https://gitee.com/openeuler/TCP_option_address
+https://gitee.com/openeuler/TSSE-driver
 https://gitee.com/openeuler/UniProton
+https://gitee.com/openeuler/VMAnalyzer
 https://gitee.com/openeuler/WasmEngine
 https://gitee.com/openeuler/WayCa
 https://gitee.com/openeuler/X-diagnosis
@@ -10893,9 +10899,11 @@ https://gitee.com/openeuler/aarch32-rootfs-builder
 https://gitee.com/openeuler/abichecker
 https://gitee.com/openeuler/ai-tools
 https://gitee.com/openeuler/allwinner-kernel
+https://gitee.com/openeuler/amqp-proxy
 https://gitee.com/openeuler/anbox
 https://gitee.com/openeuler/aops-apollo
 https://gitee.com/openeuler/aops-ceres
+https://gitee.com/openeuler/aops-cobbler
 https://gitee.com/openeuler/aops-diana
 https://gitee.com/openeuler/aops-hermes
 https://gitee.com/openeuler/aops-vulcanus
@@ -10935,6 +10943,7 @@ https://gitee.com/openeuler/community-issue
 https://gitee.com/openeuler/compass-ci
 https://gitee.com/openeuler/compass-ci-web
 https://gitee.com/openeuler/compat-winapp
+https://gitee.com/openeuler/compiler-docs
 https://gitee.com/openeuler/compiler-test
 https://gitee.com/openeuler/compliance
 https://gitee.com/openeuler/compliance-sbom
@@ -10982,11 +10991,14 @@ https://gitee.com/openeuler/eulerpublisher
 https://gitee.com/openeuler/evs
 https://gitee.com/openeuler/extfuse
 https://gitee.com/openeuler/extuner
+https://gitee.com/openeuler/fastblock
 https://gitee.com/openeuler/ft_engine
 https://gitee.com/openeuler/ft_flutter
 https://gitee.com/openeuler/ft_mmi
 https://gitee.com/openeuler/ft_multimedia
+https://gitee.com/openeuler/ft_surface
 https://gitee.com/openeuler/ft_utils
+https://gitee.com/openeuler/ft_wl_fwk
 https://gitee.com/openeuler/gala-anteater
 https://gitee.com/openeuler/gala-docs
 https://gitee.com/openeuler/gala-gopher
@@ -11001,9 +11013,11 @@ https://gitee.com/openeuler/geo-coding
 https://gitee.com/openeuler/git-basics
 https://gitee.com/openeuler/gitbook-theme-hugo
 https://gitee.com/openeuler/globalization
+https://gitee.com/openeuler/glusterfs-dashboard
 https://gitee.com/openeuler/go-gitee
 https://gitee.com/openeuler/gostone
 https://gitee.com/openeuler/ha-api
+https://gitee.com/openeuler/ha-monitor
 https://gitee.com/openeuler/ha-web
 https://gitee.com/openeuler/hands-on
 https://gitee.com/openeuler/hikptool
@@ -11079,6 +11093,8 @@ https://gitee.com/openeuler/kunpeng-competition
 https://gitee.com/openeuler/kunpengsecl
 https://gitee.com/openeuler/kylin-installer
 https://gitee.com/openeuler/kylin-user-guide
+https://gitee.com/openeuler/kytuning-client
+https://gitee.com/openeuler/kytuning-server
 https://gitee.com/openeuler/lanzhou_university_2021
 https://gitee.com/openeuler/lboot
 https://gitee.com/openeuler/lcr
@@ -11102,12 +11118,17 @@ https://gitee.com/openeuler/lzu-icc-nsg
 https://gitee.com/openeuler/m1600-driver
 https://gitee.com/openeuler/marketing
 https://gitee.com/openeuler/mate-desktop
+https://gitee.com/openeuler/mcp
+https://gitee.com/openeuler/mcp-self-service-vue
+https://gitee.com/openeuler/mcp-vue
 https://gitee.com/openeuler/mcs
 https://gitee.com/openeuler/memory-scan
 https://gitee.com/openeuler/memwatch
 https://gitee.com/openeuler/micro-certification
 https://gitee.com/openeuler/migration-assistant
 https://gitee.com/openeuler/migration-tools
+https://gitee.com/openeuler/mqtt-operator
+https://gitee.com/openeuler/mqtt-proxy
 https://gitee.com/openeuler/mugen
 https://gitee.com/openeuler/nankai_university_2021
 https://gitee.com/openeuler/native-turbo
@@ -11128,6 +11149,7 @@ https://gitee.com/openeuler/oec-application
 https://gitee.com/openeuler/oec-cloud
 https://gitee.com/openeuler/oec-hardware
 https://gitee.com/openeuler/oecp
+https://gitee.com/openeuler/oee_archive
 https://gitee.com/openeuler/oemaker
 https://gitee.com/openeuler/omnidata-hive-connector
 https://gitee.com/openeuler/oncn-bwm
@@ -11169,8 +11191,10 @@ https://gitee.com/openeuler/pacemaker-mgmt
 https://gitee.com/openeuler/package-reinforce-test
 https://gitee.com/openeuler/passwd_group_generator
 https://gitee.com/openeuler/patch-tracking
+https://gitee.com/openeuler/paws
 https://gitee.com/openeuler/peking_university_2021
 https://gitee.com/openeuler/perlporter
+https://gitee.com/openeuler/pin-for-openEuler
 https://gitee.com/openeuler/pin-gcc-client
 https://gitee.com/openeuler/pin-server
 https://gitee.com/openeuler/pkgporter
@@ -11180,10 +11204,12 @@ https://gitee.com/openeuler/portal-application-license-monitor
 https://gitee.com/openeuler/portal-mulit-cluster-script
 https://gitee.com/openeuler/powerapi
 https://gitee.com/openeuler/prefetch_tuning
+https://gitee.com/openeuler/presentations
 https://gitee.com/openeuler/ptcr
 https://gitee.com/openeuler/pyisula
 https://gitee.com/openeuler/pyporter
 https://gitee.com/openeuler/python-multi_key_dict
+https://gitee.com/openeuler/pyuadk
 https://gitee.com/openeuler/qax-gm-certificates
 https://gitee.com/openeuler/qemu
 https://gitee.com/openeuler/qla2xxx
@@ -11199,11 +11225,15 @@ https://gitee.com/openeuler/release-tools
 https://gitee.com/openeuler/reproducible-builds
 https://gitee.com/openeuler/rockchip
 https://gitee.com/openeuler/rockchip-kernel
+https://gitee.com/openeuler/rocketmq-operator
 https://gitee.com/openeuler/ros
 https://gitee.com/openeuler/ros-porting-tools
+https://gitee.com/openeuler/rpmdepsearch
 https://gitee.com/openeuler/rubik
 https://gitee.com/openeuler/rubyporter
 https://gitee.com/openeuler/rust_shyper
+https://gitee.com/openeuler/safeguard
+https://gitee.com/openeuler/safeguard-web
 https://gitee.com/openeuler/sds_doc
 https://gitee.com/openeuler/secGear
 https://gitee.com/openeuler/secpaver
@@ -11247,6 +11277,7 @@ https://gitee.com/openeuler/ub-lldpd
 https://gitee.com/openeuler/ubackup
 https://gitee.com/openeuler/ukui
 https://gitee.com/openeuler/umdk
+https://gitee.com/openeuler/unizip
 https://gitee.com/openeuler/user-committee
 https://gitee.com/openeuler/utshell
 https://gitee.com/openeuler/utsudo
@@ -11262,6 +11293,7 @@ https://gitee.com/openeuler/wine-app
 https://gitee.com/openeuler/wisdom-advisor
 https://gitee.com/openeuler/wsl
 https://gitee.com/openeuler/wuhan_uni_tech_2021
+https://gitee.com/openeuler/x2nestos
 https://gitee.com/openeuler/xenomai
 https://gitee.com/openeuler/xmlpull
 https://gitee.com/openeuler/yocto-embedded-tools
@@ -12255,6 +12287,8 @@ https://gitee.com/openharmony/account_os_account
 https://gitee.com/openharmony/ace_ace_engine
 https://gitee.com/openharmony/ace_engine_lite
 https://gitee.com/openharmony/ace_napi
+https://gitee.com/openharmony/advertising_ads_framework
+https://gitee.com/openharmony/advertising_oaid
 https://gitee.com/openharmony/ai_engine
 https://gitee.com/openharmony/ai_intelligent_voice_framework
 https://gitee.com/openharmony/ai_neural_network_runtime
@@ -12272,6 +12306,7 @@ https://gitee.com/openharmony/applications_camera_screensaver_app
 https://gitee.com/openharmony/applications_contacts
 https://gitee.com/openharmony/applications_contacts_data
 https://gitee.com/openharmony/applications_contactsdata
+https://gitee.com/openharmony/applications_dlp_manager
 https://gitee.com/openharmony/applications_filepicker
 https://gitee.com/openharmony/applications_hap
 https://gitee.com/openharmony/applications_launcher
@@ -12309,11 +12344,13 @@ https://gitee.com/openharmony/bundlemanager_bundle_framework
 https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
 https://gitee.com/openharmony/bundlemanager_bundle_tool
 https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework
+https://gitee.com/openharmony/bundlemanager_ecological_rule_manager
 https://gitee.com/openharmony/codelabs
 https://gitee.com/openharmony/commonlibrary_c_utils
 https://gitee.com/openharmony/commonlibrary_ets_utils
 https://gitee.com/openharmony/commonlibrary_memory_utils
 https://gitee.com/openharmony/commonlibrary_rust_ylong_http
+https://gitee.com/openharmony/commonlibrary_rust_ylong_json
 https://gitee.com/openharmony/commonlibrary_rust_ylong_runtime
 https://gitee.com/openharmony/commonlibrary_utils_lite
 https://gitee.com/openharmony/communication_bluetooth
@@ -12392,6 +12429,7 @@ https://gitee.com/openharmony/device_soc_beken
 https://gitee.com/openharmony/device_soc_bestechnic
 https://gitee.com/openharmony/device_soc_chipsea
 https://gitee.com/openharmony/device_soc_esp
+https://gitee.com/openharmony/device_soc_gigadevice
 https://gitee.com/openharmony/device_soc_goodix
 https://gitee.com/openharmony/device_soc_hisilicon
 https://gitee.com/openharmony/device_soc_hpmicro
@@ -12455,6 +12493,7 @@ https://gitee.com/openharmony/global_resource_management_lite
 https://gitee.com/openharmony/global_resource_tool
 https://gitee.com/openharmony/global_timezone
 https://gitee.com/openharmony/graphic_graphic_2d
+https://gitee.com/openharmony/graphic_graphic_surface
 https://gitee.com/openharmony/graphic_graphic_utils_lite
 https://gitee.com/openharmony/graphic_standard
 https://gitee.com/openharmony/graphic_surface
@@ -12463,6 +12502,7 @@ https://gitee.com/openharmony/graphic_ui
 https://gitee.com/openharmony/graphic_utils
 https://gitee.com/openharmony/graphic_wms
 https://gitee.com/openharmony/hiviewdfx_blackbox
+https://gitee.com/openharmony/hiviewdfx_blackbox_lite
 https://gitee.com/openharmony/hiviewdfx_faultloggerd
 https://gitee.com/openharmony/hiviewdfx_hiappevent
 https://gitee.com/openharmony/hiviewdfx_hichecker
@@ -12476,8 +12516,10 @@ https://gitee.com/openharmony/hiviewdfx_hisysevent
 https://gitee.com/openharmony/hiviewdfx_hitrace
 https://gitee.com/openharmony/hiviewdfx_hiview
 https://gitee.com/openharmony/hiviewdfx_hiview_lite
+https://gitee.com/openharmony/ide_previewer
 https://gitee.com/openharmony/inputmethod_imf
 https://gitee.com/openharmony/interface_sdk-js
+https://gitee.com/openharmony/interface_sdk_c
 https://gitee.com/openharmony/iot_link
 https://gitee.com/openharmony/iothardware_peripheral
 https://gitee.com/openharmony/js_api_module
@@ -12495,6 +12537,7 @@ https://gitee.com/openharmony/kernel_linux_patches
 https://gitee.com/openharmony/kernel_liteos_a
 https://gitee.com/openharmony/kernel_liteos_m
 https://gitee.com/openharmony/kernel_uniproton
+https://gitee.com/openharmony/linux_frame_aware_sched
 https://gitee.com/openharmony/manifest
 https://gitee.com/openharmony/miscservices_inputmethod
 https://gitee.com/openharmony/miscservices_pasteboard
@@ -12511,9 +12554,11 @@ https://gitee.com/openharmony/multimedia_av_session
 https://gitee.com/openharmony/multimedia_camera_framework
 https://gitee.com/openharmony/multimedia_camera_lite
 https://gitee.com/openharmony/multimedia_camera_standard
+https://gitee.com/openharmony/multimedia_drm_framework
 https://gitee.com/openharmony/multimedia_histreamer
 https://gitee.com/openharmony/multimedia_image_framework
 https://gitee.com/openharmony/multimedia_image_standard
+https://gitee.com/openharmony/multimedia_media_library
 https://gitee.com/openharmony/multimedia_media_lite
 https://gitee.com/openharmony/multimedia_media_standard
 https://gitee.com/openharmony/multimedia_media_utils_lite
@@ -12559,16 +12604,19 @@ https://gitee.com/openharmony/security_access_token
 https://gitee.com/openharmony/security_appverify
 https://gitee.com/openharmony/security_certificate_framework
 https://gitee.com/openharmony/security_certificate_manager
+https://gitee.com/openharmony/security_code_signature
 https://gitee.com/openharmony/security_crypto_framework
 https://gitee.com/openharmony/security_dataclassification
 https://gitee.com/openharmony/security_device_auth
 https://gitee.com/openharmony/security_device_security_level
 https://gitee.com/openharmony/security_deviceauth
+https://gitee.com/openharmony/security_dlp_permission_service
 https://gitee.com/openharmony/security_huks
 https://gitee.com/openharmony/security_itrustee_ree_lite
 https://gitee.com/openharmony/security_permission
 https://gitee.com/openharmony/security_permission_lite
 https://gitee.com/openharmony/security_privacy_center
+https://gitee.com/openharmony/security_security_component_manager
 https://gitee.com/openharmony/security_selinux
 https://gitee.com/openharmony/security_selinux_adapter
 https://gitee.com/openharmony/sensors_medical_sensor
@@ -12614,6 +12662,7 @@ https://gitee.com/openharmony/third_party_NuttX
 https://gitee.com/openharmony/third_party_abseil-cpp
 https://gitee.com/openharmony/third_party_alsa-lib
 https://gitee.com/openharmony/third_party_alsa-utils
+https://gitee.com/openharmony/third_party_astc-encoder
 https://gitee.com/openharmony/third_party_benchmark
 https://gitee.com/openharmony/third_party_boost
 https://gitee.com/openharmony/third_party_boringssl
@@ -12697,6 +12746,7 @@ https://gitee.com/openharmony/third_party_llvm-project
 https://gitee.com/openharmony/third_party_ltp
 https://gitee.com/openharmony/third_party_lwip
 https://gitee.com/openharmony/third_party_lz4
+https://gitee.com/openharmony/third_party_lzma
 https://gitee.com/openharmony/third_party_markupsafe
 https://gitee.com/openharmony/third_party_mbedtls
 https://gitee.com/openharmony/third_party_mesa3d
@@ -12846,6 +12896,7 @@ https://gitee.com/openharmony/third_party_typescript_eslint
 https://gitee.com/openharmony/third_party_tzdata
 https://gitee.com/openharmony/third_party_u-boot
 https://gitee.com/openharmony/third_party_unity
+https://gitee.com/openharmony/third_party_vixl
 https://gitee.com/openharmony/third_party_vk-gl-cts
 https://gitee.com/openharmony/third_party_vulkan-headers
 https://gitee.com/openharmony/third_party_vulkan-loader
@@ -12865,6 +12916,7 @@ https://gitee.com/openharmony/update_packaging_tools
 https://gitee.com/openharmony/update_sys_installer
 https://gitee.com/openharmony/update_sys_installer_lite
 https://gitee.com/openharmony/update_update_app
+https://gitee.com/openharmony/update_update_service
 https://gitee.com/openharmony/update_updater
 https://gitee.com/openharmony/update_updateservice
 https://gitee.com/openharmony/usb_manager
@@ -25918,11 +25970,17 @@ https://gitee.com/src-openeuler/Catch2
 https://gitee.com/src-openeuler/CharLS
 https://gitee.com/src-openeuler/ComputeLibrary
 https://gitee.com/src-openeuler/Control-FREEC
+https://gitee.com/src-openeuler/Cpds
 https://gitee.com/src-openeuler/CreateImage
 https://gitee.com/src-openeuler/Cython
 https://gitee.com/src-openeuler/DCache
+https://gitee.com/src-openeuler/DDE-GoCode
+https://gitee.com/src-openeuler/DDE-go-dbus-factory
+https://gitee.com/src-openeuler/DDE-go-gir
+https://gitee.com/src-openeuler/DDE-go-x11-client
 https://gitee.com/src-openeuler/DevIL
 https://gitee.com/src-openeuler/DynamixelSDK
+https://gitee.com/src-openeuler/EulerCopilot
 https://gitee.com/src-openeuler/EulerMonitor
 https://gitee.com/src-openeuler/FAudio
 https://gitee.com/src-openeuler/Fast-CDR
@@ -25973,6 +26031,7 @@ https://gitee.com/src-openeuler/Picard
 https://gitee.com/src-openeuler/PilotGo
 https://gitee.com/src-openeuler/PilotGo-plugin-grafana
 https://gitee.com/src-openeuler/PilotGo-plugin-prometheus
+https://gitee.com/src-openeuler/PilotGo-plugin-topology
 https://gitee.com/src-openeuler/PlotJuggler
 https://gitee.com/src-openeuler/PyDrive
 https://gitee.com/src-openeuler/PyPAM
@@ -26101,11 +26160,13 @@ https://gitee.com/src-openeuler/SuperLU
 https://gitee.com/src-openeuler/SuperLUMT
 https://gitee.com/src-openeuler/TCP_option_address
 https://gitee.com/src-openeuler/TRF
+https://gitee.com/src-openeuler/TSSE-driver
 https://gitee.com/src-openeuler/TeXamator
 https://gitee.com/src-openeuler/Thunar
 https://gitee.com/src-openeuler/Universal_Robots_Client_Library
 https://gitee.com/src-openeuler/Universal_Robots_ROS2_Description
 https://gitee.com/src-openeuler/Universal_Robots_ROS2_Driver
+https://gitee.com/src-openeuler/VMAnalyzer
 https://gitee.com/src-openeuler/WALinuxAgent
 https://gitee.com/src-openeuler/WLLVM
 https://gitee.com/src-openeuler/WasmEngine
@@ -26202,6 +26263,7 @@ https://gitee.com/src-openeuler/aom
 https://gitee.com/src-openeuler/aopalliance
 https://gitee.com/src-openeuler/aops-apollo
 https://gitee.com/src-openeuler/aops-ceres
+https://gitee.com/src-openeuler/aops-cobbler
 https://gitee.com/src-openeuler/aops-diana
 https://gitee.com/src-openeuler/aops-hermes
 https://gitee.com/src-openeuler/aops-vulcanus
@@ -26291,6 +26353,7 @@ https://gitee.com/src-openeuler/aries-proxy-impl
 https://gitee.com/src-openeuler/aries-quiesce-api
 https://gitee.com/src-openeuler/aries-util
 https://gitee.com/src-openeuler/ark
+https://gitee.com/src-openeuler/arkui-linux
 https://gitee.com/src-openeuler/arm-ml-examples
 https://gitee.com/src-openeuler/arm-trusted-firmware
 https://gitee.com/src-openeuler/armadillo
@@ -26439,6 +26502,7 @@ https://gitee.com/src-openeuler/botan2
 https://gitee.com/src-openeuler/bouncycastle
 https://gitee.com/src-openeuler/bowtie2
 https://gitee.com/src-openeuler/box86
+https://gitee.com/src-openeuler/bpftool
 https://gitee.com/src-openeuler/bpftrace
 https://gitee.com/src-openeuler/bpg-fonts
 https://gitee.com/src-openeuler/bpytop
@@ -26662,6 +26726,10 @@ https://gitee.com/src-openeuler/corosync
 https://gitee.com/src-openeuler/corosync-qdevice
 https://gitee.com/src-openeuler/courier-unicode
 https://gitee.com/src-openeuler/cowsay
+https://gitee.com/src-openeuler/cpds-agent
+https://gitee.com/src-openeuler/cpds-analyzer
+https://gitee.com/src-openeuler/cpds-dashboard
+https://gitee.com/src-openeuler/cpds-detector
 https://gitee.com/src-openeuler/cpio
 https://gitee.com/src-openeuler/cpp-hocon
 https://gitee.com/src-openeuler/cpp-httplib
@@ -26830,6 +26898,7 @@ https://gitee.com/src-openeuler/dietlibc
 https://gitee.com/src-openeuler/diffstat
 https://gitee.com/src-openeuler/diffutils
 https://gitee.com/src-openeuler/digest-list-tools
+https://gitee.com/src-openeuler/digikam
 https://gitee.com/src-openeuler/dim_tools
 https://gitee.com/src-openeuler/ding-libs
 https://gitee.com/src-openeuler/discount
@@ -27176,6 +27245,12 @@ https://gitee.com/src-openeuler/frp
 https://gitee.com/src-openeuler/fstools
 https://gitee.com/src-openeuler/fstrm
 https://gitee.com/src-openeuler/fswatch
+https://gitee.com/src-openeuler/ft_engine
+https://gitee.com/src-openeuler/ft_flutter
+https://gitee.com/src-openeuler/ft_mmi
+https://gitee.com/src-openeuler/ft_multimedia
+https://gitee.com/src-openeuler/ft_surface
+https://gitee.com/src-openeuler/ft_wl_fwk
 https://gitee.com/src-openeuler/ftgl
 https://gitee.com/src-openeuler/ftp
 https://gitee.com/src-openeuler/fuse
@@ -27212,6 +27287,7 @@ https://gitee.com/src-openeuler/gc
 https://gitee.com/src-openeuler/gc_spl
 https://gitee.com/src-openeuler/gcab
 https://gitee.com/src-openeuler/gcc
+https://gitee.com/src-openeuler/gcc-10
 https://gitee.com/src-openeuler/gcc-12
 https://gitee.com/src-openeuler/gcc-7
 https://gitee.com/src-openeuler/gcc-cross
@@ -27432,6 +27508,7 @@ https://gitee.com/src-openeuler/gobject-introspection
 https://gitee.com/src-openeuler/goebpf
 https://gitee.com/src-openeuler/goffice
 https://gitee.com/src-openeuler/golang
+https://gitee.com/src-openeuler/golang-deepin-go-lib
 https://gitee.com/src-openeuler/golang-github-coreos-go-iptables
 https://gitee.com/src-openeuler/golang-github-cpuguy83-go-md2man
 https://gitee.com/src-openeuler/golang-github-d2g-dhcp4
@@ -27930,6 +28007,7 @@ https://gitee.com/src-openeuler/isl
 https://gitee.com/src-openeuler/iso-codes
 https://gitee.com/src-openeuler/isomd5sum
 https://gitee.com/src-openeuler/isorelax
+https://gitee.com/src-openeuler/isosm3sum
 https://gitee.com/src-openeuler/istack-commons
 https://gitee.com/src-openeuler/isula-build
 https://gitee.com/src-openeuler/isula-transform
@@ -27938,6 +28016,7 @@ https://gitee.com/src-openeuler/itrustee_sdk
 https://gitee.com/src-openeuler/itstool
 https://gitee.com/src-openeuler/ivtv-firmware
 https://gitee.com/src-openeuler/iw
+https://gitee.com/src-openeuler/ixgbevf
 https://gitee.com/src-openeuler/jBCrypt
 https://gitee.com/src-openeuler/jFormatString
 https://gitee.com/src-openeuler/jack-audio-connection-kit
@@ -28191,6 +28270,7 @@ https://gitee.com/src-openeuler/jwnl
 https://gitee.com/src-openeuler/jxrlib
 https://gitee.com/src-openeuler/jython
 https://gitee.com/src-openeuler/jzlib
+https://gitee.com/src-openeuler/k3b
 https://gitee.com/src-openeuler/k3s
 https://gitee.com/src-openeuler/k3s-containerd
 https://gitee.com/src-openeuler/k3s-plugins
@@ -28298,6 +28378,7 @@ https://gitee.com/src-openeuler/kf5-kimap
 https://gitee.com/src-openeuler/kf5-kinit
 https://gitee.com/src-openeuler/kf5-kio
 https://gitee.com/src-openeuler/kf5-kirigami2
+https://gitee.com/src-openeuler/kf5-kirigami2-addons
 https://gitee.com/src-openeuler/kf5-kitemmodels
 https://gitee.com/src-openeuler/kf5-kitemviews
 https://gitee.com/src-openeuler/kf5-kjobwidgets
@@ -28334,6 +28415,7 @@ https://gitee.com/src-openeuler/kf5-kwindowsystem
 https://gitee.com/src-openeuler/kf5-kxmlgui
 https://gitee.com/src-openeuler/kf5-kxmlrpcclient
 https://gitee.com/src-openeuler/kf5-libgravatar
+https://gitee.com/src-openeuler/kf5-libkcddb
 https://gitee.com/src-openeuler/kf5-libkdepim
 https://gitee.com/src-openeuler/kf5-libkexiv2
 https://gitee.com/src-openeuler/kf5-libkleo
@@ -28412,6 +28494,7 @@ https://gitee.com/src-openeuler/konsole5
 https://gitee.com/src-openeuler/kontact
 https://gitee.com/src-openeuler/korganizer
 https://gitee.com/src-openeuler/kpatch
+https://gitee.com/src-openeuler/kpeoplevcard
 https://gitee.com/src-openeuler/krb5
 https://gitee.com/src-openeuler/kronosnet
 https://gitee.com/src-openeuler/kryo
@@ -28456,6 +28539,8 @@ https://gitee.com/src-openeuler/kylin-user-guide
 https://gitee.com/src-openeuler/kylin-video
 https://gitee.com/src-openeuler/kylin-weather
 https://gitee.com/src-openeuler/kyotocabinet
+https://gitee.com/src-openeuler/kytuning-client
+https://gitee.com/src-openeuler/kytuning-server
 https://gitee.com/src-openeuler/kyua
 https://gitee.com/src-openeuler/labltk
 https://gitee.com/src-openeuler/ladspa
@@ -29068,6 +29153,7 @@ https://gitee.com/src-openeuler/luksmeta
 https://gitee.com/src-openeuler/lunar-date
 https://gitee.com/src-openeuler/lusb
 https://gitee.com/src-openeuler/lustre
+https://gitee.com/src-openeuler/lustre-release
 https://gitee.com/src-openeuler/lutok
 https://gitee.com/src-openeuler/lv2
 https://gitee.com/src-openeuler/lvm2
@@ -29228,6 +29314,9 @@ https://gitee.com/src-openeuler/mavros
 https://gitee.com/src-openeuler/mc
 https://gitee.com/src-openeuler/mcelog
 https://gitee.com/src-openeuler/mchange-commons
+https://gitee.com/src-openeuler/mcp
+https://gitee.com/src-openeuler/mcp-self-service-vue
+https://gitee.com/src-openeuler/mcp-vue
 https://gitee.com/src-openeuler/mcpp
 https://gitee.com/src-openeuler/mcstrans
 https://gitee.com/src-openeuler/mdadm
@@ -29444,6 +29533,7 @@ https://gitee.com/src-openeuler/neon
 https://gitee.com/src-openeuler/nerian_stereo_ros2
 https://gitee.com/src-openeuler/nestos-installer
 https://gitee.com/src-openeuler/nestos-kernel
+https://gitee.com/src-openeuler/nestos-kubernetes-deployer
 https://gitee.com/src-openeuler/net-snmp
 https://gitee.com/src-openeuler/net-tools
 https://gitee.com/src-openeuler/netavark
@@ -29939,6 +30029,7 @@ https://gitee.com/src-openeuler/oec-cloud
 https://gitee.com/src-openeuler/oec-hardware
 https://gitee.com/src-openeuler/oemaker
 https://gitee.com/src-openeuler/oepkgs-release
+https://gitee.com/src-openeuler/oepkgs-repos
 https://gitee.com/src-openeuler/ogdi
 https://gitee.com/src-openeuler/ogre
 https://gitee.com/src-openeuler/ohc
@@ -29970,6 +30061,8 @@ https://gitee.com/src-openeuler/openEuler-lsb
 https://gitee.com/src-openeuler/openEuler-menus
 https://gitee.com/src-openeuler/openEuler-pkginfo
 https://gitee.com/src-openeuler/openEuler-release
+https://gitee.com/src-openeuler/openEuler-release-nestos-for-container
+https://gitee.com/src-openeuler/openEuler-release-nestos-for-virt
 https://gitee.com/src-openeuler/openEuler-repos
 https://gitee.com/src-openeuler/openEuler-rpm-config
 https://gitee.com/src-openeuler/openEuler_chroot
@@ -31878,6 +31971,7 @@ https://gitee.com/src-openeuler/pigpio
 https://gitee.com/src-openeuler/pigz
 https://gitee.com/src-openeuler/pim-data-exporter
 https://gitee.com/src-openeuler/pim-sieve-editor
+https://gitee.com/src-openeuler/pin-for-openEuler
 https://gitee.com/src-openeuler/pin-gcc-client
 https://gitee.com/src-openeuler/pin-server
 https://gitee.com/src-openeuler/pinentry
@@ -32437,6 +32531,7 @@ https://gitee.com/src-openeuler/python-cloudkittyclient
 https://gitee.com/src-openeuler/python-cloudpickle
 https://gitee.com/src-openeuler/python-cltk
 https://gitee.com/src-openeuler/python-clufter
+https://gitee.com/src-openeuler/python-cma
 https://gitee.com/src-openeuler/python-cmarkgfm
 https://gitee.com/src-openeuler/python-cmd2
 https://gitee.com/src-openeuler/python-cmdln
@@ -32837,6 +32932,7 @@ https://gitee.com/src-openeuler/python-heatclient
 https://gitee.com/src-openeuler/python-heketi
 https://gitee.com/src-openeuler/python-hgapi
 https://gitee.com/src-openeuler/python-hidapi
+https://gitee.com/src-openeuler/python-hiplot
 https://gitee.com/src-openeuler/python-hkdf
 https://gitee.com/src-openeuler/python-hl7
 https://gitee.com/src-openeuler/python-hole
@@ -33230,6 +33326,7 @@ https://gitee.com/src-openeuler/python-ntlm-auth
 https://gitee.com/src-openeuler/python-ntplib
 https://gitee.com/src-openeuler/python-nudatus
 https://gitee.com/src-openeuler/python-num2words
+https://gitee.com/src-openeuler/python-numba
 https://gitee.com/src-openeuler/python-numpoly
 https://gitee.com/src-openeuler/python-numpydoc
 https://gitee.com/src-openeuler/python-oauth2client
@@ -33783,6 +33880,7 @@ https://gitee.com/src-openeuler/python-setuptools_hg
 https://gitee.com/src-openeuler/python-setuptools_scm
 https://gitee.com/src-openeuler/python-sh
 https://gitee.com/src-openeuler/python-shamir-mnemonic
+https://gitee.com/src-openeuler/python-shap
 https://gitee.com/src-openeuler/python-shapely
 https://gitee.com/src-openeuler/python-shodan
 https://gitee.com/src-openeuler/python-shortuuid
@@ -33802,6 +33900,7 @@ https://gitee.com/src-openeuler/python-siphash
 https://gitee.com/src-openeuler/python-six
 https://gitee.com/src-openeuler/python-slack-cleaner
 https://gitee.com/src-openeuler/python-slacker
+https://gitee.com/src-openeuler/python-slicer
 https://gitee.com/src-openeuler/python-slip
 https://gitee.com/src-openeuler/python-slixmpp
 https://gitee.com/src-openeuler/python-slugify
@@ -33840,6 +33939,7 @@ https://gitee.com/src-openeuler/python-sphinx-examples
 https://gitee.com/src-openeuler/python-sphinx-favicon
 https://gitee.com/src-openeuler/python-sphinx-feature-classification
 https://gitee.com/src-openeuler/python-sphinx-gallery
+https://gitee.com/src-openeuler/python-sphinx-hoverxref
 https://gitee.com/src-openeuler/python-sphinx-inline-tabs
 https://gitee.com/src-openeuler/python-sphinx-intl
 https://gitee.com/src-openeuler/python-sphinx-issues
@@ -35129,6 +35229,7 @@ https://gitee.com/src-openeuler/soem
 https://gitee.com/src-openeuler/soes
 https://gitee.com/src-openeuler/sofia-sip
 https://gitee.com/src-openeuler/softhsm
+https://gitee.com/src-openeuler/software-package-server
 https://gitee.com/src-openeuler/sol_vendor
 https://gitee.com/src-openeuler/solr
 https://gitee.com/src-openeuler/sombok
@@ -35520,6 +35621,7 @@ https://gitee.com/src-openeuler/ukui-wallpapers
 https://gitee.com/src-openeuler/ukui-window-switch
 https://gitee.com/src-openeuler/ukwm
 https://gitee.com/src-openeuler/ukylin-feedback-client
+https://gitee.com/src-openeuler/umdk
 https://gitee.com/src-openeuler/umoci
 https://gitee.com/src-openeuler/umockdev
 https://gitee.com/src-openeuler/uname-build-checks
@@ -35538,6 +35640,7 @@ https://gitee.com/src-openeuler/units
 https://gitee.com/src-openeuler/univocity-parsers
 https://gitee.com/src-openeuler/unixODBC
 https://gitee.com/src-openeuler/unixbench
+https://gitee.com/src-openeuler/unizip
 https://gitee.com/src-openeuler/unrtf
 https://gitee.com/src-openeuler/unzip
 https://gitee.com/src-openeuler/uom-lib
@@ -35702,6 +35805,7 @@ https://gitee.com/src-openeuler/wxGTK3
 https://gitee.com/src-openeuler/wxPython
 https://gitee.com/src-openeuler/x264
 https://gitee.com/src-openeuler/x265
+https://gitee.com/src-openeuler/x2nestos
 https://gitee.com/src-openeuler/x3270
 https://gitee.com/src-openeuler/xacro
 https://gitee.com/src-openeuler/xalan-j2
@@ -38508,6 +38612,7 @@ https://github.com/ARMmbed/mbedtls
 https://github.com/ASKBOT/askbot-devel
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 https://github.com/AbiWord/abiword
+https://github.com/Accenture/reactive-interaction-gateway
 https://github.com/AccessLint/accesslint.js
 https://github.com/Activiti/Activiti
 https://github.com/AdolfVonKleist/Phonetisaurus
@@ -40952,6 +41057,7 @@ https://github.com/apidoc/apidoc
 https://github.com/apify/crawlee
 https://github.com/apigee/henchman
 https://github.com/apiman/apiman
+https://github.com/apioak/apioak
 https://github.com/apitable/apitable
 https://github.com/apitrace/apitrace
 https://github.com/apolloconfig/apollo
@@ -41005,6 +41111,7 @@ https://github.com/arrayfire/arrayfire
 https://github.com/arrow-kt/arrow
 https://github.com/artesaos/seotools
 https://github.com/artf/grapesjs
+https://github.com/artifacthub/hub
 https://github.com/artofillusion/artofillusion
 https://github.com/arturadib/node-qt
 https://github.com/arunagw/clockingit
@@ -41400,6 +41507,7 @@ https://github.com/caroso1222/notyf
 https://github.com/carrierwaveuploader/carrierwave
 https://github.com/carrotsearch/hppc
 https://github.com/cartographer-project/cartographer
+https://github.com/carvel-dev/ytt
 https://github.com/casatwy/CTMediator
 https://github.com/casbin/casbin
 https://github.com/casdoor/casdoor
@@ -41507,6 +41615,7 @@ https://github.com/cinelerra-gg/cinelerra-gg
 https://github.com/cinience/RedisStudio
 https://github.com/cipchk/ngx-ueditor
 https://github.com/circleci/circleci-docs
+https://github.com/cisco-open/nasp
 https://github.com/cisco/ChezScheme
 https://github.com/cisco/libsrtp
 https://github.com/cisco/openh264
@@ -41559,6 +41668,7 @@ https://github.com/cloudwu/ejoy2d
 https://github.com/cloudwu/skynet
 https://github.com/clrkwllms/rt-linux
 https://github.com/clue-ai/ChatYuan
+https://github.com/clusternet/clusternet
 https://github.com/clusterpedia-io/clusterpedia
 https://github.com/cmarshall108/toontown-otp-original
 https://github.com/cmderdev/cmder
@@ -49019,6 +49129,7 @@ https://github.com/detailyang/awesome-cheatsheet
 https://github.com/detekt/detekt
 https://github.com/determined-ai/determined
 https://github.com/developit/mitt
+https://github.com/devfile/api
 https://github.com/devhubapp/devhub
 https://github.com/devias-io/material-kit-react
 https://github.com/devtron-labs/devtron
@@ -49495,6 +49606,7 @@ https://github.com/epoberezkin/json-schema-traverse
 https://github.com/equalsraf/neovim-qt
 https://github.com/equinusocio/material-theme
 https://github.com/eranif/codelite
+https://github.com/eraser-dev/eraser
 https://github.com/erda-project/erda
 https://github.com/erengy/taiga
 https://github.com/ergochat/ergo
@@ -49831,6 +49943,7 @@ https://github.com/flower-corp/rosedb
 https://github.com/fluent/fluent-bit
 https://github.com/fluent/fluent-plugin-kafka
 https://github.com/fluent/fluentd
+https://github.com/fluid-cloudnative/fluid
 https://github.com/flutter/flutter
 https://github.com/fluxcd/flagger
 https://github.com/fluxcd/flux
@@ -49915,6 +50028,7 @@ https://github.com/gd3kr/BlenderGPT
 https://github.com/geany/geany
 https://github.com/geeeeeeeeek/electronic-wechat
 https://github.com/geekan/MetaGPT
+https://github.com/gefyrahq/gefyra
 https://github.com/geist-org/geist-ui
 https://github.com/gem5/gem5
 https://github.com/gempir/go-twitch-irc
@@ -50033,6 +50147,7 @@ https://github.com/gocolly/colly
 https://github.com/godotengine/godot
 https://github.com/godotengine/godot-cpp
 https://github.com/godotengine/godot-headers
+https://github.com/gofr-dev/gofr
 https://github.com/gofrs/flock
 https://github.com/gogo/protobuf
 https://github.com/gogs/gogs
@@ -50144,6 +50259,7 @@ https://github.com/grafana/grafana
 https://github.com/grafana/k6
 https://github.com/grafana/loki
 https://github.com/grafana/pyroscope
+https://github.com/grafana/tanka
 https://github.com/grandnode/grandnode
 https://github.com/graphile/postgraphile
 https://github.com/graphite-project/graphite-web
@@ -50155,6 +50271,7 @@ https://github.com/graphql/express-graphql
 https://github.com/graphql/graphql-js
 https://github.com/graphql/graphql-spec
 https://github.com/gravitational/teleport
+https://github.com/gravitee-io/gravitee-api-management
 https://github.com/gravityonmars/Balloons.IO
 https://github.com/gre/slider.js
 https://github.com/great-expectations/great_expectations
@@ -50335,6 +50452,7 @@ https://github.com/huaiyukeji/verification_code
 https://github.com/huangz1990/redisbook
 https://github.com/huawei-noah/bolt
 https://github.com/huawei-noah/vega
+https://github.com/huaweicloud/Sermant
 https://github.com/huaweicloud/huaweicloud-sdk-c-obs
 https://github.com/huaweicloud/huaweicloud-sdk-go-v3
 https://github.com/huaweicloud/huaweicloud-sdk-java-obs
@@ -50947,8 +51065,10 @@ https://github.com/kazuho/picojson
 https://github.com/kazupon/vue-i18n
 https://github.com/kciter/qart.js
 https://github.com/kcl-lang/kcl
+https://github.com/kcp-dev/kcp
 https://github.com/kdeggelman/xcharts
 https://github.com/kdzwinel/betwixt
+https://github.com/kedacore/keda
 https://github.com/kedro-org/kedro
 https://github.com/keen/pingpong
 https://github.com/keenwon/jqPaginator
@@ -50966,6 +51086,7 @@ https://github.com/kentcdodds/testing-workshop
 https://github.com/kenwheeler/slick
 https://github.com/keplerproject/luasql
 https://github.com/keploy/keploy
+https://github.com/keptn/keptn
 https://github.com/keras-team/autokeras
 https://github.com/keras-team/keras
 https://github.com/kerlomz/captcha_platform
@@ -51016,6 +51137,7 @@ https://github.com/knightliao/disconf
 https://github.com/knockout/knockout
 https://github.com/knowm/XChart
 https://github.com/knutsynstad/faux-code-generator
+https://github.com/ko-build/ko
 https://github.com/koajs/koa
 https://github.com/koakumaping/Calculator_Python
 https://github.com/kodeine/laravel-acl
@@ -51028,6 +51150,8 @@ https://github.com/kolodny/immutability-helper
 https://github.com/konfer-be/typeplate
 https://github.com/konsoletyper/teavm
 https://github.com/konvajs/konva
+https://github.com/konveyor/operator
+https://github.com/koordinator-sh/koordinator
 https://github.com/koral--/android-gif-drawable
 https://github.com/koreader/koreader
 https://github.com/kornia/kornia
@@ -51043,6 +51167,7 @@ https://github.com/kpu/kenlm
 https://github.com/kragniz/python-etcd3
 https://github.com/krakendio/krakend-ce
 https://github.com/krallin/tini
+https://github.com/krator-rs/krator
 https://github.com/krayin/laravel-crm
 https://github.com/krb5/krb5
 https://github.com/krewenki/jquery-lightbox
@@ -51059,11 +51184,15 @@ https://github.com/ktmud/weixin-robot
 https://github.com/ktorio/ktor
 https://github.com/kuaifan/dootask
 https://github.com/kuba--/zip
+https://github.com/kube-green/kube-green
+https://github.com/kube-rs/kube
 https://github.com/kubean-io/kubean
 https://github.com/kubearmor/KubeArmor
 https://github.com/kubeedge/kubeedge
 https://github.com/kubeflow/kubeflow
 https://github.com/kubeflow/pipelines
+https://github.com/kubereboot/kured
+https://github.com/kubermatic/kubecarrier
 https://github.com/kubernetes-client/java
 https://github.com/kubernetes-client/javascript
 https://github.com/kubernetes-client/python
@@ -51075,6 +51204,7 @@ https://github.com/kubernetes-retired/frakti
 https://github.com/kubernetes-sigs/cluster-api
 https://github.com/kubernetes-sigs/controller-runtime
 https://github.com/kubernetes-sigs/cri-tools
+https://github.com/kubernetes-sigs/kui
 https://github.com/kubernetes-sigs/kwok
 https://github.com/kubernetes-sigs/yaml
 https://github.com/kubernetes/apimachinery
@@ -51086,8 +51216,13 @@ https://github.com/kubernetes/kubeadm
 https://github.com/kubernetes/kubernetes
 https://github.com/kubernetes/minikube
 https://github.com/kubernetes/node-problem-detector
+https://github.com/kubeshop/monokle
 https://github.com/kubesphere/kubesphere
+https://github.com/kubevirt/kubevirt
+https://github.com/kubewharf/kubebrain
+https://github.com/kubewharf/kubegateway
 https://github.com/kuchin/awesome-cto
+https://github.com/kudobuilder/kudo
 https://github.com/kuitos/import-html-entry
 https://github.com/kumahq/kuma
 https://github.com/kungfoo/geohash-java
@@ -51763,6 +51898,7 @@ https://github.com/micjahn/ZXing.Net
 https://github.com/micro-zoe/micro-app
 https://github.com/micro/micro
 https://github.com/microcai/qqbot
+https://github.com/microcks/microcks
 https://github.com/micromata/projectforge
 https://github.com/micrometer-metrics/micrometer
 https://github.com/micronaut-projects/micronaut-core
@@ -51796,6 +51932,7 @@ https://github.com/microsoft/pylance-release
 https://github.com/microsoft/qlib
 https://github.com/microsoft/reverse-proxy
 https://github.com/microsoft/semantic-kernel
+https://github.com/microsoft/service-fabric
 https://github.com/microsoft/terminal
 https://github.com/microsoft/tslib
 https://github.com/microsoft/visualfsharp
@@ -52145,6 +52282,7 @@ https://github.com/nmap/npcap
 https://github.com/nmslib/hnswlib
 https://github.com/nnnick/Chart.js
 https://github.com/noamraph/tqdm
+https://github.com/nocalhost/nocalhost
 https://github.com/nocodb/nocodb
 https://github.com/node-app/Nodelike
 https://github.com/node-fetch/node-fetch
@@ -52223,6 +52361,7 @@ https://github.com/nwjs/nw.js
 https://github.com/nylas/nylas-mail
 https://github.com/o3de/o3de
 https://github.com/oOthkOo/supervizer
+https://github.com/oam-dev/spec
 https://github.com/oauthlib/oauthlib
 https://github.com/oazabir/Droptiles
 https://github.com/obfuscated/codeblocks_sf
@@ -52290,6 +52429,7 @@ https://github.com/octobox/octobox
 https://github.com/odoo/odoo
 https://github.com/ohmyzsh/ohmyzsh
 https://github.com/oklai/koala
+https://github.com/okteto/okteto
 https://github.com/olado/doT
 https://github.com/olahol/melody
 https://github.com/oldj/SwitchHosts
@@ -52383,6 +52523,7 @@ https://github.com/openlayers/openlayers
 https://github.com/openlookeng/hetu-core
 https://github.com/openmaptiles/fonts
 https://github.com/openmediavault/openmediavault
+https://github.com/openmessaging/openmessaging-java
 https://github.com/opennetworkinglab/onos
 https://github.com/openprivacytech/openprivacytech.org
 https://github.com/openresty/echo-nginx-module
@@ -52396,6 +52537,8 @@ https://github.com/openrewrite/rewrite
 https://github.com/openscad/openscad
 https://github.com/openscenegraph/OpenSceneGraph
 https://github.com/opensearch-project/OpenSearch
+https://github.com/openservicebrokerapi/servicebroker
+https://github.com/openservicemesh/osm
 https://github.com/openshift/origin
 https://github.com/opensource-socialnetwork/opensource-socialnetwork
 https://github.com/openssh/openssh-portable
@@ -52464,6 +52607,7 @@ https://github.com/openzfs/zfs
 https://github.com/openzfsonosx/zfs
 https://github.com/openzipkin/brave
 https://github.com/openzipkin/zipkin
+https://github.com/operator-framework/operator-sdk
 https://github.com/operatorequals/covertutils
 https://github.com/opf/openproject
 https://github.com/opossum-tool/OpossumUI
@@ -52838,6 +52982,7 @@ https://github.com/plenluno/libnode
 https://github.com/plexinc/plex-media-player
 https://github.com/plotly/dash
 https://github.com/plotly/plotly.js
+https://github.com/pluralsh/plural
 https://github.com/pmckeown/dependency-track-maven-plugin
 https://github.com/pmd/pmd
 https://github.com/pmndrs/react-spring
@@ -52926,6 +53071,7 @@ https://github.com/processone/ejabberd
 https://github.com/proj4js/proj4js
 https://github.com/project-open-data/project-open-data.github.io
 https://github.com/projectcalico/calico
+https://github.com/projectcapsule/capsule
 https://github.com/projectdiscovery/katana
 https://github.com/projectdiscovery/nuclei
 https://github.com/projectdiscovery/subfinder
@@ -53547,6 +53693,7 @@ https://github.com/renard/o-blog
 https://github.com/renatomarinho/laravel-page-speed
 https://github.com/rendora/rendora
 https://github.com/renzifeng/ZFPlayer
+https://github.com/replicatedhq/kots
 https://github.com/repository-settings/app
 https://github.com/repoze/repoze.who
 https://github.com/request/request
@@ -53697,6 +53844,7 @@ https://github.com/s4kibs4mi/java-developer-roadmap
 https://github.com/s4kibs4mi/snapify
 https://github.com/saadeghi/daisyui
 https://github.com/saadhaxxan/Django-2FA-2-Factor-Authentication
+https://github.com/saarasio/enroute
 https://github.com/safing/portmaster
 https://github.com/sagemath/sage
 https://github.com/sagemath/sage-archive-2023-02-01
@@ -53872,6 +54020,7 @@ https://github.com/sdywcd/jshoper3x
 https://github.com/seL4/seL4
 https://github.com/seagle0128/.emacs.d
 https://github.com/seajs/seajs
+https://github.com/sealerio/sealer
 https://github.com/seancfoley/IPAddress
 https://github.com/seancorfield/honeysql
 https://github.com/seanmonstar/num_cpus
@@ -53944,6 +54093,7 @@ https://github.com/server-status-project/server-status
 https://github.com/serverless-nextjs/serverless-next.js
 https://github.com/serverless/components
 https://github.com/serverless/serverless
+https://github.com/serverlessworkflow/specification
 https://github.com/servo/highfive
 https://github.com/servo/homu
 https://github.com/servo/servo
@@ -53972,6 +54122,7 @@ https://github.com/shenzhe/geohash
 https://github.com/shepherdwind/velocity.js
 https://github.com/sherpa-ai/sherpa
 https://github.com/shimat/opencvsharp
+https://github.com/shipwright-io/community
 https://github.com/shipyard/shipyard
 https://github.com/shirou/gopsutil
 https://github.com/shixy/Jingle
@@ -54043,6 +54194,7 @@ https://github.com/skywind3000/z.lua
 https://github.com/slatedocs/slate
 https://github.com/slevithan/xregexp
 https://github.com/slic3r/Slic3r
+https://github.com/slime-io/slime
 https://github.com/slime/slime
 https://github.com/slimphp/Slim
 https://github.com/slince/spike
@@ -54079,6 +54231,7 @@ https://github.com/sockjs/sockjs-client
 https://github.com/sodafoundation/api
 https://github.com/sodafoundation/delfin
 https://github.com/sofa-framework/sofa
+https://github.com/sofastack/sofa-rpc
 https://github.com/sofish/pen
 https://github.com/softace/sqliteodbc
 https://github.com/softwaremill/elasticmq
@@ -54090,6 +54243,7 @@ https://github.com/soldair/node-qrcode
 https://github.com/solid-software/flutter_vlc_player
 https://github.com/solo-io/bumblebee
 https://github.com/solo-io/gloo
+https://github.com/solo-io/squash
 https://github.com/somewhereYu/OSAdmin
 https://github.com/sonatype/nexus-public
 https://github.com/sones/sones
@@ -54446,6 +54600,7 @@ https://github.com/teaey/apns4j
 https://github.com/tealeg/xlsx
 https://github.com/teambition/jsonrpc-lite
 https://github.com/teambox/teambox
+https://github.com/teamcode-inc/kubeorbit
 https://github.com/techgaun/github-dorks
 https://github.com/technomancy/leiningen
 https://github.com/teeworlds/teeworlds
@@ -54454,6 +54609,7 @@ https://github.com/tektoncd/pipeline
 https://github.com/telecomparistech/mvnforum
 https://github.com/telegramdesktop/tdesktop
 https://github.com/telekom-security/tpotce
+https://github.com/telepresenceio/telepresence
 https://github.com/tenancy/multi-tenant
 https://github.com/tencentmusic/cube-studio
 https://github.com/tencentyun/cos-java-sdk-v5
@@ -55110,6 +55266,7 @@ https://github.com/uripeled2/llm-client-sdk
 https://github.com/urllib3/urllib3
 https://github.com/urql-graphql/urql
 https://github.com/usds/playbook
+https://github.com/uselagoon/lagoon
 https://github.com/user-none/Sigil
 https://github.com/usethesource/rascal
 https://github.com/usmanhalalit/charisma
@@ -55262,6 +55419,7 @@ https://github.com/vorner/arc-swap
 https://github.com/vouch/vouch-proxy
 https://github.com/vrana/adminer
 https://github.com/vsch/flexmark-java
+https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools
 https://github.com/vsn4ik/bootstrap-checkbox
 https://github.com/vsouza/awesome-ios
 https://github.com/vstirbu/fsm-as-promised
@@ -55304,6 +55462,7 @@ https://github.com/warpech/jquery-handsontable
 https://github.com/wasabeef/awesome-android-ui
 https://github.com/wasabeef/glide-transformations
 https://github.com/wasm3/wasm3
+https://github.com/wasmCloud/wasmCloud
 https://github.com/wasmerio/wasmer
 https://github.com/wasmerio/wasmer-go
 https://github.com/wasmerio/wasmer-python
@@ -55404,6 +55563,7 @@ https://github.com/wpscanteam/wpscan
 https://github.com/wrannaman/generators
 https://github.com/wren-lang/wren
 https://github.com/wso2/product-apim
+https://github.com/wso2/product-microgateway
 https://github.com/wtforms/wtforms
 https://github.com/wtfutil/wtf
 https://github.com/wulijun/php-the-right-way
