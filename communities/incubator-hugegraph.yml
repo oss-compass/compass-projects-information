@@ -1,0 +1,14 @@
+---
+community_name: incubator-hugegraph
+community_org_url: ''
+community_logo_url: https://github.com/apache.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/apache/incubator-hugegraph-commons
+    - https://github.com/apache/incubator-hugegraph-doc
+    - https://github.com/apache/incubator-hugegraph-ai
+    - https://github.com/apache/incubator-hugegraph-computer
+    - https://github.com/apache/incubator-hugegraph-toolchain
+  governance-repositories:
+    repo_urls: []
