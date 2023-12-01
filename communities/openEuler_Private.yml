@@ -1,0 +1,85 @@
+---
+community_name: openEuler_Private
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/src-openeuler/xhtml2fo-style-xsl
+        - https://gitee.com/src-openeuler/xmvn-connector-gradle
+        - https://gitee.com/src-openeuler/xmvn-tools
+        - https://gitee.com/src-openeuler/xorg-sgml-doctools
+        - https://gitee.com/src-openeuler/libisofs1
+        - https://gitee.com/src-openeuler/libsane-hpaio
+        - https://gitee.com/src-openeuler/libkkc-data
+        - https://gitee.com/src-openeuler/hawtjni-runtime
+        - https://gitee.com/src-openeuler/nautilus-sendto
+        - https://gitee.com/src-openeuler/new.list
+        - https://gitee.com/src-openeuler/bcm283x-firmware
+        - https://gitee.com/src-openeuler/jai-imageio-core
+        - https://gitee.com/src-openeuler/jboss-transaction
+        - https://gitee.com/src-openeuler/js-underscore
+        - https://gitee.com/src-openeuler/java
+        - https://gitee.com/src-openeuler/Keras
+        - https://gitee.com/src-openeuler/kiwi-dlimage
+        - https://gitee.com/src-openeuler/kiwi-template-openEuler
+        - https://gitee.com/src-openeuler/virt-top
+        - https://gitee.com/src-openeuler/ubu-keyring
+        - https://gitee.com/src-openeuler/f29-backgrounds
+        - https://gitee.com/src-openeuler/fwupdate
+        - https://gitee.com/src-openeuler/Flask-RESTful
+        - https://gitee.com/src-openeuler/folks-telepathy
+        - https://gitee.com/src-openeuler/fluid-soundfont
+        - https://gitee.com/src-openeuler/mkeuleros
+        - https://gitee.com/src-openeuler/malaga-suomi-voikko
+        - https://gitee.com/src-openeuler/mainline.list
+        - https://gitee.com/src-openeuler/mingw-srvany
+        - https://gitee.com/src-openeuler/malaga
+        - https://gitee.com/src-openeuler/openmotif
+        - https://gitee.com/src-openeuler/sni-qt
+        - https://gitee.com/src-openeuler/setuptool
+        - https://gitee.com/src-openeuler/system-config-firewall
+        - https://gitee.com/src-openeuler/syslinux-tftpboot
+        - https://gitee.com/src-openeuler/sos-collector
+        - https://gitee.com/src-openeuler/ipython
+        - https://gitee.com/src-openeuler/internal-issue
+        - https://gitee.com/src-openeuler/irrXML
+        - https://gitee.com/src-openeuler/taglist-enable
+        - https://gitee.com/src-openeuler/thx
+        - https://gitee.com/src-openeuler/allegro
+        - https://gitee.com/src-openeuler/autotrace
+        - https://gitee.com/src-openeuler/rsh
+        - https://gitee.com/src-openeuler/repo
+        - https://gitee.com/src-openeuler/rpm-mpi-hooks
+        - https://gitee.com/src-openeuler/ci_check
+        - https://gitee.com/src-openeuler/clamav-unofficial-sigs
+        - https://gitee.com/src-openeuler/ci_project
+        - https://gitee.com/src-openeuler/compat-libgfortran
+        - https://gitee.com/src-openeuler/cvsps
+        - https://gitee.com/src-openeuler/dict2xml
+        - https://gitee.com/src-openeuler/debian-keyring
+        - https://gitee.com/src-openeuler/Done
+        - https://gitee.com/src-openeuler/extlinux-bootloader
+        - https://gitee.com/src-openeuler/perl-Unix-Syslog
+        - https://gitee.com/src-openeuler/python-numexpr
+        - https://gitee.com/src-openeuler/python-Bottleneck
+        - https://gitee.com/src-openeuler/python-backports-shutil_get_terminal_size
+        - https://gitee.com/src-openeuler/python-prompt_toolkit
+        - https://gitee.com/src-openeuler/python-pasta
+        - https://gitee.com/src-openeuler/python-pyside
+        - https://gitee.com/src-openeuler/python-tables
+        - https://gitee.com/src-openeuler/perl-Time-Zone
+        - https://gitee.com/src-openeuler/python-orderedset
+        - https://gitee.com/src-openeuler/phonon-backend-gstreamer
+        - https://gitee.com/src-openeuler/python-scour
+        - https://gitee.com/src-openeuler/python-pyglet
+        - https://gitee.com/src-openeuler/passivetex
+        - https://gitee.com/src-openeuler/python-backports-functools_lru_cache
+        - https://gitee.com/src-openeuler/pkgconfig
+        - https://gitee.com/src-openeuler/python-rpmfluff
+        - https://gitee.com/src-openeuler/perl-Test-CPAN-Meta
+    governance-repositories:
+        repo_urls: []
+
+
+    

@@ -4,6 +4,9 @@ community_logo_url: https://gitee.com/openeuler.png
 community_org_url: https://gitee.com/openeuler
 resource_types:
     software-artifact-repositories:
+        repo_urls: []
+
+    governance-repositories:
         repo_urls: 
         - https://gitee.com/openeuler/openeuler-jenkins
         - https://gitee.com/openeuler/ci-bot
@@ -15,7 +18,5 @@ resource_types:
         - https://gitee.com/src-openeuler/CreateImage
         - https://gitee.com/src-openeuler/openEuler_chroot
         - https://gitee.com/src-openeuler/python-jenkins
-    governance-repositories:
-        repo_urls: []
 
     
