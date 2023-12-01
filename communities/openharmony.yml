@@ -20,6 +20,8 @@ resource_types:
         - https://gitee.com/openharmony/ace_ace_engine
         - https://gitee.com/openharmony/ace_engine_lite
         - https://gitee.com/openharmony/ace_napi
+        - https://gitee.com/openharmony/advertising_ads_framework
+        - https://gitee.com/openharmony/advertising_oaid
         - https://gitee.com/openharmony/ai_engine
         - https://gitee.com/openharmony/ai_intelligent_voice_framework
         - https://gitee.com/openharmony/ai_neural_network_runtime
@@ -37,6 +39,7 @@ resource_types:
         - https://gitee.com/openharmony/applications_contacts
         - https://gitee.com/openharmony/applications_contacts_data
         - https://gitee.com/openharmony/applications_contactsdata
+        - https://gitee.com/openharmony/applications_dlp_manager
         - https://gitee.com/openharmony/applications_filepicker
         - https://gitee.com/openharmony/applications_hap
         - https://gitee.com/openharmony/applications_launcher
@@ -74,11 +77,13 @@ resource_types:
         - https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
         - https://gitee.com/openharmony/bundlemanager_bundle_tool
         - https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework
+        - https://gitee.com/openharmony/bundlemanager_ecological_rule_manager
         - https://gitee.com/openharmony/codelabs
         - https://gitee.com/openharmony/commonlibrary_c_utils
         - https://gitee.com/openharmony/commonlibrary_ets_utils
         - https://gitee.com/openharmony/commonlibrary_memory_utils
         - https://gitee.com/openharmony/commonlibrary_rust_ylong_http
+        - https://gitee.com/openharmony/commonlibrary_rust_ylong_json
         - https://gitee.com/openharmony/commonlibrary_rust_ylong_runtime
         - https://gitee.com/openharmony/commonlibrary_utils_lite
         - https://gitee.com/openharmony/communication_bluetooth
@@ -156,6 +161,7 @@ resource_types:
         - https://gitee.com/openharmony/device_soc_bestechnic
         - https://gitee.com/openharmony/device_soc_chipsea
         - https://gitee.com/openharmony/device_soc_esp
+        - https://gitee.com/openharmony/device_soc_gigadevice
         - https://gitee.com/openharmony/device_soc_goodix
         - https://gitee.com/openharmony/device_soc_hisilicon
         - https://gitee.com/openharmony/device_soc_hpmicro
@@ -219,6 +225,7 @@ resource_types:
         - https://gitee.com/openharmony/global_resource_tool
         - https://gitee.com/openharmony/global_timezone
         - https://gitee.com/openharmony/graphic_graphic_2d
+        - https://gitee.com/openharmony/graphic_graphic_surface
         - https://gitee.com/openharmony/graphic_graphic_utils_lite
         - https://gitee.com/openharmony/graphic_standard
         - https://gitee.com/openharmony/graphic_surface
@@ -227,6 +234,7 @@ resource_types:
         - https://gitee.com/openharmony/graphic_utils
         - https://gitee.com/openharmony/graphic_wms
         - https://gitee.com/openharmony/hiviewdfx_blackbox
+        - https://gitee.com/openharmony/hiviewdfx_blackbox_lite
         - https://gitee.com/openharmony/hiviewdfx_faultloggerd
         - https://gitee.com/openharmony/hiviewdfx_hiappevent
         - https://gitee.com/openharmony/hiviewdfx_hichecker
@@ -240,7 +248,9 @@ resource_types:
         - https://gitee.com/openharmony/hiviewdfx_hitrace
         - https://gitee.com/openharmony/hiviewdfx_hiview
         - https://gitee.com/openharmony/hiviewdfx_hiview_lite
+        - https://gitee.com/openharmony/ide_previewer
         - https://gitee.com/openharmony/inputmethod_imf
+        - https://gitee.com/openharmony/interface_sdk_c
         - https://gitee.com/openharmony/interface_sdk-js
         - https://gitee.com/openharmony/iot_link
         - https://gitee.com/openharmony/iothardware_peripheral
@@ -259,6 +269,7 @@ resource_types:
         - https://gitee.com/openharmony/kernel_liteos_a
         - https://gitee.com/openharmony/kernel_liteos_m
         - https://gitee.com/openharmony/kernel_uniproton
+        - https://gitee.com/openharmony/linux_frame_aware_sched
         - https://gitee.com/openharmony/manifest
         - https://gitee.com/openharmony/miscservices_inputmethod
         - https://gitee.com/openharmony/miscservices_pasteboard
@@ -275,9 +286,11 @@ resource_types:
         - https://gitee.com/openharmony/multimedia_camera_framework
         - https://gitee.com/openharmony/multimedia_camera_lite
         - https://gitee.com/openharmony/multimedia_camera_standard
+        - https://gitee.com/openharmony/multimedia_drm_framework
         - https://gitee.com/openharmony/multimedia_histreamer
         - https://gitee.com/openharmony/multimedia_image_framework
         - https://gitee.com/openharmony/multimedia_image_standard
+        - https://gitee.com/openharmony/multimedia_media_library
         - https://gitee.com/openharmony/multimedia_media_lite
         - https://gitee.com/openharmony/multimedia_media_standard
         - https://gitee.com/openharmony/multimedia_media_utils_lite
@@ -323,16 +336,19 @@ resource_types:
         - https://gitee.com/openharmony/security_appverify
         - https://gitee.com/openharmony/security_certificate_framework
         - https://gitee.com/openharmony/security_certificate_manager
+        - https://gitee.com/openharmony/security_code_signature
         - https://gitee.com/openharmony/security_crypto_framework
         - https://gitee.com/openharmony/security_dataclassification
         - https://gitee.com/openharmony/security_device_auth
         - https://gitee.com/openharmony/security_device_security_level
         - https://gitee.com/openharmony/security_deviceauth
+        - https://gitee.com/openharmony/security_dlp_permission_service
         - https://gitee.com/openharmony/security_huks
         - https://gitee.com/openharmony/security_itrustee_ree_lite
         - https://gitee.com/openharmony/security_permission
         - https://gitee.com/openharmony/security_permission_lite
         - https://gitee.com/openharmony/security_privacy_center
+        - https://gitee.com/openharmony/security_security_component_manager
         - https://gitee.com/openharmony/security_selinux
         - https://gitee.com/openharmony/security_selinux_adapter
         - https://gitee.com/openharmony/sensors_medical_sensor
@@ -371,6 +387,7 @@ resource_types:
         - https://gitee.com/openharmony/third_party_abseil-cpp
         - https://gitee.com/openharmony/third_party_alsa-lib
         - https://gitee.com/openharmony/third_party_alsa-utils
+        - https://gitee.com/openharmony/third_party_astc-encoder
         - https://gitee.com/openharmony/third_party_benchmark
         - https://gitee.com/openharmony/third_party_boost
         - https://gitee.com/openharmony/third_party_boringssl
@@ -404,7 +421,6 @@ resource_types:
         - https://gitee.com/openharmony/third_party_FreeBSD
         - https://gitee.com/openharmony/third_party_freetype
         - https://gitee.com/openharmony/third_party_fsck_msdos
-        - https://gitee.com/openharmony/third_party_ltp
         - https://gitee.com/openharmony/third_party_fsverity-utils
         - https://gitee.com/openharmony/third_party_gettext
         - https://gitee.com/openharmony/third_party_giflib
@@ -456,9 +472,11 @@ resource_types:
         - https://gitee.com/openharmony/third_party_littlefs
         - https://gitee.com/openharmony/third_party_lldb-mi
         - https://gitee.com/openharmony/third_party_llvm-project
+        - https://gitee.com/openharmony/third_party_ltp
         - https://gitee.com/openharmony/third_party_LVM2
         - https://gitee.com/openharmony/third_party_lwip
         - https://gitee.com/openharmony/third_party_lz4
+        - https://gitee.com/openharmony/third_party_lzma
         - https://gitee.com/openharmony/third_party_markupsafe
         - https://gitee.com/openharmony/third_party_mbedtls
         - https://gitee.com/openharmony/third_party_mesa3d
@@ -609,6 +627,7 @@ resource_types:
         - https://gitee.com/openharmony/third_party_tzdata
         - https://gitee.com/openharmony/third_party_u-boot
         - https://gitee.com/openharmony/third_party_unity
+        - https://gitee.com/openharmony/third_party_vixl
         - https://gitee.com/openharmony/third_party_vk-gl-cts
         - https://gitee.com/openharmony/third_party_vulkan-headers
         - https://gitee.com/openharmony/third_party_vulkan-loader
@@ -628,6 +647,7 @@ resource_types:
         - https://gitee.com/openharmony/update_sys_installer
         - https://gitee.com/openharmony/update_sys_installer_lite
         - https://gitee.com/openharmony/update_update_app
+        - https://gitee.com/openharmony/update_update_service
         - https://gitee.com/openharmony/update_updater
         - https://gitee.com/openharmony/update_updateservice
         - https://gitee.com/openharmony/usb_manager
