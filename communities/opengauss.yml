@@ -5,98 +5,77 @@ community_org_url: https://gitee.com/opengauss
 resource_types:
     software-artifact-repositories:
         repo_urls: 
-        - https://gitee.com/opengauss/bc
         - https://gitee.com/opengauss/Blockchain
-        - https://gitee.com/opengauss/blog
-        - https://gitee.com/opengauss/board
-        - https://gitee.com/opengauss/CBB
-        - https://gitee.com/opengauss/CM
-        - https://gitee.com/opengauss/CM-RestAPI
-        - https://gitee.com/opengauss/compatibility-assessment
-        - https://gitee.com/opengauss/compatible-certification
-        - https://gitee.com/opengauss/DataStudio
-        - https://gitee.com/opengauss/DCC
-        - https://gitee.com/opengauss/DCF
-        - https://gitee.com/opengauss/debezium
-        - https://gitee.com/opengauss/distribution-certification
-        - https://gitee.com/opengauss/distribution-evaluation
-        - https://gitee.com/opengauss/DMS
-        - https://gitee.com/opengauss/docs
-        - https://gitee.com/opengauss/DSS
         - https://gitee.com/opengauss/easyVisualization
-        - https://gitee.com/opengauss/examples
-        - https://gitee.com/opengauss/ham4db
-        - https://gitee.com/opengauss/infra
-        - https://gitee.com/opengauss/knowledgeGraph
-        - https://gitee.com/opengauss/ngxdb-for-opengauss
-        - https://gitee.com/opengauss/ogx
-        - https://gitee.com/opengauss/openGauss-AI
-        - https://gitee.com/opengauss/openGauss-batman
-        - https://gitee.com/opengauss/openGauss-CI
-        - https://gitee.com/opengauss/openGauss-connector-adonet
-        - https://gitee.com/opengauss/openGauss-connector-go-pq
-        - https://gitee.com/opengauss/openGauss-connector-jdbc
-        - https://gitee.com/opengauss/openGauss-connector-nodejs
-        - https://gitee.com/opengauss/openGauss-connector-odbc
-        - https://gitee.com/opengauss/openGauss-connector-python-psycopg2
-        - https://gitee.com/opengauss/openGauss-connector-python-pyog
-        - https://gitee.com/opengauss/openGauss-connector-rust
-        - https://gitee.com/opengauss/openGauss-container
-        - https://gitee.com/opengauss/openGauss-DBMind
-        - https://gitee.com/opengauss/openGauss-DBMind-3rd
+        - https://gitee.com/opengauss/Plugin
+        - https://gitee.com/opengauss/DCF
+        - https://gitee.com/opengauss/openGauss-tools-monitor
         - https://gitee.com/opengauss/openGauss-distributed-solutions
-        - https://gitee.com/opengauss/openGauss-embedded
-        - https://gitee.com/opengauss/openGauss-graph
-        - https://gitee.com/opengauss/openGauss-housekeeper
-        - https://gitee.com/opengauss/openGauss-jdbc-skywalking
-        - https://gitee.com/opengauss/openGauss-migration-portal
-        - https://gitee.com/opengauss/openGauss-OM
-        - https://gitee.com/opengauss/openGauss-operator
-        - https://gitee.com/opengauss/openGauss-prometheus-exporter
-        - https://gitee.com/opengauss/openGauss-server
-        - https://gitee.com/opengauss/openGauss-sqlalchemy
-        - https://gitee.com/opengauss/openGauss-third_party
-        - https://gitee.com/opengauss/openGauss-tools-backup
         - https://gitee.com/opengauss/openGauss-tools-chameleon
-        - https://gitee.com/opengauss/openGauss-tools-datachecker
+        - https://gitee.com/opengauss/distribution-certification
+        - https://gitee.com/opengauss/openGauss-webclient-portal
+        - https://gitee.com/opengauss/openGauss-connector-adonet
+        - https://gitee.com/opengauss/DSS
+        - https://gitee.com/opengauss/QA
+        - https://gitee.com/opengauss/openGauss-connector-python-psycopg2
+        - https://gitee.com/opengauss/docs
+        - https://gitee.com/opengauss/CBB
+        - https://gitee.com/opengauss/openGauss-tools-sql-translator
+        - https://gitee.com/opengauss/security
+        - https://gitee.com/opengauss/openGauss-prometheus-exporter
+        - https://gitee.com/opengauss/DCC
+        - https://gitee.com/opengauss/DMS
+        - https://gitee.com/opengauss/CM-RestAPI
+        - https://gitee.com/opengauss/openGauss-webclient
+        - https://gitee.com/opengauss/openGauss-tools-backup
+        - https://gitee.com/opengauss/openGauss-housekeeper
+        - https://gitee.com/opengauss/openGauss-migration-portal
+        - https://gitee.com/opengauss/openGauss-jdbc-skywalking
+        - https://gitee.com/opengauss/distribution-evaluation
+        - https://gitee.com/opengauss/openGauss-tools-onlineMigration
         - https://gitee.com/opengauss/openGauss-tools-datachecker-performance
+        - https://gitee.com/opengauss/debezium
+        - https://gitee.com/opengauss/ops
+        - https://gitee.com/opengauss/openGauss-tools-pg2og
+        - https://gitee.com/opengauss/openGauss-AI
+        - https://gitee.com/opengauss/DataStudio
+        - https://gitee.com/opengauss/openGauss-connector-go-pq
+        - https://gitee.com/opengauss/shardingsphere
+        - https://gitee.com/opengauss/openGauss-tools-onlineMigration-mysql
+        - https://gitee.com/opengauss/service-partner-certification
+        - https://gitee.com/opengauss/compatible-certification
+        - https://gitee.com/opengauss/openGauss-OM
+        - https://gitee.com/opengauss/openGauss-workbench
+        - https://gitee.com/opengauss/openGauss-connector-nodejs
+        - https://gitee.com/opengauss/openGauss-tools-datachecker
+        - https://gitee.com/opengauss/openGauss-connector-rust
+        - https://gitee.com/opengauss/openGauss-server
+        - https://gitee.com/opengauss/openGauss-graph
+        - https://gitee.com/opengauss/knowledgeGraph
+        - https://gitee.com/opengauss/blog
+        - https://gitee.com/opengauss/ham4db
+        - https://gitee.com/opengauss/openGauss-DBMind
+        - https://gitee.com/opengauss/CM
+        - https://gitee.com/opengauss/openGauss-third_party
+        - https://gitee.com/opengauss/openGauss-connector-jdbc
+        - https://gitee.com/opengauss/openGauss-connector-python-pyog
         - https://gitee.com/opengauss/openGauss-tools-loader
         - https://gitee.com/opengauss/openGauss-tools-migrationAssessmentReport
-        - https://gitee.com/opengauss/openGauss-tools-monitor
-        - https://gitee.com/opengauss/openGauss-tools-ogtop
-        - https://gitee.com/opengauss/openGauss-tools-onlineMigration
-        - https://gitee.com/opengauss/openGauss-tools-onlineMigration-mysql
-        - https://gitee.com/opengauss/openGauss-tools-ora2og
-        - https://gitee.com/opengauss/openGauss-tools-pg2og
-        - https://gitee.com/opengauss/openGauss-tools-sql-translator
+        - https://gitee.com/opengauss/openGauss-connector-odbc
         - https://gitee.com/opengauss/openGauss-tools-sqlines
-        - https://gitee.com/opengauss/openGauss-User-Group
-        - https://gitee.com/opengauss/openGauss-wasm
-        - https://gitee.com/opengauss/openGauss-webclient
-        - https://gitee.com/opengauss/openGauss-webclient-portal
-        - https://gitee.com/opengauss/openGauss-workbench
-        - https://gitee.com/opengauss/openGauss-sandbox
-        - https://gitee.com/opengauss/opensource-intership
-        - https://gitee.com/opengauss/ops
-        - https://gitee.com/opengauss/ora-migration-tool
-        - https://gitee.com/opengauss/playground-course
-        - https://gitee.com/opengauss/Plugin
-        - https://gitee.com/opengauss/practice-course
-        - https://gitee.com/opengauss/practice-platform
-        - https://gitee.com/opengauss/QA
-        - https://gitee.com/opengauss/release-management
-        - https://gitee.com/opengauss/security
-        - https://gitee.com/opengauss/service-partner-certification
-        - https://gitee.com/opengauss/shardingsphere
-        - https://gitee.com/opengauss/tc
-        - https://gitee.com/opengauss/tryme
-        - https://gitee.com/opengauss/uc
+        - https://gitee.com/opengauss/openGauss-tools-ora2og
+        - https://gitee.com/opengauss/Yukon
+        - https://gitee.com/opengauss/infra
         - https://gitee.com/opengauss/Yat
-        - https://gitee.com/opengauss/yukon
+        - https://gitee.com/opengauss/release-management
+        - https://gitee.com/opengauss/openGauss-operator
+        - https://gitee.com/opengauss/tryme
     governance-repositories:
         repo_urls: 
         - https://gitee.com/opengauss/community
-        - https://gitee.com/opengauss/migration-website
-        - https://gitee.com/opengauss/quick-issue-website
         - https://gitee.com/opengauss/website
+        - https://gitee.com/opengauss/playground-course
+        - https://gitee.com/opengauss/practice-course
+        - https://gitee.com/opengauss/opensource-intership
+        - https://gitee.com/opengauss/examples
     
