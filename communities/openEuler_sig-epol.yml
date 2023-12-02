@@ -4,6 +4,9 @@ community_logo_url: https://gitee.com/openeuler.png
 community_org_url: https://gitee.com/openeuler
 resource_types:
     software-artifact-repositories:
+        repo_urls: []
+
+    governance-repositories:
         repo_urls: 
         - https://gitee.com/src-openeuler/doracms
         - https://gitee.com/src-openeuler/whois
@@ -114,7 +117,5 @@ resource_types:
         - https://gitee.com/src-openeuler/acpi
         - https://gitee.com/src-openeuler/xcompmgr
         - https://gitee.com/src-openeuler/opennjet
-    governance-repositories:
-        repo_urls: []
 
     

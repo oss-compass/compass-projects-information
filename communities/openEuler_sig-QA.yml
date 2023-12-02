@@ -4,6 +4,9 @@ community_logo_url: https://gitee.com/openeuler.png
 community_org_url: https://gitee.com/openeuler
 resource_types:
     software-artifact-repositories:
+        repo_urls: []
+
+    governance-repositories:
         repo_urls: 
         - https://gitee.com/openeuler/avocado-vt
         - https://gitee.com/openeuler/tp-qemu
@@ -22,7 +25,5 @@ resource_types:
         - https://gitee.com/openeuler/radiaTest
         - https://gitee.com/openeuler/QA
         - https://gitee.com/src-openeuler/trinity
-    governance-repositories:
-        repo_urls: []
 
     

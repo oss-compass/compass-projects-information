@@ -1,0 +1,17 @@
+---
+community_name: openEuler_sig-template
+community_logo_url: https://gitee.com/openeuler.png
+community_org_url: https://gitee.com/openeuler
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openeuler/infrastructure
+        - https://gitee.com/openeuler/website
+        - https://gitee.com/openeuler/obs-build
+        - https://gitee.com/openeuler/blog
+        - https://gitee.com/openeuler/go-gitee
+    governance-repositories:
+        repo_urls: []
+
+
+    

@@ -4,6 +4,9 @@ community_logo_url: https://gitee.com/openeuler.png
 community_org_url: https://gitee.com/openeuler
 resource_types:
     software-artifact-repositories:
+        repo_urls: []
+
+    governance-repositories:
         repo_urls: 
         - https://gitee.com/openeuler/sig-OSCourse
         - https://gitee.com/openeuler/hands-on
@@ -17,7 +20,5 @@ resource_types:
         - https://gitee.com/openeuler/lfs-course
         - https://gitee.com/openeuler/hw-buaa-lab
         - https://gitee.com/openeuler/lzu-icc-nsg
-    governance-repositories:
-        repo_urls: []
 
     
