@@ -1,0 +1,12 @@
+---
+community_name: opengauss_Docs
+community_logo_url: https://gitee.com/opengauss.png
+community_org_url: https://gitee.com/opengauss
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/docs
+        - https://gitee.com/opengauss/blog
+    governance-repositories:
+        repo_urls: []
+    

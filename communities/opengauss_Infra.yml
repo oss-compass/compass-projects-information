@@ -1,0 +1,20 @@
+---
+community_name: opengauss_Infra
+community_logo_url: https://gitee.com/opengauss.png
+community_org_url: https://gitee.com/opengauss
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/infra
+        - https://gitee.com/opengauss/openGauss-webclient
+        - https://gitee.com/opengauss/openGauss-webclient-portal
+        - https://gitee.com/opengauss/tryme
+    governance-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/community
+        - https://gitee.com/opengauss/website
+        - https://gitee.com/opengauss/playground-course
+        - https://gitee.com/opengauss/practice-course
+        - https://gitee.com/opengauss/opensource-intership
+        - https://gitee.com/opengauss/examples
+    

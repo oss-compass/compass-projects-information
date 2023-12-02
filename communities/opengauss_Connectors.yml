@@ -1,0 +1,20 @@
+---
+community_name: opengauss_Connectors
+community_logo_url: https://gitee.com/opengauss.png
+community_org_url: https://gitee.com/opengauss
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/openGauss-server
+        - https://gitee.com/opengauss/openGauss-third_party
+        - https://gitee.com/opengauss/openGauss-connector-jdbc
+        - https://gitee.com/opengauss/openGauss-connector-odbc
+        - https://gitee.com/opengauss/openGauss-connector-python-psycopg2
+        - https://gitee.com/opengauss/openGauss-connector-go-pq
+        - https://gitee.com/opengauss/openGauss-connector-python-pyog
+        - https://gitee.com/opengauss/openGauss-connector-adonet
+        - https://gitee.com/opengauss/openGauss-connector-nodejs
+        - https://gitee.com/opengauss/openGauss-connector-rust
+    governance-repositories:
+        repo_urls: []
+    

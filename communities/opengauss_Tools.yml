@@ -1,0 +1,35 @@
+---
+community_name: opengauss_Tools
+community_logo_url: https://gitee.com/opengauss.png
+community_org_url: https://gitee.com/opengauss
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/opengauss/openGauss-server
+        - https://gitee.com/opengauss/openGauss-third_party
+        - https://gitee.com/opengauss/openGauss-housekeeper
+        - https://gitee.com/opengauss/openGauss-tools-loader
+        - https://gitee.com/opengauss/openGauss-tools-chameleon
+        - https://gitee.com/opengauss/openGauss-tools-datachecker
+        - https://gitee.com/opengauss/openGauss-tools-migrationAssessmentReport
+        - https://gitee.com/opengauss/openGauss-tools-ora2og
+        - https://gitee.com/opengauss/openGauss-tools-onlineMigration
+        - https://gitee.com/opengauss/openGauss-tools-onlineMigration-mysql
+        - https://gitee.com/opengauss/openGauss-tools-datachecker-performance
+        - https://gitee.com/opengauss/openGauss-tools-sql-translator
+        - https://gitee.com/opengauss/openGauss-tools-sqlines
+        - https://gitee.com/opengauss/openGauss-tools-pg2og
+        - https://gitee.com/opengauss/openGauss-tools-backup
+        - https://gitee.com/opengauss/openGauss-tools-monitor
+        - https://gitee.com/opengauss/openGauss-distributed-solutions
+        - https://gitee.com/opengauss/openGauss-jdbc-skywalking
+        - https://gitee.com/opengauss/openGauss-workbench
+        - https://gitee.com/opengauss/ham4db
+        - https://gitee.com/opengauss/debezium
+        - https://gitee.com/opengauss/DataStudio
+        - https://gitee.com/opengauss/easyVisualization
+        - https://gitee.com/opengauss/shardingsphere
+        - https://gitee.com/opengauss/openGauss-migration-portal
+    governance-repositories:
+        repo_urls: []
+    
