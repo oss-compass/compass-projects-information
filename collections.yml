@@ -52,6 +52,7 @@
     - web-backend-component-and-framework # 后端组件和框架
     - rpc-development-framework # RPC开发框架
     - admin-template # 管理后台模板
+    - remote-procedure-call # 远程过程调用（RPC）
 
 - ident: artificial-intelligence-ai
   name: Artificial Intelligence AI
@@ -176,18 +177,20 @@
     - full-text-search-engine # 全文搜索引擎
     - code-search # 代码搜索
     
-- ident: cloud-native
-  name: Cloud native
-  name_cn: 云原生
+- ident: virtualization-and-cloud-computing
+  name:  Virtualization and Cloud Computing
+  name_cn: 云原生、云计算和虚拟化
   items:
     - cloud-native-storage # 云原生存储
+    - cloud-computing # 云计算
+    - cloud-service # 云服务
     - container-registry # 容器镜像注册表
     - container-runtime # 容器运行时
     - container-technology # 容器技术
     - coordination-and-service-discovery # 协调与服务发现
     - service-mesh # 服务网格
     - service-proxy # 服务代理
-    - remote-procedure-call # 远程过程调用（RPC）
+    
 - ident: development-toolkit
   name: Development toolkit
   name_cn: 开发工具
