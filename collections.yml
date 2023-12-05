@@ -195,17 +195,51 @@
   name: Development toolkit
   name_cn: 开发工具
   items:
+    - Excel-toolkits # Excel工具包
+    - json-tools # JSON工具
+    - code-generator # 代码生成器 
+    - jobs-and-task-scheduling # 作业或任务调度
+    - graph-process-tech-and-toolkit # 图像处理技术和工具包
+    - chart-component # 图表组件 
+    - workflow # 工作流
+    - common-toolkit # 常用工具包
+    - microservice # 微服务
+    - reporting-tool # 报表工具
+    - payment-SDK # 支付开发包
+    - logging-toolkit #日志工具包
+    - workflow-engine-and-tools # 流程引擎及工具
+    - net-util-tools # 网络应用工具
+    - network-development-toolkit # 网络开发包
+    - verification-code # 验证码
+    - algogrithm-and-math-computing # 算法及数学计算
+    - regulation-engine # 规则引擎
+    - authority-management # 权限管理
+    - markdown-toolkit # Markdown工具包
+    - caching-component # 缓存组件
+    - program-and-script-language # 编程语言和脚本语言
+    - data-mining-and-analysis # 数据挖掘或分析
+    - network-service # 网络服务， 代理服务器、jetty、tomcat、socket、邮件服务器等
+    - network-tool # 网络工具
+    - voice-processing #  语音处理
+    - bar-code-and-qr-code # 条形码和二维码
+    - template-engine # 模板引擎  已有，进行更新
+    - text-segmentation # 中英文分词
+    - security-dev-tool # 安全开发相关工具
+    - development-plugins # 开发插件
+    - building-tool # 构建工具
+    - internationalization-and-localization # 国际化和本地化
+
     - low-code-framework # 低代码框架
     - code-analysis # 代码分析
     - code-search # 代码搜索
     - low-code-tools # 低代码工具
     - openapi-code-generation # OpenAPI 代码生成器
-    - encryption-tools # 加密工具
+    #- encryption-tools # 加密工具
     - expression-engine # 表达式引擎
     - fake-data-generator # 测试数据生成器
     - graphql-client # GraphQL 客户端
     - graphql-server # GraphQL 服务端
-    - headless-browser # 无头浏览器
+    #- headless-browser # 无头浏览器
     - headless-cms # 无头 CMS
     - honeypot # 蜜罐工具
     - ides-and-editors # 编辑器和集成开发环境
@@ -222,6 +256,7 @@
     - vim-derived-editors # Vim 衍生编辑器
     - vim-plug-ins # Vim 插件
     - zsh-plugin # ZSH 插件
+    
 - ident: software-development-library
   name: Software development library
   name_cn: 软件开发库
