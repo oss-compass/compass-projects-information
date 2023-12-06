@@ -1,11 +1,11 @@
 ---
-community_name: opengauss_Graph
+community_name: openGauss_OM
 community_logo_url: https://gitee.com/opengauss.png
 community_org_url: https://gitee.com/opengauss
 resource_types:
     software-artifact-repositories:
         repo_urls: 
-        - https://gitee.com/opengauss/openGauss-graph
+        - https://gitee.com/opengauss/openGauss-OM
     governance-repositories:
         repo_urls: []
     

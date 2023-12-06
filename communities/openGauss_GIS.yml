@@ -1,11 +1,11 @@
 ---
-community_name: opengauss_Plugin
+community_name: openGauss_GIS
 community_logo_url: https://gitee.com/opengauss.png
 community_org_url: https://gitee.com/opengauss
 resource_types:
     software-artifact-repositories:
         repo_urls: 
-        - https://gitee.com/opengauss/Plugin
+        - https://gitee.com/opengauss/Yukon
     governance-repositories:
         repo_urls: []
     

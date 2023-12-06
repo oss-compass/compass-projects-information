@@ -1,12 +1,12 @@
 ---
-community_name: opengauss_StorageEngine
+community_name: openGauss_QA
 community_logo_url: https://gitee.com/opengauss.png
 community_org_url: https://gitee.com/opengauss
 resource_types:
     software-artifact-repositories:
         repo_urls: 
-        - https://gitee.com/opengauss/openGauss-server
-        - https://gitee.com/opengauss/openGauss-third_party
+        - https://gitee.com/opengauss/QA
+        - https://gitee.com/opengauss/Yat
     governance-repositories:
         repo_urls: []
     
