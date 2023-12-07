@@ -11,4 +11,5 @@ resource_types:
         - https://gitee.com/opengauss/compatible-certification
     governance-repositories:
         repo_urls: []
+        
     

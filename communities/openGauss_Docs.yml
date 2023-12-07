@@ -9,4 +9,5 @@ resource_types:
         - https://gitee.com/opengauss/blog
     governance-repositories:
         repo_urls: []
+        
     

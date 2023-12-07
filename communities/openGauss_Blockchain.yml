@@ -8,4 +8,5 @@ resource_types:
         - https://gitee.com/opengauss/Blockchain
     governance-repositories:
         repo_urls: []
+        
     
