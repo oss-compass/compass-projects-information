@@ -13,4 +13,5 @@ resource_types:
         - https://gitee.com/opengauss/DSS
     governance-repositories:
         repo_urls: []
+        
     

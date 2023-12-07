@@ -8,4 +8,5 @@ resource_types:
         - https://gitee.com/opengauss/openGauss-OM
     governance-repositories:
         repo_urls: []
+        
     

@@ -702,4 +702,5 @@ resource_types:
     governance-repositories:
         repo_urls: 
         - https://gitee.com/openharmony/community
+        
     

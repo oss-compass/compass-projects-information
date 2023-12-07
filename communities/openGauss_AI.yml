@@ -11,4 +11,5 @@ resource_types:
         - https://gitee.com/opengauss/openGauss-DBMind
     governance-repositories:
         repo_urls: []
+        
     

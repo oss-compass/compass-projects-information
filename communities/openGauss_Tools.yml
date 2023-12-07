@@ -32,4 +32,5 @@ resource_types:
         - https://gitee.com/opengauss/openGauss-migration-portal
     governance-repositories:
         repo_urls: []
+        
     

@@ -17,4 +17,5 @@ resource_types:
         - https://gitee.com/opengauss/openGauss-connector-rust
     governance-repositories:
         repo_urls: []
+        
     

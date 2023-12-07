@@ -9,4 +9,5 @@ resource_types:
         - https://gitee.com/opengauss/openGauss-third_party
     governance-repositories:
         repo_urls: []
+        
     
