@@ -1,0 +1,12 @@
+ident: privacy-computing
+name: Privacy Computing
+name_cn: 隐私计算
+slug: /privacy-computing
+items:
+  - https://github.com/YeeZTech/YeeZ-Privacy-Computing
+  - https://github.com/IBM/fhe-toolkit-linux # no change in 1 years
+  - https://github.com/primihub/primihub
+  - https://github.com/apache/incubator-teaclave
+  - https://github.com/eprbell/rp2
+  - https://github.com/veracruz-project/veracruz
+  - https://gitee.com/primihub/primihub
