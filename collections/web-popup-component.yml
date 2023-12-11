@@ -3,7 +3,7 @@ name: Web popup component
 name_cn: Web 弹窗组件
 slug: /web-popup-component
 items:
-  - https://gitee.com/layui/layui
+  - https://gitee.com/layui/layer
   - https://gitee.com/monksoul/LayX
   - https://github.com/HubSpot/vex
   - https://github.com/bootboxjs/bootbox
