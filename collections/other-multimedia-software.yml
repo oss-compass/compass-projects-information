@@ -1,0 +1,22 @@
+ident: other-multimedia-software
+name: Other Multimedia Software
+name_cn: 其他多媒体软件
+slug: /other-multimedia-software
+items:
+  - https://github.com/bilibili/ijkplayer # no change in 2 years
+  - https://github.com/sampotts/plyr
+  - https://github.com/TeamNewPipe/NewPipe
+  - https://github.com/google/ExoPlayer
+  - https://github.com/ossrs/srs
+  - https://github.com/mpv-player/mpv
+  - https://github.com/wulkano/Kap # no change in 1 years
+  - https://github.com/jellyfin/jellyfin
+  - https://github.com/the1812/Bilibili-Evolved
+  - https://github.com/DIYgod/DPlayer
+  - https://github.com/cuiocean/ZY-Player
+  - https://github.com/Zulko/moviepy
+  - https://github.com/mps-youtube/mps-youtube
+  - https://github.com/Sonarr/Sonarr
+  - https://github.com/File-New-Project/EarTrumpet
+  - https://github.com/jely2002/youtube-dl-gui # no change in 1 years
+  - https://github.com/Tautulli/Tautulli
