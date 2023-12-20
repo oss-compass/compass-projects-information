@@ -18,3 +18,5 @@ items:
   - https://github.com/emacs-evil/evil
   - https://github.com/martanne/vis
   - https://github.com/tmux/tmux
+  - https://github.com/neovide/neovide
+  - https://github.com/rhysd/vim.wasm

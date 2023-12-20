@@ -1,0 +1,18 @@
+ident: word-processing-software
+name: Word Processing Software
+name_cn: 字处理软件
+slug: /word-processing-software
+items:
+  - https://github.com/ryanoasis/nerd-fonts
+  - https://github.com/notepad-plus-plus/notepad-plus-plus
+  - https://github.com/helix-editor/helix
+  - https://github.com/source-foundry/Hack # no change in 3 years
+  - https://github.com/textmate/textmate # no change in 2 years
+  - https://github.com/kovidgoyal/calibre
+  - https://github.com/koreader/koreader
+  - https://github.com/Zettlr/Zettlr
+  - https://github.com/fontforge/fontforge
+  - https://github.com/coteditor/CotEditor
+  - https://github.com/uswds/public-sans
+  - https://github.com/federico-terzi/espanso
+  - https://github.com/notofonts/noto-fonts
