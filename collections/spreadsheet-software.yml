@@ -1,0 +1,15 @@
+ident: spreadsheet-software
+name: Spreadsheet Software
+name_cn: 电子表格软件
+slug: /spreadsheet-software
+items:
+  - https://github.com/andmarti1424/sc-im
+  - https://github.com/handsontable/hyperformula
+  - https://github.com/dream-num/Luckysheet
+  - https://github.com/ONLYOFFICE/DocumentServer
+  - https://github.com/saulpw/visidata
+  - https://github.com/gristlabs/grist-core
+  - https://github.com/unidoc/unioffice
+  - https://github.com/quadratichq/quadratic
+  - https://github.com/dfinke/ImportExcel
+  - https://github.com/ONLYOFFICE/DesktopEditors
