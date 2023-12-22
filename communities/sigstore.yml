@@ -1,0 +1,31 @@
+---
+community_name: sigstore
+community_org_url: https://github.com/sigstore/
+community_logo_url: https://github.com/sigstore.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/sigstore/cosign
+    - https://github.com/sigstore/fulcio
+    - https://github.com/sigstore/rekor
+    - https://github.com/sigstore/sigstore
+    - https://github.com/sigstore/sigstore-rs
+    - https://github.com/sigstore/sigstore-python
+    - https://github.com/sigstore/sigstore-java
+    - https://github.com/sigstore/sigstore-go
+    - https://github.com/sigstore/sigstore-js
+    - https://github.com/sigstore/sigstore-maven
+    - https://github.com/sigstore/friends
+    - https://github.com/sigstore/root-signing
+    - https://github.com/sigstore/rekor-monitor
+    - https://github.com/sigstore/ruby-sigstore
+    - https://github.com/sigstore/sigstore-conformance
+    - https://github.com/sigstore/gitsign
+    - https://github.com/sigstore/gh-action-sigstore-python
+    - https://github.com/sigstore/sigstore-devops-tools
+    - https://github.com/sigstore/sigstore-go-archived
+    - https://github.com/sigstore/k8s-manifest-sigstore
+    - https://github.com/sigstore/sig-public-good-operations
+    - https://github.com/sigstore/root-signing-practice
+  governance-repositories:
+    repo_urls: []
