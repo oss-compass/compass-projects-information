@@ -1,0 +1,21 @@
+ident: other-office-software
+name: Other Office Software
+name_cn: 其他办公软件
+slug: /other-office-software
+items:
+  - https://github.com/mozilla/pdf.js
+  - https://github.com/bpampuch/pdfmake
+  - https://github.com/ocrmypdf/OCRmyPDF
+  - https://github.com/tabulapdf/tabula-java
+  - https://github.com/nissl-lab/npoi
+  - https://github.com/prawnpdf/prawn
+  - https://github.com/axa-group/Parsr # no change in 1 years
+  - https://github.com/WizTeam/WizQTClient # no change in 2 years
+  - https://github.com/simonmichael/hledger
+  - https://github.com/pimutils/khal
+  - https://github.com/qpdf/qpdf
+  - https://github.com/simonbengtsson/jsPDF-AutoTable
+  - https://github.com/pymupdf/PyMuPDF
+  - https://github.com/pwmt/zathura
+  - https://github.com/puppetlabs/showoff
+  - https://github.com/vteams/open-source-billing
