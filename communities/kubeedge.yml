@@ -1,0 +1,22 @@
+---
+community_name: kubeedge
+community_org_url: https://kubeedge.io
+community_logo_url: https://github.com/kubeedge.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kubeedge/kubeedge
+    - https://github.com/kubeedge/edgemesh
+    - https://github.com/kubeedge/sedna
+    - https://github.com/kubeedge/ianvs
+    - https://github.com/kubeedge/website
+    - https://github.com/kubeedge/robolink
+    - https://github.com/kubeedge/examples
+    - https://github.com/kubeedge/dashboard
+    - https://github.com/kubeedge/kuberobo
+    - https://github.com/kubeedge/mapper-framework
+    - https://github.com/kubeedge/mappers-go
+    - https://github.com/kubeedge/keink
+  governance-repositories:
+    repo_urls:
+    - https://github.com/kubeedge/community
