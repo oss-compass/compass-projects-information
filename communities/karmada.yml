@@ -1,0 +1,19 @@
+---
+community_name: karmada
+community_logo_url: https://raw.githubusercontent.com/cncf/artwork/main/projects/karmada/icon/color/karmada-icon-color.svg
+community_org_url: https://github.com/karmada-io
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/karmada-io/karmada
+        - https://github.com/karmada-io/website
+        - https://github.com/karmada-io/api
+        - https://github.com/karmada-io/dashboard
+        - https://github.com/karmada-io/multi-cluster-ingress-nginx
+        - https://github.com/karmada-io/karmada-operator
+        - https://github.com/karmada-io/playground
+        - https://github.com/karmada-io/multicluster-cloud-provider
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/karmada-io/community
+
