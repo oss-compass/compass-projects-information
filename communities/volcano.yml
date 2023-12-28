@@ -1,0 +1,22 @@
+---
+community_name: volcano
+community_logo_url: https://raw.githubusercontent.com/cncf/artwork/main/projects/volcano/icon/color/volcano-icon-color.svg
+community_org_url: https://github.com/volcano-sh
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/volcano-sh/volcano
+        - https://github.com/volcano-sh/website
+        - https://github.com/volcano-sh/devices
+        - https://github.com/volcano-sh/kube-state-metrics
+        - https://github.com/volcano-sh/apis
+        - https://github.com/volcano-sh/resource-exporter
+        - https://github.com/volcano-sh/federation
+        - https://github.com/volcano-sh/dashboard
+        - https://github.com/volcano-sh/helm-charts
+        - https://github.com/volcano-sh/kubegene
+        - https://github.com/volcano-sh/kubegene-website
+    governance-repositories:
+        repo_urls: 
+        - https://github.com/volcano-sh/community
+
