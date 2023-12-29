@@ -1,0 +1,9 @@
+---
+community_name: kuasar
+community_logo_url: https://github.com/kuasar-io.png
+community_org_url: https://github.com/kuasar-io
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/kuasar-io/kuasar
+        - https://github.com/kuasar-io/web
