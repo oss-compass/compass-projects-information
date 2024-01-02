@@ -4,13 +4,17 @@ name_cn: 输入法
 slug: /input-method
 items:
   - https://github.com/ibus/ibus
-  - https://github.com/scim-im/scim
+  - https://github.com/scim-im/scim # no change in 1 years
   - https://github.com/rime/squirrel
   - https://github.com/fcitx/fcitx5
-  - https://github.com/topics
   - https://github.com/openvanilla/McBopomofo
   - https://github.com/rime/home
   - https://github.com/florisboard/florisboard
   - https://github.com/dongyuwei/hallelujahIM
-  - https://github.com/hatashiro/kawa
+  - https://github.com/hatashiro/kawa # no change in 2 years
   - https://github.com/rime/rime-cantonese
+  - https://github.com/rime/librime
+  - https://github.com/osfans/trime
+  - https://github.com/openstenoproject/plover
+  - https://github.com/EasyIME/PIME # no change in 1 years
+  - https://github.com/tumashu/pyim
