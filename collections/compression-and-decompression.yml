@@ -5,20 +5,21 @@ slug: /compression-and-decompression
 items:
   - https://github.com/peazip/PeaZip
   - https://github.com/lz4/lz4
-  - https://github.com/zetbaitsu/Compressor
+  - https://github.com/zetbaitsu/Compressor # no change in 2 years
   - https://github.com/google/draco
-  - https://github.com/dropbox/lepton
   - https://github.com/mholt/archiver
   - https://github.com/klauspost/compress
-  - https://github.com/chrissimpkins/Crunch
+  - https://github.com/chrissimpkins/Crunch # no change in 1 years
   - https://github.com/Bioruebe/UniExtract2
   - https://github.com/aonez/Keka
   - https://github.com/gildas-lormeau/SingleFile
-  - https://github.com/RipMeApp/ripme
-  - https://github.com/dosyago/DiskerNet
   - https://github.com/mcmilk/7-Zip-zstd
   - https://github.com/google/brotli
   - https://github.com/zlib-ng/minizip-ng
   - https://github.com/facebook/zstd
   - https://github.com/madler/pigz
   - https://github.com/madler/zlib
+  - https://github.com/icsharpcode/SharpZipLib
+  - https://github.com/RoaringBitmap/RoaringBitmap
+  - https://github.com/zlib-ng/zlib-ng
+  - https://github.com/xerial/snappy-java
