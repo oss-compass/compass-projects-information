@@ -1,0 +1,19 @@
+ident: information-retrieval
+name: Information Retrieval
+name_cn: 信息检索软件
+slug: /information-retrieval
+items:
+  - https://github.com/Wox-launcher/Wox
+  - https://github.com/albertlauncher/albert
+  - https://github.com/ankane/searchkick
+  - https://github.com/activerecord-hackery/ransack
+  - https://github.com/Yggdroot/LeaderF
+  - https://github.com/beyondgrep/ack3
+  - https://github.com/apache/lucenenet
+  - https://github.com/castorini/pyserini
+  - https://github.com/beir-cellar/beir
+  - https://github.com/castorini/anserini
+  - https://github.com/getmetal/motorhead
+  - https://github.com/PaddlePaddle/RocketQA # no change in 2 years
+  - https://github.com/mhbashari/awesome-persian-nlp-ir
+  - https://github.com/raghavan/PdfGptIndexer
