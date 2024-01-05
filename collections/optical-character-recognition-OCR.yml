@@ -1,0 +1,21 @@
+ident: optical-character-recognition-OCR
+name: Optical Character Recognition OCR
+name_cn: 文字识别软件
+slug: /optical-character-recognition-OCR
+items:
+  - https://github.com/tesseract-ocr/tesseract
+  - https://github.com/PaddlePaddle/PaddleOCR
+  - https://github.com/naptha/tesseract.js
+  - https://github.com/JaidedAI/EasyOCR
+  - https://github.com/hiroi-sora/Umi-OCR
+  - https://github.com/DayBreak-u/chineseocr_lite
+  - https://github.com/ocrmypdf/OCRmyPDF
+  - https://github.com/lukas-blecher/LaTeX-OCR
+  - https://github.com/ripperhe/Bob
+  - https://github.com/sml2h3/ddddocr
+  - https://github.com/pot-app/pot-desktop
+  - https://github.com/PantsuDango/Dango-Translator
+  - https://github.com/miaomiaosoft/PandaOCR # no change in 2 years
+  - https://github.com/AnyListen/tools-ocr
+  - https://github.com/thiagoalessio/tesseract-ocr-for-php
+  - https://github.com/mindee/doctr
