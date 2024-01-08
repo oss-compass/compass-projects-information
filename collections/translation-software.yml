@@ -1,0 +1,19 @@
+ident: translation-software
+name: Translation Software
+name_cn: 翻译软件
+slug: /translation-software
+items:
+  - https://github.com/openai-translator/openai-translator
+  - https://github.com/immersive-translate/immersive-translate
+  - https://github.com/YiiGuxing/TranslationPlugin
+  - https://github.com/facebookresearch/seamless_communication
+  - https://github.com/i18next/i18next
+  - https://github.com/pot-app/pot-desktop
+  - https://github.com/soimort/translate-shell
+  - https://github.com/vslavik/poedit
+  - https://github.com/LibreTranslate/LibreTranslate
+  - https://github.com/i18next/next-i18next
+  - https://github.com/tisfeng/Easydict
+  - https://github.com/FilipePS/Traduzir-paginas-web
+  - https://github.com/crow-translate/crow-translate
+  - https://github.com/translate/translate
