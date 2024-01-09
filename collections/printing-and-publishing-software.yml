@@ -1,0 +1,14 @@
+ident: printing-and-publishing-software
+name: Printing And Publishing Software
+name_cn: 印刷出版软件
+slug: /printing-and-publishing-software
+items:
+  - https://github.com/bpampuch/pdfmake
+  - https://github.com/BafS/Gutenberg
+  - https://github.com/crabbly/Print.js
+  - https://github.com/mike42/escpos-php # no change in 3 years
+  - https://github.com/apple/cups # no change in 2 years
+  - https://github.com/kliment/Printrun
+  - https://github.com/jasonday/printThis
+  - https://github.com/rstudio/pagedown
+  - https://github.com/OpenPrinting/cups
