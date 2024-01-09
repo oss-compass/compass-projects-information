@@ -1,0 +1,11 @@
+---
+community_name: ihub-pub
+community_org_url: https://github.com/ihub-pub
+community_logo_url: https://github.com/ihub-pub.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ihub-pub/plugins
+    - https://github.com/ihub-pub/libs
+  governance-repositories:
+    repo_urls: []
