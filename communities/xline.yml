@@ -1,0 +1,16 @@
+---
+community_name: xline
+community_logo_url: https://raw.githubusercontent.com/cncf/artwork/main/projects/xline/horizontal/black/xline-horizontal-black.svg
+community_org_url: https://github.com/xline-kv
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/xline-kv/Xline
+        - https://github.com/xline-kv/xline-operator
+        - https://github.com/xline-kv/go-xline
+        - https://github.com/xline-kv/java-xline
+        - https://github.com/xline-kv/curp-proto
+        - https://github.com/xline-kv/xline-proto
+        - https://github.com/xline-kv/py-xline
+        - https://github.com/xline-kv/mock-xline
+
