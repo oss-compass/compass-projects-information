@@ -293,14 +293,25 @@
     
 - ident: security
   name: Security
-  name_cn: 安全相关
+  name_cn: 信息安全相关软件
   items:
+    - basic-security-products # 基础类安全产品
+    - network-and-border-security-products # 网络与边界安全产品
+    - dedicated-security-products # 专用安全产品
+    - security-evaluation-and-service-products # 安全测试评估与服务类产品
+    - security-management-product # 安全管理产品
+    - privacy-computing # 隐私计算
+    - cryptography # 密码学
+    - security-audit # 安全审计
+    - steganography # 隐写术
+    - software-composition-analysis # 软件成分分析（SCA）
+    
     - application-definition-and-image-build # 应用程序定义和镜像构建
     - cve-scanning # CVE 漏洞扫描
     - dependency-analysis # 依赖分析
     - dependency-management # 依赖管理
     - security-and-compliance # 安全与合规工具
-    - security-audit # 安全审计
+    
 - ident: others
   name: Others
   name_cn: 其他
