@@ -1,0 +1,17 @@
+ident: software-downloading
+name: Software Downloading
+name_cn: 软件下载辅助工具
+slug: /software-downloading
+items:
+  - https://github.com/aria2/aria2
+  - https://github.com/qbittorrent/qBittorrent
+  - https://github.com/webtorrent/webtorrent-desktop
+  - https://github.com/transmission/transmission
+  - https://github.com/pytube/pytube
+  - https://github.com/anacrolix/torrent
+  - https://github.com/rakshasa/rtorrent
+  - https://github.com/fent/node-ytdl-core
+  - https://github.com/blackjack4494/yt-dlc  # no change in 3 years
+  - https://github.com/pyload/pyload
+  - https://github.com/Novik/ruTorrent
+  - https://github.com/get-iplayer/get_iplayer
