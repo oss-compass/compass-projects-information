@@ -1,0 +1,11 @@
+ident: 5g-mobile-communication
+name: 5G Mobile Communication
+name_cn: 5G通信-移动通信
+slug: /5g-mobile-communicationr
+items:
+  - https://github.com/free5gc/free5gc
+  - https://github.com/open5gs/open5gs
+  - https://github.com/aligungr/UERANSIM
+  - https://github.com/calee0219/awesome-5g
+  - https://github.com/jdegre/5GC_APIs
+  - https://gitee.com/smartboot/smart-socket
