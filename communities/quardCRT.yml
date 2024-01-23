@@ -1,0 +1,15 @@
+---
+community_name: quardCRT
+community_org_url: https://github.com/QQxiaoming/quardCRT
+community_logo_url: https://github.com/QuardCRT-platform.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/QQxiaoming/quardCRT
+    - https://github.com/QuardCRT-platform/plugin-SearchOnWeb
+    - https://github.com/QuardCRT-platform/plugin-onestep
+    - https://github.com/QuardCRT-platform/plugininterface
+    - https://github.com/QuardCRT-platform/plugin-quickcomplete
+    - https://github.com/QuardCRT-platform/plugin-template
+  governance-repositories:
+    repo_urls: []
