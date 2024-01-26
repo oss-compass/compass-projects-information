@@ -1,0 +1,21 @@
+ident: network-communication-service
+name: Network Communication Service
+name_cn: 网络通讯服务
+slug: /network-communication-service
+items:
+  - https://github.com/httpie/httpie
+  - https://github.com/peers/peerjs
+  - https://github.com/pion/webrtc
+  - https://github.com/TooTallNate/Java-WebSocket
+  - https://github.com/coturn/coturn
+  - https://github.com/paramiko/paramiko
+  - https://github.com/mqttjs/MQTT.js
+  - https://github.com/cjdelisle/cjdns
+  - https://github.com/mosn/mosn
+  - https://github.com/openthread/openthread
+  - https://github.com/libp2p/rust-libp2p
+  - https://github.com/Bitmessage/PyBitmessage
+  - https://github.com/gioblu/PJON  # no change in 2 years
+  - https://github.com/AsamK/signal-cli
+  - https://github.com/moquette-io/moquette
+  - https://github.com/crossbario/crossbar
