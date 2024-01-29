@@ -1,0 +1,10 @@
+---
+community_name: OblivionOcean
+community_org_url: https://github.com/OblivionOcean
+community_logo_url: https://github.com/OblivionOcean.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/OblivionOcean/OblivionOcean
+  governance-repositories:
+    repo_urls: []
