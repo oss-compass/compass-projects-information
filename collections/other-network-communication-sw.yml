@@ -1,0 +1,20 @@
+ident: other-network-communication-sw
+name: Other Network Communication SW
+name_cn: 其他网络通信软件
+slug: /other-network-communication-sw
+items:
+  - https://github.com/telegramdesktop/tdesktop
+  - https://github.com/socketio/socket.io-client
+  - https://github.com/zerotier/ZeroTierOne
+  - https://github.com/sockjs/sockjs-client
+  - https://github.com/meetfranz/franz
+  - https://github.com/gnuradio/gnuradio
+  - https://github.com/TigerVNC/tigervnc
+  - https://github.com/slact/nchan
+  - https://github.com/FRRouting/frr
+  - https://github.com/gqrx-sdr/gqrx
+  - https://github.com/ssbc/ssb-server  # no change in 2 years
+  - https://github.com/cjcliffe/CubicSDR
+  - https://github.com/ptrkrysik/gr-gsm  # no change in 3 years
+  - https://github.com/Nuand/bladeRF
+  - https://github.com/FDio/vpp
