@@ -1,0 +1,10 @@
+ident: handwriting-recognition-software
+name: Handwriting Recognition Software
+name_cn: 手写识别软件
+slug: /handwriting-recognition-software
+items:
+  - https://github.com/Breta01/handwriting-ocr  # no change in 2 years
+  - https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet  # no change in 3 years
+  - https://github.com/0x454447415244/HandwritingRecognitionSystem  # no change in 3 years
+  - https://github.com/tegaki/tegaki  # no change in 2 years
+  - https://github.com/phatware/WritePadSDK  # no change in 2 years
