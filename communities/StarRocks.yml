@@ -1,0 +1,10 @@
+---
+community_name: StarRocks
+community_org_url: https://github.com/StarRocks/starrocks
+community_logo_url: https://github.com/StarRocks.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/StarRocks/starrocks
+  governance-repositories:
+    repo_urls: []
