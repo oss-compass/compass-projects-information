@@ -1,0 +1,15 @@
+---
+community_name: jumpserver
+community_org_url: https://github.com/jumpserver/jumpserver
+community_logo_url: https://github.com/jumpserver.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/jumpserver/jumpserver
+    - https://github.com/jumpserver/lina
+    - https://github.com/jumpserver/luna
+    - https://github.com/jumpserver/koko
+    - https://github.com/jumpserver/docs
+    - https://github.com/jumpserver/installer
+  governance-repositories:
+    repo_urls: []
