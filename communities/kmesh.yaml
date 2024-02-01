@@ -1,0 +1,11 @@
+---
+community_name: kmesh
+community_logo_url: https://github.com/kmesh-net/website/blob/main/assets/images/icon.png
+community_org_url: https://github.com/kmesh-net
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/kmesh-net/kmesh
+        - https://github.com/kmesh-net/website
+        - https://github.com/kmesh-net/test-infra
+        - https://github.com/kmesh-net/demo-repository
