@@ -1,0 +1,8 @@
+ident: motion-recognition-software
+name: Motion Recognition Software
+name_cn: 体感识别软件
+slug: /motion-recognition-software
+items:
+  - https://github.com/roflcoopter/viseron
+  - https://github.com/craston/MARS  # no change in 2 years
+  - https://github.com/HMS-Core/hms-AREngine-demo
