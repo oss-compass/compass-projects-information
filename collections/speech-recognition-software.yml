@@ -1,0 +1,24 @@
+ident: speech-recognition-software
+name: Speech Recognition Software
+name_cn: 语音识别软件
+slug: /speech-recognition-software
+items:
+  - https://github.com/openai/whisper
+  - https://github.com/Uberi/speech_recognition
+  - https://github.com/m-bain/whisperX
+  - https://github.com/nl8590687/ASRT_SpeechRecognition
+  - https://github.com/alphacep/vosk-api
+  - https://github.com/Const-me/Whisper
+  - https://github.com/flashlight/wav2letter
+  - https://github.com/wenet-e2e/wenet
+  - https://github.com/zzw922cn/Automatic_Speech_Recognition  # no change in 3 years
+  - https://github.com/huggingface/distil-whisper
+  - https://github.com/alibaba-damo-academy/FunASR
+  - https://github.com/ggerganov/whisper.cpp
+  - https://github.com/SeanNaren/deepspeech.pytorch  # no change in 2 years
+  - https://github.com/MahmoudAshraf97/whisper-diarization
+  - https://github.com/linto-ai/whisper-timestamped
+  - https://github.com/synesthesiam/voice2json  # no change in 3 years
+  - https://github.com/freewym/espresso
+  - https://gitee.com/ailemon/ASRT_SpeechRecognition
+  - https://gitee.com/paddlepaddle/DeepSpeech
