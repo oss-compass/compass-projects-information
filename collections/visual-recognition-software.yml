@@ -1,0 +1,13 @@
+ident: visual-recognition-software
+name: Visual Recognition Software
+name_cn: 视觉识别软件
+slug: /visual-recognition-software
+items:
+  - https://github.com/facebookresearch/detectron2
+  - https://github.com/PaddlePaddle/PaddleClas
+  - https://github.com/astorfi/lip-reading-deeplearning  # no change in 4 years
+  - https://github.com/IDEA-Research/detrex
+  - https://github.com/d-li14/involution  # no change in 3 years
+  - https://github.com/HRNet/HRNet-Facial-Landmark-Detection  # no change in 4 years
+  - https://github.com/sail-sg/volo  # no change in 4 years
+  - https://github.com/megvii-research/BBN  # no change in 4 years
