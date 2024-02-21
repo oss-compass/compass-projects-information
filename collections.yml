@@ -391,6 +391,7 @@
     - rate-limiting # 限速器
     - roadmap # Roadmap
     - rss-feed-tool # RSS 订阅工具
+    - rust-picks # Rust 精选项目
     - sandbox # 沙箱
     - scheduling-and-orchestration # 调度编排
     - screenshots # 屏幕截图工具
