@@ -1,0 +1,10 @@
+ident: biometrics-recognition-software
+name: Biometrics Recognition Software
+name_cn: 生物特征识别软件
+slug: /biometrics-recognition-software
+items:
+  - https://github.com/biometrics/openbr
+  - https://github.com/Tencent/soter
+  - https://github.com/rushisangani/BiometricAuthentication  # no change in 4 years
+  - https://github.com/infinum/Android-Goldfinger  # no change in 2 years
+  - https://github.com/SelfLender/react-native-biometrics  # no change in 2 years
