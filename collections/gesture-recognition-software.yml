@@ -1,0 +1,13 @@
+ident: gesture-recognition-software
+name: Gesture Recognition Software
+name_cn: 手势识别软件
+slug: /gesture-recognition-software
+items:
+  - https://github.com/vladmandic/human
+  - https://github.com/asingh33/CNNGestureRecognizer  # no change in 2 years
+  - https://github.com/nickgillian/grt  # no change in 5 years
+  - https://github.com/tz28/Chinese-number-gestures-recognition  # no change in 3 years
+  - https://github.com/TransposonY/GestureSign  # no change in 2 years
+  - https://github.com/ahmetgunduz/Real-time-GesRec  # no change in 2 years
+  - https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe
+  - https://github.com/hukenovs/hagrid
