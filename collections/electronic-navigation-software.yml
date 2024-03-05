@@ -1,0 +1,14 @@
+ident: electronic-navigation-software
+name: Electronic Navigation Software
+name_cn: 电子导航软件
+slug: /electronic-navigation-software
+items:
+  - https://github.com/Project-OSRM/osrm-backend
+  - https://github.com/opentripplanner/OpenTripPlanner
+  - https://github.com/ros-planning/navigation2
+  - https://github.com/grote/Transportr
+  - https://github.com/osmandapp/OsmAnd
+  - https://github.com/mapsplugin/cordova-plugin-googlemaps  # no change in 4 years
+  - https://gitee.com/newgateway/xdh-map
+  - https://gitee.com/antv/L7
+
