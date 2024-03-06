@@ -13,3 +13,22 @@ items:
   - https://github.com/pytest-dev/pytest
   - https://github.com/nunit/nunit
   - https://github.com/junit-team/junit5
+  - https://github.com/qunitjs/qunit
+  - https://github.com/vowsjs/vows
+  - https://github.com/caolan/nodeunit
+  - https://github.com/mhevery/jasmine-node
+  - https://github.com/assaf/zombie
+  - https://github.com/tapjs/tapjs
+  - https://github.com/cucumber/cucumber-js
+  - https://github.com/ljharb/tape
+  - https://github.com/jestjs/jest
+  - https://github.com/avajs/ava
+  - https://github.com/paralleldrive/riteway
+  - https://github.com/lukeed/uvu
+  - https://github.com/vitest-dev/vitest
+  - https://github.com/jsdom/jsdom
+  - https://github.com/sinonjs/sinon
+  - https://github.com/chaijs/chai
+  - https://github.com/dequelabs/axe-core
+  - https://github.com/istanbuljs/istanbuljs
+  - https://github.com/puppeteer/puppeteer
