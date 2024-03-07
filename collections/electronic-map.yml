@@ -1,0 +1,20 @@
+ident: electronic-map
+name: Electronic Map
+name_cn: 电子地图
+slug: /electronic-map
+items:
+  - https://github.com/Leaflet/Leaflet
+  - https://github.com/openlayers/openlayers
+  - https://github.com/mapeditor/tiled
+  - https://github.com/mapsme/omim  # no change in 3 years
+  - https://github.com/Leaflet/Leaflet.markercluster
+  - https://github.com/Azgaar/Fantasy-Map-Generator
+  - https://github.com/organicmaps/organicmaps
+  - https://github.com/tilemill-project/tilemill
+  - https://github.com/maplibre/maplibre-gl-js
+  - https://github.com/openstreetmap/iD
+  - https://github.com/osmdroid/osmdroid
+  - https://github.com/mapsforge/mapsforge
+  - https://github.com/MapServer/MapServer
+  - https://github.com/mousebird-consulting-inc/WhirlyGlobe  # no change in 2 years
+  - https://github.com/tangrams/tangram-es
