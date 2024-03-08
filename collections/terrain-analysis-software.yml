@@ -1,0 +1,8 @@
+ident:  terrain-analysis-software
+name:  Terrain Analysis Software
+name_cn: 地形分析软件
+slug: / terrain-analysis-software
+items:
+  - https://github.com/pysal/pysal
+  - https://github.com/r-barnes/richdem
+  - https://github.com/dtarb/TauDEM
