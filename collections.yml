@@ -402,6 +402,7 @@
     - software-composition-analysis # 软件成分分析（SCA）
     - software-defined-networking # 软件定义网络
     - software-in-science # 科研软件
+    - frontend-picks # Frontend 精选项目
     - status-page-publishing-tools # Status Page 发布工具
     - steganography # 隐写术
     - streaming # 流处理
