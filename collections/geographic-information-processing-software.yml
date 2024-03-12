@@ -1,0 +1,21 @@
+ident: geographic-information-processing-software
+name: Geographic Information Processing Software
+name_cn: 地理信息加工处理软件
+slug: /geographic-information-processing-software
+items:
+  - https://github.com/Turfjs/turf
+  - https://github.com/geocoder-php/Geocoder
+  - https://github.com/geopy/geopy
+  - https://github.com/OSGeo/gdal
+  - https://github.com/geopandas/geopandas
+  - https://github.com/mbloch/mapshaper
+  - https://github.com/mapbox/tippecanoe
+  - https://github.com/osm-search/Nominatim
+  - https://github.com/CesiumGS/3d-tiles
+  - https://github.com/geotools/geotools
+  - https://github.com/gravitystorm/openstreetmap-carto
+  - https://github.com/locationtech/geotrellis
+  - https://github.com/locationtech/geomesa
+  - https://github.com/apache/incubator-sedona
+  - https://github.com/SciTools/cartopy
+  - https://github.com/Toblerity/Fiona
