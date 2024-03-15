@@ -1,0 +1,22 @@
+ident: bioinformatics
+name: Bioinformatics
+name_cn: 生物信息学
+slug: /bioinformatics
+items:
+  - https://github.com/biopython/biopython
+  - https://github.com/google/deepvariant
+  - https://github.com/satijalab/seurat
+  - https://github.com/bioconda/bioconda-recipes
+  - https://github.com/alexdobin/STAR
+  - https://github.com/rust-bio/rust-bio
+  - https://github.com/lh3/bwa
+  - https://github.com/bcbio/bcbio-nextgen
+  - https://github.com/broadinstitute/cromwell
+  - https://github.com/arq5x/bedtools2
+  - https://github.com/bbuchfink/diamond
+  - https://github.com/biocore/scikit-bio
+  - https://github.com/YosefLab/scvi-tools
+  - https://github.com/freebayes/freebayes
+  - https://github.com/pysam-developers/pysam
+  - https://github.com/COMBINE-lab/salmon
+  - https://github.com/deeptools/pyGenomeTracks # no change in 1 years
