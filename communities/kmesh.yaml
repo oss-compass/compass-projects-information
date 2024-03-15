@@ -8,4 +8,3 @@ resource_types:
         - https://github.com/kmesh-net/kmesh
         - https://github.com/kmesh-net/website
         - https://github.com/kmesh-net/test-infra
-        - https://github.com/kmesh-net/demo-repository
