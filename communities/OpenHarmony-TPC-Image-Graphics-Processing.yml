@@ -1,0 +1,31 @@
+---
+community_name: OpenHarmony-TPC-Image-Graphics-Processing
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/nothings/stb
+        - https://github.com/fonttools/pyclipper
+        - https://github.com/agl/jbig2enc
+        - https://github.com/DanBloomberg/leptonica
+        - https://github.com/uclouvain/openjpeg
+        - https://github.com/jasper-software/jasper
+        - https://github.com/syoyo/tinyexr
+        - https://github.com/slembcke/Chipmunk2D
+        - https://github.com/ghaerr/agg-2.6
+        - https://github.com/Exiv2/exiv2
+        - https://github.com/raptor/clip2tri
+        - https://github.com/mapbox/earcut.hpp
+        - https://github.com/libgeos/geos
+        - https://github.com/g-truc/glm
+        - https://github.com/ArtifexSoftware/ghostpdl-downloads
+        - https://github.com/AOMediaCodec/libavif
+        - https://github.com/strukturag/libheif
+        - https://github.com/memononen/libtess2
+        - https://github.com/webmproject/libwebp
+        - https://github.com/nothings/stb
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,33 @@
+---
+community_name: OpenHarmony-TPC-Other-Tools
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/lua/lua
+        - https://github.com/inotify-tools/inotify-tools
+        - https://github.com/libharu/libharu
+        - https://github.com/google/leveldb
+        - https://github.com/mendsley/bsdiff
+        - https://github.com/cameron314/concurrentqueue
+        - https://github.com/google/double-conversion
+        - https://github.com/mirror/busybox
+        - https://github.com/hunspell/hunspell
+        - https://github.com/libtom/libtommath
+        - https://github.com/leutloff/diff-match-patch-cpp-stl
+        - https://github.com/fmtlib/fmt
+        - https://github.com/gflags/gflags
+        - https://github.com/libarchive/libarchive
+        - https://github.com/libusb/libusb
+        - https://github.com/luvit/lpeg
+        - https://github.com/luvit/luv
+        - https://github.com/hunspell/mythes
+        - https://github.com/tesseract-ocr/tesseract
+        - https://github.com/zxing-cpp/zxing-cpp
+        - https://github.com/qpdf/qpdf
+        - https://github.com/gphoto/libgphoto2
+    governance-repositories:
+        repo_urls: []
+
+    

@@ -1,0 +1,12 @@
+---
+community_name: OpenHarmony-TPC-Database
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/ClickHouse/ClickHouse
+    governance-repositories:
+        repo_urls: []
+
+    

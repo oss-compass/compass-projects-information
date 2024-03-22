@@ -1,0 +1,29 @@
+---
+community_name: OpenHarmony-TPC-Multimedia
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/xiph/ogg
+        - https://github.com/Ardour/ardour
+        - https://github.com/adobe/XMP-Toolkit-SDK
+        - https://github.com/aubio/aubio
+        - https://github.com/videolan/vlc
+        - https://github.com/goldfire/howler.js
+        - https://github.com/uavs3/uavs3d
+        - https://github.com/bfabiszewski/libmobi
+        - https://github.com/TigerVNC/tigervnc
+        - https://github.com/DCMTK/dcmtk
+        - https://github.com/signalwire/freeswitch
+        - https://github.com/bilibili/ijkplayer
+        - https://github.com/fishwjy/VideoCompressor
+        - https://github.com/iknow4/Android-Video-Trimmer
+        - https://github.com/CarGuo/GSYVideoPlayer
+        - https://github.com/danikula/AndroidVideoCache
+        - https://github.com/sannies/mp4parser
+        - https://github.com/mpatric/mp3agic
+    governance-repositories:
+        repo_urls: []
+
+    

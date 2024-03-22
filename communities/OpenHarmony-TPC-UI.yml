@@ -1,0 +1,40 @@
+---
+community_name: OpenHarmony-TPC-UI
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/facebook/TextLayoutBuilder
+        - https://github.com/EverythingMe/overscroll-decor
+        - https://github.com/PhilJay/MPAndroidChart
+        - https://github.com/afollestad/material-dialogs
+        - https://github.com/zhanghai/MaterialProgressBar
+        - https://github.com/vinc3m1/RoundedImageView
+        - https://github.com/youth5201314/banner
+        - https://github.com/huburt-Hu/NewbieGuide
+        - https://github.com/ongakuer/CircleIndicator
+        - https://github.com/grantland/android-autofittextview
+        - https://github.com/lsjwzh/RecyclerViewPager
+        - https://github.com/bilibili/DanmakuFlameMaster
+        - https://github.com/daimajia/AndroidSwipeLayout
+        - https://github.com/facebookarchive/shimmer-android
+        - https://github.com/drakeet/MultiType
+        - https://github.com/AigeStudio/WheelPicker
+        - https://github.com/alibaba/vlayout
+        - https://github.com/Bigkoo/Android-PickerView
+        - https://github.com/scwang90/SmartRefreshLayout
+        - https://github.com/avast/android-styled-dialogs
+        - https://github.com/gzu-liyujiang/AndroidPicker
+        - https://github.com/ongakuer/CircleIndicator
+        - https://github.com/ocornut/imgui
+        - https://github.com/scwang90/SmartRefreshHorizontal
+        - https://github.com/maplibre/maplibre-gl-js
+        - https://github.com/calebjacob/tooltipster
+        - https://github.com/dangrossman/daterangepicker
+        - https://github.com/coobird/thumbnailator
+        - https://github.com/nukc/StateView
+    governance-repositories:
+        repo_urls: []
+
+    

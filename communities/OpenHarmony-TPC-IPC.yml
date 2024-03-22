@@ -1,0 +1,34 @@
+---
+community_name: OpenHarmony-TPC-IPC
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/nanopb/nanopb
+        - https://github.com/c-ares/c-ares
+        - https://github.com/libevent/libevent
+        - https://github.com/skywind3000/kcp
+        - https://github.com/eclipse/paho.mqtt.c
+        - https://github.com/coturn/coturn
+        - https://github.com/yhirose/cpp-httplib
+        - https://github.com/curl/curl
+        - https://github.com/esnet/iperf
+        - https://github.com/cyrusimap/cyrus-sasl
+        - https://github.com/libical/libica
+        - https://github.com/the-tcpdump-group/libpcap
+        - https://github.com/stephane/libmodbus
+        - https://github.com/nghttp2/nghttp2
+        - https://github.com/ngtcp2/nghttp3
+        - https://github.com/ngtcp2/ngtcp2
+        - https://github.com/cisco/libsrtp
+        - https://github.com/BelledonneCommunications/ortp
+        - https://github.com/pjsip/pjproject
+        - https://github.com/pupnp/pupnp
+        - https://github.com/apache/thrift
+        - https://github.com/zaphoyd/websocketpp
+        - https://github.com/sahlberg/libiscsi
+    governance-repositories:
+        repo_urls: []
+
+    
