@@ -1,0 +1,19 @@
+---
+community_name: OpenHarmony-TPC-Data-Structure-Storage
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/Locoduino/RingBuffer
+        - https://github.com/apache/avro
+        - https://github.com/google/flatbuffers
+        - https://github.com/HDFGroup/hdf5
+        - https://github.com/protocolbuffers/protobuf
+        - https://github.com/sqlite/sqlite
+        - https://github.com/lurcher/unixODBC
+        - https://github.com/sqlcipher/sqlcipher
+    governance-repositories:
+        repo_urls: []
+
+    

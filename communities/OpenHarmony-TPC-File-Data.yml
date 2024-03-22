@@ -1,0 +1,15 @@
+---
+community_name: OpenHarmony-TPC-File-Data
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/Tencent/wcdb
+        - https://github.com/mathjax/MathJax
+        - https://github.com/KaTeX/KaTeX
+        - https://github.com/frank-deng/js-lyrics
+    governance-repositories:
+        repo_urls: []
+
+    

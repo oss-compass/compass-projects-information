@@ -1,0 +1,25 @@
+---
+community_name: OpenHarmony-TPC-Framework
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/inotify-tools/inotify-tools
+        - https://github.com/KhronosGroup/glslang
+        - https://github.com/bkaradzic/bgfx
+        - https://github.com/libgdx/libgdx
+        - https://github.com/godotengine/godot
+        - https://github.com/RainerKuemmerle/g2o
+        - https://github.com/MegEngine/InferLLM
+        - https://github.com/alibaba/MNN
+        - https://github.com/assimp/assimp
+        - https://github.com/BelledonneCommunications
+        - https://github.com/BehaviorTree/BehaviorTree.CPP
+        - https://github.com/BVLC/caffe
+        - https://github.com/projectchrono/chrono
+        - https://github.com/google/googletest
+    governance-repositories:
+        repo_urls: []
+
+    

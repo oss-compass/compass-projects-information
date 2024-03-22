@@ -1,0 +1,30 @@
+---
+community_name: OpenHarmony-TPC-Encryption-And-Decryption-Algorithm
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/gcp/libogg
+        - https://github.com/jedisct1/libsodium
+        - https://github.com/weidai11/cryptopp
+        - https://github.com/wahern/phf
+        - https://github.com/dorian3d/DBoW2
+        - https://github.com/guanzhi/GmSSL
+        - https://github.com/fribidi/fribidi
+        - https://github.com/FFTW/fftw3
+        - https://github.com/mborgerding/kissfft
+        - https://github.com/cjlin1/liblinear
+        - https://github.com/arnaudsj/libsvm
+        - https://github.com/s-yata/marisa-trie
+        - https://github.com/Zunawe/md5-c
+        - https://github.com/openssl/openssl
+        - https://github.com/igorbarshteyn/oqs-openssl-quic
+        - https://github.com/Linphone-sync/polarssl
+        - https://github.com/BrianGladman/sha
+        - https://github.com/google/tink
+        - https://github.com/Cyan4973/xxHash
+    governance-repositories:
+        repo_urls: []
+
+    

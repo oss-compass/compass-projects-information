@@ -1,0 +1,38 @@
+---
+community_name: OpenHarmony-TPC-Data-Storage
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/irods/irods
+        - https://github.com/Paulxia/nmealib
+        - https://github.com/JakeWharton/DiskLruCache
+        - https://github.com/apache/commons-io
+        - https://github.com/Tencent/MMKV
+        - https://github.com/greenrobot/greenDAO
+        - https://github.com/msgpack/msgpack
+        - https://github.com/arangodb/arangojs
+        - https://github.com/ptarjan/node-cache
+        - https://github.com/protobufjs
+        - https://github.com/apache/avro
+        - https://github.com/mqtt/mqtt.org
+        - https://github.com/JeremyLiao/LiveEventBus
+        - https://github.com/bennidi/mbassador
+        - https://github.com/greenrobot/EventBus
+        - https://github.com/emn178/js-sha256
+        - https://github.com/emn178/hi-base32
+        - https://github.com/emn178/js-md5
+        - https://github.com/emn178/js-sha1
+        - https://github.com/emn178/js-md2
+        - https://github.com/google/brotli
+        - https://github.com/fxamacker/cbor
+        - https://github.com/apache/commons-codec
+        - https://github.com/nodeca/pako
+        - https://github.com/Benzinga/lz4js
+        - https://github.com/zhipeng-jia/snappyjs
+        - https://github.com/square/okio
+    governance-repositories:
+        repo_urls: []
+
+    

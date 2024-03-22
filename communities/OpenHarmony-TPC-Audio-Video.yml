@@ -1,0 +1,31 @@
+---
+community_name: OpenHarmony-TPC-Audio-Video
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/xiph/vorbis
+        - https://github.com/xiph/opus
+        - https://github.com/xiph/flac
+        - https://github.com/FFmpeg/Ffmpeg
+        - https://github.com/alsa-project/alsa-lib
+        - https://github.com/knik0/faad2
+        - https://github.com/mstorsjo/fdk-aac
+        - https://github.com/bitmovin/libdash
+        - https://github.com/sklvjz/mad
+        - https://github.com/versatica/libmediasoupclient
+        - https://github.com/gypified/libmp3lame
+        - https://github.com/kcat/openal-soft
+        - https://github.com/N22E114/pvmp3dec
+        - https://github.com/waywardgeek/sonic
+        - https://github.com/bilibili/soundtouch
+        - https://github.com/chirlu/soxr
+        - https://github.com/ossrs/srs
+        - https://github.com/taglib/taglib
+        - https://github.com/uavs3/uavs3d
+        - https://github.com/georgmartius/vid.stab
+    governance-repositories:
+        repo_urls: []
+
+    

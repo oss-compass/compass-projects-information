@@ -1,0 +1,13 @@
+---
+community_name: OpenHarmony-TPC-Code-Conversion
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/fukuchi/libqrencode
+        - https://github.com/neoxic/lua-amf3
+    governance-repositories:
+        repo_urls: []
+
+    

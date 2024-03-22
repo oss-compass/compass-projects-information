@@ -1,0 +1,86 @@
+---
+community_name: OpenHarmony-TPC-Other
+community_logo_url: 
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/facebook/folly
+        - https://github.com/projectNe10/Ne10
+        - https://github.com/kn007/silk-v3-decoder
+        - https://github.com/google/sentencepiece
+        - https://github.com/RoaringBitmap/Croaring
+        - https://github.com/resiprocate/resiprocate
+        - https://github.com/KhronosGroup/SPIRV-Headers
+        - https://github.com/OSGeo/gdal
+        - https://github.com/beltoforion/muparser
+        - https://github.com/AgNO3/jcifs-ng
+        - https://github.com/abbrev/fatfs
+        - https://github.com/strukturag/libde265
+        - https://github.com/dorian3d/DLib
+        - https://github.com/mattes/epeg
+        - https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+        - https://github.com/qhull/qhull
+        - https://github.com/j0r1/JRTPLIB
+        - https://github.com/progschj/ThreadPool
+        - https://github.com/LibVNC/libvncserver
+        - https://github.com/libkml/libkml
+        - https://github.com/uriparser/uriparser
+        - https://github.com/ndurner/libextractor
+        - https://github.com/strongswan/strongswan
+        - https://github.com/dhuertas/AES
+        - https://github.com/kpu/kenlm
+        - https://github.com/jmrozanec/cron-utils
+        - https://github.com/net-snmp/net-snmp
+        - https://github.com/komiya-atsushi/xgboost-predictor-java
+        - https://github.com/iwongu/sqlite3pp
+        - https://github.com/firehol/iprange
+        - https://github.com/floodyberry/poly1305-donna
+        - https://github.com/dwd/rapidxml
+        - https://github.com/josuttis/jthread
+        - https://github.com/arthenica/xvidcore
+        - https://github.com/msgpack/msgpack-c
+        - https://github.com/WayneD/rsync
+        - https://github.com/PointCloudLibrary/pcl
+        - https://github.com/Openwsman/openwsman
+        - https://github.com/jerryscript-project/jerryscript
+        - https://github.com/DOCGroup/ACE_TAO
+        - https://github.com/jasondavies/bloomfilter.js
+        - https://github.com/kunpengcompute/gzip
+        - https://github.com/Distrotech/libkate
+        - https://github.com/alibaba/ARouter
+        - https://github.com/BrunoRB/ahocorasick
+        - https://github.com/MikeMcl/bignumber.js
+        - https://github.com/kpdecker/jsdiff
+        - https://github.com/sindresorhus/is-png
+        - https://github.com/samskivert/jmustache
+        - https://github.com/sindresorhus/leven
+        - https://github.com/words/metaphone
+        - https://github.com/Calamari/BehaviorTree.js
+        - https://github.com/obgm/libcoap
+        - https://github.com/hujiulong/gcoord
+        - https://github.com/jhermsmeier/node-caverphone-phonetics
+        - https://github.com/Shakeskeyboarde/adler32
+        - https://github.com/MikeMcl/bignumber.js
+        - https://github.com/dshaw/checksum
+        - https://github.com/enesser/vCards-js
+        - https://github.com/psiegman/epublib
+        - https://github.com/nextapps-de/flexsearch
+        - https://github.com/qos-ch/logback
+        - https://github.com/vidoss/jchardet
+        - https://github.com/mithunsatheesh/node-rules
+        - https://github.com/google/gson
+        - https://github.com/hunterloftis/jackrabbit
+        - https://github.com/RocketChat/Rocket.Chat
+        - https://github.com/igniterealtime/Smack
+        - https://github.com/enobufs/stun
+        - https://github.com/apostrophecms/sanitize-html
+        - https://github.com/apache/commons-fileupload
+        - https://github.com/Jasonchenlijian/FastBle
+        - https://github.com/indutny/asn1.js
+        - https://github.com/square/retrofit
+        - https://github.com/josdejong/mathjs
+    governance-repositories:
+        repo_urls: []
+
+    
