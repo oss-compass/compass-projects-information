@@ -311,6 +311,28 @@
     - dependency-analysis # 依赖分析
     - dependency-management # 依赖管理
     - security-and-compliance # 安全与合规工具
+
+- ident: general-management-software
+  name: General Management Software
+  name_cn: 通用管理软件
+  items:
+    - office-automation-OA # 办公自动化
+    - enterprise-resource-planning-ERP # ERP系统 
+    - human-resource-management-HRM # 人力资源管理
+    - customer-relationship-management-CRM # 客户关系管理（CRM）
+    - supply-chain-management-SCM # 供应链管理(SCM) 
+    - task-and-project-management # 任务和项目管理
+
+- ident: multi-media-software
+  name: Multi Media Software
+  name_cn: 多媒体软件
+  items:
+    - graph-processing # 图形处理
+    - image-processing # 图像处理
+    - audio-processing # 音频处理
+    - video-processing # 视频处理  
+    - 3d-modeling-and-rendering # 3D 建模和渲染软件
+    - other-multimedia-software # 其他多媒体软件
     
 - ident: others
   name: Others
