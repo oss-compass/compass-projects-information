@@ -1,0 +1,10 @@
+---
+community_name: QwenLM
+community_org_url: ''
+community_logo_url: https://github.com/QwenLM.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/QwenLM/Qwen
+  governance-repositories:
+    repo_urls: []
