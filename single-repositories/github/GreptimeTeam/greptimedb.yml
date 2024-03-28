@@ -1,3 +1,6 @@
 ---
 resource_types:
   repo_urls: https://github.com/GreptimeTeam/greptimedb
+developers:
+  waynexia:
+  - Greptime from 2024-03-01 until 2024-03-28
