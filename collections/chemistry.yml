@@ -1,0 +1,13 @@
+ident: chemistry
+name: Chemistry
+name_cn: 化学
+slug: /chemistry
+items:
+  - https://github.com/rdkit/rdkit
+  - https://github.com/openbabel/openbabel
+  - https://github.com/pyscf/pyscf
+  - https://github.com/lmmentel/awesome-python-chemistry
+  - https://github.com/chainer/chainer-chemistry # no change in 4 years
+  - https://github.com/cdk/cdk
+  - https://github.com/deepchem/deepchem
+  - https://github.com/psi4/psi4
