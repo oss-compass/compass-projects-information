@@ -1,0 +1,19 @@
+---
+community_name: VeryGoodGraphics
+community_org_url: https://github.com/verygoodgraphics/
+community_logo_url: https://github.com/verygoodgraphics.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/verygoodgraphics/vgg_runtime
+    - https://github.com/verygoodgraphics/vgg_contrib
+    - https://github.com/verygoodgraphics/vgg_automerge
+    - https://github.com/verygoodgraphics/vgg_layout
+    - https://github.com/verygoodgraphics/vgg_web
+    - https://github.com/verygoodgraphics/vgg_qt
+    - https://github.com/verygoodgraphics/vgg_ios
+    - https://github.com/verygoodgraphics/vgg_svg_parser
+    - https://github.com/verygoodgraphics/vgg_sketch_parser
+    - https://github.com/verygoodgraphics/vgg_docs
+  governance-repositories:
+    repo_urls: []
