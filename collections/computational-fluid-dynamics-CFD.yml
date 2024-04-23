@@ -1,0 +1,16 @@
+ident: computational-fluid-dynamics-CFD
+name: Computational Fluid Dynamics CFD
+name_cn: 计算流体动力学
+slug: /computational-fluid-dynamics-CFD
+items:
+  - https://github.com/barbagroup/CFDPython # no change in 2 years
+  - https://github.com/ProjectPhysX/FluidX3D
+  - https://github.com/su2code/SU2
+  - https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials # no change in 3 years
+  - https://github.com/peterdsharpe/AeroSandbox
+  - https://github.com/google/jax-cfd
+  - https://github.com/surajp92/CFD_Julia # no change in 3 years
+  - https://github.com/jaheyns/CfdOF
+  - https://github.com/Nek5000/Nek5000
+  - https://github.com/cselab/aphros
+  - https://github.com/CliMA/Oceananigans.jl
