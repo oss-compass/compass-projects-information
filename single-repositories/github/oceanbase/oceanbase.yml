@@ -1,0 +1,6 @@
+---
+resource_types:
+  repo_urls: https://github.com/oceanbase/oceanbase
+developers:
+  obdev:
+  - OceanBase from 2020-04-01 until 2099-01-01
