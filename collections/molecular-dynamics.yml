@@ -1,0 +1,15 @@
+ident: molecular-dynamics
+name: Molecular Dynamics
+name_cn: 分子动力学
+slug: /molecular-dynamics
+items:
+  - https://github.com/lammps/lammps
+  - https://github.com/openmm/openmm
+  - https://github.com/MDAnalysis/mdanalysis
+  - https://github.com/deepmodeling/deepmd-kit
+  - https://github.com/jax-md/jax-md
+  - https://github.com/mdtraj/mdtraj
+  - https://github.com/torchmd/torchmd
+  - https://github.com/libAtoms/QUIP
+  - https://github.com/glotzerlab/hoomd-blue
+  - https://github.com/brucefan1983/GPUMD
