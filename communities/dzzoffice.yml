@@ -1,0 +1,10 @@
+---
+community_name: dzzoffice
+community_org_url: https://gitee.com/xiaohu2024
+community_logo_url: https://gitee.com/xiaohu2024.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/xiaohu2024/dzzoffice
+  governance-repositories:
+    repo_urls: []
