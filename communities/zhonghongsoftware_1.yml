@@ -1,0 +1,10 @@
+---
+community_name: zhonghongsoftware_1
+community_org_url: ''
+community_logo_url: https://gitee.com/zhonghongsoftware_1.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/zhonghongsoftware_1/cute-fish-de-zero-de
+  governance-repositories:
+    repo_urls: []
