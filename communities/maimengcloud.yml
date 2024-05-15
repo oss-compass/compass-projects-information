@@ -1,0 +1,17 @@
+---
+community_name: maimengcloud
+community_org_url: ''
+community_logo_url: https://gitee.com/maimengcloud.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/maimengcloud/mdp-lcode-ui-web
+    - https://gitee.com/maimengcloud/mdp-lcode-backend
+    - https://gitee.com/maimengcloud/mdp-core
+    - https://gitee.com/maimengcloud/mdp-dm-backend
+    - https://gitee.com/maimengcloud/mdp-oauth2-backend
+    - https://gitee.com/maimengcloud/mdp-workflow-backend
+    - https://gitee.com/maimengcloud/mdp-cloud-backend
+    - https://gitee.com/maimengcloud/mdp-tpa-backend
+  governance-repositories:
+    repo_urls: []
