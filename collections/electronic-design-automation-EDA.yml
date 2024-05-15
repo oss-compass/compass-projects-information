@@ -1,0 +1,16 @@
+ident: electronic-design-automation-EDA
+name: EDA
+name_cn: 电子设计自动化（EDA）
+slug: /electronic-design-automation-EDA
+items:
+  - https://github.com/fritzing/fritzing-app
+  - https://github.com/chipsalliance/rocket-chip
+  - https://github.com/LibrePCB/LibrePCB
+  - https://github.com/horizon-eda/horizon
+  - https://github.com/Bouni/kicad-jlcpcb-tools
+  - https://github.com/devbisme/kicad-3rd-party-tools
+  - https://github.com/olofk/edalize
+  - https://github.com/gdsfactory/gdsfactory
+  - https://github.com/yaqwsx/Pinion # no change in 1 years
+  - https://gitee.com/eda-development/eda_fpga # no change in 2 years
+  - https://gitee.com/oscc-project/iEDA
