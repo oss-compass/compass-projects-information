@@ -1,0 +1,10 @@
+ident: earth-science
+name: Earth Science
+name_cn: 地球科学
+slug: /earth-science
+items:
+  - https://github.com/nasa/earthdata-search
+  - https://github.com/SciTools/iris
+  - https://github.com/javedali99/python-resources-for-earth-sciences
+  - https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
+  - https://github.com/NASAARSET/ARSET_ML_Fundamentals # no change in 1 years
