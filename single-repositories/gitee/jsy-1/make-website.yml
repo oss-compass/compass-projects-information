@@ -1,0 +1,6 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/jsy-1/make-website
+developers:
+  root:
+  - JSY Team from 2021-02-01 until 2099-01-01
