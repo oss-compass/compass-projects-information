@@ -5,7 +5,6 @@ slug: /api-management
 items:
   - https://github.com/YMFE/yapi
   - https://github.com/swagger-api/swagger-ui
-  - https://github.com/postmanlabs/postman-app-support
   - https://github.com/Kong/insomnia
   - https://github.com/tiangolo/fastapi
   - https://github.com/TykTechnologies/tyk
