@@ -1,0 +1,14 @@
+---
+community_name: OpenHarmony-TPC_File-Data-And-Transfer
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/node-csv
+        - https://gitee.com/openharmony-tpc/okio
+        - https://gitee.com/openharmony-tpc/opencsv
+    governance-repositories:
+        repo_urls: []
+
+    

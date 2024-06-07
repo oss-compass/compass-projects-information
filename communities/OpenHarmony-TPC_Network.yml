@@ -1,0 +1,26 @@
+---
+community_name: OpenHarmony-TPC_Network
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/chromium_third_party_netty4
+        - https://gitee.com/openharmony-tpc/chromium_third_party_netty_tcnative
+        - https://gitee.com/openharmony-tpc/chromium_third_party_openscreen
+        - https://gitee.com/openharmony-tpc/chromium_third_party_openscreen_tinycbor
+        - https://gitee.com/openharmony-tpc/chromium_third_party_pywebsocket3
+        - https://gitee.com/openharmony-tpc/chromium_third_party_quic_trace
+        - https://gitee.com/openharmony-tpc/chromium_third_party_requests
+        - https://gitee.com/openharmony-tpc/chromium_third_party_usrsctp
+        - https://gitee.com/openharmony-tpc/httpclient
+        - https://gitee.com/openharmony-tpc/ohos_coap
+        - https://gitee.com/openharmony-tpc/ohos_mail
+        - https://gitee.com/openharmony-tpc/ohos_mqtt
+        - https://gitee.com/openharmony-tpc/retrofit
+        - https://gitee.com/openharmony-tpc/talkweb_mqtt
+        - https://gitee.com/openharmony-tpc/thrift
+    governance-repositories:
+        repo_urls: []
+
+    

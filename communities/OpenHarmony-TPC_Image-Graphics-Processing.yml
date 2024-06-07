@@ -1,0 +1,34 @@
+---
+community_name: OpenHarmony-TPC_Image-Graphics-Processing
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libgifcodec
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libjpeg_turbo
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libjxl
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libyuv
+        - https://gitee.com/openharmony-tpc/chromium_third_party_pdfium
+        - https://gitee.com/openharmony-tpc/chromium_third_party_shaderc
+        - https://gitee.com/openharmony-tpc/chromium_third_party_skia
+        - https://gitee.com/openharmony-tpc/chromium_third_party_swiftshader
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_glslang
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_spirv_cross
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_spirv_headers
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_spirv_tools
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_vulkan_headers
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_vulkan_loader
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_vulkan_tools
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_deps_vulkan_validation_layers
+        - https://gitee.com/openharmony-tpc/chromium_third_party_vulkan_memory_allocator
+        - https://gitee.com/openharmony-tpc/chromium_third_party_webgl
+        - https://gitee.com/openharmony-tpc/chromium_third_party_webgpu_cts
+        - https://gitee.com/openharmony-tpc/chromium_third_party_wuffs
+        - https://gitee.com/openharmony-tpc/pdfViewer
+        - https://gitee.com/openharmony-tpc/zxing
+    governance-repositories:
+        repo_urls: []
+
+    
