@@ -1,0 +1,20 @@
+---
+community_name: OpenHarmony-TPC_Tools
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/LocationUtil
+        - https://gitee.com/openharmony-tpc/OutBoundCode
+        - https://gitee.com/openharmony-tpc/UtilCode
+        - https://gitee.com/openharmony-tpc/Verbal_Expressions
+        - https://gitee.com/openharmony-tpc/chromium_third_party_pyelftools
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ub_uiautomator
+        - https://gitee.com/openharmony-tpc/chromium_third_party_webdriver
+        - https://gitee.com/openharmony-tpc/chromium_third_party_xdg_utils
+        - https://gitee.com/openharmony-tpc/chromium_tools_acid3
+    governance-repositories:
+        repo_urls: []
+
+    

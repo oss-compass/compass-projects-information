@@ -1,0 +1,32 @@
+---
+community_name: OpenHarmony-TPC_Other
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/RocketChat
+        - https://gitee.com/openharmony-tpc/SmartRefrigerator
+        - https://gitee.com/openharmony-tpc/SmartWatch4
+        - https://gitee.com/openharmony-tpc/SmartWatch_seven
+        - https://gitee.com/openharmony-tpc/VCard
+        - https://gitee.com/openharmony-tpc/ai_framework_integration
+        - https://gitee.com/openharmony-tpc/arouter-api-onActivityResult
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ohos_nweb_hap
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ohos_prebuilts
+        - https://gitee.com/openharmony-tpc/device_board_amlogic
+        - https://gitee.com/openharmony-tpc/device_soc_amlogic
+        - https://gitee.com/openharmony-tpc/docs
+        - https://gitee.com/openharmony-tpc/manifest
+        - https://gitee.com/openharmony-tpc/mixpanel-ohos
+        - https://gitee.com/openharmony-tpc/openharmony_tpc_samples
+        - https://gitee.com/openharmony-tpc/shineweng-datasphere
+        - https://gitee.com/openharmony-tpc/talkweb_edge
+        - https://gitee.com/openharmony-tpc/talkweb_iiot
+        - https://gitee.com/openharmony-tpc/talkweb_link_sdk
+        - https://gitee.com/openharmony-tpc/tpc_resource
+        - https://gitee.com/openharmony-tpc/vendor_amlogic
+    governance-repositories:
+        repo_urls: []
+
+    

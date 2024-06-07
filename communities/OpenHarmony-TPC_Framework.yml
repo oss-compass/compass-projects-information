@@ -1,0 +1,94 @@
+---
+community_name: OpenHarmony-TPC_Framework
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/chromium_buildtools_libcpp
+        - https://gitee.com/openharmony-tpc/chromium_buildtools_libcppapi
+        - https://gitee.com/openharmony-tpc/chromium_buildtools_libunwind
+        - https://gitee.com/openharmony-tpc/chromium_buildtools_script
+        - https://gitee.com/openharmony-tpc/chromium_cef
+        - https://gitee.com/openharmony-tpc/chromium_chrome
+        - https://gitee.com/openharmony-tpc/chromium_chrome_test_canvas_bench
+        - https://gitee.com/openharmony-tpc/chromium_chrome_test_frame_rate
+        - https://gitee.com/openharmony-tpc/chromium_chrome_test_xr
+        - https://gitee.com/openharmony-tpc/chromium_docs_website
+        - https://gitee.com/openharmony-tpc/chromium_src
+        - https://gitee.com/openharmony-tpc/chromium_third_party
+        - https://gitee.com/openharmony-tpc/chromium_third_party_angle
+        - https://gitee.com/openharmony-tpc/chromium_third_party_angle_glmark2
+        - https://gitee.com/openharmony-tpc/chromium_third_party_angle_rapidjson
+        - https://gitee.com/openharmony-tpc/chromium_third_party_angle_vk_gl_cts
+        - https://gitee.com/openharmony-tpc/chromium_third_party_apache_portable_runtime
+        - https://gitee.com/openharmony-tpc/chromium_third_party_blink_webtests
+        - https://gitee.com/openharmony-tpc/chromium_third_party_boringssl
+        - https://gitee.com/openharmony-tpc/chromium_third_party_breakpad
+        - https://gitee.com/openharmony-tpc/chromium_third_party_cast_core
+        - https://gitee.com/openharmony-tpc/chromium_third_party_catapult
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ced
+        - https://gitee.com/openharmony-tpc/chromium_third_party_cld_3
+        - https://gitee.com/openharmony-tpc/chromium_third_party_colorama
+        - https://gitee.com/openharmony-tpc/chromium_third_party_crc32c
+        - https://gitee.com/openharmony-tpc/chromium_third_party_cros_system_api
+        - https://gitee.com/openharmony-tpc/chromium_third_party_dav1d
+        - https://gitee.com/openharmony-tpc/chromium_third_party_dawn
+        - https://gitee.com/openharmony-tpc/chromium_third_party_dawn_tint
+        - https://gitee.com/openharmony-tpc/chromium_third_party_depot_tools
+        - https://gitee.com/openharmony-tpc/chromium_third_party_devtools_frontend
+        - https://gitee.com/openharmony-tpc/chromium_third_party_dom_distiller_js
+        - https://gitee.com/openharmony-tpc/chromium_third_party_eigen3
+        - https://gitee.com/openharmony-tpc/chromium_third_party_emoji_segmenter
+        - https://gitee.com/openharmony-tpc/chromium_third_party_expat
+        - https://gitee.com/openharmony-tpc/chromium_third_party_farmhash
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ffmpeg
+        - https://gitee.com/openharmony-tpc/chromium_third_party_flac
+        - https://gitee.com/openharmony-tpc/chromium_third_party_flatbuffers
+        - https://gitee.com/openharmony-tpc/chromium_third_party_fontconfig
+        - https://gitee.com/openharmony-tpc/chromium_third_party_fp16
+        - https://gitee.com/openharmony-tpc/chromium_third_party_freetype
+        - https://gitee.com/openharmony-tpc/chromium_third_party_freetype_testing
+        - https://gitee.com/openharmony-tpc/chromium_third_party_gemmlowp
+        - https://gitee.com/openharmony-tpc/chromium_third_party_glfw
+        - https://gitee.com/openharmony-tpc/chromium_third_party_googletest
+        - https://gitee.com/openharmony-tpc/chromium_third_party_grpc
+        - https://gitee.com/openharmony-tpc/chromium_third_party_gvr_android_sdk
+        - https://gitee.com/openharmony-tpc/chromium_third_party_harfbuzz_ng
+        - https://gitee.com/openharmony-tpc/chromium_third_party_highway
+        - https://gitee.com/openharmony-tpc/chromium_third_party_hunspell_dictionaries
+        - https://gitee.com/openharmony-tpc/chromium_third_party_icu
+        - https://gitee.com/openharmony-tpc/chromium_third_party_javalang
+        - https://gitee.com/openharmony-tpc/chromium_third_party_jsoncpp
+        - https://gitee.com/openharmony-tpc/chromium_third_party_junit
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libFuzzer
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libaddressinput
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libaom
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libavif
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libdrm
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libgav1
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libphonenumber
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libprotobuf_mutator
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libsrtp
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libsync
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libunwindstack
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libvpx
+        - https://gitee.com/openharmony-tpc/chromium_third_party_libwebm
+        - https://gitee.com/openharmony-tpc/chromium_third_party_lss
+        - https://gitee.com/openharmony-tpc/chromium_third_party_minigbm
+        - https://gitee.com/openharmony-tpc/chromium_third_party_minizip
+        - https://gitee.com/openharmony-tpc/chromium_third_party_mockito
+        - https://gitee.com/openharmony-tpc/chromium_third_party_nasm
+        - https://gitee.com/openharmony-tpc/chromium_third_party_neon_2_sse
+        - https://gitee.com/openharmony-tpc/chromium_third_party_rust
+        - https://gitee.com/openharmony-tpc/chromium_third_party_wayland
+        - https://gitee.com/openharmony-tpc/chromium_third_party_wayland_protocols_gtk
+        - https://gitee.com/openharmony-tpc/chromium_third_party_wayland_protocols_kde
+        - https://gitee.com/openharmony-tpc/chromium_third_party_wayland_protocols_src
+        - https://gitee.com/openharmony-tpc/chromium_third_party_weston
+        - https://gitee.com/openharmony-tpc/chromium_v8
+        - https://gitee.com/openharmony-tpc/ohos_mail_base
+    governance-repositories:
+        repo_urls: []
+
+    

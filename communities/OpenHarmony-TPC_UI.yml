@@ -1,0 +1,28 @@
+---
+community_name: OpenHarmony-TPC_UI
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/ArcProgressStackViewJS
+        - https://gitee.com/openharmony-tpc/ArcProgressStackViewJS
+        - https://gitee.com/openharmony-tpc/CircleImage
+        - https://gitee.com/openharmony-tpc/ContinuousScrollableImageJS
+        - https://gitee.com/openharmony-tpc/CurtainJs
+        - https://gitee.com/openharmony-tpc/Image3DJs
+        - https://gitee.com/openharmony-tpc/LoadingViewJs
+        - https://gitee.com/openharmony-tpc/MaterialFloatingActionButton
+        - https://gitee.com/openharmony-tpc/MaterialRadio
+        - https://gitee.com/openharmony-tpc/MaterialSlider
+        - https://gitee.com/openharmony-tpc/NeumorphismDesign
+        - https://gitee.com/openharmony-tpc/NineGridImageViewJS
+        - https://gitee.com/openharmony-tpc/RefreshLoadMoreComponentJS
+        - https://gitee.com/openharmony-tpc/SelectViewJS
+        - https://gitee.com/openharmony-tpc/StatusViewJS
+        - https://gitee.com/openharmony-tpc/ohos-CoverflowJS
+        - https://gitee.com/openharmony-tpc/search_dialogJS
+    governance-repositories:
+        repo_urls: []
+
+    
