@@ -1,0 +1,13 @@
+---
+community_name: OpenHarmony-TPC_Security
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-tpc/chromium_third_party_securemessage
+        - https://gitee.com/openharmony-tpc/chromium_third_party_ukey2
+    governance-repositories:
+        repo_urls: []
+
+    

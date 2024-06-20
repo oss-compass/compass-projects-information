@@ -1,0 +1,12 @@
+---
+community_name: cloudberrydb
+community_org_url: https://github.com/cloudberrydb
+community_logo_url: https://github.com/cloudberrydb.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/cloudberrydb/cloudberrydb
+    - https://github.com/cloudberrydb/cloudberrydb-site
+    - https://github.com/cloudberrydb/bootcamp
+  governance-repositories:
+    repo_urls: []
