@@ -1,0 +1,18 @@
+---
+community_name: Tongsuo
+community_org_url: https://github.com/Tongsuo-Project
+community_logo_url: https://github.com/Tongsuo-Project.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/Tongsuo-Project/Tongsuo
+    - https://github.com/Tongsuo-Project/RustyVault
+    - https://github.com/Tongsuo-Project/tongsuo-java-sdk
+    - https://github.com/Tongsuo-Project/tongsuo-go-sdk
+    - https://github.com/Tongsuo-Project/rust-tongsuo
+    - https://github.com/Tongsuo-Project/tongsuo-mini
+    - https://github.com/Tongsuo-Project/tsapp
+    - https://github.com/Tongsuo-Project/tongsuo-python-sdk
+  governance-repositories:
+    repo_urls:
+    - https://github.com/Tongsuo-Project/docs
