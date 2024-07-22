@@ -1,0 +1,15 @@
+---
+community_name: hapjs
+community_logo_url: 
+community_org_url: https://github.com/hapjs-platform
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/hapjs-platform/hap-toolkit
+        - https://github.com/hapjs-platform/hapjs
+        - https://github.com/hapjs-platform/jsenv
+        - https://github.com/hapjs-platform/rfcs
+    governance-repositories:
+        repo_urls: []
+
+    
