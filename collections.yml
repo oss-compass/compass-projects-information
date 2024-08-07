@@ -333,6 +333,16 @@
     - video-processing # 视频处理  
     - 3d-modeling-and-rendering # 3D 建模和渲染软件
     - other-multimedia-software # 其他多媒体软件
+        
+- ident: office-software
+  name: Office Software
+  name_cn: 办公软件
+  items:
+    - word-processing-software # 字处理软件
+    - spreadsheet-software # 电子表格软件
+    - presentation-software # 演示文稿软件
+    - wysiwyg-editor # 所即见即所得编辑器
+    - other-office-software # 其他办公软件
     
 - ident: others
   name: Others
