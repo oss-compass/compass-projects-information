@@ -1,0 +1,13 @@
+---
+community_name: moonbitlang
+community_org_url: https://github.com/moonbitlang
+community_logo_url: https://github.com/moonbitlang.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/moonbitlang/core
+    - https://github.com/moonbitlang/moon
+    - https://github.com/moonbitlang/x
+  governance-repositories:
+    repo_urls:
+    - https://github.com/moonbitlang/moonbit-docs
