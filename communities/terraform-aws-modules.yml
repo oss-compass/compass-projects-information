@@ -1,0 +1,20 @@
+---
+community_name: terraform-aws-modules
+community_org_url: ''
+community_logo_url: https://github.com/terraform-aws-modules.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/terraform-aws-modules/terraform-aws-eks
+    - https://github.com/terraform-aws-modules/terraform-aws-ecs
+    - https://github.com/terraform-aws-modules/terraform-aws-lambda
+    - https://github.com/terraform-aws-modules/terraform-aws-vpc
+    - https://github.com/terraform-aws-modules/terraform-aws-iam
+    - https://github.com/terraform-aws-modules/terraform-aws-s3
+    - https://github.com/terraform-aws-modules/terraform-aws-rds
+    - https://github.com/terraform-aws-modules/terraform-aws-rds-aurora
+    - https://github.com/terraform-aws-modules/terraform-aws-efs
+    - https://github.com/terraform-aws-modules/terraform-aws-kms
+    - https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity
+  governance-repositories:
+    repo_urls: []
