@@ -6,13 +6,25 @@ items:
   - https://github.com/ryanoasis/nerd-fonts
   - https://github.com/notepad-plus-plus/notepad-plus-plus
   - https://github.com/helix-editor/helix
-  - https://github.com/source-foundry/Hack # no change in 3 years
   - https://github.com/textmate/textmate # no change in 2 years
   - https://github.com/kovidgoyal/calibre
   - https://github.com/koreader/koreader
   - https://github.com/Zettlr/Zettlr
-  - https://github.com/fontforge/fontforge
+  - https://github.com/fontforge/fontforge 
   - https://github.com/coteditor/CotEditor
   - https://github.com/uswds/public-sans
   - https://github.com/federico-terzi/espanso
   - https://github.com/notofonts/noto-fonts
+  - https://github.com/apache/openoffice  # open office
+  - https://github.com/KDE/calligra       # Office and graphic art suite by KDE
+  - https://github.com/laurent22/joplin     # the secure note taking and to-do app
+  - https://github.com/gottcode/focuswriter # Simple fullscreen word processor
+  - https://github.com/KDE/ghostwriter      # Text editor for Markdown
+  - https://github.com/marktext/marktext    # A simple and elegant markdown editor
+  - https://github.com/TiddlyWiki/TiddlyWiki5 # A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc
+  - https://github.com/Laverna/laverna        # a JavaScript note taking application with Markdown editor and encryption support
+  - https://github.com/olivierkes/manuskript  # A open-source tool for writers
+  - https://github.com/zim-desktop-wiki/zim-desktop-wiki # Zim is a graphical text editor used to maintain a collection of wiki pages
+  - https://github.com/writefreely/writefreely   # A clean, Markdown-based publishing platform made for writers
+  - https://github.com/ether/etherpad-lite      # A modern really-real-time collaborative document editor
+  - https://github.com/retext-project/retext    # Simple but powerful editor for Markdown and reStructuredText
