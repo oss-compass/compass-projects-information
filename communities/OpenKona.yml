@@ -7,7 +7,6 @@ resource_types:
         repo_urls: 
         - https://github.com/Tencent/TencentKona-8
         - https://github.com/Tencent/TencentKona-11
-        - https://github.com/Tencent/TencentKona-17
     governance-repositories:
         repo_urls: []
 
