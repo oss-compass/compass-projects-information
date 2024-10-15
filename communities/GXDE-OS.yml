@@ -1,0 +1,31 @@
+---
+community_name: GXDE-OS
+community_org_url: https://gitee.com/GXDE-OS/
+community_logo_url: https://gitee.com/GXDE-OS.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/GXDE-OS/apt-is-aptss
+    - https://gitee.com/GXDE-OS/aptss
+    - https://gitee.com/GXDE-OS/GXDE
+    - https://gitee.com/GXDE-OS/dde-file-manager
+    - https://gitee.com/GXDE-OS/dtk2widget
+    - https://gitee.com/GXDE-OS/gxde-iso-builder
+    - https://gitee.com/GXDE-OS/deepin-desktop-base
+    - https://gitee.com/GXDE-OS/deepin-anything-server-service
+    - https://gitee.com/GXDE-OS/libgbinder
+    - https://gitee.com/GXDE-OS/libglibutil
+    - https://gitee.com/GXDE-OS/gxde-daemon
+    - https://gitee.com/GXDE-OS/startdde
+    - https://gitee.com/GXDE-OS/deepin-kwin
+    - https://gitee.com/GXDE-OS/wayland
+    - https://gitee.com/GXDE-OS/gxde-os.github.io
+    - https://gitee.com/GXDE-OS/gxde-system-assistant
+    - https://gitee.com/GXDE-OS/gxde-kwin
+    - https://gitee.com/GXDE-OS/gxde-app-uninstaller
+    - https://gitee.com/GXDE-OS/deepin-clone
+    - https://gitee.com/GXDE-OS/gxde-dock-weather-neo
+    - https://gitee.com/GXDE-OS/dde-kwin
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/GXDE-OS/GXDE
