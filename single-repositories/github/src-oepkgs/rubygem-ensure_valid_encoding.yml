@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/src-oepkgs/rubygem-ensure_valid_encoding
