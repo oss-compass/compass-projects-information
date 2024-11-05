@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/src-oepkgs/rocksdb-8.1.1
