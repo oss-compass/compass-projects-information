@@ -1,6 +1,6 @@
 ident: openeuler_repos
 name: OPENEULER REPOS
-name_cn: "openeuler \u7684\u4ED3\u5E93"
+name_cn: openeuler 仓库地址
 slug: /openeuler_repos
 items:
 - https://gitee.com/src-openeuler/koji
