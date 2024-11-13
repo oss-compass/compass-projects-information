@@ -1,6 +1,6 @@
-community_logo_url: "anolisos \u7684\u4ED3\u5E93"
-community_name: anolisos_repos
-community_org_url: ANOLISOS REPOS
+community_logo_url: 
+community_name: debian
+community_org_url: https://github.com/Debian
 resource_types:
   governance-repositories:
     repo_urls: []
