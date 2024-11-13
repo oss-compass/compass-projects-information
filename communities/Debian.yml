@@ -1,5 +1,5 @@
 community_logo_url: 
-community_name: debian
+community_name: Debian
 community_org_url: https://github.com/Debian
 resource_types:
   governance-repositories:
