@@ -1,0 +1,28 @@
+---
+community_name: OpenAtom-Linyaps
+community_logo_url: 
+community_org_url: https://github.com/OpenAtom-Linyaps
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/OpenAtom-Linyaps/linyaps-box
+        - https://github.com/OpenAtom-Linyaps/dbus-proxy
+        - https://github.com/OpenAtom-Linyaps/linyaps-doc
+        - https://github.com/OpenAtom-Linyaps/linyaps-web-store
+        - https://github.com/OpenAtom-Linyaps/linyaps-web-store-installer
+        - https://github.com/OpenAtom-Linyaps/linyaps
+        - https://github.com/OpenAtom-Linyaps/SIG-test
+        - https://github.com/OpenAtom-Linyaps/ocppi
+        - https://github.com/OpenAtom-Linyaps/SIG
+        - https://github.com/OpenAtom-Linyaps/template-sig
+        - https://github.com/OpenAtom-Linyaps/sig-linyaps-eco-master-example
+        - https://github.com/OpenAtom-Linyaps/sig-linyaps-packing-sig
+        - https://github.com/OpenAtom-Linyaps/sig-linyaps-simple-store
+        - https://github.com/OpenAtom-Linyaps/sig-next-electron-wrapper
+        - https://github.com/OpenAtom-Linyaps/sig-next-linyaps-testing-toolchains
+        - https://github.com/OpenAtom-Linyaps/linyaps-meetup-open-doc
+        - https://github.com/OpenAtom-Linyaps/sig-linyaps-generic-linux-sig
+    governance-repositories:
+        repo_urls: []
+
+    
