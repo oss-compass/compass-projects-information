@@ -87,14 +87,14 @@ resource_types:
         - https://github.com/linuxdeepin/deepin-compressor
         - https://github.com/linuxdeepin/deepin-log-viewer
         - https://github.com/linuxdeepin/dde-session-shell
+        - https://github.com/linuxdeepin/dde-tray-loader
+        - https://github.com/linuxdeepin/dde-shell
         - https://github.com/linuxdeepin/dde-clipboard
         - https://github.com/linuxdeepin/deepin-terminal
         - https://github.com/linuxdeepin/open-with-dialog
         - https://github.com/linuxdeepin/deepin-diskmanager
         - https://github.com/linuxdeepin/deepin-voice-note
         - https://github.com/linuxdeepin/deepin-camera
-        - https://github.com/linuxdeepin/deepin-wsl
-        - https://github.com/linuxdeepin/deepin-wsl-fs
         - https://github.com/linuxdeepin/deepin-ab-recovery
         - https://github.com/linuxdeepin/xorg-server
         - https://github.com/linuxdeepin/ttf-deepin-opensymbol
@@ -119,14 +119,12 @@ resource_types:
         - https://github.com/linuxdeepin/dtkdeclarative
         - https://github.com/linuxdeepin/action-cppcheck
         - https://github.com/linuxdeepin/action-organization-manager
-        - https://github.com/linuxdeepin/.github
         - https://github.com/linuxdeepin/action-sync
         - https://github.com/linuxdeepin/jenkins-bridge-client
         - https://github.com/linuxdeepin/upload-artifact
         - https://github.com/linuxdeepin/docparser
-        - https://github.com/linuxdeepin/dde-nixos
         - https://github.com/linuxdeepin/image-editor
-        - https://github.com/linuxdeepin/open-source-students
+        - https://github.com/linuxdeepin/deepin-sbom-tools
         - https://github.com/linuxdeepin/action-teams-manager
         - https://github.com/linuxdeepin/release
         - https://github.com/linuxdeepin/wiki
@@ -158,10 +156,8 @@ resource_types:
         - https://github.com/linuxdeepin/dde-app-services
         - https://github.com/linuxdeepin/deepin-tweak
         - https://github.com/linuxdeepin/dde-wloutput
-        - https://github.com/linuxdeepin/cla
         - https://github.com/linuxdeepin/contributor-assistant-github-action
         - https://github.com/linuxdeepin/unilang
-        - https://github.com/linuxdeepin/linglong-hub
         - https://github.com/linuxdeepin/action-doxygencheck
         - https://github.com/linuxdeepin/linglong-builder-demo
         - https://github.com/linuxdeepin/dtk-template
@@ -171,6 +167,7 @@ resource_types:
         - https://github.com/linuxdeepin/dtkbluetooth
         - https://github.com/linuxdeepin/dtkcrypt
         - https://github.com/linuxdeepin/dtkio
+        - https://github.com/linuxdeepin/dtkai
         - https://github.com/linuxdeepin/dtkmultimedia
         - https://github.com/linuxdeepin/dtknetworkmanager
         - https://github.com/linuxdeepin/dtkaudiomanager
@@ -187,7 +184,6 @@ resource_types:
         - https://github.com/linuxdeepin/dci-icon-theme
         - https://github.com/linuxdeepin/deepin-specifications
         - https://github.com/linuxdeepin/obs-service-tar_scm
-        - https://github.com/linuxdeepin/linglong-loader
         - https://github.com/linuxdeepin/linglong
         - https://github.com/linuxdeepin/deepin-wayland-protocols
         - https://github.com/linuxdeepin/doxygen-theme
@@ -219,6 +215,7 @@ resource_types:
         - https://github.com/linuxdeepin/utshell
         - https://github.com/linuxdeepin/deepin-autotest-framework
         - https://github.com/linuxdeepin/dde-launchpad
+        - https://github.com/linuxdeepin/dde-application-wizard
         - https://github.com/linuxdeepin/dtk6core
         - https://github.com/linuxdeepin/dtk6gui
         - https://github.com/linuxdeepin/dtk6widget
@@ -228,7 +225,11 @@ resource_types:
         - https://github.com/linuxdeepin/deepin-deepinid-plugin
         - https://github.com/linuxdeepin/deepin-deepinid-client
         - https://github.com/linuxdeepin/deepin-codeporting
+        - https://github.com/linuxdeepin/treeland-protocols
+        - https://github.com/linuxdeepin/dde-services
+        - https://github.com/linuxdeepin/deepin-dummyapps
     governance-repositories:
-        repo_urls: []
-
-    
+        repo_urls:
+        - https://github.com/linuxdeepin/.github
+        - https://github.com/linuxdeepin/cla
+        - https://github.com/linuxdeepin/open-source-students
