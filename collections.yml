@@ -140,7 +140,8 @@
     - database-development-kit # 数据库开发包
     - database-management-and-monitor-tools # 数据库管理、监控工具
     - database-engine-and-servers # 数据库引擎/服务器
-    
+    - cn-database # 中国数据库
+
 - ident: frontend
   name: Frontend
   name_cn: 前端技术

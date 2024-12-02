@@ -1,0 +1,53 @@
+ident: cn-database
+name: CN Database
+name_cn: 中国数据库
+slug: /cn-database
+items:
+  - https://github.com/oceanbase/oceanbase
+  - https://github.com/ApsaraDB/PolarDB-for-PostgreSQL
+  - https://github.com/pingcap/tidb
+  - https://github.com/Tencent/TBase
+  - https://gitee.com/opengauss
+  - https://github.com/taosdata/TDengine
+  - https://github.com/apache/incubator-doris
+  - https://github.com/StarRocks/StarRocks
+  - https://github.com/apache/incubator-iotdb
+  - https://github.com/TuGraph-family
+  - https://github.com/risingwavelabs/risingwave
+  - https://github.com/vesoft-inc/nebulanebula-graph.io
+  - https://github.com/pkumod/gStore
+  - https://github.com/GreptimeTeam/greptimedb
+  - https://github.com/SequoiaDB/SequoiaDB
+  - https://github.com/milvus-io/milvus
+  - https://github.com/Tencent/Tendis
+  - https://github.com/matrixorigin/matrixone
+  - https://github.com/openGemini/openGemini
+  - https://github.com/armink/FlashDB
+  - https://github.com/cnosdb/cnosdb
+  - https://gitee.com/opengauss/yukon
+  - https://github.com/IvorySQL
+  - https://github.com/GreatSQL/GreatSQL
+  - https://github.com/OpenTenBase
+  - https://github.com/4paradigm/OpenMLDB
+  - https://github.com/datafuselabs/databend
+  - https://github.com/StoneAtom/stonedb
+  - https://github.com/ByConity/ByConity
+  - https://github.com/KvrocksLabs/kvrocks
+  - https://github.com/apache/incubator-hugegraph
+  - https://github.com/eleme/lindb
+  - https://github.com/hstreamdb/hstream
+  - https://github.com/dingodb/dingo
+  - https://github.com/tikv/tikv
+  - https://github.com/radondb/radon
+  - https://github.com/tensorbase/tensorbase
+  - https://github.com/alibaba/havenask
+  - https://github.com/oushu-io/flink2oushudb
+  - https://github.com/vearch/vearch
+  - https://github.com/awa-ai/awadb
+  - https://github.com/cloudberrydb/cloudberrydb
+  - https://github.com/CeresDB/ceresdb
+  - https://github.com/CovenantSQL/CovenantSQL
+  - https://github.com/baidu/BaikalDB
+  - https://github.com/Qihoo360/pika
+  - https://github.com/topling/toplingdb
+
