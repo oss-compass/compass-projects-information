@@ -279,6 +279,7 @@
     - template-engine # 模板引擎
     - tokenizer # 分词器
     - web-popup-component # Web 弹窗组件
+    
 - ident: hardware
   name: Hardware
   name_cn: 硬件
