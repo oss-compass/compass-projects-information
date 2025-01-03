@@ -13,15 +13,21 @@ items:
   - https://github.com/kamailio/kamailio
   - https://github.com/FreePBX/framework
   - https://github.com/OpenSIPS/opensips
-  - https://github.com/onsip/SIP.js  # no change in 2 years
   - https://github.com/OpenVidu/openvidu
-  - https://github.com/savoirfairelinux/jami-client-gnome  # no change in 2 years
   - https://github.com/versatica/mediasoup
   - https://github.com/nextcloud/spreed
   - https://github.com/pjsip/pjproject
   - https://github.com/discord-jda/JDA
   - https://github.com/sipcapture/homer
   - https://github.com/sipsorcery-org/sipsorcery
-  - https://github.com/64characters/Telephone  # no change in 2 years
-  - https://github.com/2600hz/kazoo  # no change in 2 years
+  - https://github.com/64characters/Telephone
   - https://github.com/fusionpbx/fusionpbx
+  - https://github.com/pion/webrtc
+  - https://github.com/fonoster/fonoster
+  - https://github.com/flutter-webrtc/flutter-webrtc
+  - https://github.com/miroslavpejic85/mirotalksfu
+  - https://github.com/baresip/baresip
+  - https://github.com/fonoster/routr
+  - https://github.com/element-hq/element-call
+  - https://github.com/jech/galene
+  - https://github.com/mattermost/mattermost
