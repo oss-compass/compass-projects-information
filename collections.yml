@@ -279,6 +279,7 @@
     - template-engine # 模板引擎
     - tokenizer # 分词器
     - web-popup-component # Web 弹窗组件
+    
 - ident: hardware
   name: Hardware
   name_cn: 硬件
@@ -344,6 +345,17 @@
     - presentation-software # 演示文稿软件
     - wysiwyg-editor # 所即见即所得编辑器
     - other-office-software # 其他办公软件
+
+- ident: word-language-processing
+  name: Word and Language Processing
+  name_cn: 文字语言处理
+  items:
+    - input-method    # 文字输入法
+    - compression-and-decompression # 压缩与解压缩软件
+    - information-retrieval # 信息检索软件
+    - optical-character-recognition-OCR # 文字识别软件
+    - translation-software # 翻译软件
+    - printing-and-publishing-software # 印刷出版软件
     
 - ident: others
   name: Others

@@ -6,9 +6,17 @@ items:
   - https://github.com/bpampuch/pdfmake
   - https://github.com/BafS/Gutenberg
   - https://github.com/crabbly/Print.js
-  - https://github.com/mike42/escpos-php # no change in 3 years
   - https://github.com/apple/cups # no change in 2 years
   - https://github.com/kliment/Printrun
-  - https://github.com/jasonday/printThis
   - https://github.com/rstudio/pagedown
   - https://github.com/OpenPrinting/cups
+  - https://github.com/Kozea/WeasyPrint
+  - https://github.com/mozilla/pdf.js
+  - https://github.com/typst/typst
+  - https://github.com/LibrePDF/OpenPDF
+  - https://github.com/jgm/pandoc
+  - https://github.com/xinglie/report-designer
+  - https://github.com/tecnickcom/TCPDF
+  - https://github.com/foliojs/pdfkit
+  - https://github.com/kovidgoyal/calibre
+  - https://github.com/asciidoctor/asciidoctor
