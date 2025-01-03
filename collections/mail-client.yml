@@ -5,7 +5,6 @@ slug: /mail-client
 items:
   - https://github.com/Foundry376/Mailspring
   - https://github.com/roundcube/roundcubemail
-  - https://github.com/RainLoop/rainloop-webmail # no change in 2 years
   - https://github.com/postalserver/postal
   - https://github.com/simple-login/app
   - https://github.com/mailpile/Mailpile
@@ -13,3 +12,6 @@ items:
   - https://github.com/astroidmail/astroid
   - https://github.com/meli/meli
   - https://github.com/VingtCinq/python-mailchimp
+  - https://github.com/mozilla/releases-comm-central
+  - https://github.com/thunderbird/thunderbird-android
+  - https://github.com/cypht-org/cypht
