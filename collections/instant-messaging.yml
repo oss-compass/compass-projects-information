@@ -14,14 +14,13 @@ items:
   - https://github.com/wireapp/wire-desktop
   - https://github.com/pidgin/pidgin
   - https://github.com/dino/dino
-  - https://github.com/savoirfairelinux/jami-client-gnome  # no change in 3 years
   - https://github.com/signalapp/Signal-Android
   - https://github.com/jitsi/meet
   - https://github.com/signalapp/Signal-iOS
-  - https://github.com/benawad/dogehouse  # no change in 3 years
   - https://github.com/vector-im/element-web
   - https://github.com/SignalR/SignalR
   - https://github.com/meetecho/janus-gateway
   - https://github.com/centrifugal/centrifugo
   - https://github.com/berty/berty
   - https://github.com/mumble-voip/mumble
+
