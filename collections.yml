@@ -356,6 +356,19 @@
     - optical-character-recognition-OCR # 文字识别软件
     - translation-software # 翻译软件
     - printing-and-publishing-software # 印刷出版软件
+
+- ident: network-communication-software
+  name: Network Communication Software
+  name_cn: 网络通信软件
+  items:
+    - mail-client # 电子邮件客户端
+    - mail-server # 电子邮件服务器
+    - instant-messaging # 即时通讯
+    - software-downloading # 软件下载辅助工
+    - voip-and-video-conferencing # 网络电话和视频会议
+    - 5g-mobile-communication # 5G通信和移动通信
+    - network-communication-service # 网络通讯服务
+    - other-network-communication-sw # 其他网络通信软件
     
 - ident: others
   name: Others
