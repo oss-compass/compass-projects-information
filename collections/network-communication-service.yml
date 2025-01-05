@@ -15,7 +15,7 @@ items:
   - https://github.com/openthread/openthread
   - https://github.com/libp2p/rust-libp2p
   - https://github.com/Bitmessage/PyBitmessage
-  - https://github.com/gioblu/PJON  # no change in 2 years
   - https://github.com/AsamK/signal-cli
   - https://github.com/moquette-io/moquette
   - https://github.com/crossbario/crossbar
+  - https://github.com/TheThingsNetwork/lorawan-stack

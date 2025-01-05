@@ -9,13 +9,17 @@ items:
   - https://github.com/foxcpp/maddy
   - https://github.com/iredmail/iRedMail
   - https://github.com/maildev/maildev
-  - https://github.com/mailslurper/mailslurper
   - https://github.com/Mailu/Mailu
   - https://github.com/moggers87/salmon
   - https://github.com/ONLYOFFICE/CommunityServer
-  - https://github.com/ONLYOFFICE/Docker-MailServer # no change in 4 years
   - https://github.com/sj26/mailcatcher
   - https://github.com/mail-in-a-box/mailinabox
   - https://github.com/stalwartlabs/mail-server
   - https://github.com/emersion/go-smtp
   - https://github.com/inbucket/inbucket
+  - https://github.com/OpenSMTPD/OpenSMTPD
+  - https://github.com/mailcow/mailcow-dockerized
+  - https://github.com/haraka/Haraka
+  - https://github.com/postalserver/postal
+  - https://github.com/modoboa/modoboa
+  - https://github.com/nodemailer/wildduck
