@@ -1,0 +1,11 @@
+---
+community_name: gehongyan
+community_org_url: ''
+community_logo_url: https://gitee.com/gehongyan.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/gehongyan/Kook.Net
+    - https://github.com/gehongyan/Kook.Net
+  governance-repositories:
+    repo_urls: []
