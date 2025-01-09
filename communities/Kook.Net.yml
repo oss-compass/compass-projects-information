@@ -1,0 +1,10 @@
+---
+community_name: Kook.Net
+community_org_url: https://kooknet.dev
+community_logo_url: https://kooknet.dev/logo/Logo_Small.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/gehongyan/Kook.Net
+  governance-repositories:
+    repo_urls: []
