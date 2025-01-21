@@ -1,0 +1,16 @@
+---
+community_name: ClassIsland
+community_org_url: https://github.com/classisland
+community_logo_url: https://github.com/classisland.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/classisland/classisland
+    - https://github.com/classisland/ManagementServer
+    - https://github.com/classisland/classisland-docs-next
+    - https://github.com/classisland/EdgeTtsSharp
+  governance-repositories:
+    repo_urls:
+    - https://github.com/classisland/PluginIndex
+    - https://github.com/classisland/classisland-hub
+    - https://github.com/classisland/voting
