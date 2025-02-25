@@ -1,3 +1,6 @@
 ---
 resource_types:
   repo_urls: https://gitee.com/tenonos/tenon
+developers:
+  cheng2000160:
+  - 杭州盈一科技有限公司 from 2023-11-01 until 2026-11-01
