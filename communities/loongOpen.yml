@@ -1,0 +1,17 @@
+---
+community_name: loongOpen
+community_org_url: https://www.openloong.org.cn/cn
+community_logo_url: https://github.com/loongOpen.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/loongOpen/Unity-RL-Playground
+    - https://github.com/loongOpen/OpenLoong-Dyn-Control
+    - https://github.com/loongOpen/OpenLoong-Hardware
+    - https://github.com/loongOpen/OpenLoong-MiniGym
+    - https://github.com/loongOpen/OpenLoong-ROS
+    - https://github.com/loongOpen/OpenLoong-Brain
+    - https://github.com/loongOpen/OpenLoong
+    - https://github.com/loongOpen/OpenLoong-Gymloong
+  governance-repositories:
+    repo_urls: []
