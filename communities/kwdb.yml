@@ -1,0 +1,15 @@
+---
+community_name: kwdb
+community_org_url: https://gitee.com/kwdb
+community_logo_url: https://gitee.com/kwdb.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/kwdb/kwdb
+    - https://gitee.com/kwdb/kw-cdeps
+    - https://gitee.com/kwdb/kw-vendor
+    - https://gitee.com/kwdb/kw-third_party
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/kwdb/docs
+    - https://gitee.com/kwdb/community
