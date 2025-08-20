@@ -1,0 +1,12 @@
+---
+community_name: ModelEngine-Group
+community_org_url: https://github.com/ModelEngine-Group
+community_logo_url: https://github.com/ModelEngine-Group.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ModelEngine-Group/fit-framework
+    - https://github.com/ModelEngine-Group/app-platform
+    - https://github.com/ModelEngine-Group/nexent
+  governance-repositories:
+    repo_urls: []
