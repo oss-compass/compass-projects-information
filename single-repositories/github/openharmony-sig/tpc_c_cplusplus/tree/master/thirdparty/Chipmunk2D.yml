@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/openharmony-sig/tpc_c_cplusplus/tree/master/thirdparty/Chipmunk2D
