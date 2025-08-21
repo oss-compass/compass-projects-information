@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/HW-Commons/ZUtils/tree/master/ui/captchaCode
