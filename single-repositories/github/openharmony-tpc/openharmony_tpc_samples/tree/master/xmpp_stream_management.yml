@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_stream_management
