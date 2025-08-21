@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/yunkss/ef-tool/tree/2.0.x/ef_core
