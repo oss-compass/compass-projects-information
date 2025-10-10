@@ -1,0 +1,14 @@
+---
+community_name: Flutter-EPRO
+community_logo_url: https://gitee.com/openharmony-sig.png
+community_org_url: https://gitee.com/openharmony-sig
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony-sig/ohos_mpchart
+        - https://gitee.com/openharmony-sig/ohos_apng
+        - https://gitee.com/openharmony-sig/ohos_libpag
+    governance-repositories:
+        repo_urls: []
+
+    

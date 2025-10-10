@@ -1,0 +1,19 @@
+---
+community_name: Flutter-Chinasofti
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony/applications_app_samples
+        - https://gitee.com/openharmony/applications_hap
+        - https://gitee.com/openharmony/applications_settings
+        - https://gitee.com/openharmony/applications_launcher
+        - https://gitee.com/openharmony/applications_photos
+        - https://gitee.com/openharmony/applications_systemui
+        - https://gitee.com/openharmony/applications_notes
+        - https://gitee.com/harmonyos_samples/MusicCard
+    governance-repositories:
+        repo_urls: []
+
+    

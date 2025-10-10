@@ -1,0 +1,14 @@
+---
+community_name: Flutter-Farben
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/react-native-oh-library/usage-docs
+        - https://gitee.com/openharmony-tpc/ohos_mail_base
+        - https://github.com/react-native-oh-library/react-native-maps
+    governance-repositories:
+        repo_urls: []
+
+    

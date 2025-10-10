@@ -1,0 +1,22 @@
+---
+community_name: Flutter-Hoperun
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony/xts_acts
+        - https://gitee.com/openharmony/multimedia_player_framework
+        - https://gitee.com/openharmony/build
+        - https://gitee.com/openharmony/xts_hats
+        - https://gitee.com/openharmony/vendor_hihope
+        - https://gitee.com/openharmony/xts_tools
+        - https://gitee.com/openharmony/productdefine_common
+        - https://gitee.com/openharmony/kernel_linux_patches
+        - https://gitee.com/openharmony/device_soc_rockchip
+        - https://gitee.com/openharmony/device_board_hihope
+        - https://gitee.com/openharmony/startup_init_lite
+    governance-repositories:
+        repo_urls: []
+
+    
