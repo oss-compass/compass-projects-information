@@ -1,0 +1,21 @@
+---
+community_name: Flutter-HES
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/react-native-oh-library/usage-docs
+        - https://gitee.com/openharmony-sig/device_soc_spreadtrum
+        - https://gitee.com/openharmony-sig/device_board_hardmony
+        - https://github.com/react-native-oh-library/RNOHDCS
+        - https://gitee.com/rn-mi/react-native-harmony
+        - https://github.com/react-native-oh-library/react-native-blurhash
+        - https://github.com/react-native-oh-library/react-native-orientation
+        - https://gitee.com/kunyuan-hongke/automated-testing
+        - https://gitee.com/kunyuan-hongke/react-navigation
+        - https://gitee.com/kunyuan-hongke/react-native-openharmony
+    governance-repositories:
+        repo_urls: []
+
+    

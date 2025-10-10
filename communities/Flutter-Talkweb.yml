@@ -1,0 +1,50 @@
+---
+community_name: Flutter-Talkweb
+community_logo_url: https://gitee.com/openharmony-tpc.png
+community_org_url: https://gitee.com/openharmony-tpc
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony/docs
+        - https://gitee.com/openharmony/xts_acts
+        - https://gitee.com/openharmony/interface_sdk-js
+        - https://gitee.com/openharmony/multimodalinput_input
+        - https://gitee.com/openharmony/applications_app_samples
+        - https://gitee.com/openharmony/update_updater
+        - https://gitee.com/openharmony-sig/flutter_engine
+        - https://gitee.com/openharmony/update_update_service
+        - https://gitee.com/openharmony/xts_tools
+        - https://gitee.com/openharmony-sig/flutter_flutter
+        - https://gitee.com/openharmony-sig/flutter_packages
+        - https://gitee.com/openharmony/update_sys_installer
+        - https://gitee.com/openharmony-sig/manifest
+        - https://gitee.com/openharmony-sig/flutter_samples
+        - https://gitee.com/ohos-oneconnect/ohos-connect-hap
+        - https://gitee.com/openharmony/update_update_app
+        - https://gitee.com/openharmony/update_packaging_tools
+        - https://gitee.com/ohos-oneconnect/distributeddatamgr_file_share
+        - https://gitee.com/openharmony/device_board_talkweb
+        - https://gitee.com/openharmony-sig/flutter_embed_into_qt
+        - https://gitee.com/openharmony-sig/flutter_inappwebview
+        - https://gitee.com/openharmony/vendor_openvalley
+        - https://gitee.com/openharmony-sig/flutter_audioplayers
+        - https://gitee.com/ohos-oneconnect/applications_sample_iot_connect_samples
+        - https://gitee.com/openharmony-sig/flutter_audio_session
+        - https://gitee.com/openharmony/device_board_openvalley
+        - https://gitee.com/openharmony-sig/flutter_sound
+        - https://gitee.com/openharmony-sig/flutter_leak_detector
+        - https://gitee.com/openharmony-sig/flutter_bitmap
+        - https://gitee.com/openharmony-sig/flutter_image_crop
+        - https://gitee.com/openharmony-sig/flutter_keyboard_visibility
+        - https://gitee.com/openharmony/vendor_talkweb
+        - https://gitee.com/openharmony/device_soc_esp
+        - https://gitee.com/openharmony-sig/flutter_math_fork
+        - https://gitee.com/ohos-oneconnect/distributedhardware_device_manager
+        - https://gitee.com/openharmony-sig/flutter_gpu_image
+        - https://gitee.com/laval-applications/laval-file-manager
+        - https://gitee.com/openharmony-sig/fluttertpc_window_manager_plus
+        - https://gitee.com/openharmony-sig/fluttertpc_screen_retriever
+    governance-repositories:
+        repo_urls: []
+
+    

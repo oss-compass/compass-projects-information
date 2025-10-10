@@ -1,0 +1,31 @@
+---
+community_name: Flutter-Gitcode
+community_logo_url: https://github.com/fluttercandies.png
+community_org_url: https://github.com/fluttercandies
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/fluttercandies/flutter_smart_dialog
+        - https://github.com/fluttercandies/extended_image
+        - https://github.com/fluttercandies/flutter_image_compress
+        - https://github.com/fluttercandies/extended_text
+        - https://github.com/fluttercandies/extended_text_field
+        - https://github.com/fluttercandies/extended_image_library
+        - https://github.com/fluttercandies/extended_keyboard
+        - https://github.com/fluttercandies/waterfall_flow
+        - https://github.com/fluttercandies/extended_tabs
+        - https://github.com/fluttercandies/flutter_hsvcolor_picker
+        - https://github.com/fluttercandies/JsonToDart
+        - https://github.com/fluttercandies/loading_more_list
+        - https://github.com/fluttercandies/extended_nested_scroll_view
+        - https://github.com/fluttercandies/ff_annotation_route
+        - https://github.com/fluttercandies/like_button
+        - https://github.com/fluttercandies/env2dart
+        - https://github.com/fluttercandies/flutter_asset_generator
+        - https://github.com/fluttercandies/extended_text_library
+        - https://github.com/fluttercandies/extended_list
+        - https://github.com/fluttercandies/ff_native_screenshot
+    governance-repositories:
+        repo_urls: []
+
+    
