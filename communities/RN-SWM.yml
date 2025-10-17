@@ -1,0 +1,36 @@
+---
+community_name: RN-SWM
+community_logo_url: https://github.com/software-mansion.png
+community_org_url: https://github.com/software-mansion
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/software-mansion/react-native-reanimated
+        - https://github.com/software-mansion/react-native-screens
+        - https://github.com/software-mansion/react-native-gesture-handler
+        - https://github.com/software-mansion/scarb
+        - https://github.com/software-mansion/smelter
+        - https://github.com/software-mansion/react-native-svg
+        - https://github.com/software-mansion/react-native-executorch
+        - https://github.com/software-mansion/radon-ide
+        - https://github.com/software-mansion/react-native-audio-api
+        - https://github.com/software-mansion/cairo-lint
+        - https://github.com/software-mansion/starknet.py
+        - https://github.com/software-mansion/live-debugger
+        - https://github.com/software-mansion/cairo-coverage
+        - https://github.com/software-mansion/starknet-jvm
+        - https://github.com/software-mansion/cairo-profiler
+        - https://github.com/software-mansion/starknet.swift
+        - https://github.com/software-mansion/react-native-whip-whep
+        - https://github.com/software-mansion/starkup
+        - https://github.com/software-mansion/cairo-annotations
+        - https://github.com/software-mansion/popcorn
+        - https://github.com/software-mansion/universal-sierra-compiler
+        - https://github.com/software-mansion/cairols
+        - https://github.com/software-mansion/vscode-cairo
+        - https://github.com/software-mansion/setup-scarb
+        - https://github.com/software-mansion/asdf-scarb
+    governance-repositories:
+        repo_urls: []
+
+    

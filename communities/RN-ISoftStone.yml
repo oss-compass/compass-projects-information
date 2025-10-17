@@ -1,0 +1,16 @@
+---
+community_name: RN-ISoftStone
+community_logo_url: https://gitee.com/openharmony.png
+community_org_url: https://gitee.com/openharmony
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/react-native-oh-library/usage-docs
+        - https://github.com/react-native-oh-library/react-native-webview
+        - https://github.com/react-native-oh-library/react-native-harmony-gesture-handler
+        - https://github.com/react-native-oh-library/react-native-harmony-svg
+        - https://github.com/react-native-oh-library/react-native-image-editor
+    governance-repositories:
+        repo_urls: []
+
+    
