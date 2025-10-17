@@ -1,0 +1,13 @@
+---
+community_name: RN-Gitcode
+community_logo_url: https://gitee.com/openharmony.png
+community_org_url: https://gitee.com/openharmony
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/openharmony/docs
+        - https://github.com/NeuCharFramework/NCF
+    governance-repositories:
+        repo_urls: []
+
+    

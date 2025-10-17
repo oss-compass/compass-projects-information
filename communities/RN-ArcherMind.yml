@@ -1,0 +1,31 @@
+---
+community_name: RN-ArcherMind
+community_logo_url: https://github.com/react-native-oh-library.png
+community_org_url: https://github.com/react-native-oh-library
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitee.com/react-native-oh-library/usage-docs
+        - https://github.com/react-native-oh-library/RNOHDCS
+        - https://github.com/react-native-oh-library/react-native-vision-camera
+        - https://github.com/react-native-oh-library/react-native-skia
+        - https://github.com/react-native-oh-library/react-native-maps
+        - https://github.com/react-native-oh-library/react-native-blob-util
+        - https://github.com/react-native-oh-library/react-native-touch-id
+        - https://github.com/react-native-oh-library/document-picker
+        - https://github.com/react-native-oh-library/react-native-blurhash
+        - https://github.com/react-native-oh-library/react-native-orientation
+        - https://github.com/react-native-oh-library/react-native-bottom-sheet
+        - https://github.com/react-native-oh-library/react-native-iphone-screen-helper
+        - https://github.com/react-native-oh-library/react-native-nfc-manager
+        - https://github.com/react-native-oh-library/react-native-camera-kit
+        - https://github.com/react-native-oh-library/react-native-material-ui
+        - https://github.com/react-native-oh-library/react-native-charts-wrapper
+        - https://github.com/react-native-oh-library/nativewind
+        - https://github.com/react-native-oh-library/ting
+        - https://github.com/react-native-oh-library/react-native-mmkv-storage
+        - https://github.com/react-native-oh-library/react-native-apple-authentication
+    governance-repositories:
+        repo_urls: []
+
+    
