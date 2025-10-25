@@ -1,0 +1,21 @@
+---
+community_name: cann
+community_org_url: ''
+community_logo_url: https://github.com/cann.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/cann/ascend-transformer-boost
+    - https://gitcode.com/cann/cann-recipes-infer
+    - https://gitcode.com/cann/ops-math
+    - https://gitcode.com/cann/ops-nn
+    - https://gitcode.com/cann/opbase
+    - https://gitcode.com/cann/ops-transformer
+    - https://gitcode.com/cann/catlass
+    - https://gitcode.com/cann/ops-cv
+    - https://gitcode.com/cann/ascend-boost-comm
+    - https://gitcode.com/cann/hixl
+    - https://gitcode.com/cann/asnumpy
+  governance-repositories:
+    repo_urls:
+    - https://gitcode.com/cann/community
