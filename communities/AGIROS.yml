@@ -1,0 +1,52 @@
+---
+community_name: AGIROS
+community_org_url: https://gitee.com/agiros
+community_logo_url: https://gitee.com/agiros.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/agiros/AimRT
+    - https://gitee.com/agiros/alphaplatform
+    - https://gitee.com/agiros/travodds
+    - https://gitee.com/AGIROS/EmbodiedReasoner
+    - https://gitee.com/agiros/rclcpp
+    - https://gitee.com/agiros/gazebo-ros-pkgs
+    - https://gitee.com/agiros/rclpy
+    - https://gitee.com/agiros/nav2-amcl
+    - https://gitee.com/agiros/launch-ros
+    - https://gitee.com/agiros/sensor-msgs
+    - https://gitee.com/agiros/geometry-msgs
+    - https://gitee.com/agiros/moveit-ros-planning
+    - https://gitee.com/agiros/nav2-planner
+    - https://gitee.com/agiros/ign-ros2-control
+    - https://gitee.com/agiros/ign-ros2-control-demos
+    - https://gitee.com/agiros/robot_go2_avoid-rl_demo
+    - https://gitee.com/agiros/agiros
+    - https://gitee.com/agiros/andino-gz
+    - https://gitee.com/agiros/py-trees-ros
+    - https://gitee.com/agiros/librealsense2
+    - https://gitee.com/agiros/travodds-monitor
+    - https://gitee.com/agiros/slam-toolbox
+    - https://gitee.com/agiros/ackman-src
+    - https://gitee.com/agiros/third_deps_ogre2
+    - https://gitee.com/agiros/webots-ros2-importer
+    - https://gitee.com/agiros/neo-simulation2
+    - https://gitee.com/agiros/robot_drone_demo
+    - https://gitee.com/agiros/travodds-autotest
+    - https://gitee.com/agiros/realsense2-description
+    - https://gitee.com/agiros/travodds-autogen
+    - https://gitee.com/agiros/travodds-rust
+    - https://gitee.com/agiros/unitree_rl_gym
+    - https://gitee.com/agiros/DCNet
+    - https://gitee.com/agiros/travodds-cpp
+    - https://gitee.com/agiros/yolov5_torq_camera
+    - https://gitee.com/agiros/travodds-shangmi-plugin
+    - https://gitee.com/agiros/alphaplatform_docker
+    - https://gitee.com/agiros/ifvla
+    - https://gitee.com/agiros/kanpolicy
+    - https://gitee.com/agiros/AHC
+    - https://gitee.com/agiros/collabmind
+    - https://gitee.com/agiros/h_aim
+    - https://gitee.com/agiros/h-aim
+  governance-repositories:
+    repo_urls: []
