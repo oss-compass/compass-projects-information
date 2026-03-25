@@ -1,0 +1,64 @@
+---
+community_name: OpenHarmony-RN
+community_org_url: https://gitcode.com/OpenHarmony-RN
+community_logo_url:
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-file-selector
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-doc-viewer
+    - https://gitcode.com/OpenHarmony-RN/rntpc_op-sqlite
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-mlkit-ocr
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-file-access
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-pdfview
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-default-preference
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-file-viewer
+    - https://gitcode.com/OpenHarmony-RN/rntpc_voice
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-print
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-sqlite-storage
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-fileupload
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-zip-archive
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-blob-util
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-fs
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-async-storage
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-webrtc
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-compressor
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-iap
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-push-nRNotification
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-bluetooth-printer
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-screen-capture
+    - https://gitcode.com/OpenHarmony-RN/rnt
+    - https://gitcode.com/OpenHarmony-RN/rntpc_lottie-turbo-react-native
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-wifi-reborn
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-vision
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-smart-refresh
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-extra-dimensions
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-smartassets
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-secure-key-store
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-turbo-log
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-nitro-modules
+    - https://gitcode.com/OpenHarmony-RN/rntpc_watermelondb
+    - https://gitcode.com/OpenHarmony-RN/rntpc_ffmpeg-kit-react-native
+    - https://gitcode.com/OpenHarmony-RN/manifest
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-vector-icons
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-ui-lib
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-keyboard-controller
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-context-menu-view
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-spinkit
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-textinput-maxlength-fixed
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-drax
+    - https://gitcode.com/OpenHarmony-RN/rntpc_realm-js
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-version-number
+    - https://gitcode.com/OpenHarmony-RN/rntpc_mixpanel-react-native
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-callkeep
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-wechat-lib
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-mail
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-shared-element
+    - https://gitcode.com/OpenHarmony-RN/rntpc_segmented-control
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-date-picker
+    - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-tts
+
+  governance-repositories:
+    repo_urls:
+      - https://gitcode.com/OpenHarmony-RN/usage-docs
+
