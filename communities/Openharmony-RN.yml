@@ -57,6 +57,7 @@ resource_types:
     - https://gitcode.com/OpenHarmony-RN/rntpc_segmented-control
     - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-date-picker
     - https://gitcode.com/OpenHarmony-RN/rntpc_react-native-tts
+    - https://gitcode.com/OpenHarmony-RN/ohos_react_native
 
   governance-repositories:
     repo_urls:
