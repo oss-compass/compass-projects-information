@@ -1,0 +1,27 @@
+---
+community_name: MindSpore-Gitcode
+community_logo_url:
+community_org_url: https://gitcode.com/mindspore
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://gitcode.com/mindspore/ms_custom_ops
+        - https://gitcode.com/mindspore/mindrlhf
+        - https://gitcode.com/mindspore/hyper-parallel
+        - https://gitcode.com/mindspore/docs
+        - https://gitcode.com/mindspore/vllm-mindspore
+        - https://gitcode.com/mindspore/.gitcode
+        - https://gitcode.com/mindspore/mindspore_op_plugin
+        - https://gitcode.com/mindspore/mindspore
+        - https://gitcode.com/mindspore/golden-stick
+        - https://gitcode.com/mindspore/mindspore-agreements
+        - https://gitcode.com/mindspore/mindspore-lite
+        - https://gitcode.com/mindspore/dvm
+        - https://gitcode.com/mindspore/mindformers
+        - https://gitcode.com/mindspore/mindquantum
+        - https://gitcode.com/mindspore/akg
+    governance-repositories:
+        repo_urls: 
+        - https://gitcode.com/mindspore/community
+    
+    

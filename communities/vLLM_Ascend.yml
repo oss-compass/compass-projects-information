@@ -1,0 +1,15 @@
+---
+community_name: vLLM_Ascend
+community_logo_url:
+community_org_url: https://gitcode.com/vLLM_Ascend
+resource_types:
+    software-artifact-repositories:
+        repo_urls:
+          - https://gitcode.com/vLLM_Ascend/Qwen3.5-35B-A3B-Atlas300IA2
+          - https://gitcode.com/vLLM_Ascend/MiniMax-M2.5-W8A8
+          - https://gitcode.com/vLLM_Ascend/Kimi-K2.5-w4a8
+    governance-repositories:
+        repo_urls: []
+
+
+    
