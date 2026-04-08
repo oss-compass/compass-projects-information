@@ -1,0 +1,49 @@
+---
+community_name: OpenHarmony-ApplicationTPC
+community_logo_url:
+community_org_url: https://gitcode.com/OpenHarmony-ApplicationTPC
+resource_types:
+    software-artifact-repositories:
+        repo_urls:
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/aspect
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_logan
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_vlc
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_ical4j
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_CircularProgressBar
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_SimpleCropView
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_sticky-headers-recyclerview
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_flowlayout
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_CountdownView
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/skills
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_bottomsheet
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_realm-core
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_process-button
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_apng-drawable
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_ExpandableLayout
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_json2md
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/manifest
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_ShineButton
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_amazon-kinesis-video-streams-webrtc-sdk-js
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_socket.io-client-cpp
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_avroc
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_PagerSlidingTabStrip
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_ksoap2
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_SpinKit
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_tabulator
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_FlycoRoundView
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_SlidingUpPanel
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_oboe
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_alertView
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_ambilwarna
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_StatusBarUtil
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_material-menu
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_matisse
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_aisparser
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_SwipeMenuListView
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_mind-elixir-core
+         - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_tus_client
+    governance-repositories:
+        repo_urls: 
+         - []
+
+    
