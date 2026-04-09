@@ -43,7 +43,6 @@ resource_types:
          - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_mind-elixir-core
          - https://gitcode.com/OpenHarmony-ApplicationTPC/ohos_tus_client
     governance-repositories:
-        repo_urls: 
-         - []
+        repo_urls: []
 
     
