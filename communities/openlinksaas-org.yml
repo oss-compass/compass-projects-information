@@ -1,0 +1,36 @@
+---
+community_name: openlinksaas-org
+community_org_url: https://gitcode.com/openlinksaas-org
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openlinksaas-org/readme
+    - https://gitcode.com/openlinksaas-org/proxy
+    - https://gitcode.com/openlinksaas-org/tencloud
+    - https://gitcode.com/openlinksaas-org/shareweb
+    - https://gitcode.com/openlinksaas-org/gitspy
+    - https://gitcode.com/openlinksaas-org/grpcutil
+    - https://gitcode.com/openlinksaas-org/netutil
+    - https://gitcode.com/openlinksaas-org/mongo-proxy
+    - https://gitcode.com/openlinksaas-org/redis-proxy
+    - https://gitcode.com/openlinksaas-org/sql-proxy
+    - https://gitcode.com/openlinksaas-org/search-proxy
+    - https://gitcode.com/openlinksaas-org/ssh-proxy
+    - https://gitcode.com/openlinksaas-org/netutil-proto
+    - https://gitcode.com/openlinksaas-org/sql-proxy-proto
+    - https://gitcode.com/openlinksaas-org/mongo-proxy-proto
+    - https://gitcode.com/openlinksaas-org/redis-proxy-proto
+    - https://gitcode.com/openlinksaas-org/ssh-proxy-proto
+    - https://gitcode.com/openlinksaas-org/desktop
+    - https://gitcode.com/openlinksaas-org/tauri
+    - https://gitcode.com/openlinksaas-org/proto-gen-rust
+    - https://gitcode.com/openlinksaas-org/local-api-rust
+    - https://gitcode.com/openlinksaas-org/local-api
+    - https://gitcode.com/openlinksaas-org/api-server
+    - https://gitcode.com/openlinksaas-org/webhook
+    - https://gitcode.com/openlinksaas-org/extension-proto-gen-go
+    - https://gitcode.com/openlinksaas-org/proto-gen-go
+    - https://gitcode.com/openlinksaas-org/proto
+  governance-repositories:
+    repo_urls: []

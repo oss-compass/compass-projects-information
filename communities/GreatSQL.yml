@@ -1,0 +1,28 @@
+---
+community_name: GreatSQL
+community_org_url: https://gitee.com/GreatSQL
+community_logo_url: https://gitee.com/GreatSQL.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/GreatSQL/GreatSQL-Cluster
+    - https://gitee.com/GreatSQL/greatsql-mcp-server
+    - https://gitee.com/GreatSQL/tpch
+    - https://gitee.com/GreatSQL/benchmarksql
+    - https://gitee.com/GreatSQL/openEuler-QA
+    - https://gitee.com/GreatSQL/greatsql-operator
+    - https://gitee.com/GreatSQL/GreatSQL-Shell-Docker
+    - https://gitee.com/GreatSQL/openEuler-release-management
+    - https://gitee.com/GreatSQL/GreatSQL-Manual
+    - https://gitee.com/GreatSQL/gt-checksum
+    - https://gitee.com/GreatSQL/china-opensource-community-landscape
+    - https://gitee.com/GreatSQL/openEuler-obs_meta
+    - https://gitee.com/GreatSQL/openeuler-greatsql
+    - https://gitee.com/GreatSQL/openeuler-community
+    - https://gitee.com/GreatSQL/GreatSQLHA
+    - https://gitee.com/GreatSQL/GreatSQL-Doc
+    - https://gitee.com/GreatSQL/GreatSQL-Ansible
+    - https://gitee.com/GreatSQL/GreatSQL-Docker
+    - https://gitee.com/GreatSQL/GreatSQL
+  governance-repositories:
+    repo_urls: []

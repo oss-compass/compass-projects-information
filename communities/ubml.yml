@@ -1,0 +1,37 @@
+---
+community_name: ubml
+community_org_url: https://gitcode.com/ubml
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/ubml/farris-docs-mobile
+    - https://gitcode.com/ubml/farris-docs
+    - https://gitcode.com/ubml/component-framework
+    - https://gitcode.com/ubml/rest-api-model
+    - https://gitcode.com/ubml/rest-api-engine
+    - https://gitcode.com/ubml/rest-api-generator
+    - https://gitcode.com/ubml/component-model
+    - https://gitcode.com/ubml/bff-engine
+    - https://gitcode.com/ubml/business-entity-engine
+    - https://gitcode.com/ubml/business-entity-model
+    - https://gitcode.com/ubml/bff-generator
+    - https://gitcode.com/ubml/business-entity-generator
+    - https://gitcode.com/ubml/bff-framework
+    - https://gitcode.com/ubml/view-object-model
+    - https://gitcode.com/ubml/database-object-model
+    - https://gitcode.com/ubml/database-object-service
+    - https://gitcode.com/ubml/metadata-common
+    - https://gitcode.com/ubml/ui-model
+    - https://gitcode.com/ubml/farris-vue
+    - https://gitcode.com/ubml/community
+    - https://gitcode.com/ubml/docs
+    - https://gitcode.com/ubml/metadata-service
+    - https://gitcode.com/ubml/metadata-service-dev
+    - https://gitcode.com/ubml/ubml-sdk
+    - https://gitcode.com/ubml/caf-boot
+    - https://gitcode.com/ubml/business-entity-framework
+    - https://gitcode.com/ubml/caf-framework
+    - https://gitcode.com/ubml/ubml-standard
+  governance-repositories:
+    repo_urls: []

@@ -1,0 +1,48 @@
+---
+community_name: yuanshixiong
+community_org_url: https://gitcode.com/yuanshixiong
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/yuanshixiong/kuba-car
+    - https://gitcode.com/yuanshixiong/software-serial-module
+    - https://gitcode.com/yuanshixiong/ultrasonic-module
+    - https://gitcode.com/yuanshixiong/speech-synthesis
+    - https://gitcode.com/yuanshixiong/planet-x
+    - https://gitcode.com/yuanshixiong/eye-tracking-module
+    - https://gitcode.com/yuanshixiong/lingshu-expansion-board
+    - https://gitcode.com/yuanshixiong/robot-dog-swarm-control
+    - https://gitcode.com/yuanshixiong/text-to-speech
+    - https://gitcode.com/yuanshixiong/gamepad
+    - https://gitcode.com/yuanshixiong/gesture-recognition
+    - https://gitcode.com/yuanshixiong/huaner-speech-recognition
+    - https://gitcode.com/yuanshixiong/xiaozhi-robot
+    - https://gitcode.com/yuanshixiong/miaow-v2
+    - https://gitcode.com/yuanshixiong/external-speaker
+    - https://gitcode.com/yuanshixiong/nezha-pro
+    - https://gitcode.com/yuanshixiong/nezha-1
+    - https://gitcode.com/yuanshixiong/serial-module
+    - https://gitcode.com/yuanshixiong/serial-display-module
+    - https://gitcode.com/yuanshixiong/sentry-system
+    - https://gitcode.com/yuanshixiong/mcp-server
+    - https://gitcode.com/yuanshixiong/vk1633-display
+    - https://gitcode.com/yuanshixiong/tm1650-led-driver
+    - https://gitcode.com/yuanshixiong/ps2-controller
+    - https://gitcode.com/yuanshixiong/ntp-client
+    - https://gitcode.com/yuanshixiong/mp3-module
+    - https://gitcode.com/yuanshixiong/hx711-load-cell
+    - https://gitcode.com/yuanshixiong/dht11-sensor
+    - https://gitcode.com/yuanshixiong/servo-driver-8ch
+    - https://gitcode.com/yuanshixiong/encoder-motor-driver-4ch
+    - https://gitcode.com/yuanshixiong/lcd-1602-display
+    - https://gitcode.com/yuanshixiong/PythonIDE
+    - https://gitcode.com/yuanshixiong/course
+    - https://gitcode.com/yuanshixiong/creation
+    - https://gitcode.com/yuanshixiong/ohcode-extend
+    - https://gitcode.com/yuanshixiong/activity
+    - https://gitcode.com/yuanshixiong/ysx-v1
+    - https://gitcode.com/yuanshixiong/firmware
+    - https://gitcode.com/yuanshixiong/ysx-v0
+  governance-repositories:
+    repo_urls: []

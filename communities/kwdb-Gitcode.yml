@@ -1,0 +1,20 @@
+---
+community_name: kwdb-Gitcode
+community_org_url: https://gitcode.com/kwdb
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/kwdb/playground
+    - https://gitcode.com/kwdb/pipeline_test
+    - https://gitcode.com/kwdb/community
+    - https://gitcode.com/kwdb/kwdb-mcp-server
+    - https://gitcode.com/kwdb/kwdb-tsbs
+    - https://gitcode.com/kwdb/sampledb
+    - https://gitcode.com/kwdb/kw-cdeps
+    - https://gitcode.com/kwdb/kw-vendor
+    - https://gitcode.com/kwdb/kw-third_party
+    - https://gitcode.com/kwdb/docs
+    - https://gitcode.com/kwdb/kwdb
+  governance-repositories:
+    repo_urls: []

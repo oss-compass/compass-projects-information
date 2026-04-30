@@ -1,0 +1,17 @@
+---
+community_name: ztdbp
+community_org_url: https://gitcode.com/ztdbp
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/ztdbp/website_public
+    - https://gitcode.com/ztdbp/ZAPortal
+    - https://gitcode.com/ztdbp/cfssl
+    - https://gitcode.com/ztdbp/ZASentinel-MYSQL
+    - https://gitcode.com/ztdbp/zaca-sdk
+    - https://gitcode.com/ztdbp/ZASentinel
+    - https://gitcode.com/ztdbp/ZACA
+    - https://gitcode.com/ztdbp/ZAManager
+  governance-repositories:
+    repo_urls: []

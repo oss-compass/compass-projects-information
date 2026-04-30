@@ -1,0 +1,12 @@
+---
+community_name: openblock
+community_org_url: https://gitcode.com/openblock
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openblock/forWS63E
+    - https://gitcode.com/openblock/senior-brother-yuan
+    - https://gitcode.com/openblock/openblock
+  governance-repositories:
+    repo_urls: []

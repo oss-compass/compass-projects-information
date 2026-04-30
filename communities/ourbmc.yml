@@ -1,0 +1,33 @@
+---
+community_name: ourbmc
+community_org_url: https://gitee.com/ourbmc
+community_logo_url: https://gitee.com/ourbmc.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/ourbmc/jansson
+    - https://gitee.com/ourbmc/brotli
+    - https://gitee.com/ourbmc/oniguruma
+    - https://gitee.com/ourbmc/cmocka
+    - https://gitee.com/ourbmc/berkeley-softfloat-3
+    - https://gitee.com/ourbmc/openssl
+    - https://gitee.com/ourbmc/OpenAtom-Competition
+    - https://gitee.com/ourbmc/phypin
+    - https://gitee.com/ourbmc/DT-Board
+    - https://gitee.com/ourbmc/Mastering-OurBMC
+    - https://gitee.com/ourbmc/Expert-Dialogue
+    - https://gitee.com/ourbmc/phytium-ipmi-oem
+    - https://gitee.com/ourbmc/linux
+    - https://gitee.com/ourbmc/uboot
+    - https://gitee.com/ourbmc/bmcweb
+    - https://gitee.com/ourbmc/eBMC_HS
+    - https://gitee.com/ourbmc/openbmc
+    - https://gitee.com/ourbmc/edk2-non-osi
+    - https://gitee.com/ourbmc/edk2-platforms
+    - https://gitee.com/ourbmc/edk2
+    - https://gitee.com/ourbmc/host-linux
+    - https://gitee.com/ourbmc/webui
+    - https://gitee.com/ourbmc/docs
+    - https://gitee.com/ourbmc/community
+  governance-repositories:
+    repo_urls: []

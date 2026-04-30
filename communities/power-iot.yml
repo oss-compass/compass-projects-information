@@ -1,0 +1,49 @@
+---
+community_name: power-iot
+community_org_url: https://gitcode.com/power-iot
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/power-iot/JBGS-RCSD
+    - https://gitcode.com/power-iot/JBGS-SSSD
+    - https://gitcode.com/power-iot/communication_dsoftbus
+    - https://gitcode.com/power-iot/phsyygl
+    - https://gitcode.com/power-iot/sbyw
+    - https://gitcode.com/power-iot/phconfig
+    - https://gitcode.com/power-iot/PHSV2.0-Iptables
+    - https://gitcode.com/power-iot/PHSV2.0-MQTT
+    - https://gitcode.com/power-iot/PHSV2.0-Libpcap
+    - https://gitcode.com/power-iot/PHSV2.0-Tcpdump
+    - https://gitcode.com/power-iot/PHSV2.0-Libmnl
+    - https://gitcode.com/power-iot/PHSV2.0-Ethtool
+    - https://gitcode.com/power-iot/PHSV2.0-BusyBox
+    - https://gitcode.com/power-iot/PHSV2.0-OpenSSH
+    - https://gitcode.com/power-iot/PHSV2.0-DHHSCPC
+    - https://gitcode.com/power-iot/PEE-RZLZHSJ
+    - https://gitcode.com/power-iot/PEE-CJYHQXGL
+    - https://gitcode.com/power-iot/PEE-ACL
+    - https://gitcode.com/power-iot/PEE-init
+    - https://gitcode.com/power-iot/PEE-XTFQYZXHWZX
+    - https://gitcode.com/power-iot/PEE-XTCSHNCWJXT
+    - https://gitcode.com/power-iot/PEE2.0-SBYYKZZJJ
+    - https://gitcode.com/power-iot/PEE2.0-SBWDCJZJJ
+    - https://gitcode.com/power-iot/PES1.0.3-SBYYFLZJJ
+    - https://gitcode.com/power-iot/PEE2.0-SBCJFW
+    - https://gitcode.com/power-iot/PEE2.0-SJZXFW
+    - https://gitcode.com/power-iot/PHR2.0-modbus
+    - https://gitcode.com/power-iot/PEE2.0-modbus
+    - https://gitcode.com/power-iot/PHM1.0.1.0-ZLCDZDKDL
+    - https://gitcode.com/power-iot/PHM1.0.1.0-GFXYZHDL
+    - https://gitcode.com/power-iot/PHS2.0-YCYW
+    - https://gitcode.com/power-iot/PHS2.0-OTA
+    - https://gitcode.com/power-iot/PEE2.0-YCYW-HY
+    - https://gitcode.com/power-iot/PEE2.0-OTA-HS
+    - https://gitcode.com/power-iot/PES1.0.3-YCYW
+    - https://gitcode.com/power-iot/PES1.0.3-OTA-HS
+    - https://gitcode.com/power-iot/PHR2.0-YCDL
+    - https://gitcode.com/power-iot/PES1.0.3-modbus
+    - https://gitcode.com/power-iot/PHS2.0-TXSPWMX
+    - https://gitcode.com/power-iot/dianhong
+  governance-repositories:
+    repo_urls: []

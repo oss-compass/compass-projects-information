@@ -1,0 +1,41 @@
+---
+community_name: opencloudos
+community_org_url: https://gitcode.com/opencloudos
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/opencloudos/kvmtool-likex
+    - https://gitcode.com/opencloudos/kvmtool
+    - https://gitcode.com/opencloudos/EMF-ebpf-module-framework
+    - https://gitcode.com/opencloudos/cloud-hypervisor
+    - https://gitcode.com/opencloudos/opencloudos.github.io
+    - https://gitcode.com/opencloudos/SysDocs
+    - https://gitcode.com/opencloudos/ADVobfuscator
+    - https://gitcode.com/opencloudos/OpenCloudOS-Kernel-Stream
+    - https://gitcode.com/opencloudos/TencentOS-kernel-0
+    - https://gitcode.com/opencloudos/SIG-Stream
+    - https://gitcode.com/opencloudos/Docs
+    - https://gitcode.com/opencloudos/SIG-Testing
+    - https://gitcode.com/opencloudos/SIG-ops
+    - https://gitcode.com/opencloudos/SIG-kernel
+    - https://gitcode.com/opencloudos/lkp-tests
+    - https://gitcode.com/opencloudos/libfuse
+    - https://gitcode.com/opencloudos/SIG-Marketing
+    - https://gitcode.com/opencloudos/SIG-compliance
+    - https://gitcode.com/opencloudos/SIG-infra
+    - https://gitcode.com/opencloudos/SIG-Security
+    - https://gitcode.com/opencloudos/SIG-release
+    - https://gitcode.com/opencloudos/linux
+    - https://gitcode.com/opencloudos/lkp-extent
+    - https://gitcode.com/opencloudos/LiKeX
+    - https://gitcode.com/opencloudos/LonganChkout
+    - https://gitcode.com/opencloudos/fuse-extent
+    - https://gitcode.com/opencloudos/perf-prof
+    - https://gitcode.com/opencloudos/nettrace
+    - https://gitcode.com/opencloudos/community
+    - https://gitcode.com/opencloudos/OpenCloudOS-tools
+    - https://gitcode.com/opencloudos/OpenCloudOS-Packages
+    - https://gitcode.com/opencloudos/OpenCloudOS-Kernel
+  governance-repositories:
+    repo_urls: []

@@ -1,0 +1,11 @@
+---
+community_name: openkona
+community_org_url: https://gitcode.com/openkona
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openkona/OpenKona8
+    - https://gitcode.com/openkona/OpenKona11
+  governance-repositories:
+    repo_urls: []

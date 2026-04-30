@@ -1,0 +1,12 @@
+---
+community_name: ganweisoft
+community_org_url: https://github.com/ganweisoft
+community_logo_url: https://github.com/ganweisoft.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ganweisoft/TOMs
+    - https://github.com/ganweisoft/GrpcServer
+    - https://github.com/ganweisoft/.github
+  governance-repositories:
+    repo_urls: []

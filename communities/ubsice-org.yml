@@ -1,0 +1,17 @@
+---
+community_name: ubsice-org
+community_org_url: https://gitcode.com/ubsice-org
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/ubsice-org/maven-plugin
+    - https://gitcode.com/ubsice-org/documents
+    - https://gitcode.com/ubsice-org/service.ubsi.logger
+    - https://gitcode.com/ubsice-org/demo.hello
+    - https://gitcode.com/ubsice-org/demo.filter
+    - https://gitcode.com/ubsice-org/service.ubsi.gateway
+    - https://gitcode.com/ubsice-org/rest.ubsi.gateway
+    - https://gitcode.com/ubsice-org/ubsi-core
+  governance-repositories:
+    repo_urls: []

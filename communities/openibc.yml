@@ -1,0 +1,16 @@
+---
+community_name: openibc
+community_org_url: https://gitcode.com/openibc
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openibc/ichain-grpc
+    - https://gitcode.com/openibc/ichain-crypto
+    - https://gitcode.com/openibc/icep-web
+    - https://gitcode.com/openibc/icep-service
+    - https://gitcode.com/openibc/did-front
+    - https://gitcode.com/openibc/did-service
+    - https://gitcode.com/openibc/openibc
+  governance-repositories:
+    repo_urls: []
