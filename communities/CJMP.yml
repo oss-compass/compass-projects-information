@@ -1,0 +1,30 @@
+---
+community_name: CJMP
+community_org_url: https://gitcode.com/CJMP
+community_logo_url: https://gitcode.com/CJMP.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/CJMP/Engine
+    - https://gitcode.com/CJMP/Docs
+    - https://gitcode.com/CJMP/AIDev
+    - https://gitcode.com/CJMP/Build
+    - https://gitcode.com/CJMP/CI
+    - https://gitcode.com/CJMP/CJFrontend
+    - https://gitcode.com/CJMP/CJ-UI
+    - https://gitcode.com/CJMP/Community
+    - https://gitcode.com/CJMP/DevTools
+    - https://gitcode.com/CJMP/Examples
+    - https://gitcode.com/CJMP/IDE-Plugins
+    - https://gitcode.com/CJMP/JSIExecutor
+    - https://gitcode.com/CJMP/Libraries
+    - https://gitcode.com/CJMP/Manifest
+    - https://gitcode.com/CJMP/OpenSDK
+    - https://gitcode.com/CJMP/SDK
+    - https://gitcode.com/CJMP/SystemLibs
+    - https://gitcode.com/CJMP/Test
+    - https://gitcode.com/CJMP/TestFramework
+    - https://gitcode.com/CJMP/Tools
+    - https://gitcode.com/CJMP/VibeCoding
+  governance-repositories:
+    repo_urls: []
