@@ -1,0 +1,15 @@
+---
+community_name: ModelEngine
+community_org_url: ''
+community_logo_url: https://github.com/ModelEngine-Group.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ModelEngine-Group/app-platform
+    - https://github.com/ModelEngine-Group/nexent
+    - https://github.com/ModelEngine-Group/unified-cache-management
+    - https://github.com/ModelEngine-Group/DataMate
+    - https://github.com/ModelEngine-Group/flexai
+    - https://github.com/ModelEngine-Group/fit-framework
+  governance-repositories:
+    repo_urls: []
