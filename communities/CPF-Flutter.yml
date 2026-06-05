@@ -1,0 +1,10 @@
+---
+community_name: CPF-Flutter
+community_org_url: https://gitcode.com/CPF-Flutter
+community_logo_url: https://gitcode.com/CPF-Flutter.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/CPF-Flutter/flutter_engine
+  governance-repositories:
+    repo_urls: []
