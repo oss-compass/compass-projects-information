@@ -7,6 +7,17 @@ resource_types:
     repo_urls:
     - https://github.com/ModelEngine-Group/fit-framework
     - https://github.com/ModelEngine-Group/app-platform
+    - https://github.com/ModelEngine-Group/pipeline
+    - https://github.com/ModelEngine-Group/community
     - https://github.com/ModelEngine-Group/nexent
+    - https://github.com/ModelEngine-Group/unified-cache-management
+    - https://github.com/ModelEngine-Group/DataMate
+    - https://github.com/ModelEngine-Group/Terrabase
+    - https://github.com/ModelEngine-Group/waterflow
+    - https://github.com/ModelEngine-Group/fit-expression-for-llm
+    - https://github.com/ModelEngine-Group/elsa
+    - https://github.com/ModelEngine-Group/datamate-docs
+    - https://github.com/ModelEngine-Group/deer-flow
+    - https://github.com/ModelEngine-Group/Label-Studio
   governance-repositories:
     repo_urls: []

@@ -1,0 +1,14 @@
+---
+community_name: eBackup
+community_org_url: ''
+community_logo_url: https://cdn-img.gitcode.com/ec/bb/9e736c2b9016bd4097ce40d9b18c54843411eb525b889ccf750845b1daddbb53.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/eBackup/BackupCommunity
+    - https://gitcode.com/eBackup/open-eBackup
+    - https://gitcode.com/eBackup/LiveUI
+
+  governance-repositories:
+    repo_urls:
+     []

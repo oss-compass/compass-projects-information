@@ -1,0 +1,28 @@
+---
+community_name: openHiTLS
+community_org_url: ''
+community_logo_url: https://cdn-img.gitcode.com/db/eb/d310b1e5b4dbfd16dd89256f55e59cb2575a8152e22baaa3729be3d82355b067.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openHiTLS/CryptoAudit
+    - https://gitcode.com/openHiTLS/FuncConform
+    - https://gitcode.com/openHiTLS/APISentinel
+    - https://gitcode.com/openHiTLS/openHiTLS-examples
+    - https://gitcode.com/openHiTLS/sdfx
+    - https://gitcode.com/openHiTLS/sdf_provider
+    - https://gitcode.com/openHiTLS/kaep
+    - https://gitcode.com/openHiTLS/pqcp
+    - https://gitcode.com/openHiTLS/hitls4j
+    - https://gitcode.com/openHiTLS/java_sdk_demo
+    - https://gitcode.com/openHiTLS/openhitls
+    - https://gitcode.com/openHiTLS/community
+    - https://gitcode.com/openHiTLS/NssMPClib
+    - https://gitcode.com/openHiTLS/cla
+    - https://gitcode.com/openHiTLS/nginx
+    - https://gitcode.com/openHiTLS/curl
+    - https://gitcode.com/openHiTLS/benchmark
+
+  governance-repositories:
+    repo_urls:
+     []

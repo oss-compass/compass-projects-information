@@ -1,10 +1,86 @@
 ---
 community_name: openFuyao
-community_org_url: https://gitee.com/openInula/
-community_logo_url: https://gitee.com/openfuyao.png
+community_org_url: https://gitcode.com/openfuyao
+community_logo_url: https://cdn-img.gitcode.com/de/be/6d9e04b9e2ea6e0053ebbc4e10bca33462651e85f9c0a0b5fd9b79bab8c389f6.png
 resource_types:
   software-artifact-repositories:
     repo_urls:
-    - https://gitee.com/openInula/inula
+      - https://gitcode.com/openFuyao/env-check
+      - https://gitcode.com/openFuyao/confidential-containers-deployment
+      - https://gitcode.com/openFuyao/eagle-eye
+      - https://gitcode.com/openFuyao/mooncake
+      - https://gitcode.com/openFuyao/cache-indexer
+      - https://gitcode.com/openFuyao/vllm-ascend
+      - https://gitcode.com/openFuyao/ai-inference-integration
+      - https://gitcode.com/openFuyao/bke-console-website
+      - https://gitcode.com/openFuyao/bke-console-service
+      - https://gitcode.com/openFuyao/colocation-management
+      - https://gitcode.com/openFuyao/hermes-router
+      - https://gitcode.com/openFuyao/kwok
+      - https://gitcode.com/openFuyao/sig-orchestration-engine
+      - https://gitcode.com/openFuyao/sig-numa-affinity
+      - https://gitcode.com/openFuyao/ofep
+      - https://gitcode.com/openFuyao/README
+      - https://gitcode.com/openFuyao/release-management
+      - https://gitcode.com/openFuyao/security-committee
+      - https://gitcode.com/openFuyao/sig-ai-inference
+      - https://gitcode.com/openFuyao/tc
+      - https://gitcode.com/openFuyao/qa-tool
+      - https://gitcode.com/openFuyao/sig-container-platform
+      - https://gitcode.com/openFuyao/api-auto-test
+      - https://gitcode.com/openFuyao/sig-qa
+      - https://gitcode.com/openFuyao/cla
+      - https://gitcode.com/openFuyao/npu-operator
+      - https://gitcode.com/openFuyao/multi-cluster-website
+      - https://gitcode.com/openFuyao/console-service
+      - https://gitcode.com/openFuyao/oauth-proxy
+      - https://gitcode.com/openFuyao/oauth-server
+      - https://gitcode.com/openFuyao/oauth-webhook
+      - https://gitcode.com/openFuyao/logging-operator
+      - https://gitcode.com/openFuyao/installer
+      - https://gitcode.com/openFuyao/logging-website
+      - https://gitcode.com/openFuyao/node-feature-discovery
+      - https://gitcode.com/openFuyao/console-website
+      - https://gitcode.com/openFuyao/sig-installation
+      - https://gitcode.com/openFuyao/kae-device-plugin
+      - https://gitcode.com/openFuyao/docs
+      - https://gitcode.com/openFuyao/npu-driver-installer
+      - https://gitcode.com/openFuyao/npu-container-toolkit
+      - https://gitcode.com/openFuyao/test-case
+      - https://gitcode.com/openFuyao/e2e-auto-test
+      - https://gitcode.com/openFuyao/kubernetes
+      - https://gitcode.com/openFuyao/volcano-ext
+      - https://gitcode.com/openFuyao/monitoring-service
+      - https://gitcode.com/openFuyao/community
+      - https://gitcode.com/openFuyao/volcano-config-website
+      - https://gitcode.com/openFuyao/sig-colocation
+      - https://gitcode.com/openFuyao/colocation-website
+      - https://gitcode.com/openFuyao/colocation-service
+      - https://gitcode.com/openFuyao/monitoring-dashboard-website
+      - https://gitcode.com/openFuyao/monitoring-dashboard-service
+      - https://gitcode.com/openFuyao/kae-driver-installer
+      - https://gitcode.com/openFuyao/kae-operator
+      - https://gitcode.com/openFuyao/multi-cluster-service
+      - https://gitcode.com/openFuyao/user-management-operator
+      - https://gitcode.com/openFuyao/marketplace-service
+      - https://gitcode.com/openFuyao/application-management-service
+      - https://gitcode.com/openFuyao/plugin-management-service
+      - https://gitcode.com/openFuyao/cluster-api-provider-bke
+      - https://gitcode.com/openFuyao/npu-node-provision
+      - https://gitcode.com/openFuyao/bkeagent
+      - https://gitcode.com/openFuyao/bkeadm
+      - https://gitcode.com/openFuyao/bkecommon
+      - https://gitcode.com/openFuyao/bke-manifests
+      - https://gitcode.com/openFuyao/sig-large-scale-cluster
+      - https://gitcode.com/openFuyao/web-terminal-service
+      - https://gitcode.com/openFuyao/clusters-computing-operator
+      - https://gitcode.com/openFuyao/sig-distributed-framework
+      - https://gitcode.com/openFuyao/ray-image-builder
+      - https://gitcode.com/openFuyao/ray-service
+      - https://gitcode.com/openFuyao/ray-website
+      - https://gitcode.com/openFuyao/openfuyao-system-controller
+      - https://gitcode.com/openFuyao/volcano-config-service
+      - https://gitcode.com/openFuyao/npu-feature-discovery
+      - https://gitcode.com/openFuyao/ray
   governance-repositories:
-    repo_urls: []
+    repo_urls: [ ]

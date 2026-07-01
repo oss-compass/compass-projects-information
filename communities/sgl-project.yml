@@ -1,0 +1,28 @@
+---
+community_name: sgl-project
+community_org_url: ''
+community_logo_url: https://github.com/sgl-project.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/sgl-project/sglang
+    - https://github.com/sgl-project/sgl-learning-materials
+    - https://github.com/sgl-project/sgl-project.github.io
+    - https://github.com/sgl-project/whl
+    - https://github.com/sgl-project/sgl-flash-attn
+    - https://github.com/sgl-project/sgl-test-files
+    - https://github.com/sgl-project/DeepGEMM
+    - https://github.com/sgl-project/ome
+    - https://github.com/sgl-project/SpecForge
+    - https://github.com/sgl-project/genai-bench
+    - https://github.com/sgl-project/sglang-jax
+    - https://github.com/sgl-project/sgl-kernel-xpu
+    - https://github.com/sgl-project/sgl-kernel-npu
+    - https://github.com/sgl-project/sgl-whl
+    - https://github.com/sgl-project/rbg
+    - https://github.com/sgl-project/FlashMLA
+    - https://github.com/sgl-project/fast-hadamard-transform
+
+  governance-repositories:
+    repo_urls:
+     []

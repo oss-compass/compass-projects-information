@@ -1,0 +1,55 @@
+---
+community_name: opentiny
+community_org_url: ''
+community_logo_url: https://github.com/opentiny.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/opentiny/tiny-vue
+    - https://github.com/opentiny/tiny-vue-renderless
+    - https://github.com/opentiny/tiny-cli
+    - https://github.com/opentiny/tiny-vue-mobile
+    - https://github.com/opentiny/tiny-vue-theme
+    - https://github.com/opentiny/tiny-ng
+    - https://github.com/opentiny/tiny-cli-extensions
+    - https://github.com/opentiny/eslint-config
+    - https://github.com/opentiny/ai-vue
+    - https://github.com/opentiny/tiny-vue-playground
+    - https://github.com/opentiny/cross-framework-component
+    - https://github.com/opentiny/tiny-engine
+    - https://github.com/opentiny/dtt-cfc
+    - https://github.com/opentiny/tiny-engine-generate-preview
+    - https://github.com/opentiny/tiny-engine-webservice
+    - https://github.com/opentiny/tiny-engine-data-center
+    - https://github.com/opentiny/mini-tiny-vue
+    - https://github.com/opentiny/tiny-charts
+    - https://github.com/opentiny/statistic-dashboard
+    - https://github.com/opentiny/tiny-editor
+    - https://github.com/opentiny/tiny-engine-backend-java
+    - https://github.com/opentiny/quill-toolbar-tip
+    - https://github.com/opentiny/quill-header-list
+    - https://github.com/opentiny/cross-framework
+    - https://github.com/opentiny/tiny-vue-web-doc
+    - https://github.com/opentiny/icons
+    - https://github.com/opentiny/unplugin-tiny-vue
+    - https://github.com/opentiny/vue-vite-import
+    - https://github.com/opentiny/tiny-vue-web-doc-mobile
+    - https://github.com/opentiny/tiny-vue-nuxt
+    - https://github.com/opentiny/tiny-schema-renderer
+    - https://github.com/opentiny/tiny-robot
+    - https://github.com/opentiny/tiny-search-box
+    - https://github.com/opentiny/tiny-pro
+    - https://github.com/opentiny/tiny-vue-template
+    - https://github.com/opentiny/tiny-agent
+    - https://github.com/opentiny/theme-design
+    - https://github.com/opentiny/tiny-vue-mcp
+    - https://github.com/opentiny/next-sdk
+    - https://github.com/opentiny/tiny-engine-extensions
+    - https://github.com/opentiny/docs
+    - https://github.com/opentiny/tiny-vue-saas-web-doc
+    - https://github.com/opentiny/playground
+    - https://github.com/opentiny/opentiny.design
+    - https://github.com/opentiny/tiny-pro-site
+  governance-repositories:
+    repo_urls:
+     []
