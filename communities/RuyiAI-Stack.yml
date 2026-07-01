@@ -1,0 +1,19 @@
+---
+community_name: RuyiAI-Stack
+community_org_url: https://github.com/RuyiAI-Stack
+community_logo_url: https://github.com/RuyiAI-Stack.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/RuyiAI-Stack/IntrinTrans
+    - https://github.com/RuyiAI-Stack/VecIntrinBench
+    - https://github.com/RuyiAI-Stack/cpuinfo
+    - https://github.com/RuyiAI-Stack/pytorch-ci
+    - https://github.com/RuyiAI-Stack/tilelang-riscv
+    - https://github.com/RuyiAI-Stack/llvm-project
+    - https://github.com/RuyiAI-Stack/torq-tile
+    - https://github.com/RuyiAI-Stack/pytorch
+    - https://github.com/RuyiAI-Stack/triton-riscv
+    - https://github.com/RuyiAI-Stack/ruyiai-stack.github.io
+  governance-repositories:
+    repo_urls: []
