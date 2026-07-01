@@ -6,5 +6,23 @@ resource_types:
   software-artifact-repositories:
     repo_urls:
     - https://github.com/openRuyi-Project/openRuyi
+    - https://github.com/openRuyi-Project/openRuyi-logo
+    - https://github.com/openRuyi-Project/k3firmware
+    - https://github.com/openRuyi-Project/u-boot
+    - https://github.com/openRuyi-Project/abaci-bot
+    - https://github.com/openRuyi-Project/clang-wrap
+    - https://github.com/openRuyi-Project/go-rpm-macros
+    - https://github.com/openRuyi-Project/perl-rpm-macros
+    - https://github.com/openRuyi-Project/cpan2spec
+    - https://github.com/openRuyi-Project/rust-rpm-macros
+    - https://github.com/openRuyi-Project/mkosi
+    - https://github.com/openRuyi-Project/.github
+    - https://github.com/openRuyi-Project/openruyi-desktop-wallpapers
+    - https://github.com/openRuyi-Project/openruyi-desktop-setup-labwc
+    - https://github.com/openRuyi-Project/homepage
+    - https://github.com/openRuyi-Project/openRuyi-zero
+    - https://github.com/openRuyi-Project/linux
+    - https://github.com/openRuyi-Project/gcc
+    - https://github.com/openRuyi-Project/opensbi
   governance-repositories:
     repo_urls: []
