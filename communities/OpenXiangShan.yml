@@ -1,0 +1,10 @@
+---
+community_name: OpenXiangShan
+community_org_url: https://github.com/OpenXiangShan
+community_logo_url: https://github.com/OpenXiangShan.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/OpenXiangShan/XiangShan
+  governance-repositories:
+    repo_urls: []

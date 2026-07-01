@@ -1,0 +1,19 @@
+---
+community_name: tobudos
+community_org_url: https://gitcode.com/tobudos
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/tobudos/SummerOfCode2024
+    - https://gitcode.com/tobudos/Summer_of_Code
+    - https://gitcode.com/tobudos/EventDrivenKernel
+    - https://gitcode.com/tobudos/Tools
+    - https://gitcode.com/tobudos/IoTComponentsAndSolutions
+    - https://gitcode.com/tobudos/Playground
+    - https://gitcode.com/tobudos/ChipAdaptation
+    - https://gitcode.com/tobudos/Document
+    - https://gitcode.com/tobudos/kernel
+    - https://gitcode.com/tobudos/DeveloperTrainingCamp2023
+  governance-repositories:
+    repo_urls: []

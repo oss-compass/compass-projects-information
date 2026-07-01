@@ -1,0 +1,41 @@
+---
+community_name: openloong
+community_org_url: https://gitcode.com/openloong
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openloong/LoongMarathonNav
+    - https://gitcode.com/openloong/loong_remote_communication
+    - https://gitcode.com/openloong/MiniLoong
+    - https://gitcode.com/openloong/OmniT-Hand
+    - https://gitcode.com/openloong/2025competition_gewu_nanoloong
+    - https://gitcode.com/openloong/2025competition_dynamic_simulation
+    - https://gitcode.com/openloong/awesome-humaniod-robot-learning
+    - https://gitcode.com/openloong/OpenMiniGym
+    - https://gitcode.com/openloong/openloong-dyn-control
+    - https://gitcode.com/openloong/OpenLoong-Framework
+    - https://gitcode.com/openloong/loong_deployment
+    - https://gitcode.com/openloong/awesome-humanoid-robots
+    - https://gitcode.com/openloong/loong_driver_sdk
+    - https://gitcode.com/openloong/loong_retarget
+    - https://gitcode.com/openloong/loong_sim
+    - https://gitcode.com/openloong/loong_sim_sdk_release
+    - https://gitcode.com/openloong/loong_third_party
+    - https://gitcode.com/openloong/loong_utility
+    - https://gitcode.com/openloong/manipulation
+    - https://gitcode.com/openloong/MindLoongGPT
+    - https://gitcode.com/openloong/navigation
+    - https://gitcode.com/openloong/loong_ctrl_locomotion
+    - https://gitcode.com/openloong/loong_base
+    - https://gitcode.com/openloong/community-demo
+    - https://gitcode.com/openloong/OpenLoongHardware
+    - https://gitcode.com/openloong/gymloong
+    - https://gitcode.com/openloong/Unity-RL-Playground
+    - https://gitcode.com/openloong/NanoLoong-Bipedal
+    - https://gitcode.com/openloong/pinocchio-demo
+    - https://gitcode.com/openloong/OpenLoongBrain
+    - https://gitcode.com/openloong/OpenLoongROS
+    - https://gitcode.com/openloong/openloong
+  governance-repositories:
+    repo_urls: []

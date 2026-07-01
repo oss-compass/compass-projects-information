@@ -1,0 +1,16 @@
+---
+community_name: CangjieCommunity
+community_org_url: https://cangjie-lang.cn/
+community_logo_url: https://gitcode.com/Cangjie.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/Cangjie/cangjie_compiler.git
+    - https://gitcode.com/Cangjie/cangjie_stdx.git
+    - https://gitcode.com/Cangjie/cangjie_runtime.git
+    - https://gitcode.com/Cangjie/cangjie_manifest
+    - https://gitcode.com/Cangjie/cangjie_docs.git
+    - https://gitcode.com/Cangjie/cangjie_test.git
+  governance-repositories:
+    repo_urls:
+    - https://gitcode.com/Cangjie/CangjieCommunity.git

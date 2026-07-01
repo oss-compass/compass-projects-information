@@ -1,0 +1,18 @@
+---
+community_name: xgo
+community_org_url: https://github.com/goplus
+community_logo_url: https://github.com/goplus.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/goplus/xgo
+    - https://github.com/goplus/ixgo
+    - https://github.com/goplus/llgo
+    - https://github.com/goplus/mcp
+    - https://github.com/goplus/builder
+    - https://github.com/goplus/gogen
+    - https://github.com/goplus/vscode-xgo
+    - https://github.com/goplus/llar
+  governance-repositories:
+    repo_urls:
+    - https://github.com/goplus/www

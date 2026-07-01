@@ -1,0 +1,32 @@
+---
+community_name: opendacs
+community_org_url: https://gitcode.com/opendacs
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/opendacs/DeepBurning-MixQ
+    - https://gitcode.com/opendacs/ICTest-o
+    - https://gitcode.com/opendacs/oCASatpg
+    - https://gitcode.com/opendacs/LogicFactory
+    - https://gitcode.com/opendacs/iEDA
+    - https://gitcode.com/opendacs/llmsim
+    - https://gitcode.com/opendacs/WhitePaper
+    - https://gitcode.com/opendacs/oCASscan
+    - https://gitcode.com/opendacs/oCASjtag
+    - https://gitcode.com/opendacs/iEDA-data-set
+    - https://gitcode.com/opendacs/RTL2GDS
+    - https://gitcode.com/opendacs/iFlow
+    - https://gitcode.com/opendacs/competition-t10
+    - https://gitcode.com/opendacs/competition-t9
+    - https://gitcode.com/opendacs/competition-t8
+    - https://gitcode.com/opendacs/competition-t7
+    - https://gitcode.com/opendacs/competition-t6
+    - https://gitcode.com/opendacs/competition-t5
+    - https://gitcode.com/opendacs/competition-t4
+    - https://gitcode.com/opendacs/competition-t3
+    - https://gitcode.com/opendacs/competition-t2
+    - https://gitcode.com/opendacs/competition-t1
+    - https://gitcode.com/opendacs/competition2023
+  governance-repositories:
+    repo_urls: []

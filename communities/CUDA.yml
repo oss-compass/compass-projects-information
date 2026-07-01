@@ -28,3 +28,5 @@ resource_types:
   governance-repositories:
     repo_urls:
     - https://github.com/NVIDIA/numba-cuda
+
+  

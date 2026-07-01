@@ -1,0 +1,10 @@
+---
+community_name: forgex
+community_org_url: https://gitee.com/coder_nai/forgex
+community_logo_url: https://gitee.com/coder_nai.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/coder_nai/forgex
+  governance-repositories:
+    repo_urls: []

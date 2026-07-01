@@ -1,0 +1,60 @@
+---
+community_name: fastcaecodebase
+community_org_url: https://gitcode.com/fastcaecodebase
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceStructural
+    - https://gitcode.com/fastcaecodebase/FITKAbaqusRadiossDataMapper
+    - https://gitcode.com/fastcaecodebase/FITKAbaqusData
+    - https://gitcode.com/fastcaecodebase/FITKNastranBDFIO
+    - https://gitcode.com/fastcaecodebase/APPRadioss
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceStructuralPost
+    - https://gitcode.com/fastcaecodebase/FITKRadiossRadIO
+    - https://gitcode.com/fastcaecodebase/FITKRadiossLSDynaTransfer
+    - https://gitcode.com/fastcaecodebase/FITKRadiossDataIOHDF5
+    - https://gitcode.com/fastcaecodebase/FITKRadiossData
+    - https://gitcode.com/fastcaecodebase/FITKGmshMshIO
+    - https://gitcode.com/fastcaecodebase/FITKGmshExeDriver
+    - https://gitcode.com/fastcaecodebase/Tools
+    - https://gitcode.com/fastcaecodebase/AppFlowPHengLEI
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceFlowPHengLEI
+    - https://gitcode.com/fastcaecodebase/FITKCGNSIO
+    - https://gitcode.com/fastcaecodebase/APPFlow
+    - https://gitcode.com/fastcaecodebase/APPCFDPost
+    - https://gitcode.com/fastcaecodebase/APPCADOCC
+    - https://gitcode.com/fastcaecodebase/FITKPython
+    - https://gitcode.com/fastcaecodebase/FITKEasyParam
+    - https://gitcode.com/fastcaecodebase/FITKCore
+    - https://gitcode.com/fastcaecodebase/FITKAppFramework
+    - https://gitcode.com/fastcaecodebase/FITKAdaptor
+    - https://gitcode.com/fastcaecodebase/FITKVTKAlgorithm
+    - https://gitcode.com/fastcaecodebase/FITKInterfacePhysics
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceModel
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceMeshGen
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceMesh
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceIOHDF5
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceIO
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceGeometry
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceGeoIOHDF5
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceFlowOF
+    - https://gitcode.com/fastcaecodebase/FITKInterfaceCFDPost
+    - https://gitcode.com/fastcaecodebase/FITKGeoOCCIOHDF5
+    - https://gitcode.com/fastcaecodebase/FITKCompMessageWidget
+    - https://gitcode.com/fastcaecodebase/FITKFlowOFIOHDF5
+    - https://gitcode.com/fastcaecodebase/FITKFluidVTKGraphAdaptor
+    - https://gitcode.com/fastcaecodebase/FITKGeoCompOCC
+    - https://gitcode.com/fastcaecodebase/FITKMeshGenOF
+    - https://gitcode.com/fastcaecodebase/FITKOCCGraphAdaptor
+    - https://gitcode.com/fastcaecodebase/FITKOFDictWriter
+    - https://gitcode.com/fastcaecodebase/FITKOFDriver
+    - https://gitcode.com/fastcaecodebase/FITKOFMeshIO
+    - https://gitcode.com/fastcaecodebase/FITKPlotWindow
+    - https://gitcode.com/fastcaecodebase/FITKRenderWindowOCC
+    - https://gitcode.com/fastcaecodebase/FITKRenderWindowVTK
+    - https://gitcode.com/fastcaecodebase/FITKWidget
+    - https://gitcode.com/fastcaecodebase/FastCAECodeBase
+    - https://gitcode.com/fastcaecodebase/APPFlow_Training
+  governance-repositories:
+    repo_urls: []

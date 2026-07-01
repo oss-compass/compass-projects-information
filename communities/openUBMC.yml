@@ -1,0 +1,71 @@
+---
+community_name: openUBMC
+community_logo_url:
+community_org_url: https://gitcode.com/openUBMC
+resource_types:
+    software-artifact-repositories:
+        repo_urls:
+         - https://gitcode.com/openUBMC/bcal
+         - https://gitcode.com/openUBMC/skills-marketplace
+         - https://gitcode.com/openUBMC/compute_mgmt
+         - https://gitcode.com/openUBMC/ccf_openubmc
+         - https://gitcode.com/openUBMC/libroute_mapper
+         - https://gitcode.com/openUBMC/libipmi
+         - https://gitcode.com/openUBMC/lcd_console
+         - https://gitcode.com/openUBMC/irc_client
+         - https://gitcode.com/openUBMC/vnc_proxy
+         - https://gitcode.com/openUBMC/dcmid
+         - https://gitcode.com/openUBMC/qemu_mockup
+         - https://gitcode.com/openUBMC/spdm
+         - https://gitcode.com/openUBMC/cmdlets_plugin
+         - https://gitcode.com/openUBMC/zabbix_plugin
+         - https://gitcode.com/openUBMC/nagios_plugin
+         - https://gitcode.com/openUBMC/ansible_plugin
+         - https://gitcode.com/openUBMC/bus_tools
+         - https://gitcode.com/openUBMC/docs
+         - https://gitcode.com/openUBMC/component_drivers
+         - https://gitcode.com/openUBMC/.gitcode
+         - https://gitcode.com/openUBMC/openubmc-ci
+         - https://gitcode.com/openUBMC/QA
+         - https://gitcode.com/openUBMC/observability
+         - https://gitcode.com/openUBMC/qemu
+         - https://gitcode.com/openUBMC/bmc_datasync
+         - https://gitcode.com/openUBMC/libirc
+         - https://gitcode.com/openUBMC/active_standby_mgmt
+         - https://gitcode.com/openUBMC/infrastructure
+         - https://gitcode.com/openUBMC/manifest
+         - https://gitcode.com/openUBMC/bingo
+         - https://gitcode.com/openUBMC/web_online_help
+         - https://gitcode.com/openUBMC/lsw
+         - https://gitcode.com/openUBMC/account
+         - https://gitcode.com/openUBMC/profile_schema
+         - https://gitcode.com/openUBMC/webui
+         - https://gitcode.com/openUBMC/general_hardware
+         - https://gitcode.com/openUBMC/bios
+         - https://gitcode.com/openUBMC/manufacture
+         - https://gitcode.com/openUBMC/thermal_mgmt
+         - https://gitcode.com/openUBMC/pcie_device
+         - https://gitcode.com/openUBMC/storage
+         - https://gitcode.com/openUBMC/power_mgmt
+         - https://gitcode.com/openUBMC/chassis
+         - https://gitcode.com/openUBMC/network_adapter
+         - https://gitcode.com/openUBMC/vpd
+         - https://gitcode.com/openUBMC/rootfs_user
+         - https://gitcode.com/openUBMC/hica
+         - https://gitcode.com/openUBMC/rackmount
+         - https://gitcode.com/openUBMC/frudata
+         - https://gitcode.com/openUBMC/sensor
+         - https://gitcode.com/openUBMC/fructrl
+         - https://gitcode.com/openUBMC/mdb_interface
+         - https://gitcode.com/openUBMC/release_management
+         - https://gitcode.com/openUBMC/libmcpp
+         - https://gitcode.com/openUBMC/devmon
+         - https://gitcode.com/openUBMC/software-center-config
+         - https://gitcode.com/openUBMC/conan_index
+         - https://gitcode.com/openUBMC/iam_lite
+         - https://gitcode.com/openUBMC/rack_mgmt
+    governance-repositories:
+        repo_urls: 
+         - https://gitcode.com/openUBMC/community
+
+    

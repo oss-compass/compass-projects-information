@@ -1,0 +1,13 @@
+---
+community_name: yizuzhihui
+community_org_url: https://gitee.com/yizuzhihui
+community_logo_url: https://gitee.com/yizuzhihui.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/yizuzhihui/bbc-api
+    - https://gitee.com/yizuzhihui/config
+    - https://gitee.com/yizuzhihui/bbc-ui
+    - https://gitee.com/yizuzhihui/mobile-ui
+  governance-repositories:
+    repo_urls: []

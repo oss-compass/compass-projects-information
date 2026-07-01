@@ -1,0 +1,49 @@
+---
+community_name: SmartIDE
+community_org_url: https://github.com/SmartIDE
+community_logo_url: https://github.com/SmartIDE.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/SmartIDE/SmartIDE
+    - https://github.com/SmartIDE/smartcode-lite-demo
+    - https://github.com/SmartIDE/smartide-server-install
+    - https://github.com/SmartIDE/test-itop
+    - https://github.com/SmartIDE/TDengine
+    - https://github.com/SmartIDE/cppvsix
+    - https://github.com/SmartIDE/empty-for-image-test
+    - https://github.com/SmartIDE/smartide-ads-extension
+    - https://github.com/SmartIDE/smartide-web-terminal
+    - https://github.com/SmartIDE/docsy
+    - https://github.com/SmartIDE/sample-anaconda-jupyter
+    - https://github.com/SmartIDE/sample-dapr-traffic-control
+    - https://github.com/SmartIDE/.github
+    - https://github.com/SmartIDE/certs-maker
+    - https://github.com/SmartIDE/smartide-pvc-examples
+    - https://github.com/SmartIDE/opensumi-ide-startup
+    - https://github.com/SmartIDE/eclipse-openvsx
+    - https://github.com/SmartIDE/open-vsx-publish-extensions
+    - https://github.com/SmartIDE/sample-node-opensumi
+    - https://github.com/SmartIDE/sample-node-webstorm
+    - https://github.com/SmartIDE/sample-node-vscode
+    - https://github.com/SmartIDE/sample-java-idea
+    - https://github.com/SmartIDE/sample-java-vscode
+    - https://github.com/SmartIDE/quickstart-webstorm-react-app-demo
+    - https://github.com/SmartIDE/Net6Sample
+    - https://github.com/SmartIDE/RuoYi-Vue
+    - https://github.com/SmartIDE/smartide-tekton-install
+    - https://github.com/SmartIDE/gin-vue-admin
+    - https://github.com/SmartIDE/battle-city-ai
+    - https://github.com/SmartIDE/docsy-example
+    - https://github.com/SmartIDE/Font-Awesome
+    - https://github.com/SmartIDE/bootstrap
+    - https://github.com/SmartIDE/uni-app
+    - https://github.com/SmartIDE/hello-uniapp
+    - https://github.com/SmartIDE/iTop
+    - https://github.com/SmartIDE/smartide-templates
+    - https://github.com/SmartIDE/iTop-ide
+    - https://github.com/SmartIDE/vue-element-admin
+    - https://github.com/SmartIDE/element
+    - https://github.com/SmartIDE/metersphere
+  governance-repositories:
+    repo_urls: []

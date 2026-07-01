@@ -1,0 +1,10 @@
+---
+community_name: xh2874744820
+community_org_url: ''
+community_logo_url: https://gitee.com/xh2874744820.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/xh2874744820/next_code_admin.git
+  governance-repositories:
+    repo_urls: []

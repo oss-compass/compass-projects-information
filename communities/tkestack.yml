@@ -1,0 +1,49 @@
+---
+community_name: tkestack
+community_org_url: https://github.com/tkestack
+community_logo_url: https://github.com/tkestack.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/tkestack/tke-skill
+    - https://github.com/tkestack/tke-playbook
+    - https://github.com/tkestack/tke-playbook-ui
+    - https://github.com/tkestack/tke-chaos-playbook
+    - https://github.com/tkestack/tke-ai-playbook
+    - https://github.com/tkestack/karpenter-provider-tke
+    - https://github.com/tkestack/tke-extend-network-controller
+    - https://github.com/tkestack/cloudindustry-sdk-go
+    - https://github.com/tkestack/gc-controller
+    - https://github.com/tkestack/aia-ip-controller
+    - https://github.com/tkestack/charts
+    - https://github.com/tkestack/knitnet-operator
+    - https://github.com/tkestack/clusternet-webhook-operator
+    - https://github.com/tkestack/ronqir
+    - https://github.com/tkestack/web
+    - https://github.com/tkestack/kubernetes
+    - https://github.com/tkestack/tke-k8s-distro
+    - https://github.com/tkestack/gpu-exporter
+    - https://github.com/tkestack/presto-on-k8s-operator
+    - https://github.com/tkestack/image-transfer
+    - https://github.com/tkestack/website
+    - https://github.com/tkestack/kube-event-watcher
+    - https://github.com/tkestack/kvass
+    - https://github.com/tkestack/yarn-opterator
+    - https://github.com/tkestack/spark-on-k8s-operator
+    - https://github.com/tkestack/flink-on-k8s-operator
+    - https://github.com/tkestack/docs
+    - https://github.com/tkestack/kube-jarvis
+    - https://github.com/tkestack/cron-hpa
+    - https://github.com/tkestack/gpu-admission
+    - https://github.com/tkestack/tke
+    - https://github.com/tkestack/tapp
+    - https://github.com/tkestack/volume-decorator
+    - https://github.com/tkestack/csi-operator
+    - https://github.com/tkestack/lb-controlling-framework
+    - https://github.com/tkestack/go-nvml
+    - https://github.com/tkestack/gpu-manager
+    - https://github.com/tkestack/vcuda-controller
+    - https://github.com/tkestack/galaxy
+    - https://github.com/tkestack/toc
+  governance-repositories:
+    repo_urls: []

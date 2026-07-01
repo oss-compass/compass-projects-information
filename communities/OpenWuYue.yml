@@ -1,0 +1,11 @@
+---
+community_name: OpenWuYue
+community_org_url: https://gitee.com/OpenWuYue
+community_logo_url: https://gitee.com/OpenWuYue.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/OpenWuYue/WuYueSDK
+    - https://gitee.com/OpenWuYue/qcos
+  governance-repositories:
+    repo_urls: []

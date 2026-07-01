@@ -1,0 +1,53 @@
+---
+community_name: RuyiSDK
+community_org_url: https://github.com/ruyisdk
+community_logo_url: https://github.com/ruyisdk.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ruyisdk/board-docs
+    - https://github.com/ruyisdk/ruyisdk-vscode-extension
+    - https://github.com/ruyisdk/ruyisdk-website
+    - https://github.com/ruyisdk/qemu
+    - https://github.com/ruyisdk/docs
+    - https://github.com/ruyisdk/wechat-articles
+    - https://github.com/ruyisdk/packages-index
+    - https://github.com/ruyisdk/riscv-gcc
+    - https://github.com/ruyisdk/ruyisdk
+    - https://github.com/ruyisdk/ruyi-backend
+    - https://github.com/ruyisdk/ruyi
+    - https://github.com/ruyisdk/linux-xuantie-kernel
+    - https://github.com/ruyisdk/ruyisdk-overlay
+    - https://github.com/ruyisdk/ruyisdk-eclipse-plugins
+    - https://github.com/ruyisdk/ruyici
+    - https://github.com/ruyisdk/riscv-binutils
+    - https://github.com/ruyisdk/setup-ruyi-action
+    - https://github.com/ruyisdk/llvm-project
+    - https://github.com/ruyisdk/LuaJIT
+    - https://github.com/ruyisdk/ruyi-packaging
+    - https://github.com/ruyisdk/revyos
+    - https://github.com/ruyisdk/riscv-gnu-toolchain
+    - https://github.com/ruyisdk/ruyi-package-ci
+    - https://github.com/ruyisdk/ruyisdk-eclipse-packages
+    - https://github.com/ruyisdk/support-matrix
+    - https://github.com/ruyisdk/dejagnu
+    - https://github.com/ruyisdk/riscv-gnu-toolchain-rv64ilp32
+    - https://github.com/ruyisdk/k230_linux_sdk
+    - https://github.com/ruyisdk/ruyisdk-xda
+    - https://github.com/ruyisdk/riscv-glibc
+    - https://github.com/ruyisdk/ruyisdk-vscode-extension-archived
+    - https://github.com/ruyisdk/jdk
+    - https://github.com/ruyisdk/openwrt-th1520
+    - https://github.com/ruyisdk/openwrt-eic770x
+    - https://github.com/ruyisdk/linux-xuantie-kernel-test
+    - https://github.com/ruyisdk/dynamorio
+    - https://github.com/ruyisdk/mkimg-k230-rv64ilp32
+    - https://github.com/ruyisdk/k230-rv64ilp32-linux-kernel
+    - https://github.com/ruyisdk/k230-rv64ilp32-opensbi
+    - https://github.com/ruyisdk/k230-rv64ilp32-u-boot
+    - https://github.com/ruyisdk/jdk11u
+    - https://github.com/ruyisdk/demo
+    - https://github.com/ruyisdk/ruyisdk-base
+    - https://github.com/ruyisdk/ruyibuild
+  governance-repositories:
+    repo_urls: []

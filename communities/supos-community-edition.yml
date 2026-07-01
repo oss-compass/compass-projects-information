@@ -1,0 +1,16 @@
+---
+community_name: supos-community-edition
+community_org_url: https://gitee.com/supos-community-edition
+community_logo_url: https://gitee.com/supos-community-edition.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/supos-community-edition/supos-ce-extension
+    - https://gitee.com/supos-community-edition/di
+    - https://gitee.com/supos-community-edition/supos-ce-backend
+    - https://gitee.com/supos-community-edition/supos-ce-deploy
+    - https://gitee.com/supos-community-edition/sup-os-edge
+    - https://gitee.com/supos-community-edition/supos-ce-frontend
+    - https://gitee.com/supos-community-edition/supos-ce-fuxa
+  governance-repositories:
+    repo_urls: []

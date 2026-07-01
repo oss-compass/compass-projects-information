@@ -1,0 +1,80 @@
+---
+community_name: vivoblueos
+community_org_url: https://github.com/vivoblueos
+community_logo_url: https://github.com/vivoblueos.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/vivoblueos/esp-qemu
+    - https://github.com/vivoblueos/qemu
+    - https://github.com/vivoblueos/esp-idf
+    - https://github.com/vivoblueos/llvm-project
+    - https://github.com/vivoblueos/external
+    - https://github.com/vivoblueos/external_rust-ftp
+    - https://github.com/vivoblueos/manifests
+    - https://github.com/vivoblueos/external_spin
+    - https://github.com/vivoblueos/external_bluekernel_crates_io
+    - https://github.com/vivoblueos/book
+    - https://github.com/vivoblueos/build
+    - https://github.com/vivoblueos/external_rust-fatfs
+    - https://github.com/vivoblueos/external_rand_core
+    - https://github.com/vivoblueos/external_rand
+    - https://github.com/vivoblueos/external_stable-deref-trait
+    - https://github.com/vivoblueos/external_smoltcp
+    - https://github.com/vivoblueos/external_heapless
+    - https://github.com/vivoblueos/external_managed
+    - https://github.com/vivoblueos/external_hash32
+    - https://github.com/vivoblueos/external_byteorder
+    - https://github.com/vivoblueos/external_zerocopy-derive
+    - https://github.com/vivoblueos/external_zerocopy
+    - https://github.com/vivoblueos/external_virtio-drivers
+    - https://github.com/vivoblueos/external_safe-mmio
+    - https://github.com/vivoblueos/external_flat_device_tree
+    - https://github.com/vivoblueos/external_enumn
+    - https://github.com/vivoblueos/external_memchr
+    - https://github.com/vivoblueos/external_volatile-register
+    - https://github.com/vivoblueos/external_void
+    - https://github.com/vivoblueos/external_vcell
+    - https://github.com/vivoblueos/external_unicode-ident
+    - https://github.com/vivoblueos/external_tock-registers
+    - https://github.com/vivoblueos/external_thiserror
+    - https://github.com/vivoblueos/external_siphasher
+    - https://github.com/vivoblueos/external_syn
+    - https://github.com/vivoblueos/external_semihosting
+    - https://github.com/vivoblueos/external_scroll_derive
+    - https://github.com/vivoblueos/external_scroll
+    - https://github.com/vivoblueos/external_scopeguard
+    - https://github.com/vivoblueos/external_rust-delegate
+    - https://github.com/vivoblueos/external_quote
+    - https://github.com/vivoblueos/external_phf_macros
+    - https://github.com/vivoblueos/external_phf_generator
+    - https://github.com/vivoblueos/external_phf_shared
+    - https://github.com/vivoblueos/external_phf
+    - https://github.com/vivoblueos/external_proc-macro2
+    - https://github.com/vivoblueos/external_plain
+    - https://github.com/vivoblueos/external_paste
+    - https://github.com/vivoblueos/external_nb
+    - https://github.com/vivoblueos/external_minicov
+    - https://github.com/vivoblueos/external_log
+    - https://github.com/vivoblueos/external_lock_api
+    - https://github.com/vivoblueos/external_goblin
+    - https://github.com/vivoblueos/external_embedded-io
+    - https://github.com/vivoblueos/external_embedded-hal
+    - https://github.com/vivoblueos/external_cortex-m
+    - https://github.com/vivoblueos/external_const-default
+    - https://github.com/vivoblueos/external_cfg-if
+    - https://github.com/vivoblueos/external_bitflags
+    - https://github.com/vivoblueos/external_bitfield
+    - https://github.com/vivoblueos/external_bare-metal
+    - https://github.com/vivoblueos/external_arm-gic
+    - https://github.com/vivoblueos/librs
+    - https://github.com/vivoblueos/kernel
+    - https://github.com/vivoblueos/apps_shell
+    - https://github.com/vivoblueos/apps_example
+    - https://github.com/vivoblueos/vivoblueos.github.io
+    - https://github.com/vivoblueos/cc-rs
+    - https://github.com/vivoblueos/libc
+    - https://github.com/vivoblueos/rust
+    - https://github.com/vivoblueos/toolchain
+  governance-repositories:
+    repo_urls: []

@@ -1,0 +1,12 @@
+---
+community_name: hapjs-org
+community_org_url: https://gitcode.com/hapjs-org
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/hapjs-org/jsenv
+    - https://gitcode.com/hapjs-org/hap-toolkit
+    - https://gitcode.com/hapjs-org/hapjs
+  governance-repositories:
+    repo_urls: []

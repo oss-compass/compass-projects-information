@@ -1,0 +1,95 @@
+---
+community_name: Boostkit
+community_logo_url:
+community_org_url: https://gitcode.com/Boostkit
+resource_types:
+    software-artifact-repositories:
+        repo_urls:
+          - https://gitcode.com/boostkit/pandas
+          - https://gitcode.com/boostkit/numpy
+          - https://gitcode.com/boostkit/malloc-bench
+          - https://gitcode.com/boostkit/AcclibSkills
+          - https://gitcode.com/boostkit/boostida
+          - https://gitcode.com/boostkit/ceph
+          - https://gitcode.com/boostkit/kvrocks
+          - https://gitcode.com/boostkit/Doc
+          - https://gitcode.com/boostkit/suricata
+          - https://gitcode.com/boostkit/tensorrt-llm
+          - https://gitcode.com/boostkit/OmniAdaptor
+          - https://gitcode.com/boostkit/flash-engram
+          - https://gitcode.com/boostkit/LMCache
+          - https://gitcode.com/boostkit/mooncake
+          - https://gitcode.com/boostkit/release-management
+          - https://gitcode.com/boostkit/Security
+          - https://gitcode.com/boostkit/SegmentCache
+          - https://gitcode.com/boostkit/redis-dtoe
+          - https://gitcode.com/boostkit/mysql-gbp
+          - https://gitcode.com/boostkit/reedsolomon
+          - https://gitcode.com/boostkit/rabitq
+          - https://gitcode.com/boostkit/monolith
+          - https://gitcode.com/boostkit/kaot
+          - https://gitcode.com/boostkit/Brotli4j
+          - https://gitcode.com/boostkit/isa-l
+          - https://gitcode.com/boostkit/KDADK-TOOLS
+          - https://gitcode.com/boostkit/QA
+          - https://gitcode.com/boostkit/protobuf
+          - https://gitcode.com/boostkit/KUAF
+          - https://gitcode.com/boostkit/snappy
+          - https://gitcode.com/boostkit/MicroservicesBench
+          - https://gitcode.com/boostkit/cmf
+          - https://gitcode.com/boostkit/ceph_BK
+          - https://gitcode.com/boostkit/ocf
+          - https://gitcode.com/boostkit/mesa
+          - https://gitcode.com/boostkit/Kbox
+          - https://gitcode.com/boostkit/3FS
+          - https://gitcode.com/boostkit/vmi
+          - https://gitcode.com/boostkit/rocksdb
+          - https://gitcode.com/boostkit/hadoop
+          - https://gitcode.com/boostkit/cloud-native
+          - https://gitcode.com/boostkit/zstd
+          - https://gitcode.com/boostkit/lz4
+          - https://gitcode.com/boostkit/KAE
+          - https://gitcode.com/boostkit/spdk
+          - https://gitcode.com/boostkit/gluten
+          - https://gitcode.com/boostkit/cloud-virtual
+          - https://gitcode.com/boostkit/boostkit-bigdata
+          - https://gitcode.com/boostkit/vllm_router
+          - https://gitcode.com/boostkit/vllm-ops
+          - https://gitcode.com/boostkit/boostkit-agreements
+          - https://gitcode.com/boostkit/Redis
+          - https://gitcode.com/boostkit/folly
+          - https://gitcode.com/boostkit/infra
+          - https://gitcode.com/boostkit/.gitcode
+          - https://gitcode.com/boostkit/boost-x
+          - https://gitcode.com/boostkit/waas
+          - https://gitcode.com/boostkit/zlib
+          - https://gitcode.com/boostkit/sonic-cpp
+          - https://gitcode.com/boostkit/kpglibc
+          - https://gitcode.com/boostkit/boostcore
+          - https://gitcode.com/boostkit/opencv
+          - https://gitcode.com/boostkit/ffmpeg
+          - https://gitcode.com/boostkit/libavif
+          - https://gitcode.com/boostkit/libwebp
+          - https://gitcode.com/boostkit/boostmedia
+          - https://gitcode.com/boostkit/boostcph
+          - https://gitcode.com/boostkit/boostvirt
+          - https://gitcode.com/boostkit/postgres
+          - https://gitcode.com/boostkit/milvus
+          - https://gitcode.com/boostkit/boostdb
+          - https://gitcode.com/boostkit/boostsds
+          - https://gitcode.com/boostkit/omnistatestore
+          - https://gitcode.com/boostkit/omnistream
+          - https://gitcode.com/boostkit/omnioperator
+          - https://gitcode.com/boostkit/omniruntime
+          - https://gitcode.com/boostkit/knewpfordelta
+          - https://gitcode.com/boostkit/boostsra
+          - https://gitcode.com/boostkit/kvecturbo
+          - https://gitcode.com/boostkit/faiss
+          - https://gitcode.com/boostkit/hnswlib
+          - https://gitcode.com/boostkit/tensorflow-serving
+          - https://gitcode.com/boostkit/tensorflow
+    governance-repositories:
+        repo_urls: 
+         - https://gitcode.com/Boostkit/community
+
+    

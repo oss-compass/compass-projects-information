@@ -1,0 +1,14 @@
+---
+community_name: PostgreSQL
+community_org_url: https://github.com/PostgreSQL
+community_logo_url: https://github.com/PostgreSQL.png
+resource_types:
+  governance-repositories:
+    repo_urls:
+      - https://github.com/postgres/postgres
+      - https://github.com/postgres/pgweb
+      - https://github.com/postgres/pgcommitfest
+      - https://github.com/postgres/pgarchives
+      - https://github.com/postgres/pgweb-static
+  software-artifact-repositories:
+    repo_urls: []

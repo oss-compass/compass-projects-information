@@ -1,0 +1,15 @@
+---
+community_name: liulian
+community_org_url: ''
+community_logo_url: https://gitee.com/huifeidemangguomao.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/huifeidemangguomao/liulian-plugin
+    - https://gitee.com/mango-cats-upload-assistant/liulian-res-plus
+    - https://gitee.com/huifeidemangguomao/liulian-GroupFriendsClassicspeech
+    - https://gitee.com/huifeidemangguomao/liulian
+    - https://gitee.com/huifeidemangguomao/liulian-res-plus
+    - https://gitee.com/huifeidemangguomao/MangoCat-Yunzai
+  governance-repositories:
+    repo_urls: []

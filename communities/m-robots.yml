@@ -1,0 +1,18 @@
+---
+community_name: m-robots
+community_org_url: https://gitcode.com/m-robots
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/m-robots/third_party_dora
+    - https://gitcode.com/m-robots/robot_docs
+    - https://gitcode.com/m-robots/robot_tools_maestro
+    - https://gitcode.com/m-robots/applications_sample_cqupt_slam
+    - https://gitcode.com/m-robots/robot_tools_rerun_tools
+    - https://gitcode.com/m-robots/robot_tools_ferrium_pkgs
+    - https://gitcode.com/m-robots/robot_tools_ferrium
+    - https://gitcode.com/m-robots/manifest
+    - https://gitcode.com/m-robots/robot_middleware
+  governance-repositories:
+    repo_urls: []

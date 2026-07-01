@@ -1,0 +1,10 @@
+---
+community_name: agiros
+community_org_url: https://gitee.com/agiros
+community_logo_url: https://gitee.com/agiros.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/agiros/agiros
+  governance-repositories:
+    repo_urls: []

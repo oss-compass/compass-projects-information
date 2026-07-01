@@ -1,0 +1,18 @@
+---
+community_name: lejurobot
+community_org_url: https://gitcode.com/lejurobot
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/lejurobot/README
+    - https://gitcode.com/lejurobot/rt88852cu-driver
+    - https://gitcode.com/lejurobot/kuavo-ros-opensource
+    - https://gitcode.com/lejurobot/kuavo_data_challenge_icra
+    - https://gitcode.com/lejurobot/Leju-GMR
+    - https://gitcode.com/lejurobot/LejuLab-Deploy
+    - https://gitcode.com/lejurobot/LejuLab-Train
+    - https://gitcode.com/lejurobot/kuavo-manip-open
+    - https://gitcode.com/lejurobot/kuavo_data_challenge
+  governance-repositories:
+    repo_urls: []

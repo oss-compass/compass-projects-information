@@ -1,0 +1,15 @@
+---
+community_name: geniusaiplatform
+community_org_url: https://gitcode.com/geniusaiplatform
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/geniusaiplatform/reinforce_fe
+    - https://gitcode.com/geniusaiplatform/auth-login
+    - https://gitcode.com/geniusaiplatform/auth_service
+    - https://gitcode.com/geniusaiplatform/UI_Codes
+    - https://gitcode.com/geniusaiplatform/dex
+    - https://gitcode.com/geniusaiplatform/notebook-manager
+  governance-repositories:
+    repo_urls: []

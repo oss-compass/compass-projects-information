@@ -1,0 +1,21 @@
+---
+community_name: open-v2x
+community_org_url: https://github.com/open-v2x
+community_logo_url: https://github.com/open-v2x.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/open-v2x/open3d
+    - https://github.com/open-v2x/omega
+    - https://github.com/open-v2x/lidar
+    - https://github.com/open-v2x/hippocampus
+    - https://github.com/open-v2x/governance
+    - https://github.com/open-v2x/roadmocker
+    - https://github.com/open-v2x/edgeview
+    - https://github.com/open-v2x/centerview
+    - https://github.com/open-v2x/docs
+    - https://github.com/open-v2x/cerebrum
+    - https://github.com/open-v2x/dandelion
+    - https://github.com/open-v2x/.github
+  governance-repositories:
+    repo_urls: []
