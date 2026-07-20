@@ -1,0 +1,27 @@
+---
+community_name: openJiuwen
+community_org_url: https://gitcode.com/openJiuwen
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/openJiuwen/test-sync
+    - https://gitcode.com/openJiuwen/jiuwensymbiosis
+    - https://gitcode.com/openJiuwen/agent-memory
+    - https://gitcode.com/openJiuwen/relay
+    - https://gitcode.com/openJiuwen/agent-runtime-java
+    - https://gitcode.com/openJiuwen/skillhub
+    - https://gitcode.com/openJiuwen/agent-runtime
+    - https://gitcode.com/openJiuwen/jiuwenswarm
+    - https://gitcode.com/openJiuwen/agent-core-java
+    - https://gitcode.com/openJiuwen/deepsearch
+    - https://gitcode.com/openJiuwen/agent-tools
+    - https://gitcode.com/openJiuwen/agent-store
+    - https://gitcode.com/openJiuwen/agent-protocol
+    - https://gitcode.com/openJiuwen/community
+    - https://gitcode.com/openJiuwen/agent-studio
+    - https://gitcode.com/openJiuwen/agent-core
+    - https://gitcode.com/openJiuwen/docs
+    - https://gitcode.com/openJiuwen/.gitcode
+  governance-repositories:
+    repo_urls: []
