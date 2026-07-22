@@ -1,0 +1,91 @@
+---
+community_name: CPF-Cordova
+community_org_url: https://gitcode.com/CPF-Cordova
+community_logo_url:
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/CPF-Cordova/cicd
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-huawei-push
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-navigationbar-color
+    - https://gitcode.com/CPF-Cordova/cordova-hot-code-push-plugin
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-qrscanner
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-spinnerdialog
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-injectview
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-customconfigparameters
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-networkinterface
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-navigationbar
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-app-exit
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-weibosdk
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-qqsdk
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-broadcaster
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-photo-library
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-ble-central
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-local-notification
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-imagepicker
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-contacts
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-themeablebrowser
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-camera-preview
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-ionic-keyboard
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-keyboard
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-mediapicker-dmcsdk
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-nativestorage
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-detect-screenshot
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-privacyscreen
+    - https://gitcode.com/CPF-Cordova/phonegap-plugin-barcodescanner
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-file-md5
+    - https://gitcode.com/CPF-Cordova/cordova-sqlite-storage
+    - https://gitcode.com/CPF-Cordova/cordova-sqlite-evcore-extbuild-free
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-zip
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-baidumaplocation
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-telerik-imagepicker
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-globalization
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-fingerprint-aio
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-x-toast
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-deeplink
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-device-orientation
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-device-motion
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-x-socialsharing
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-advanced-http
+    - https://gitcode.com/CPF-Cordova/jpush-phonegap-plugin
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-jcore
+    - https://gitcode.com/CPF-Cordova/manifest
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-buildinfo
+    - https://gitcode.com/CPF-Cordova/org.devgeeks.canvas2imageplugin
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-canvas2image
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-fullscreen
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-ionic-webview
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-backbutton
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-appminimize
+    - https://gitcode.com/CPF-Cordova/cordova-clipboard
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-badge
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-insomnia
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-filepath
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-adam-alipay
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-alipay-v2
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-app-version
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-appversion
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-file-transfer
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-android-permissions
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-permission
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-whitelist
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-media-capture
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-screen-orientation
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-inappbrowser
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-statusbar
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-battery-status
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-vibration
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-dialogs
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-network-information
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-media
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-file
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-geolocation
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-device
+    - https://gitcode.com/CPF-Cordova/hcordova
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-camera
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-wechat
+    - https://gitcode.com/CPF-Cordova/cordova-plugin-splashscreen
+    - https://gitcode.com/CPF-Cordova/cordova-openharmony
+    - https://gitcode.com/CPF-Cordova/cordova-openharmony-everything
+  governance-repositories:
+    repo_urls: []

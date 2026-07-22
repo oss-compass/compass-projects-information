@@ -5,21 +5,61 @@ community_logo_url:
 resource_types:
   software-artifact-repositories:
     repo_urls:
+    - https://gitcode.com/CPF-KMP-CMP/common-rt
+    - https://gitcode.com/CPF-KMP-CMP/entrance_script
+    - https://gitcode.com/CPF-KMP-CMP/kmp-thirdlibdemo
     - https://gitcode.com/CPF-KMP-CMP/kotlinx-html
     - https://gitcode.com/CPF-KMP-CMP/opentest4k
     - https://gitcode.com/CPF-KMP-CMP/burst
     - https://gitcode.com/CPF-KMP-CMP/assertk
     - https://gitcode.com/CPF-KMP-CMP/TestHelp
     - https://gitcode.com/CPF-KMP-CMP/Stately
+    - https://gitcode.com/CPF-KMP-CMP/.gitcode
+    - https://gitcode.com/CPF-KMP-CMP/kotlinx-crypto
+    - https://gitcode.com/CPF-KMP-CMP/hash
+    - https://gitcode.com/CPF-KMP-CMP/khonshu
+    - https://gitcode.com/CPF-KMP-CMP/SQLiter
+    - https://gitcode.com/CPF-KMP-CMP/pbandk
+    - https://gitcode.com/CPF-KMP-CMP/compottie
+    - https://gitcode.com/CPF-KMP-CMP/uuid
+    - https://gitcode.com/CPF-KMP-CMP/multiplatform-paging
+    - https://gitcode.com/CPF-KMP-CMP/FlowRedux
+    - https://gitcode.com/CPF-KMP-CMP/Kermit
+    - https://gitcode.com/CPF-KMP-CMP/WhatIf
+    - https://gitcode.com/CPF-KMP-CMP/moko-mvvm
     - https://gitcode.com/CPF-KMP-CMP/kotlinx-atomicfu
+    - https://gitcode.com/CPF-KMP-CMP/workflow-kotlin
+    - https://gitcode.com/CPF-KMP-CMP/KMP-NativeCoroutines
+    - https://gitcode.com/CPF-KMP-CMP/moko-resources
+    - https://gitcode.com/CPF-KMP-CMP/kotlinx.collections.immutable
+    - https://gitcode.com/CPF-KMP-CMP/kotlinx-io
+    - https://gitcode.com/CPF-KMP-CMP/haze
+    - https://gitcode.com/CPF-KMP-CMP/multiplatform-settings
+    - https://gitcode.com/CPF-KMP-CMP/docs
+    - https://gitcode.com/CPF-KMP-CMP/molecule
     - https://gitcode.com/CPF-KMP-CMP/kotlinx-datetime
+    - https://gitcode.com/CPF-KMP-CMP/turbine
+    - https://gitcode.com/CPF-KMP-CMP/Kodein
+    - https://gitcode.com/CPF-KMP-CMP/wire
+    - https://gitcode.com/CPF-KMP-CMP/androidx
+    - https://gitcode.com/CPF-KMP-CMP/kotlinx-serialization
+    - https://gitcode.com/CPF-KMP-CMP/arrow
+    - https://gitcode.com/CPF-KMP-CMP/sqldelight
+    - https://gitcode.com/CPF-KMP-CMP/okio
+    - https://gitcode.com/CPF-KMP-CMP/koin
+    - https://gitcode.com/CPF-KMP-CMP/koin-annotations
+    - https://gitcode.com/CPF-KMP-CMP/coil
     - https://gitcode.com/CPF-KMP-CMP/kotlinx-coroutines
     - https://gitcode.com/CPF-KMP-CMP/ktor
     - https://gitcode.com/CPF-KMP-CMP/skia-pack
     - https://gitcode.com/CPF-KMP-CMP/skia
-    - https://gitcode.com/CPF-KMP-CMP/interop-arkts
+    - https://gitcode.com/CPF-KMP-CMP/akinterop
+    - https://gitcode.com/CPF-KMP-CMP/arkts-plugin
+    - https://gitcode.com/CPF-KMP-CMP/ohos-kmp-toolchain
+    - https://gitcode.com/CPF-KMP-CMP/llvm-project
     - https://gitcode.com/CPF-KMP-CMP/fusion-render
     - https://gitcode.com/CPF-KMP-CMP/compose-multiplatform-core
+    - https://gitcode.com/CPF-KMP-CMP/kmp-cmp-example
     - https://gitcode.com/CPF-KMP-CMP/compose-multiplatform
     - https://gitcode.com/CPF-KMP-CMP/kotlin
     - https://gitcode.com/CPF-KMP-CMP/skiko

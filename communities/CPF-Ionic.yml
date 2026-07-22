@@ -1,0 +1,58 @@
+---
+community_name: CPF-Ionic
+community_org_url: https://gitcode.com/CPF-Ionic
+community_logo_url:
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitcode.com/CPF-Ionic/capacitor-native-settings
+    - https://gitcode.com/CPF-Ionic/ionic-native-file-opener
+    - https://gitcode.com/CPF-Ionic/ionic-native-pdf-generator
+    - https://gitcode.com/CPF-Ionic/ionic-native-android-permissions
+    - https://gitcode.com/CPF-Ionic/ionic-native-network
+    - https://gitcode.com/CPF-Ionic/ionic-native-keyboard
+    - https://gitcode.com/CPF-Ionic/ionic-native-clipboard
+    - https://gitcode.com/CPF-Ionic/ionic-native-camera
+    - https://gitcode.com/CPF-Ionic/ionic-native-app-version
+    - https://gitcode.com/CPF-Ionic/ionic-native-file-transfer
+    - https://gitcode.com/CPF-Ionic/ionic-native-device
+    - https://gitcode.com/CPF-Ionic/ionic-native-in-app-browser
+    - https://gitcode.com/CPF-Ionic/ionic-native-file
+    - https://gitcode.com/CPF-Ionic/ionic-native-splash-screen
+    - https://gitcode.com/CPF-Ionic/ionic-native-status-bar
+    - https://gitcode.com/CPF-Ionic/ionic-readme
+    - https://gitcode.com/CPF-Ionic/capacitor-screen-orientation
+    - https://gitcode.com/CPF-Ionic/capacitor-privacy-screen
+    - https://gitcode.com/CPF-Ionic/capacitor-preferences
+    - https://gitcode.com/CPF-Ionic/capacitor-motion
+    - https://gitcode.com/CPF-Ionic/capacitor-local-notifications
+    - https://gitcode.com/CPF-Ionic/capacitor-inappbrowser
+    - https://gitcode.com/CPF-Ionic/capacitor-file-viewer
+    - https://gitcode.com/CPF-Ionic/capacitor-file-transfer
+    - https://gitcode.com/CPF-Ionic/capacitor-cli
+    - https://gitcode.com/CPF-Ionic/cicd
+    - https://gitcode.com/CPF-Ionic/capacitor-haptics
+    - https://gitcode.com/CPF-Ionic/capacitor-geolocation
+    - https://gitcode.com/CPF-Ionic/capacitor-clipboard
+    - https://gitcode.com/CPF-Ionic/capacitor-app-launcher
+    - https://gitcode.com/CPF-Ionic/capacitor-barcode-scanner
+    - https://gitcode.com/CPF-Ionic/capacitor-keyboard
+    - https://gitcode.com/CPF-Ionic/capacitor-filesystem
+    - https://gitcode.com/CPF-Ionic/capacitor-device
+    - https://gitcode.com/CPF-Ionic/capacitor-camera
+    - https://gitcode.com/CPF-Ionic/capacitor-browser
+    - https://gitcode.com/CPF-Ionic/capacitor-app
+    - https://gitcode.com/CPF-Ionic/capacitor-toast
+    - https://gitcode.com/CPF-Ionic/capacitor-splash-screen
+    - https://gitcode.com/CPF-Ionic/capacitor-screen-reader
+    - https://gitcode.com/CPF-Ionic/capacitor-dialog
+    - https://gitcode.com/CPF-Ionic/capacitor-action-sheet
+    - https://gitcode.com/CPF-Ionic/capacitor-text-zoom
+    - https://gitcode.com/CPF-Ionic/capacitor-status-bar
+    - https://gitcode.com/CPF-Ionic/capacitor-share
+    - https://gitcode.com/CPF-Ionic/capacitor-network
+    - https://gitcode.com/CPF-Ionic/capacitor-push-notifications
+    - https://gitcode.com/CPF-Ionic/openHarmony-capacitor
+    - https://gitcode.com/CPF-Ionic/manifest
+  governance-repositories:
+    repo_urls: []
