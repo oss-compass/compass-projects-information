@@ -1,0 +1,41 @@
+---
+community_name: CUDA-core
+community_org_url: ''
+community_logo_url: https://github.com/NVIDIA.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/NVIDIA/cutlass
+    - https://github.com/NVIDIA/cuda-tile
+    - https://github.com/NVIDIA/tilus
+    - https://github.com/NVIDIA/numba-cuda
+    - https://github.com/NVIDIA/numbast
+    - https://github.com/NVIDIA/jitify
+    - https://github.com/NVIDIA/cccl
+    - https://github.com/NVIDIA/cuCollections
+    - https://github.com/NVIDIA/MatX
+    - https://github.com/NVIDIA/cuEmbed
+    - https://github.com/NVIDIA/AMGX
+    - https://github.com/NVIDIA/cuPQC
+    - https://github.com/NVIDIA/nccl
+    - https://github.com/NVIDIA/nvshmem
+    - https://github.com/NVIDIA/nccl-tests
+    - https://github.com/NVIDIA/cuda-gdb
+    - https://github.com/NVIDIA/cuda-checkpoint
+    - https://github.com/NVIDIA/nsight-vscode-edition
+    - https://github.com/NVIDIA/nvbench
+    - https://github.com/NVIDIA/compute-eval
+    - https://github.com/NVIDIA/open-gpu-kernel-modules
+    - https://github.com/NVIDIA/cuda-python
+    - https://github.com/NVIDIA/warp
+    - https://github.com/NVIDIA/TransformerEngine
+    - https://github.com/NVIDIA/cudnn-frontend
+    - https://github.com/NVIDIA/cuda-quantum
+    - https://github.com/NVIDIA/cudaqx
+    - https://github.com/NVIDIA/cuQuantum
+    - https://github.com/NVIDIA/nvImageCodec
+
+  governance-repositories:
+    repo_urls: []
+
+  
