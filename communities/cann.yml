@@ -5,16 +5,42 @@ community_logo_url: https://github.com/cann.png
 resource_types:
   software-artifact-repositories:
     repo_urls:
+      - https://gitcode.com/cann/ops-gnn
+      - https://gitcode.com/cann/ops-multimodal-fusion
+      - https://gitcode.com/cann/docs
+      - https://gitcode.com/cann/ops-test-kit
+      - https://gitcode.com/cann/cann-outreach
+      - https://gitcode.com/cann/cann-launch-camp
+      - https://gitcode.com/cann/pypto-gym
+      - https://gitcode.com/cann/xla-npu
+      - https://gitcode.com/cann/cmake
+      - https://gitcode.com/cann/tensorflow
+      - https://gitcode.com/cann/ops-collections
+      - https://gitcode.com/cann/cann-bench
+      - https://gitcode.com/cann/.gitcode
+      - https://gitcode.com/cann/cann-ops-competitions
+      - https://gitcode.com/cann/cannbot-skills
+      - https://gitcode.com/cann/cann-spack-package
+      - https://gitcode.com/cann/asnumpy-docs
       - https://gitcode.com/cann/elec-ops-inspection
       - https://gitcode.com/cann/elec-ops-prediction
       - https://gitcode.com/cann/elec-ops-simulation
+      - https://gitcode.com/cann/catccos
+      - https://gitcode.com/cann/cann-learning-hub
       - https://gitcode.com/cann/mat-chem-sim-pred
+      - https://gitcode.com/cann/torchtitan-npu
+      - https://gitcode.com/cann/ops-rand
+      - https://gitcode.com/cann/ops-fft
+      - https://gitcode.com/cann/ops-tensor
+      - https://gitcode.com/cann/ops-solver
+      - https://gitcode.com/cann/ops-sparse
+      - https://gitcode.com/cann/ops-blas
       - https://gitcode.com/cann/pto-isa
       - https://gitcode.com/cann/ge
       - https://gitcode.com/cann/metadef
       - https://gitcode.com/cann/runtime
       - https://gitcode.com/cann/driver
-      - https://gitcode.com/cann/ops-samples
+      - https://gitcode.com/cann/cann-samples
       - https://gitcode.com/cann/oam-tools
       - https://gitcode.com/cann/amct
       - https://gitcode.com/cann/pypto
@@ -37,15 +63,17 @@ resource_types:
       - https://gitcode.com/cann/ops-math
       - https://gitcode.com/cann/opbase
       - https://gitcode.com/cann/cann-recipes-infer
+      - https://gitcode.com/cann/community
       - https://gitcode.com/cann/catlass
       - https://gitcode.com/cann/cann-agreements
       - https://gitcode.com/cann/ascend-boost-comm
       - https://gitcode.com/cann/ascend-transformer-boost
       - https://gitcode.com/cann/atvoss
       - https://gitcode.com/cann/cann-recipes-harmony-infer
-      - https://gitcode.com/cann/cann-recipes-embodied-intelligence
+      - https://gitcode.com/cann/cann-recipes-embodied-ai
       - https://gitcode.com/cann/cann-recipes-spatial-intelligence
       - https://gitcode.com/cann/cann-recipes-train
+      - https://gitcode.com/cann/manifest
       - https://gitcode.com/cann/release-management
   governance-repositories:
     repo_urls:
