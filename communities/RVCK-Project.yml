@@ -1,0 +1,14 @@
+---
+community_name: RVCK-Project
+community_logo_url: 
+community_org_url: https://github.com/RVCK-Project.png
+resource_types:
+    software-artifact-repositories:
+        repo_urls: 
+        - https://github.com/RVCK-Project/rvck
+        - https://github.com/RVCK-Project/lavaci
+        - https://github.com/RVCK-Project/rvck-olk
+        - https://github.com/RVCK-Project/.github
+    governance-repositories:
+        repo_urls: []
+    
