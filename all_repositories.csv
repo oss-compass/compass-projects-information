@@ -1173,18 +1173,33 @@ https://gitcode.com/Cangjie-TPC/yaml4cj
 https://gitcode.com/Cangjie-TPC/zlib4cj
 https://gitcode.com/Cangjie/Cangjie-Examples
 https://gitcode.com/Cangjie/CangjieCommunity
+https://gitcode.com/Cangjie/CangjieCorpus
+https://gitcode.com/Cangjie/CangjieMagic-Examples
+https://gitcode.com/Cangjie/Exercises
 https://gitcode.com/Cangjie/HarmonyOS-Cangjie-Cases
 https://gitcode.com/Cangjie/HarmonyOS-Examples
+https://gitcode.com/Cangjie/Learning
+https://gitcode.com/Cangjie/Task
 https://gitcode.com/Cangjie/UsersForum
+https://gitcode.com/Cangjie/cangjie-stdx-bin
 https://gitcode.com/Cangjie/cangjie_build
 https://gitcode.com/Cangjie/cangjie_compiler
+https://gitcode.com/Cangjie/cangjie_debug_adapter
+https://gitcode.com/Cangjie/cangjie_deveco_plugins
 https://gitcode.com/Cangjie/cangjie_docs
+https://gitcode.com/Cangjie/cangjie_js_interop
+https://gitcode.com/Cangjie/cangjie_manifest
+https://gitcode.com/Cangjie/cangjie_multiplatform_interop
+https://gitcode.com/Cangjie/cangjie_python_interop
 https://gitcode.com/Cangjie/cangjie_runtime
 https://gitcode.com/Cangjie/cangjie_stdx
 https://gitcode.com/Cangjie/cangjie_test
 https://gitcode.com/Cangjie/cangjie_test_framework
 https://gitcode.com/Cangjie/cangjie_tools
+https://gitcode.com/Cangjie/community
 https://gitcode.com/Cangjie/llvm-project
+https://gitcode.com/Cangjie/nightly_build
+https://gitcode.com/Cangjie/proposal
 https://gitcode.com/Cantian/Cantian
 https://gitcode.com/ChatLab/ChatLab
 https://gitcode.com/CherryHQ/cherry-studio
@@ -1757,6 +1772,7 @@ https://gitcode.com/c30c30cc/intel-briefing
 https://gitcode.com/caiyangyang007/springreport
 https://gitcode.com/cann/.gitcode
 https://gitcode.com/cann/amct
+https://gitcode.com/cann/asc-comm
 https://gitcode.com/cann/asc-devkit
 https://gitcode.com/cann/asc-tools
 https://gitcode.com/cann/ascend-boost-comm
@@ -1790,6 +1806,7 @@ https://gitcode.com/cann/driver
 https://gitcode.com/cann/elec-ops-inspection
 https://gitcode.com/cann/elec-ops-prediction
 https://gitcode.com/cann/elec-ops-simulation
+https://gitcode.com/cann/gauss-splat
 https://gitcode.com/cann/ge
 https://gitcode.com/cann/graph-autofusion
 https://gitcode.com/cann/hccl
@@ -1810,6 +1827,7 @@ https://gitcode.com/cann/ops-math
 https://gitcode.com/cann/ops-multimodal-fusion
 https://gitcode.com/cann/ops-nn
 https://gitcode.com/cann/ops-rand
+https://gitcode.com/cann/ops-ras
 https://gitcode.com/cann/ops-samples
 https://gitcode.com/cann/ops-solver
 https://gitcode.com/cann/ops-sparse
@@ -2274,6 +2292,7 @@ https://gitcode.com/meituan-longcat/LongCat-Video-code
 https://gitcode.com/microi-net/microi.net
 https://gitcode.com/mindskip/xzs
 https://gitcode.com/mindskip/xzs-mysql
+https://gitcode.com/mindspore/.atomgit
 https://gitcode.com/mindspore/.gitcode
 https://gitcode.com/mindspore/akg
 https://gitcode.com/mindspore/community
@@ -2502,8 +2521,14 @@ https://gitcode.com/open-vela/docs
 https://gitcode.com/open-vela/frameworks
 https://gitcode.com/open-vela/packages
 https://gitcode.com/openFuyao/InferNex
+https://gitcode.com/openFuyao/OmniOperator
 https://gitcode.com/openFuyao/bke-console-service
 https://gitcode.com/openFuyao/kubernetes
+https://gitcode.com/openFuyao/npu-driver-installer
+https://gitcode.com/openFuyao/sig-distributed-framework
+https://gitcode.com/openFuyao/sig-ub-enable
+https://gitcode.com/openFuyao/ub-network-bandwidth-operator
+https://gitcode.com/openFuyao/ubs-k8s-enable
 https://gitcode.com/openHiTLS/NssMPClib
 https://gitcode.com/openHiTLS/openHiTLS
 https://gitcode.com/openHiTLS/openHiTLS-examples
@@ -2823,6 +2848,7 @@ https://gitcode.com/openeuler/ctdeployer
 https://gitcode.com/openeuler/ctforge
 https://gitcode.com/openeuler/cu-cockpit
 https://gitcode.com/openeuler/cu-concrete
+https://gitcode.com/openeuler/cu-dnf
 https://gitcode.com/openeuler/cu-scanner
 https://gitcode.com/openeuler/curl-rust
 https://gitcode.com/openeuler/custom_build_tool
@@ -2894,6 +2920,7 @@ https://gitcode.com/openeuler/expert-kit
 https://gitcode.com/openeuler/extfuse
 https://gitcode.com/openeuler/extuner
 https://gitcode.com/openeuler/fastblock
+https://gitcode.com/openeuler/fgds
 https://gitcode.com/openeuler/ft_engine
 https://gitcode.com/openeuler/ft_flutter
 https://gitcode.com/openeuler/ft_mmi
@@ -3069,6 +3096,7 @@ https://gitcode.com/openeuler/liteview
 https://gitcode.com/openeuler/llm_solution
 https://gitcode.com/openeuler/llvm-project
 https://gitcode.com/openeuler/llvm-ub
+https://gitcode.com/openeuler/luban-sculpt
 https://gitcode.com/openeuler/lxcfs-tools
 https://gitcode.com/openeuler/lzu-icc-nsg
 https://gitcode.com/openeuler/m1600-driver
@@ -3180,6 +3208,7 @@ https://gitcode.com/openeuler/os-compat-analyzer
 https://gitcode.com/openeuler/osinfor
 https://gitcode.com/openeuler/pacemaker-mgmt
 https://gitcode.com/openeuler/package-reinforce-test
+https://gitcode.com/openeuler/panda
 https://gitcode.com/openeuler/passwd_group_generator
 https://gitcode.com/openeuler/patch-tracking
 https://gitcode.com/openeuler/paws
@@ -3424,6 +3453,7 @@ https://gitcode.com/openeuler/yuanrong-serve
 https://gitcode.com/openeuler/yunyi
 https://gitcode.com/openeuler/zephyr-cn
 https://gitcode.com/openeuler/zvm
+https://gitcode.com/opengauss/.atomgit
 https://gitcode.com/opengauss/.gitcode
 https://gitcode.com/opengauss/Blockchain
 https://gitcode.com/opengauss/CBB
@@ -5261,8 +5291,10 @@ https://gitcode.com/openharmony/distributedschedule_samgr
 https://gitcode.com/openharmony/distributedschedule_samgr_lite
 https://gitcode.com/openharmony/distribution
 https://gitcode.com/openharmony/docs
+https://gitcode.com/openharmony/docs_cangjie
 https://gitcode.com/openharmony/drivers_adapter
 https://gitcode.com/openharmony/drivers_adapter_khdf_linux
+https://gitcode.com/openharmony/drivers_external_device_manager
 https://gitcode.com/openharmony/drivers_framework
 https://gitcode.com/openharmony/drivers_hdf_core
 https://gitcode.com/openharmony/drivers_interface
@@ -5328,6 +5360,7 @@ https://gitcode.com/openharmony/js_worker_module
 https://gitcode.com/openharmony/kernel_common_modules_newip
 https://gitcode.com/openharmony/kernel_linux
 https://gitcode.com/openharmony/kernel_linux_5.10
+https://gitcode.com/openharmony/kernel_linux_6.6
 https://gitcode.com/openharmony/kernel_linux_build
 https://gitcode.com/openharmony/kernel_linux_common_modules
 https://gitcode.com/openharmony/kernel_linux_config
@@ -5787,6 +5820,7 @@ https://gitcode.com/openharmony/vendor_talkweb
 https://gitcode.com/openharmony/vendor_telink
 https://gitcode.com/openharmony/vendor_unionman
 https://gitcode.com/openharmony/web_webview
+https://gitcode.com/openharmony/window_window_cangjie_wrapper
 https://gitcode.com/openharmony/window_window_manager
 https://gitcode.com/openharmony/window_window_manager_lite
 https://gitcode.com/openharmony/windowmanager
@@ -6189,6 +6223,7 @@ https://gitee.com/0X00000000/PingPangChat
 https://gitee.com/0X00000000/WebServicesPlatForm
 https://gitee.com/0hi/HandHospital
 https://gitee.com/0ldm0s/VeryNginx
+https://gitee.com/0x0021/Linkora
 https://gitee.com/0x0021/newBlog_me
 https://gitee.com/0xsky/libredis-client
 https://gitee.com/0xsky/xhttpcache
@@ -7403,6 +7438,7 @@ https://gitee.com/Foldcc/MintAnimation
 https://gitee.com/Foldcc/ToffeeHttp
 https://gitee.com/Foldcc/UConfig
 https://gitee.com/Foldcc/UJCat
+https://gitee.com/ForTheDream/apkgo
 https://gitee.com/For_Love/RecycleviewBase
 https://gitee.com/ForteScarlet/CQ-LEMOC-FOR-JAVA
 https://gitee.com/ForteScarlet/CatCode
@@ -9945,6 +9981,7 @@ https://gitee.com/agileai/aeaicrm
 https://gitee.com/agileai/aeaihr
 https://gitee.com/agileai/aeaiwm
 https://gitee.com/agiros/AimRT
+https://gitee.com/agiros/EmbodiedReasoner
 https://gitee.com/agiros/agiros
 https://gitee.com/agiros/alphaplatform
 https://gitee.com/agiros/travodds
@@ -13145,6 +13182,7 @@ https://gitee.com/cnt-code/bounce-chat
 https://gitee.com/cnt-code/cogito-agent
 https://gitee.com/cnt-code/ergalics-studio
 https://gitee.com/cnt-code/filevibe
+https://gitee.com/cnt-code/node-verdict
 https://gitee.com/cntaige/QuickCompanyCollect
 https://gitee.com/cntaige/TinyCatPHP
 https://gitee.com/cnwhy/BitMatrix
@@ -14767,6 +14805,7 @@ https://gitee.com/easyj-projects/easyj
 https://gitee.com/easylin/dhis2-android-capture-app
 https://gitee.com/easylin/osTicket
 https://gitee.com/easymenu/SunmiLauncher
+https://gitee.com/easynet/batata
 https://gitee.com/easypage/easypage
 https://gitee.com/easyswoole/easyswoole
 https://gitee.com/easytuan/ionic-cordova-demo
@@ -16603,6 +16642,7 @@ https://gitee.com/hailiang-wang/cordova-ios-emailcomposer
 https://gitee.com/hailingr/sooolink_enterprise_messenger_client
 https://gitee.com/hailongqiu/sanrenxing
 https://gitee.com/hailunfei/YiGeFeiChangJianJieDeWangLuoLianJieChi
+https://gitee.com/haiming236/openprint
 https://gitee.com/hainuo/markdownforchanzhi
 https://gitee.com/hainuo/rust-ebook
 https://gitee.com/haison/jWAF
@@ -17888,6 +17928,7 @@ https://gitee.com/iceui/iceui
 https://gitee.com/iceup/yaf-ext
 https://gitee.com/icewhale-team/CasaOS
 https://gitee.com/icewood/icewood
+https://gitee.com/icey_1/root-seeker-v2
 https://gitee.com/icfyl/React-Native-Music
 https://gitee.com/icfyl/ReactNative-Weixin
 https://gitee.com/ichaoo/niushop
@@ -18843,6 +18884,7 @@ https://gitee.com/jeffreyning/micro-mvc
 https://gitee.com/jeffreyning/mybatisplus-plus
 https://gitee.com/jeffreyning/nh-aop-logging
 https://gitee.com/jeffreyning/nh-micro
+https://gitee.com/jeffstric/zjt
 https://gitee.com/jeffxu/tianti
 https://gitee.com/jeffyan2000/Adapted-game-snake
 https://gitee.com/jeffz615/auto_bili_recorder
@@ -19388,6 +19430,7 @@ https://gitee.com/judgeou/popBox
 https://gitee.com/juebanlin/sniff4j
 https://gitee.com/juebanlin/util4j
 https://gitee.com/juefeng_com/xPlugin
+https://gitee.com/juejin-cn/juejin-usage
 https://gitee.com/juejin-im/open-source
 https://gitee.com/juejin-im/open-source-translation
 https://gitee.com/juejinwuyang/memberclub
@@ -20156,6 +20199,7 @@ https://gitee.com/lanfei/yeelight-led
 https://gitee.com/lanfengye2002/task_url
 https://gitee.com/lang3/react-vant
 https://gitee.com/lang_junnan/dataprocess
+https://gitee.com/langchat/deepseek-harness-desktop
 https://gitee.com/langchat/langchat
 https://gitee.com/langchat/langchat-slides
 https://gitee.com/langhuihui/Imprint-genetics
@@ -21489,6 +21533,7 @@ https://gitee.com/luowentao/video_web
 https://gitee.com/luoyaosheng/smart-ble
 https://gitee.com/luoyaosheng/smart-ble-i-os
 https://gitee.com/luoyedao/zdops
+https://gitee.com/luoyu318/wanling
 https://gitee.com/luoyu_gitee/pygame
 https://gitee.com/luozheng216/GmailLikePullToRefresh
 https://gitee.com/lupyuen/LoRaMac-node-nuttx
@@ -48170,6 +48215,7 @@ https://gitee.com/openter/custom-db-orm
 https://gitee.com/opentiny/ng
 https://gitee.com/opentiny/tiny-engine
 https://gitee.com/opentiny/tiny-vue
+https://gitee.com/opentiny/tiny-vue-theme
 https://gitee.com/opentsn/network-intelligent-perception
 https://gitee.com/opentsn/open-tsn4.0
 https://gitee.com/opentsn/openTSN_2.0
@@ -48311,6 +48357,7 @@ https://gitee.com/oufu/of-admin-boot
 https://gitee.com/oufu/of-weixin-api
 https://gitee.com/oufu/ofcms
 https://gitee.com/ouliuying/bgserver
+https://gitee.com/ouliuying/rustcam
 https://gitee.com/ouo9527/data-mask
 https://gitee.com/ousikongjian/pyblog
 https://gitee.com/ousinka/be-runner-sftp
@@ -48924,6 +48971,7 @@ https://gitee.com/ppnt/antx-chat-ui
 https://gitee.com/ppnt/playwright-go-server
 https://gitee.com/ppnt/py-jina-embeddings-server
 https://gitee.com/ppnt/tauri-deepseek
+https://gitee.com/ppnt/tauri-deepseek-harness
 https://gitee.com/ppnt/tauri-qwen
 https://gitee.com/ppnt/tio-boot
 https://gitee.com/ppnt/winform-ffmpeg-video-convert-audio
@@ -49146,6 +49194,7 @@ https://gitee.com/qing-lkyi/ohos_jsbridge
 https://gitee.com/qing-lkyi/webtabs_lab
 https://gitee.com/qinganan_admin/PyCom
 https://gitee.com/qinganan_admin/Pyside6_TOOL
+https://gitee.com/qingefable/lark
 https://gitee.com/qingfeng346/Scorpio-CSharp
 https://gitee.com/qingfeng346/Scorpio-Java
 https://gitee.com/qingfengtaizi/smartwx-boot
@@ -49373,6 +49422,7 @@ https://gitee.com/rahman/abu-coder-ruoyi-uniapp-wx
 https://gitee.com/rahman/select-cours
 https://gitee.com/railph/Telink_825X_SDK
 https://gitee.com/railph/Telink_SIG_Mesh
+https://gitee.com/rain6fish/KeelBase
 https://gitee.com/rainDreamer/ZuMaFight
 https://gitee.com/rainOver/uvcCamera
 https://gitee.com/rainbond/Rainbond
@@ -85610,6 +85660,10 @@ https://github.com/ClickHouse/ClickHouse
 https://github.com/ClickHouse/clickhouse-cpp
 https://github.com/ClickHouse/clickhouse-jdbc
 https://github.com/ClickHouse/clickhouse-rs
+https://github.com/ClickHouse/deltalake-cdc
+https://github.com/ClickHouse/pcodec
+https://github.com/ClickHouse/terraform-byoc-onboarding
+https://github.com/ClickHouse/thrift
 https://github.com/CliffHan/lane
 https://github.com/CliffHan/serva
 https://github.com/CliffLeopard/AutoCropper
@@ -110567,6 +110621,7 @@ https://github.com/aepsil0n/benzene-2d
 https://github.com/aepsil0n/carboxyl-cli
 https://github.com/aepsil0n/carboxyl_time
 https://github.com/aeraki-mesh/aeraki
+https://github.com/aeraki-mesh/dubbo2istio
 https://github.com/aeraki-mesh/kafka-zookeeper-envoyfilter-example
 https://github.com/aeraki-mesh/method-level-tracing-with-istio
 https://github.com/aergonaut/owners-rs
@@ -121232,6 +121287,25 @@ https://github.com/candotti/GiphyPicker
 https://github.com/candunc/roosterteeth-rs
 https://github.com/candy-chat/candy
 https://github.com/candy-lang/candy
+https://github.com/cangjielanguage/Exercises
+https://github.com/cangjielanguage/HarmonyOS-Cangjie-Cases
+https://github.com/cangjielanguage/Task
+https://github.com/cangjielanguage/UsersForum
+https://github.com/cangjielanguage/cangjie-stdx-bin
+https://github.com/cangjielanguage/cangjie_build
+https://github.com/cangjielanguage/cangjie_compiler
+https://github.com/cangjielanguage/cangjie_deveco_plugins
+https://github.com/cangjielanguage/cangjie_docs
+https://github.com/cangjielanguage/cangjie_manifest
+https://github.com/cangjielanguage/cangjie_multiplatform_interop
+https://github.com/cangjielanguage/cangjie_python_interop
+https://github.com/cangjielanguage/cangjie_runtime
+https://github.com/cangjielanguage/cangjie_stdx
+https://github.com/cangjielanguage/cangjie_test_framework
+https://github.com/cangjielanguage/cangjie_tools
+https://github.com/cangjielanguage/community
+https://github.com/cangjielanguage/nightly_build
+https://github.com/cangjielanguage/proposal
 https://github.com/cangzhang/champ-r
 https://github.com/canhub/android-image-cropper
 https://github.com/canjs/canjs
@@ -154557,6 +154631,7 @@ https://github.com/jettify/streamhist
 https://github.com/jettify/uddsketch
 https://github.com/jettison-json/jettison
 https://github.com/jetty-project/jasper-jsp
+https://github.com/jetty/jetty-website
 https://github.com/jetty/jetty.project
 https://github.com/jettycloud/nvidia-riva-rs
 https://github.com/jeudine/NS16550A
@@ -159700,6 +159775,7 @@ https://github.com/kuangshp/nestjs-mysql-api
 https://github.com/kuankuanlv/kuankuanlv.github.io
 https://github.com/kuasar-io/Kuasar
 https://github.com/kuasar-io/kuasar
+https://github.com/kuasar-io/rust-extensions
 https://github.com/kuasar-io/web
 https://github.com/kuba--/zip
 https://github.com/kubasn/FEM-simulation-app
@@ -159757,6 +159833,7 @@ https://github.com/kubernetes-sigs/kui
 https://github.com/kubernetes-sigs/kwok
 https://github.com/kubernetes-sigs/yaml
 https://github.com/kubernetes/Kubernetes
+https://github.com/kubernetes/api
 https://github.com/kubernetes/apimachinery
 https://github.com/kubernetes/cloud-provider-openstack
 https://github.com/kubernetes/code-generator
@@ -168443,8 +168520,10 @@ https://github.com/minio/mc
 https://github.com/minio/minio
 https://github.com/minio/minio-dotnet
 https://github.com/minio/minio-java
+https://github.com/minio/minio-jenkins
 https://github.com/minio/minio-py
 https://github.com/minio/minio-rs
+https://github.com/minio/minio-service
 https://github.com/minio/minsql
 https://github.com/minio/warp
 https://github.com/minioin/activities
@@ -173075,6 +173154,8 @@ https://github.com/open-mmlab/mmyolo
 https://github.com/open-mmlab/playground
 https://github.com/open-mpi/hwloc
 https://github.com/open-mpi/ompi
+https://github.com/open-mpi/pyhwloc
+https://github.com/open-mpi/svn-to-git-conversion
 https://github.com/open-obfuscator/o-mvll
 https://github.com/open-policy-agent/opa
 https://github.com/open-prophetdb/biomedgps
@@ -174087,6 +174168,8 @@ https://github.com/openstack-charmers/zaza
 https://github.com/openstack-experimental/keystone
 https://github.com/openstack/OpenStack
 https://github.com/openstack/ceilometer
+https://github.com/openstack/charm-interface-keystone-credentials
+https://github.com/openstack/charm-layer-openstack
 https://github.com/openstack/cinder
 https://github.com/openstack/cliff
 https://github.com/openstack/cyborg
@@ -174098,6 +174181,7 @@ https://github.com/openstack/ironic
 https://github.com/openstack/ironic-python-agent
 https://github.com/openstack/keystone
 https://github.com/openstack/manila
+https://github.com/openstack/manila-specs
 https://github.com/openstack/microversion-parse
 https://github.com/openstack/mistral
 https://github.com/openstack/networking-generic-switch
@@ -174166,6 +174250,7 @@ https://github.com/openvinotoolkit/oneDNN
 https://github.com/openvinotoolkit/openvino
 https://github.com/openvk/mobile-android-legacy
 https://github.com/openvm-org/openvm
+https://github.com/openvswitch/openflow
 https://github.com/openvswitch/ovs
 https://github.com/openvz/vzkernel
 https://github.com/openwall/john
@@ -175829,7 +175914,11 @@ https://github.com/pmarks-net/chromadoze
 https://github.com/pmckeown/dependency-track-maven-plugin
 https://github.com/pmd/pmd
 https://github.com/pmelsted/bifrost
+https://github.com/pmem/issues
+https://github.com/pmem/k8s-redis-cluster
+https://github.com/pmem/llpl
 https://github.com/pmem/ndctl
+https://github.com/pmem/pmdk-convert
 https://github.com/pmengelbert/ennui
 https://github.com/pmixer/SASRec.pytorch
 https://github.com/pmkol/EdnsPlus
@@ -176858,6 +176947,7 @@ https://github.com/python-openxml/python-docx
 https://github.com/python-parsy/parsy
 https://github.com/python-pillow/Pillow
 https://github.com/python-pillow/pillow
+https://github.com/python-pillow/state-of-pillow
 https://github.com/python-zk/kazoo
 https://github.com/python/cpython
 https://github.com/python/mypy
@@ -187702,6 +187792,7 @@ https://github.com/vuejs/vue-cli
 https://github.com/vuejs/vue-hackernews-2.0
 https://github.com/vuejs/vue-loader
 https://github.com/vuejs/vue-router
+https://github.com/vuejs/vue-touch
 https://github.com/vuejs/vue-vapor
 https://github.com/vuejs/vuepress
 https://github.com/vuejs/vuex
