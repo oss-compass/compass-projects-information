@@ -1,0 +1,10 @@
+---
+community_name: ucxn
+community_org_url: https://github.com/ucxn/ZTE-Stat_Max
+community_logo_url: https://github.com/ucxn.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ucxn/ZTE-Stat_Max
+  governance-repositories:
+    repo_urls: []
