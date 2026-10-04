@@ -800,6 +800,19 @@ resource_types:
          - https://gitcode.com/openeuler/uos-uwsgi-exporter
          - https://gitcode.com/openeuler/docs-model-dataset
          - https://gitcode.com/openeuler/meta-openeuler
+         - https://gitcode.com/openeuler/elasticMem
+         - https://gitcode.com/openeuler/gateway
+         - https://gitcode.com/openeuler/agentic-engineering-team
+         - https://gitcode.com/openeuler/cinderx
+         - https://gitcode.com/openeuler/openEuler-portal-mcp
+         - https://gitcode.com/openeuler/ubs-atomic
+         - https://gitcode.com/openeuler/spdk
+         - https://gitcode.com/openeuler/os-compat-analyzer
+         - https://gitcode.com/openeuler/seccom-tee
+         - https://gitcode.com/openeuler/kmpi
+         - https://gitcode.com/openeuler/kucg
+         - https://gitcode.com/openeuler/kucx
+         - https://gitcode.com/openeuler/space-doc-spec
     governance-repositories:
         repo_urls: []
 
