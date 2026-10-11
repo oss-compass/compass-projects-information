@@ -1,0 +1,13 @@
+---
+community_name: msys2
+community_org_url: https://github.com/msys2
+community_logo_url: https://github.com/msys2.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/msys2/mingw-packages
+    - https://github.com/msys2/msys2-packages
+    - https://github.com/msys2/MSYS2-packages
+    - https://github.com/msys2/msys2.github.io
+  governance-repositories:
+    repo_urls: []
