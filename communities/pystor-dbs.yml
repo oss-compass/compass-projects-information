@@ -1,0 +1,34 @@
+---
+community_name: pystor-dbs
+community_org_url: https://gitcode.com/pystor-dbs
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/pystor-dbs/pengyun-query_log
+      - https://gitcode.com/pystor-dbs/pengyun-dih_client
+      - https://gitcode.com/pystor-dbs/pengyun-monitor_common
+      - https://gitcode.com/pystor-dbs/pengyun-configuration_common
+      - https://gitcode.com/pystor-dbs/pengyun-dih_model
+      - https://gitcode.com/pystor-dbs/pengyun-models
+      - https://gitcode.com/pystor-dbs/pengyun-database_core
+      - https://gitcode.com/pystor-dbs/pengyun-core
+      - https://gitcode.com/pystor-dbs/pengyun-lib
+      - https://gitcode.com/pystor-dbs/pengyun-utils
+      - https://gitcode.com/pystor-dbs/pengyun-drivercontainer
+      - https://gitcode.com/pystor-dbs/pengyun-datanode_core
+      - https://gitcode.com/pystor-dbs/pengyun-console
+      - https://gitcode.com/pystor-dbs/dbs-models_related
+      - https://gitcode.com/pystor-dbs/pengyun-infocenter
+      - https://gitcode.com/pystor-dbs/pengyun-deployment_daemon
+      - https://gitcode.com/pystor-dbs/pengyun-datanode
+      - https://gitcode.com/pystor-dbs/dbs-dnmodel
+      - https://gitcode.com/pystor-dbs/pengyun-webservice_adapter
+      - https://gitcode.com/pystor-dbs/pengyun-driver_core
+      - https://gitcode.com/pystor-dbs/pengyun-datanode_service
+      - https://gitcode.com/pystor-dbs/pengyun-coordinator
+      - https://gitcode.com/pystor-dbs/pengyun-dbs
+      - https://gitcode.com/pystor-dbs/pengyun-root
+      - https://gitcode.com/pystor-dbs/Documents
+  governance-repositories:
+    repo_urls: []

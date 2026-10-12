@@ -1,0 +1,15 @@
+---
+community_name: hapjs-platform
+community_org_url: https://github.com/hapjs-platform
+community_logo_url: https://github.com/hapjs-platform.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/hapjs-platform/agent-skills
+      - https://github.com/hapjs-platform/card
+      - https://github.com/hapjs-platform/rfcs
+      - https://github.com/hapjs-platform/hap-toolkit
+      - https://github.com/hapjs-platform/hapjs
+      - https://github.com/hapjs-platform/jsenv
+  governance-repositories:
+    repo_urls: []

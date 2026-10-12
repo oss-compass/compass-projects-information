@@ -1,0 +1,12 @@
+---
+community_name: DKapture
+community_org_url: https://gitcode.com/DKapture
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/DKapture/README
+      - https://gitcode.com/DKapture/dkapture-bpf
+      - https://gitcode.com/DKapture/libdkapture
+  governance-repositories:
+    repo_urls: []

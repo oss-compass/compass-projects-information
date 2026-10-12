@@ -1,0 +1,11 @@
+---
+community_name: Cantian
+community_org_url: https://gitcode.com/Cantian
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/Cantian/cantian
+      - https://gitcode.com/Cantian/cantian-connector-mysql
+  governance-repositories:
+    repo_urls: []

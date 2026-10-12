@@ -1,0 +1,11 @@
+---
+community_name: aog-chat
+community_org_url: https://gitcode.com/aog-chat
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/aog-chat/readme
+      - https://gitcode.com/aog-chat/aog-chat
+  governance-repositories:
+    repo_urls: []

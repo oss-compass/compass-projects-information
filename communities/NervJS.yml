@@ -1,0 +1,90 @@
+---
+community_name: NervJS
+community_org_url: https://github.com/NervJS
+community_logo_url: https://github.com/NervJS.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/NervJS/taro-harmony-project
+      - https://github.com/NervJS/taro-harmony-capi-library
+      - https://github.com/NervJS/yoga
+      - https://github.com/NervJS/taro-playground
+      - https://github.com/NervJS/parse-css-to-stylesheet
+      - https://github.com/NervJS/taro-test-utils
+      - https://github.com/NervJS/fabric
+      - https://github.com/NervJS/taro-doctor
+      - https://github.com/NervJS/awesome_notifications
+      - https://github.com/NervJS/ant-design
+      - https://github.com/NervJS/taro-plugin-shared-runtime
+      - https://github.com/NervJS/taro-todos-pinia
+      - https://github.com/NervJS/angle
+      - https://github.com/NervJS/engine
+      - https://github.com/NervJS/taro-docs
+      - https://github.com/NervJS/tarojs-plugin-ssr
+      - https://github.com/NervJS/taro-plugin-platform-xhs
+      - https://github.com/NervJS/taro-plugin-platform-lark
+      - https://github.com/NervJS/taro-unit-test-sample
+      - https://github.com/NervJS/taro-vant
+      - https://github.com/NervJS/taro-antd-mobile
+      - https://github.com/NervJS/taro-weui
+      - https://github.com/NervJS/taro-plugin-inject
+      - https://github.com/NervJS/taro-plugin-indie
+      - https://github.com/NervJS/taro-blended
+      - https://github.com/NervJS/taro-plugin-platform-kwai
+      - https://github.com/NervJS/taro-plugin-platform-alipay-dd
+      - https://github.com/NervJS/taro-plugin-platform-alipay-iot
+      - https://github.com/NervJS/taro-plugin-platform-weapp-qy
+      - https://github.com/NervJS/taro3-vant-sample
+      - https://github.com/NervJS/taro-uilib-react
+      - https://github.com/NervJS/taro-plugin-migrate
+      - https://github.com/NervJS/taro-rfcs
+      - https://github.com/NervJS/taro-issue-helper
+      - https://github.com/NervJS/taro-plugin-mock
+      - https://github.com/NervJS/taro-benchmark
+      - https://github.com/NervJS/babel-plugin-remove-dead-code
+      - https://github.com/NervJS/taro-flexbox
+      - https://github.com/NervJS/taro-ui-bot
+      - https://github.com/NervJS/taro-project-templates
+      - https://github.com/NervJS/taro-todomvc-hooks
+      - https://github.com/NervJS/taro-v2ex-hooks
+      - https://github.com/NervJS/quickapp-container
+      - https://github.com/NervJS/react-wx-images-viewer
+      - https://github.com/NervJS/taro-native-shell
+      - https://github.com/NervJS/taro-user-cases
+      - https://github.com/NervJS/taro-ui-issue-helper
+      - https://github.com/NervJS/taro-ui-theme-preview
+      - https://github.com/NervJS/babel
+      - https://github.com/NervJS/minify
+      - https://github.com/NervJS/babel-plugin-danger-remove-unused-import-taro
+      - https://github.com/NervJS/taro-bot
+      - https://github.com/NervJS/himalaya
+      - https://github.com/NervJS/taro-ui-sample
+      - https://github.com/NervJS/taro-calendar
+      - https://github.com/NervJS/taro-sample-weapp
+      - https://github.com/NervJS/taro-ui-demo
+      - https://github.com/NervJS/taro-apis-sample
+      - https://github.com/NervJS/taro-v2ex
+      - https://github.com/NervJS/taro-components-test
+      - https://github.com/NervJS/TodoMVC
+      - https://github.com/NervJS/taro-zhihu-sample
+      - https://github.com/NervJS/taro-components-sample
+      - https://github.com/NervJS/taro-redux-sample
+      - https://github.com/NervJS/taro-component-website
+      - https://github.com/NervJS/taro-to-rn
+      - https://github.com/NervJS/taro-website
+      - https://github.com/NervJS/taro
+      - https://github.com/NervJS/postcss-pxtransform
+      - https://github.com/NervJS/taro-todo
+      - https://github.com/NervJS/uibench
+      - https://github.com/NervJS/nerv-webpack-boilerplate
+      - https://github.com/NervJS/at-ui-nerv
+      - https://github.com/NervJS/isomorphic-ui-benchmarks
+      - https://github.com/NervJS/docs
+      - https://github.com/NervJS/nerv-website
+      - https://github.com/NervJS/nerv-server
+      - https://github.com/NervJS/nerv-test-utils
+      - https://github.com/NervJS/nerv-redux-todomvc
+      - https://github.com/NervJS/js-framework-benchmark
+      - https://github.com/NervJS/nerv
+  governance-repositories:
+    repo_urls: []

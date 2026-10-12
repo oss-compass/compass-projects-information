@@ -1,0 +1,12 @@
+---
+community_name: qboson
+community_org_url: https://github.com/qboson
+community_logo_url: https://github.com/qboson.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/qboson/kaiwu_community
+      - https://github.com/qboson/kaiwu-pytorch-plugin
+      - https://github.com/qboson/100-vertex-random-graphs
+  governance-repositories:
+    repo_urls: []

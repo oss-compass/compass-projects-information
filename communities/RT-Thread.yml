@@ -1,0 +1,44 @@
+---
+community_name: RT-Thread
+community_org_url: https://github.com/RT-Thread
+community_logo_url: https://github.com/RT-Thread.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/RT-Thread/rtthread-skills
+      - https://github.com/RT-Thread/qemu-edu
+      - https://github.com/RT-Thread/smart-build
+      - https://github.com/RT-Thread/UtestRunner
+      - https://github.com/RT-Thread/rt-thread-api
+      - https://github.com/RT-Thread/vscode-rt-smart
+      - https://github.com/RT-Thread/sdk
+      - https://github.com/RT-Thread/pkgs-test
+      - https://github.com/RT-Thread/env-windows
+      - https://github.com/RT-Thread/RT-AK-plugin-tflm
+      - https://github.com/RT-Thread/rtthread-pomegranate
+      - https://github.com/RT-Thread/RT-AK-plugin-k210
+      - https://github.com/RT-Thread/global-community-activities
+      - https://github.com/RT-Thread/RT-AK-plugin-stm32
+      - https://github.com/RT-Thread/RT-AK
+      - https://github.com/RT-Thread/userapps
+      - https://github.com/RT-Thread/W601_IoT_Board
+      - https://github.com/RT-Thread/mpy-snippets
+      - https://github.com/RT-Thread/community-activities
+      - https://github.com/RT-Thread/IoT_Board
+      - https://github.com/RT-Thread/rtthread-nano
+      - https://github.com/RT-Thread/toolchains-ci
+      - https://github.com/RT-Thread/te
+      - https://github.com/RT-Thread/env
+      - https://github.com/RT-Thread/rtthread-specification
+      - https://github.com/RT-Thread/packages
+      - https://github.com/RT-Thread/IoT_Camera
+      - https://github.com/RT-Thread/gemini
+      - https://github.com/RT-Thread/rtthread-apps
+      - https://github.com/RT-Thread/unofficial-rtthread
+      - https://github.com/RT-Thread/realboard-lpc4088
+      - https://github.com/RT-Thread/rtthread-manual-doc
+      - https://github.com/RT-Thread/rt-thread
+      - https://github.com/RT-Thread/ART
+      - https://github.com/RT-Thread/realboard-stm32f4
+  governance-repositories:
+    repo_urls: []

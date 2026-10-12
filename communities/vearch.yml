@@ -1,0 +1,19 @@
+---
+community_name: vearch
+community_org_url: https://github.com/vearch
+community_logo_url: https://github.com/vearch.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/vearch/sift
+      - https://github.com/vearch/en_docs
+      - https://github.com/vearch/vearch-helm
+      - https://github.com/vearch/client
+      - https://github.com/vearch/python-algorithm-plugin
+      - https://github.com/vearch/vearch-python
+      - https://github.com/vearch/gamma
+      - https://github.com/vearch/vearch.github.io
+      - https://github.com/vearch/zh_docs
+      - https://github.com/vearch/vearch
+  governance-repositories:
+    repo_urls: []

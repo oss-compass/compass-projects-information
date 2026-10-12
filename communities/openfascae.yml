@@ -1,0 +1,43 @@
+---
+community_name: openfascae
+community_org_url: https://gitee.com/openfascae
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitee.com/openfascae/FITKCompMessageWidget
+      - https://gitee.com/openfascae/FITKCGNSIO
+      - https://gitee.com/openfascae/FITKAppFramework
+      - https://gitee.com/openfascae/FITKAdaptor
+      - https://gitee.com/openfascae/FITKVTKAlgorithm
+      - https://gitee.com/openfascae/FITKRenderWindowVTK
+      - https://gitee.com/openfascae/FITKRenderWindowOCC
+      - https://gitee.com/openfascae/FITKPython
+      - https://gitee.com/openfascae/FITKPlotWindow
+      - https://gitee.com/openfascae/FITKOFDriver
+      - https://gitee.com/openfascae/FITKOFDictWriter
+      - https://gitee.com/openfascae/FITKNastranBDFIO
+      - https://gitee.com/openfascae/FITKInterfacePhysics
+      - https://gitee.com/openfascae/FITKMeshGenOF
+      - https://gitee.com/openfascae/FITKInterfaceModel
+      - https://gitee.com/openfascae/FITKInterfaceMeshGen
+      - https://gitee.com/openfascae/APPCFDPost
+      - https://gitee.com/openfascae/APPGeomOCC
+      - https://gitee.com/openfascae/FITKEasyParam
+      - https://gitee.com/openfascae/FITKCore
+      - https://gitee.com/openfascae/FITKFlowOFIOHDF5
+      - https://gitee.com/openfascae/FITKFluidVTKGraphAdaptor
+      - https://gitee.com/openfascae/FITKGeoCompOCC
+      - https://gitee.com/openfascae/FITKGeoOCCIOHDF5
+      - https://gitee.com/openfascae/FITKInterfaceFlowOF
+      - https://gitee.com/openfascae/FITKInterfaceFlowPHengLEI
+      - https://gitee.com/openfascae/FITKInterfaceGeoIOHDF5
+      - https://gitee.com/openfascae/FITKInterfaceIO
+      - https://gitee.com/openfascae/FITKInterfaceIOHDF5
+      - https://gitee.com/openfascae/APPFlow
+      - https://gitee.com/openfascae/FITKInterfaceGeometry
+      - https://gitee.com/openfascae/FITKInterfaceMesh
+      - https://gitee.com/openfascae/FITKOFMeshIO
+      - https://gitee.com/openfascae/FITKWidget
+  governance-repositories:
+    repo_urls: []

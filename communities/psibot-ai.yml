@@ -1,0 +1,9 @@
+---
+community_name: psibot-ai
+community_org_url: https://gitcode.com/psibot-ai
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls: []
+  governance-repositories:
+    repo_urls: []

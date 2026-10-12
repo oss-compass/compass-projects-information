@@ -1,0 +1,11 @@
+---
+community_name: opentoms
+community_org_url: https://github.com/opentoms
+community_logo_url: https://github.com/opentoms.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/opentoms/.github
+      - https://github.com/opentoms/opentoms
+  governance-repositories:
+    repo_urls: []

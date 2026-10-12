@@ -1,0 +1,35 @@
+---
+community_name: roarlang
+community_org_url: https://gitee.com/roarlang
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitee.com/roarlang/for-hi3863
+      - https://gitee.com/roarlang/community
+      - https://gitee.com/roarlang/compile-server
+      - https://gitee.com/roarlang/devproxy
+      - https://gitee.com/roarlang/docs
+      - https://gitee.com/roarlang/electron-wrap
+      - https://gitee.com/roarlang/env-static-resources
+      - https://gitee.com/roarlang/forHi3861
+      - https://gitee.com/roarlang/for-three-js
+      - https://gitee.com/roarlang/harmonyos-js
+      - https://gitee.com/roarlang/Hi3861
+      - https://gitee.com/roarlang/localHttpServer
+      - https://gitee.com/roarlang/neujs
+      - https://gitee.com/roarlang/npm-package
+      - https://gitee.com/roarlang/openblock-electron-official
+      - https://gitee.com/roarlang/openblock-openharmony
+      - https://gitee.com/roarlang/TestFwk
+      - https://gitee.com/roarlang/interpreter_c
+      - https://gitee.com/roarlang/SKILLS
+      - https://gitee.com/roarlang/runtime-csharp
+      - https://gitee.com/roarlang/standalone-js
+      - https://gitee.com/roarlang/testing
+      - https://gitee.com/roarlang/test-server
+      - https://gitee.com/roarlang/wx-miniprogram
+      - https://gitee.com/roarlang/senior-brother-yuan
+      - https://gitee.com/roarlang/roarlang
+  governance-repositories:
+    repo_urls: []

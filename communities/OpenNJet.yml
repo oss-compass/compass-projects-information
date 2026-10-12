@@ -1,0 +1,13 @@
+---
+community_name: OpenNJet
+community_org_url: https://gitcode.com/OpenNJet
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/OpenNJet/OpenNJet
+      - https://gitcode.com/OpenNJet/open-njet-kic
+      - https://gitcode.com/OpenNJet/istio-install
+      - https://gitcode.com/OpenNJet/istio-agent-njet
+  governance-repositories:
+    repo_urls: []

@@ -1,0 +1,28 @@
+---
+community_name: easydarwin
+community_org_url: https://github.com/easydarwin
+community_logo_url: https://github.com/easydarwin.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/EasyDarwin/GB28181DeviceSimulator
+      - https://github.com/EasyDarwin/EasyPlayerPro
+      - https://github.com/EasyDarwin/EasyRTSPClient
+      - https://github.com/EasyDarwin/EasyRTC
+      - https://github.com/EasyDarwin/EasyRTMP
+      - https://github.com/EasyDarwin/EasyAVFilter
+      - https://github.com/EasyDarwin/EasyPlayer.js
+      - https://github.com/EasyDarwin/Easy1400
+      - https://github.com/EasyDarwin/EasyStreamClient
+      - https://github.com/EasyDarwin/EasyRTSPServer
+      - https://github.com/EasyDarwin/EasyGBD
+      - https://github.com/EasyDarwin/EasyPlayer-RTSP-Android
+      - https://github.com/EasyDarwin/EasyPlayer-RTSP-Win
+      - https://github.com/EasyDarwin/EasyPlayer-RTSP-iOS
+      - https://github.com/EasyDarwin/EasyAudioDecoder
+      - https://github.com/EasyDarwin/Tools
+      - https://github.com/EasyDarwin/EasyPusher
+      - https://github.com/EasyDarwin/EasyAACEncoder
+      - https://github.com/EasyDarwin/EasyDarwin
+  governance-repositories:
+    repo_urls: []

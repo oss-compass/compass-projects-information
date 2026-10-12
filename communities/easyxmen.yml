@@ -1,0 +1,13 @@
+---
+community_name: easyxmen
+community_org_url: https://gitcode.com/easyxmen
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/easyxmen/XMen
+      - https://gitcode.com/easyxmen/Community
+      - https://gitcode.com/easyxmen/docs
+      - https://gitcode.com/easyxmen/easyxmen
+  governance-repositories:
+    repo_urls: []

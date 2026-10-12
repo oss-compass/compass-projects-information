@@ -1,0 +1,29 @@
+---
+community_name: OpenLET
+community_org_url: https://gitcode.com/OpenLET
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/OpenLET/kuavo_exhibition
+      - https://gitcode.com/OpenLET/leju-kit-yard
+      - https://gitcode.com/OpenLET/Aelos_RL
+      - https://gitcode.com/OpenLET/Leju_swarm
+      - https://gitcode.com/OpenLET/Leju_head_ARM
+      - https://gitcode.com/OpenLET/kuavo-ros-opensource-jetson
+      - https://gitcode.com/OpenLET/LeTools-Learning
+      - https://gitcode.com/OpenLET/letools_opensource
+      - https://gitcode.com/OpenLET/leju-kuavo-challenge-cup-2026
+      - https://gitcode.com/OpenLET/Lejulab_ARM
+      - https://gitcode.com/OpenLET/research_navigation_demo
+      - https://gitcode.com/OpenLET/README
+      - https://gitcode.com/OpenLET/rt88852cu-driver
+      - https://gitcode.com/OpenLET/kuavo-ros-opensource
+      - https://gitcode.com/OpenLET/kuavo_data_challenge_icra
+      - https://gitcode.com/OpenLET/Leju-GMR
+      - https://gitcode.com/OpenLET/LejuLab-Deploy
+      - https://gitcode.com/OpenLET/LejuLab-Train
+      - https://gitcode.com/OpenLET/kuavo-manip-open
+      - https://gitcode.com/OpenLET/kuavo_data_challenge
+  governance-repositories:
+    repo_urls: []

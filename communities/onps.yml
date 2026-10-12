@@ -1,0 +1,10 @@
+---
+community_name: onps
+community_org_url: https://gitcode.com/onps
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/onps/open-npstack
+  governance-repositories:
+    repo_urls: []

@@ -1,0 +1,13 @@
+---
+community_name: lat-opensource
+community_org_url: https://github.com/lat-opensource
+community_logo_url: https://github.com/lat-opensource.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/lat-opensource/liblasx2lsx
+      - https://github.com/lat-opensource/memory-model-config
+      - https://github.com/lat-opensource/lata
+      - https://github.com/lat-opensource/lat
+  governance-repositories:
+    repo_urls: []

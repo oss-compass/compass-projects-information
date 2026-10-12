@@ -1,0 +1,17 @@
+---
+community_name: iot-ecology
+community_org_url: https://github.com/iot-ecology
+community_logo_url: https://github.com/iot-ecology.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/iot-ecology/discuss
+      - https://github.com/iot-ecology/react-iot
+      - https://github.com/iot-ecology/rust-iot-platform
+      - https://github.com/iot-ecology/go-iot-platform
+      - https://github.com/iot-ecology/iot-tech
+      - https://github.com/iot-ecology/go-iot
+      - https://github.com/iot-ecology/java-encounter
+      - https://github.com/iot-ecology/rust-encounter
+  governance-repositories:
+    repo_urls: []

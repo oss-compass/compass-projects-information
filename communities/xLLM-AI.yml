@@ -1,0 +1,25 @@
+---
+community_name: xLLM-AI
+community_org_url: https://github.com/xLLM-AI
+community_logo_url: https://github.com/xLLM-AI.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/xLLM-AI/ParaKV
+      - https://github.com/xLLM-AI/spdlog
+      - https://github.com/xLLM-AI/smhasher
+      - https://github.com/xLLM-AI/sentencepiece
+      - https://github.com/xLLM-AI/etcd_cpp_apiv3
+      - https://github.com/xLLM-AI/xxHash
+      - https://github.com/xLLM-AI/minja
+      - https://github.com/xLLM-AI/cpprestsdk
+      - https://github.com/xLLM-AI/Mooncake
+      - https://github.com/xLLM-AI/torch-npu-ops
+      - https://github.com/xLLM-AI/xllm-atb-layers
+      - https://github.com/xLLM-AI/xllm-ops
+      - https://github.com/xLLM-AI/xllm-workflow
+      - https://github.com/xLLM-AI/xllm-website
+      - https://github.com/xLLM-AI/xllm-service
+      - https://github.com/xLLM-AI/xllm
+  governance-repositories:
+    repo_urls: []

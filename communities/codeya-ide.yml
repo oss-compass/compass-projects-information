@@ -1,0 +1,11 @@
+---
+community_name: codeya-ide
+community_org_url: https://gitcode.com/codeya-ide
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/codeya-ide/readme
+      - https://gitcode.com/codeya-ide/deepin-ide
+  governance-repositories:
+    repo_urls: []

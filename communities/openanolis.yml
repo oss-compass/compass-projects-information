@@ -1,0 +1,40 @@
+---
+community_name: openanolis
+community_org_url: https://github.com/openanolis
+community_logo_url: https://github.com/openanolis.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/openanolis/aisimulate
+      - https://github.com/openanolis/guest-components
+      - https://github.com/openanolis/kvcache-calculator
+      - https://github.com/openanolis/lua-lsm-kernel
+      - https://github.com/openanolis/loongshield
+      - https://github.com/openanolis/aiconfigurator
+      - https://github.com/openanolis/PAS-Profiler
+      - https://github.com/openanolis/rtradar
+      - https://github.com/openanolis/checkpoint-engine
+      - https://github.com/openanolis/Mooncake
+      - https://github.com/openanolis/vllm
+      - https://github.com/openanolis/sglang
+      - https://github.com/openanolis/DeepSpeed
+      - https://github.com/openanolis/gocryptfs
+      - https://github.com/openanolis/confidential-ai
+      - https://github.com/openanolis/cryptpilot
+      - https://github.com/openanolis/trustee
+      - https://github.com/openanolis/csv-rs
+      - https://github.com/openanolis/whitebook-shangmi
+      - https://github.com/openanolis/anolis-assets
+      - https://github.com/openanolis/kubevirt
+      - https://github.com/openanolis/h2
+      - https://github.com/openanolis/dbs-cli
+      - https://github.com/openanolis/dbs-fuse
+      - https://github.com/openanolis/kata-containers
+      - https://github.com/openanolis/openssl
+      - https://github.com/openanolis/sm3sum
+      - https://github.com/openanolis/netns-rs
+      - https://github.com/openanolis/dbs-uhttp
+      - https://github.com/openanolis/dragonball-sandbox
+      - https://github.com/openanolis/oschina_authentication
+  governance-repositories:
+    repo_urls: []

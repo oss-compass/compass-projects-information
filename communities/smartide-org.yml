@@ -1,0 +1,47 @@
+---
+community_name: smartide-org
+community_org_url: https://gitcode.com/smartide-org
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/smartide-org/vue-element-admin
+      - https://gitcode.com/smartide-org/uni-app
+      - https://gitcode.com/smartide-org/test-itop
+      - https://gitcode.com/smartide-org/TDengine
+      - https://gitcode.com/smartide-org/smartide-web-terminal
+      - https://gitcode.com/smartide-org/smartide-templates
+      - https://gitcode.com/smartide-org/smartide-tekton-install
+      - https://gitcode.com/smartide-org/smartide-server-install
+      - https://gitcode.com/smartide-org/smartide-pvc-examples
+      - https://gitcode.com/smartide-org/smartide-ads-extension
+      - https://gitcode.com/smartide-org/SmartIDE
+      - https://gitcode.com/smartide-org/sample-node-webstorm
+      - https://gitcode.com/smartide-org/sample-node-vscode
+      - https://gitcode.com/smartide-org/sample-node-opensumi
+      - https://gitcode.com/smartide-org/sample-java-vscode
+      - https://gitcode.com/smartide-org/sample-java-idea
+      - https://gitcode.com/smartide-org/sample-dapr-traffic-control
+      - https://gitcode.com/smartide-org/sample-anaconda-jupyter
+      - https://gitcode.com/smartide-org/RuoYi-Vue
+      - https://gitcode.com/smartide-org/quickstart-webstorm-react-app-demo
+      - https://gitcode.com/smartide-org/opensumi-ide-startup
+      - https://gitcode.com/smartide-org/open-vsx-publish-extensions
+      - https://gitcode.com/smartide-org/Net6Sample
+      - https://gitcode.com/smartide-org/metersphere
+      - https://gitcode.com/smartide-org/iTop-ide
+      - https://gitcode.com/smartide-org/iTop
+      - https://gitcode.com/smartide-org/hello-uniapp
+      - https://gitcode.com/smartide-org/gin-vue-admin
+      - https://gitcode.com/smartide-org/Font-Awesome
+      - https://gitcode.com/smartide-org/empty-for-image-test
+      - https://gitcode.com/smartide-org/element
+      - https://gitcode.com/smartide-org/eclipse-openvsx
+      - https://gitcode.com/smartide-org/docsy-example
+      - https://gitcode.com/smartide-org/docsy
+      - https://gitcode.com/smartide-org/cppvsix
+      - https://gitcode.com/smartide-org/certs-maker
+      - https://gitcode.com/smartide-org/bootstrap
+      - https://gitcode.com/smartide-org/battle-city-ai
+  governance-repositories:
+    repo_urls: []

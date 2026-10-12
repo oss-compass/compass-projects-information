@@ -1,0 +1,17 @@
+---
+community_name: linyaps
+community_org_url: https://gitcode.com/linyaps
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/linyaps/readme
+      - https://gitcode.com/linyaps/linglong-box
+      - https://gitcode.com/linyaps/linglong-web-store
+      - https://gitcode.com/linyaps/linglong-homepage
+      - https://gitcode.com/linyaps/linglong-loader
+      - https://gitcode.com/linyaps/linglong-dbus-proxy
+      - https://gitcode.com/linyaps/linyaps
+      - https://gitcode.com/linyaps/360shuzianquan
+  governance-repositories:
+    repo_urls: []

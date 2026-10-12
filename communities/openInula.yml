@@ -1,0 +1,19 @@
+---
+community_name: openInula
+community_org_url: https://gitcode.com/openInula
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/openInula/website-next
+      - https://gitcode.com/openInula/inula2-rust-compiler
+      - https://gitcode.com/openInula/inula-conversion-tool
+      - https://gitcode.com/openInula/inula2-ui
+      - https://gitcode.com/openInula/inula-intelligent-operation
+      - https://gitcode.com/openInula/inula-testing-library
+      - https://gitcode.com/openInula/rfcs
+      - https://gitcode.com/openInula/umi_inula
+      - https://gitcode.com/openInula/repl
+      - https://gitcode.com/openInula/inula
+  governance-repositories:
+    repo_urls: []

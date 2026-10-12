@@ -1,0 +1,19 @@
+---
+community_name: rainway-ai-gateway
+community_org_url: https://github.com/rainway-ai-gateway
+community_logo_url: https://github.com/rainway-ai-gateway.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://github.com/rainway-ai-gateway/log-reader
+      - https://github.com/rainway-ai-gateway/ai-gateway-epp
+      - https://github.com/rainway-ai-gateway/ai-gateway-web-test
+      - https://github.com/rainway-ai-gateway/rainway-book
+      - https://github.com/rainway-ai-gateway/ai-gateway-observability
+      - https://github.com/rainway-ai-gateway/ai-gateway
+      - https://github.com/rainway-ai-gateway/conf-agent
+      - https://github.com/rainway-ai-gateway/ai-gateway-controller
+      - https://github.com/rainway-ai-gateway/ai-gateway-api
+      - https://github.com/rainway-ai-gateway/ai-gateway-web
+  governance-repositories:
+    repo_urls: []

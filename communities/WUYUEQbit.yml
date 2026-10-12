@@ -1,0 +1,12 @@
+---
+community_name: WUYUEQbit
+community_org_url: https://gitcode.com/WUYUEQbit
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/WUYUEQbit/README
+      - https://gitcode.com/WUYUEQbit/qcos
+      - https://gitcode.com/WUYUEQbit/WuYueSDK
+  governance-repositories:
+    repo_urls: []

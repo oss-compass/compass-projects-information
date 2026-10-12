@@ -1,0 +1,12 @@
+---
+community_name: kurator-dev
+community_org_url: https://gitcode.com/kurator-dev
+community_logo_url: 
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+      - https://gitcode.com/kurator-dev/playground
+      - https://gitcode.com/kurator-dev/test-infra
+      - https://gitcode.com/kurator-dev/kurator
+  governance-repositories:
+    repo_urls: []
