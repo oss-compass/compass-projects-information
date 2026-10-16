@@ -38,6 +38,8 @@ resource_types:
     - https://gitcode.com/openloong/OpenLoongBrain
     - https://gitcode.com/openloong/OpenLoongROS
     - https://gitcode.com/openloong/openloong
+    - https://gitcode.com/openloong/LoongWu-LM-X-VLA
+    - https://gitcode.com/openloong/LoongMC-2026-LTS
   governance-repositories:
     repo_urls:
     - https://github.com/loongOpen/OpenLoong

@@ -8,6 +8,12 @@ resource_types:
     - https://github.com/OpenTenBase/OpenTenBase
     - https://github.com/OpenTenBase/TXSQL
     - https://github.com/OpenTenBase/postgis-for-opentenbase
+    - https://gitcode.com/OpenTenBase/README
+    - https://gitcode.com/OpenTenBase/postgis-for-opentenbase
+    - https://gitcode.com/OpenTenBase/docs
+    - https://gitcode.com/OpenTenBase/OpenTenBase-DevEnv
+    - https://gitcode.com/OpenTenBase/OpenTenBase
+    - https://gitcode.com/OpenTenBase/TXSQL
   governance-repositories:
     repo_urls:
     - https://github.com/OpenTenBase/website

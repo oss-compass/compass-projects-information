@@ -9,6 +9,7 @@ resource_types:
         - https://github.com/Tencent/TencentKona-11
         - https://gitcode.com/openkona/OpenKona8
         - https://gitcode.com/openkona/OpenKona11
+        - https://gitcode.com/openkona/OpenKona25
     governance-repositories:
         repo_urls: []
 
