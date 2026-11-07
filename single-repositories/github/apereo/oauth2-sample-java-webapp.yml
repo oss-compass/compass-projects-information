@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://github.com/apereo/oauth2-sample-java-webapp
