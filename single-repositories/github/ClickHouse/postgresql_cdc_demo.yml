@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://github.com/ClickHouse/postgresql_cdc_demo
