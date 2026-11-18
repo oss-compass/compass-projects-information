@@ -75,6 +75,32 @@ resource_types:
       - https://gitcode.com/cann/cann-recipes-train
       - https://gitcode.com/cann/manifest
       - https://gitcode.com/cann/release-management
+      - https://gitcode.com/cann/asc-comm
+      - https://gitcode.com/cann/asc-stl
+      - https://gitcode.com/cann/bio-ops-molecule
+      - https://gitcode.com/cann/cann-competitions
+      - https://gitcode.com/cann/cann-infra-mcp
+      - https://gitcode.com/cann/cann-local-lm
+      - https://gitcode.com/cann/cann-recipes-docs
+      - https://gitcode.com/cann/cann-recipes-embodied-intelligence
+      - https://gitcode.com/cann/cannbot
+      - https://gitcode.com/cann/cannbot-dsl
+      - https://gitcode.com/cann/cannbot-knowledge
+      - https://gitcode.com/cann/cannbot-sentry
+      - https://gitcode.com/cann/crypto
+      - https://gitcode.com/cann/gauss-splat
+      - https://gitcode.com/cann/its-matrix-computation
+      - https://gitcode.com/cann/its-stable-llm
+      - https://gitcode.com/cann/its-trip
+      - https://gitcode.com/cann/multimodal-benchmark
+      - https://gitcode.com/cann/multimodal-ops
+      - https://gitcode.com/cann/multimodal-samples
+      - https://gitcode.com/cann/npu-simulator
+      - https://gitcode.com/cann/oil-gas-ops-prospect
+      - https://gitcode.com/cann/ops-ras
+      - https://gitcode.com/cann/ops-samples
+      - https://gitcode.com/cann/ops-tilelang
+      - https://gitcode.com/cann/pypto-vscode
   governance-repositories:
     repo_urls:
     - https://gitcode.com/cann/community
