@@ -1,0 +1,8 @@
+community_name: xuanwu
+community_org_url: https://gitcode.com/xuanwu
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls: []
+  governance-repositories:
+    repo_urls: []

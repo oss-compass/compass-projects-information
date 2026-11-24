@@ -1,0 +1,38 @@
+community_name: EdgeGallery
+community_org_url: https://github.com/EdgeGallery
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/EdgeGallery/api-emulator
+    - https://github.com/EdgeGallery/appstore-be
+    - https://github.com/EdgeGallery/appstore-fe
+    - https://github.com/EdgeGallery/atp
+    - https://github.com/EdgeGallery/atp-fe
+    - https://github.com/EdgeGallery/crane-framework
+    - https://github.com/EdgeGallery/developer-be
+    - https://github.com/EdgeGallery/developer-fe
+    - https://github.com/EdgeGallery/edgeT
+    - https://github.com/EdgeGallery/eg-view
+    - https://github.com/EdgeGallery/example-apps
+    - https://github.com/EdgeGallery/helm-charts
+    - https://github.com/EdgeGallery/installer
+    - https://github.com/EdgeGallery/mecm-apm
+    - https://github.com/EdgeGallery/mecm-applcm
+    - https://github.com/EdgeGallery/mecm-appo
+    - https://github.com/EdgeGallery/mecm-apprulemgr
+    - https://github.com/EdgeGallery/mecm-fe
+    - https://github.com/EdgeGallery/mecm-inventory
+    - https://github.com/EdgeGallery/mecm-mepm-fe
+    - https://github.com/EdgeGallery/mep
+    - https://github.com/EdgeGallery/mep-agent
+    - https://github.com/EdgeGallery/plugins
+    - https://github.com/EdgeGallery/sync-gitee-repo
+    - https://github.com/EdgeGallery/toolchain
+    - https://github.com/EdgeGallery/user-mgmt
+    - https://github.com/EdgeGallery/user-mgmt-fe
+  governance-repositories:
+    repo_urls:
+    - https://github.com/EdgeGallery/community
+    - https://github.com/EdgeGallery/docs
+    - https://github.com/EdgeGallery/website-gateway

@@ -1,0 +1,28 @@
+community_name: OpenSSL
+community_org_url: https://github.com/openssl
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/openssl/experimental
+    - https://github.com/openssl/fuzz-corpora
+    - https://github.com/openssl/general-policies
+    - https://github.com/openssl/installer
+    - https://github.com/openssl/mta-openssl-org
+    - https://github.com/openssl/omc-tools
+    - https://github.com/openssl/openssl
+    - https://github.com/openssl/openssl-book
+    - https://github.com/openssl/otc
+    - https://github.com/openssl/packages
+    - https://github.com/openssl/perftools
+    - https://github.com/openssl/project
+    - https://github.com/openssl/sq-pkcs11
+    - https://github.com/openssl/technical-policies
+    - https://github.com/openssl/tools
+    - https://github.com/openssl/web
+  governance-repositories:
+    repo_urls:
+    - https://github.com/openssl/.github
+    - https://github.com/openssl/openssl-blogs-discussions
+    - https://github.com/openssl/openssl-docs
+    - https://github.com/openssl/release-metadata

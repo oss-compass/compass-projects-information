@@ -1,0 +1,38 @@
+community_name: openGemini
+community_org_url: https://github.com/openGemini
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/openGemini/Promql2Influxql
+    - https://github.com/openGemini/data-migration-tools
+    - https://github.com/openGemini/examples
+    - https://github.com/openGemini/gemix
+    - https://github.com/openGemini/go-prompt
+    - https://github.com/openGemini/grafana-opengemini-datasource
+    - https://github.com/openGemini/helm-charts
+    - https://github.com/openGemini/observability
+    - https://github.com/openGemini/openGemini
+    - https://github.com/openGemini/openGemini-CM
+    - https://github.com/openGemini/openGemini-Flink-Connector
+    - https://github.com/openGemini/openGemini-castor
+    - https://github.com/openGemini/openGemini-cli
+    - https://github.com/openGemini/openGemini-dashboard
+    - https://github.com/openGemini/openGemini-forwarder
+    - https://github.com/openGemini/openGemini-mcp-server
+    - https://github.com/openGemini/openGemini-operator
+    - https://github.com/openGemini/openGemini-trino-plugin
+    - https://github.com/openGemini/opengemini-client-cpp
+    - https://github.com/openGemini/opengemini-client-go
+    - https://github.com/openGemini/opengemini-client-go-application
+    - https://github.com/openGemini/opengemini-client-java
+    - https://github.com/openGemini/opengemini-client-python
+    - https://github.com/openGemini/opengemini-client-rust
+    - https://github.com/openGemini/opengemini-client-ts
+    - https://github.com/openGemini/opengemini-docker
+    - https://github.com/openGemini/pr-title-checker
+  governance-repositories:
+    repo_urls:
+    - https://github.com/openGemini/community
+    - https://github.com/openGemini/openGemini.github.io
+    - https://github.com/openGemini/website

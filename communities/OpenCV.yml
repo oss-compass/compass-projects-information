@@ -1,0 +1,26 @@
+community_name: OpenCV
+community_org_url: https://github.com/opencv
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/opencv/COOL-Benchmark
+    - https://github.com/opencv/ade
+    - https://github.com/opencv/bpc
+    - https://github.com/opencv/ci-gha-workflow
+    - https://github.com/opencv/cvbenchmark
+    - https://github.com/opencv/jetson-screencasts-sources
+    - https://github.com/opencv/onnx-conformance-proxy
+    - https://github.com/opencv/open_vision_capsules
+    - https://github.com/opencv/opencv
+    - https://github.com/opencv/opencv-python
+    - https://github.com/opencv/opencv_3rdparty
+    - https://github.com/opencv/opencv_attic
+    - https://github.com/opencv/opencv_benchmarks
+    - https://github.com/opencv/opencv_contrib
+    - https://github.com/opencv/opencv_extra
+    - https://github.com/opencv/opencv_for_ios_book_samples
+    - https://github.com/opencv/opencv_zoo
+  governance-repositories:
+    repo_urls:
+    - https://github.com/opencv/opencv.github.io

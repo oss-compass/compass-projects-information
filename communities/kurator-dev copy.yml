@@ -1,0 +1,12 @@
+community_name: kurator-dev
+community_org_url: https://github.com/kurator-dev
+community_logo_url: https://raw.githubusercontent.com/kurator-dev/kurator/main/docs/assets/icons/logo.svg
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kurator-dev/helm-charts
+    - https://github.com/kurator-dev/kurator
+    - https://github.com/kurator-dev/playground
+    - https://github.com/kurator-dev/test-infra
+  governance-repositories:
+    repo_urls: []

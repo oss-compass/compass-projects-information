@@ -1,0 +1,36 @@
+community_name: Aeraki-Mesh
+community_org_url: https://github.com/aeraki-mesh
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/aeraki-mesh/aeraki
+    - https://github.com/aeraki-mesh/aerakictl
+    - https://github.com/aeraki-mesh/api
+    - https://github.com/aeraki-mesh/brpc-demo
+    - https://github.com/aeraki-mesh/client-go
+    - https://github.com/aeraki-mesh/consul2istio
+    - https://github.com/aeraki-mesh/dubbo-demo
+    - https://github.com/aeraki-mesh/dubbo2istio
+    - https://github.com/aeraki-mesh/eureka2istio
+    - https://github.com/aeraki-mesh/istio
+    - https://github.com/aeraki-mesh/istio-operation-bible
+    - https://github.com/aeraki-mesh/kafka-zookeeper-envoyfilter-example
+    - https://github.com/aeraki-mesh/lazyxds
+    - https://github.com/aeraki-mesh/meta-protocol-awesomerpc
+    - https://github.com/aeraki-mesh/meta-protocol-control-plane-api
+    - https://github.com/aeraki-mesh/meta-protocol-proxy
+    - https://github.com/aeraki-mesh/method-level-tracing-with-istio
+    - https://github.com/aeraki-mesh/nacos-sdk-go
+    - https://github.com/aeraki-mesh/polaris2istio
+    - https://github.com/aeraki-mesh/proxy
+    - https://github.com/aeraki-mesh/proxy-extensions
+    - https://github.com/aeraki-mesh/retio
+    - https://github.com/aeraki-mesh/thrift-demo
+  governance-repositories:
+    repo_urls:
+    - https://github.com/aeraki-mesh/.github
+    - https://github.com/aeraki-mesh/.project
+    - https://github.com/aeraki-mesh/aeraki-mesh.github.io
+    - https://github.com/aeraki-mesh/blog_img_backup
+    - https://github.com/aeraki-mesh/website

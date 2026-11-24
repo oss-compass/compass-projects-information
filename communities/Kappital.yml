@@ -1,0 +1,12 @@
+community_name: Kappital
+community_org_url: https://github.com/kappital
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kappital/charts
+    - https://github.com/kappital/kappital
+    - https://github.com/kappital/spec
+  governance-repositories:
+    repo_urls:
+    - https://github.com/kappital/community

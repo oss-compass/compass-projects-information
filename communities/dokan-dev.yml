@@ -1,0 +1,19 @@
+community_name: dokan-dev
+community_org_url: https://github.com/dokan-dev
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/dokan-dev/dokan-delphi
+    - https://github.com/dokan-dev/dokan-dotnet
+    - https://github.com/dokan-dev/dokan-dotnet-doc
+    - https://github.com/dokan-dev/dokan-java
+    - https://github.com/dokan-dev/dokan-ruby
+    - https://github.com/dokan-dev/dokan-rust
+    - https://github.com/dokan-dev/dokan-rust-doc
+    - https://github.com/dokan-dev/dokan-sshfs
+    - https://github.com/dokan-dev/dokany
+    - https://github.com/dokan-dev/dokany-doc
+  governance-repositories:
+    repo_urls:
+    - https://github.com/dokan-dev/dokan-dev.github.io

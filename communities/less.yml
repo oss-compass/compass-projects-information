@@ -1,0 +1,26 @@
+community_name: less
+community_org_url: https://github.com/less
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/less/hiless
+    - https://github.com/less/less-meta
+    - https://github.com/less/less-plugin-advanced-color-functions
+    - https://github.com/less/less-plugin-autoprefix
+    - https://github.com/less/less-plugin-clean-css
+    - https://github.com/less/less-plugin-inline-urls
+    - https://github.com/less/less-plugin-npm-import
+    - https://github.com/less/less-plugin-rtl
+    - https://github.com/less/less-preview
+    - https://github.com/less/less.js
+    - https://github.com/less/less.ruby
+    - https://github.com/less/logo
+    - https://github.com/less/more
+    - https://github.com/less/npm-import-plugin-test
+    - https://github.com/less/old-lesscss.org
+    - https://github.com/less/roadmap
+  governance-repositories:
+    repo_urls:
+    - https://github.com/less/less-docs
+    - https://github.com/less/less.github.io

@@ -1,0 +1,10 @@
+community_name: exceljs
+community_org_url: https://github.com/exceljs
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/exceljs/exceljs
+    - https://github.com/exceljs/ooxml-xsd
+  governance-repositories:
+    repo_urls: []

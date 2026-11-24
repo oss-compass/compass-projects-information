@@ -1,0 +1,9 @@
+community_name: PCRE2Project
+community_org_url: https://github.com/PCRE2Project
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/PCRE2Project/pcre2
+  governance-repositories:
+    repo_urls: []

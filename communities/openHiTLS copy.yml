@@ -1,0 +1,9 @@
+community_name: openHiTLS
+community_org_url: https://gitee.com/openhitls
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openhitls/openhitls
+  governance-repositories:
+    repo_urls: []

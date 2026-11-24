@@ -1,0 +1,15 @@
+community_name: libgd
+community_org_url: https://github.com/libgd
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/libgd/agg-c
+    - https://github.com/libgd/gd-pango
+    - https://github.com/libgd/libgd
+    - https://github.com/libgd/libgd-test-corpus
+    - https://github.com/libgd/libgd-windows-vcpkg-prebuild
+  governance-repositories:
+    repo_urls:
+    - https://github.com/libgd/libgd.github.io
+    - https://github.com/libgd/oldwebsite

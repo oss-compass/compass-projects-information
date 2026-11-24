@@ -1,0 +1,43 @@
+community_name: apereo
+community_org_url: https://github.com/apereo
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/apereo/apereo-redirector
+    - https://github.com/apereo/bootiful-cas-client
+    - https://github.com/apereo/cas
+    - https://github.com/apereo/cas-bootadmin-overlay
+    - https://github.com/apereo/cas-configserver-overlay
+    - https://github.com/apereo/cas-discoveryserver-overlay
+    - https://github.com/apereo/cas-gradle-overlay-template
+    - https://github.com/apereo/cas-initializr
+    - https://github.com/apereo/cas-management
+    - https://github.com/apereo/cas-management-gradle-overlay
+    - https://github.com/apereo/cas-management-overlay
+    - https://github.com/apereo/cas-overlay-template
+    - https://github.com/apereo/cas-sample-java-webapp
+    - https://github.com/apereo/cas-sample-python-webapp
+    - https://github.com/apereo/cas-webapp-docker
+    - https://github.com/apereo/dotnet-cas-client
+    - https://github.com/apereo/dotnet-cas-client-memcached
+    - https://github.com/apereo/dotnet-cas-client-mssql
+    - https://github.com/apereo/dotnet-cas-client-redis
+    - https://github.com/apereo/inspektr
+    - https://github.com/apereo/java-cas-client
+    - https://github.com/apereo/mod_auth_cas
+    - https://github.com/apereo/oauth2-sample-java-webapp
+    - https://github.com/apereo/oidc-sample-java-webapp
+    - https://github.com/apereo/openid-sample-java-webapp
+    - https://github.com/apereo/oss-rubric
+    - https://github.com/apereo/person-directory
+    - https://github.com/apereo/phpCAS
+    - https://github.com/apereo/saml2-sample-java-webapp
+    - https://github.com/apereo/spring-webflow-client-repo
+    - https://github.com/apereo/wsfed-sample-java-webapp
+    - https://github.com/apereo/cas-server-security-filter
+    - https://github.com/apereo/springsecurity-bootiful-cas-client
+
+  governance-repositories:
+    repo_urls:
+    - https://github.com/apereo/apereo.github.io

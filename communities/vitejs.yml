@@ -1,0 +1,38 @@
+community_name: vitejs
+community_org_url: https://github.com/vitejs
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/vitejs/awesome-vite
+    - https://github.com/vitejs/companies-using-vite
+    - https://github.com/vitejs/create-vite-app
+    - https://github.com/vitejs/devtools
+    - https://github.com/vitejs/launch-editor
+    - https://github.com/vitejs/rolldown-vite
+    - https://github.com/vitejs/rolldown-vite-perf-wins
+    - https://github.com/vitejs/vite
+    - https://github.com/vitejs/vite-benchmark
+    - https://github.com/vitejs/vite-ecosystem-ci
+    - https://github.com/vitejs/vite-plugin-basic-ssl
+    - https://github.com/vitejs/vite-plugin-react
+    - https://github.com/vitejs/vite-plugin-react-pages
+    - https://github.com/vitejs/vite-plugin-react-refresh
+    - https://github.com/vitejs/vite-plugin-react-swc
+    - https://github.com/vitejs/vite-plugin-registry
+    - https://github.com/vitejs/vite-plugin-vue
+    - https://github.com/vitejs/vite-plugin-vue2
+    - https://github.com/vitejs/vite-plugin-vue2-jsx
+    - https://github.com/vitejs/vite-ts-monorepo-rfc
+  governance-repositories:
+    repo_urls:
+    - https://github.com/vitejs/.github
+    - https://github.com/vitejs/docs-cn
+    - https://github.com/vitejs/docs-de
+    - https://github.com/vitejs/docs-es
+    - https://github.com/vitejs/docs-fa
+    - https://github.com/vitejs/docs-ja
+    - https://github.com/vitejs/docs-ko
+    - https://github.com/vitejs/docs-pt
+    - https://github.com/vitejs/release-scripts
+    - https://github.com/vitejs/rfcs-bot

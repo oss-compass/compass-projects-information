@@ -1,0 +1,14 @@
+community_name: kuasar-io
+community_org_url: https://github.com/kuasar-io
+community_logo_url: https://github.com/kuasar-io.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kuasar-io/containerd
+    - https://github.com/kuasar-io/kuasar
+    - https://github.com/kuasar-io/rust-extensions
+    - https://github.com/kuasar-io/ttrpc-rust
+    - https://github.com/kuasar-io/web
+  governance-repositories:
+    repo_urls:
+    - https://github.com/kuasar-io/.project

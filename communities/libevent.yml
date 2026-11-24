@@ -1,0 +1,15 @@
+community_name: libevent
+community_org_url: https://github.com/libevent
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/libevent/abi
+    - https://github.com/libevent/doc
+    - https://github.com/libevent/libevent
+    - https://github.com/libevent/libevent-book
+    - https://github.com/libevent/libevent-extras
+    - https://github.com/libevent/timeout
+  governance-repositories:
+    repo_urls:
+    - https://github.com/libevent/libevent.github.com

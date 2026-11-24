@@ -1,0 +1,21 @@
+community_name: LiteOS
+community_org_url: https://github.com/LiteOS
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/LiteOS/HumanSystemOptimization
+    - https://github.com/LiteOS/I-CUBE-HUAWEI
+    - https://github.com/LiteOS/LiteOS
+    - https://github.com/LiteOS/LiteOS_Connect_to_3rd_Cloud
+    - https://github.com/LiteOS/LiteOS_Documents
+    - https://github.com/LiteOS/LiteOS_Hackathon_20170107_Beijing
+    - https://github.com/LiteOS/LiteOS_IEC
+    - https://github.com/LiteOS/LiteOS_Lab
+    - https://github.com/LiteOS/LiteOS_Partner_CMSIS
+    - https://github.com/LiteOS/LiteOS_Partner_Development_Kits
+    - https://github.com/LiteOS/LiteOS_PortingContest
+    - https://github.com/LiteOS/LiteOS_Studio
+  governance-repositories:
+    repo_urls:
+    - https://github.com/LiteOS/LiteOS.github.io2

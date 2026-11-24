@@ -1,0 +1,9 @@
+community_name: json-c
+community_org_url: https://github.com/json-c
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/json-c/json-c
+  governance-repositories:
+    repo_urls: []

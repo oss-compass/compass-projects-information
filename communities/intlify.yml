@@ -1,0 +1,38 @@
+community_name: intlify
+community_org_url: https://github.com/intlify
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/intlify/art
+    - https://github.com/intlify/astexplorer
+    - https://github.com/intlify/bridging
+    - https://github.com/intlify/bundle-tools
+    - https://github.com/intlify/cli
+    - https://github.com/intlify/devtools
+    - https://github.com/intlify/eslint-plugin-svelte
+    - https://github.com/intlify/eslint-plugin-vue-i18n
+    - https://github.com/intlify/express
+    - https://github.com/intlify/h3
+    - https://github.com/intlify/intlify-core
+    - https://github.com/intlify/intlify.dev
+    - https://github.com/intlify/nuxt3
+    - https://github.com/intlify/poeditor-service-provider
+    - https://github.com/intlify/rollup-plugin-vue-i18n
+    - https://github.com/intlify/routing
+    - https://github.com/intlify/utils
+    - https://github.com/intlify/vite-plugin-vue-i18n
+    - https://github.com/intlify/vite-vue-i18n-starter
+    - https://github.com/intlify/vue-cli-plugin-i18n
+    - https://github.com/intlify/vue-i18n
+    - https://github.com/intlify/vue-i18n-composable
+    - https://github.com/intlify/vue-i18n-extensions
+    - https://github.com/intlify/vue-i18n-jest
+    - https://github.com/intlify/vue-i18n-loader
+    - https://github.com/intlify/vue-i18n-locale-message
+    - https://github.com/intlify/vue-next-webpack-preview
+    - https://github.com/intlify/worker-dom
+  governance-repositories:
+    repo_urls:
+    - https://github.com/intlify/.github
+    - https://github.com/intlify/blog

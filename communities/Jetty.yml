@@ -1,0 +1,30 @@
+community_name: Jetty
+community_org_url: https://github.com/jetty
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/jetty/.eclipsefdn
+    - https://github.com/jetty/jetty-alpn-api
+    - https://github.com/jetty/jetty-artifact-remote-resources
+    - https://github.com/jetty/jetty-assembly-descriptors
+    - https://github.com/jetty/jetty-build-support
+    - https://github.com/jetty/jetty-examples
+    - https://github.com/jetty/jetty-parent
+    - https://github.com/jetty/jetty-perf-helper
+    - https://github.com/jetty/jetty-schemas
+    - https://github.com/jetty/jetty-servlet-api
+    - https://github.com/jetty/jetty-setuid-jna
+    - https://github.com/jetty/jetty-test-helper
+    - https://github.com/jetty/jetty-test-policy
+    - https://github.com/jetty/jetty-toolchain
+    - https://github.com/jetty/jetty-websocket-api
+    - https://github.com/jetty/jetty-xhtml-schemas
+    - https://github.com/jetty/jetty.docker
+  governance-repositories:
+    repo_urls:
+    - https://github.com/jetty/.github
+    - https://github.com/jetty/jetty-website
+    - https://github.com/jetty/jetty-website-2020
+    - https://github.com/jetty/jetty.project
+    - https://github.com/jetty/jetty.website

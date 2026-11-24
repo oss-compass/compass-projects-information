@@ -1,0 +1,42 @@
+community_name: tianocore
+community_org_url: https://github.com/tianocore
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/tianocore/buildtools-BaseTools
+    - https://github.com/tianocore/containers
+    - https://github.com/tianocore/edk
+    - https://github.com/tianocore/edk-Shell
+    - https://github.com/tianocore/edk2
+    - https://github.com/tianocore/edk2-1
+    - https://github.com/tianocore/edk2-BaseTools-win32
+    - https://github.com/tianocore/edk2-FatPkg
+    - https://github.com/tianocore/edk2-NetNt32Io
+    - https://github.com/tianocore/edk2-archive
+    - https://github.com/tianocore/edk2-basetools
+    - https://github.com/tianocore/edk2-cmocka
+    - https://github.com/tianocore/edk2-codereview
+    - https://github.com/tianocore/edk2-crypto
+    - https://github.com/tianocore/edk2-edkrepo
+    - https://github.com/tianocore/edk2-edkrepo-manifest
+    - https://github.com/tianocore/edk2-libc
+    - https://github.com/tianocore/edk2-non-osi
+    - https://github.com/tianocore/edk2-platforms
+    - https://github.com/tianocore/edk2-pytool-extensions
+    - https://github.com/tianocore/edk2-pytool-library
+    - https://github.com/tianocore/edk2-redfish-client
+    - https://github.com/tianocore/edk2-share
+    - https://github.com/tianocore/edk2-staging
+    - https://github.com/tianocore/edk2-subhook
+    - https://github.com/tianocore/edk2-test
+    - https://github.com/tianocore/openssl
+    - https://github.com/tianocore/projects
+    - https://github.com/tianocore/rust
+    - https://github.com/tianocore/udk
+    - https://github.com/tianocore/uncrustify
+    - https://github.com/tianocore/user-attachments
+  governance-repositories:
+    repo_urls:
+    - https://github.com/tianocore/tianocore-wiki.github.io
+    - https://github.com/tianocore/tianocore.github.io

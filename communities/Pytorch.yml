@@ -1,0 +1,38 @@
+community_name: Pytorch
+community_org_url: https://github.com/pytorch
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/pytorch/ELF
+    - https://github.com/pytorch/FBGEMM
+    - https://github.com/pytorch/QNNPACK
+    - https://github.com/pytorch/accimage
+    - https://github.com/pytorch/audio
+    - https://github.com/pytorch/benchmark
+    - https://github.com/pytorch/builder
+    - https://github.com/pytorch/ci-hud
+    - https://github.com/pytorch/contrib
+    - https://github.com/pytorch/cpuinfo
+    - https://github.com/pytorch/examples
+    - https://github.com/pytorch/extension-cpp
+    - https://github.com/pytorch/extension-ffi
+    - https://github.com/pytorch/extension-script
+    - https://github.com/pytorch/gloo
+    - https://github.com/pytorch/glow
+    - https://github.com/pytorch/hub
+    - https://github.com/pytorch/ignite
+    - https://github.com/pytorch/ossci-job-dsl
+    - https://github.com/pytorch/pytorch
+    - https://github.com/pytorch/pytorch_sphinx_theme
+    - https://github.com/pytorch/text
+    - https://github.com/pytorch/translate
+    - https://github.com/pytorch/tutorials
+    - https://github.com/pytorch/tvm
+    - https://github.com/pytorch/vision
+    - https://github.com/pytorch/xla
+  governance-repositories:
+    repo_urls:
+    - https://github.com/pytorch/caffe2.github.io
+    - https://github.com/pytorch/cppdocs
+    - https://github.com/pytorch/pytorch.github.io

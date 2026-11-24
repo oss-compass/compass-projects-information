@@ -1,0 +1,38 @@
+community_name: Kubernetes
+community_org_url: https://github.com/kubernetes
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/kubernetes/api
+    - https://github.com/kubernetes/apimachinery
+    - https://github.com/kubernetes/apiserver
+    - https://github.com/kubernetes/autoscaler
+    - https://github.com/kubernetes/client-go
+    - https://github.com/kubernetes/dns
+    - https://github.com/kubernetes/enhancements
+    - https://github.com/kubernetes/examples
+    - https://github.com/kubernetes/gengo
+    - https://github.com/kubernetes/git-sync
+    - https://github.com/kubernetes/ingress-nginx
+    - https://github.com/kubernetes/k8s.io
+    - https://github.com/kubernetes/kompose
+    - https://github.com/kubernetes/kops
+    - https://github.com/kubernetes/kube-aggregator
+    - https://github.com/kubernetes/kube-state-metrics
+    - https://github.com/kubernetes/kubeadm
+    - https://github.com/kubernetes/kubectl
+    - https://github.com/kubernetes/kubernetes
+    - https://github.com/kubernetes/kubernetes-template-project
+    - https://github.com/kubernetes/metrics
+    - https://github.com/kubernetes/minikube
+    - https://github.com/kubernetes/node-problem-detector
+    - https://github.com/kubernetes/perf-tests
+    - https://github.com/kubernetes/repo-infra
+    - https://github.com/kubernetes/sample-apiserver
+    - https://github.com/kubernetes/test-infra
+  governance-repositories:
+    repo_urls:
+    - https://github.com/kubernetes/community
+    - https://github.com/kubernetes/release
+    - https://github.com/kubernetes/website

@@ -1,0 +1,38 @@
+community_name: LLVM
+community_org_url: https://github.com/llvm
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/llvm/Polygeist
+    - https://github.com/llvm/actions
+    - https://github.com/llvm/bugzilla2gitlab
+    - https://github.com/llvm/circt
+    - https://github.com/llvm/circt-www
+    - https://github.com/llvm/clangd-www
+    - https://github.com/llvm/clangir
+    - https://github.com/llvm/llvm-admin
+    - https://github.com/llvm/llvm-archive
+    - https://github.com/llvm/llvm-bugzilla-archive
+    - https://github.com/llvm/llvm-foundation-www
+    - https://github.com/llvm/llvm-iwg
+    - https://github.com/llvm/llvm-lnt
+    - https://github.com/llvm/llvm-project
+    - https://github.com/llvm/llvm-project-legacy-branches
+    - https://github.com/llvm/llvm-project-staging
+    - https://github.com/llvm/llvm-test-suite
+    - https://github.com/llvm/llvm-www
+    - https://github.com/llvm/llvm-www-pubs
+    - https://github.com/llvm/llvm-zorg
+    - https://github.com/llvm/mlir-www
+    - https://github.com/llvm/offload-test-suite
+    - https://github.com/llvm/phabricator
+    - https://github.com/llvm/temp-issue-tester
+    - https://github.com/llvm/torch-mlir
+    - https://github.com/llvm/vscode-mlir
+  governance-repositories:
+    repo_urls:
+    - https://github.com/llvm/Community.o
+    - https://github.com/llvm/llvm-blog-www
+    - https://github.com/llvm/llvm-project-release-prs
+    - https://github.com/llvm/www-releases

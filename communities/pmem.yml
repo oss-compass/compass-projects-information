@@ -1,0 +1,63 @@
+community_name: pmem
+community_org_url: https://github.com/pmem
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/pmem/CacheLib
+    - https://github.com/pmem/YCSB
+    - https://github.com/pmem/acpi-spec-ecr
+    - https://github.com/pmem/autoflushtest
+    - https://github.com/pmem/book
+    - https://github.com/pmem/dev-utils-kit
+    - https://github.com/pmem/fio
+    - https://github.com/pmem/issues
+    - https://github.com/pmem/k8s-redis-cluster
+    - https://github.com/pmem/knowledge-base
+    - https://github.com/pmem/kvdk
+    - https://github.com/pmem/kvm-redis
+    - https://github.com/pmem/libcxx
+    - https://github.com/pmem/libfabric
+    - https://github.com/pmem/libpmemobj-cpp
+    - https://github.com/pmem/libpmemobj-js
+    - https://github.com/pmem/linux-examples
+    - https://github.com/pmem/llpl
+    - https://github.com/pmem/miniasync
+    - https://github.com/pmem/mpi-pmem-ext
+    - https://github.com/pmem/ndctl
+    - https://github.com/pmem/ndctl-test-runner
+    - https://github.com/pmem/pcj
+    - https://github.com/pmem/pelikan
+    - https://github.com/pmem/pmdk
+    - https://github.com/pmem/pmdk-convert
+    - https://github.com/pmem/pmdk-examples
+    - https://github.com/pmem/pmdk-tests
+    - https://github.com/pmem/pmem-redis
+    - https://github.com/pmem/pmem-rocksdb
+    - https://github.com/pmem/pmem-rocksdb-plugin
+    - https://github.com/pmem/pmemfile
+    - https://github.com/pmem/pmemkv
+    - https://github.com/pmem/pmemkv-bench
+    - https://github.com/pmem/pmemkv-java
+    - https://github.com/pmem/pmemkv-jni
+    - https://github.com/pmem/pmemkv-nodejs
+    - https://github.com/pmem/pmemkv-python
+    - https://github.com/pmem/pmemkv-ruby
+    - https://github.com/pmem/pmemstream
+    - https://github.com/pmem/pmse
+    - https://github.com/pmem/pmul
+    - https://github.com/pmem/pynvm
+    - https://github.com/pmem/redis
+    - https://github.com/pmem/rocksdb
+    - https://github.com/pmem/rpma
+    - https://github.com/pmem/run_qemu
+    - https://github.com/pmem/syscall_intercept
+    - https://github.com/pmem/valgrind
+    - https://github.com/pmem/vltrace
+    - https://github.com/pmem/vmem
+    - https://github.com/pmem/vmemcache
+  governance-repositories:
+    repo_urls:
+    - https://github.com/pmem/.github
+    - https://github.com/pmem/docs
+    - https://github.com/pmem/pmem.github.io

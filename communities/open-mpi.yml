@@ -1,0 +1,35 @@
+community_name: open-mpi
+community_org_url: https://github.com/open-mpi
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/open-mpi/2016-summer-perf-testing
+    - https://github.com/open-mpi/aws-pmix-scale-testing
+    - https://github.com/open-mpi/github-trac
+    - https://github.com/open-mpi/hwloc
+    - https://github.com/open-mpi/jenkins-aggregator
+    - https://github.com/open-mpi/mpi-test-suite
+    - https://github.com/open-mpi/mtt
+    - https://github.com/open-mpi/mtt-legacy
+    - https://github.com/open-mpi/netloc
+    - https://github.com/open-mpi/oac
+    - https://github.com/open-mpi/ompi
+    - https://github.com/open-mpi/ompi-ci-tests
+    - https://github.com/open-mpi/ompi-collectives-tuning
+    - https://github.com/open-mpi/ompi-infrastructure-test
+    - https://github.com/open-mpi/ompi-java-test
+    - https://github.com/open-mpi/ompi-scripts
+    - https://github.com/open-mpi/ompi-tests-public
+    - https://github.com/open-mpi/ompi-www
+    - https://github.com/open-mpi/otpo
+    - https://github.com/open-mpi/pr-git-commit-checker
+    - https://github.com/open-mpi/pr-labeler
+    - https://github.com/open-mpi/pr-milestoner
+    - https://github.com/open-mpi/prrte
+    - https://github.com/open-mpi/pyhwloc
+    - https://github.com/open-mpi/svn-to-git-conversion
+  governance-repositories:
+    repo_urls:
+    - https://github.com/open-mpi/ompi-release
+    - https://github.com/open-mpi/ompi-release-bot

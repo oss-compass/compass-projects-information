@@ -1,0 +1,38 @@
+community_name: vllm-project
+community_org_url: https://github.com/vllm-project
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/vllm-project/DeepGEMM
+    - https://github.com/vllm-project/FlashMLA
+    - https://github.com/vllm-project/aibrix
+    - https://github.com/vllm-project/bart-plugin
+    - https://github.com/vllm-project/ci-infra
+    - https://github.com/vllm-project/compressed-tensors
+    - https://github.com/vllm-project/flash-attention
+    - https://github.com/vllm-project/guidellm
+    - https://github.com/vllm-project/llm-compressor
+    - https://github.com/vllm-project/media-kit
+    - https://github.com/vllm-project/production-stack
+    - https://github.com/vllm-project/recipes
+    - https://github.com/vllm-project/router
+    - https://github.com/vllm-project/semantic-router
+    - https://github.com/vllm-project/speculators
+    - https://github.com/vllm-project/tpu-inference
+    - https://github.com/vllm-project/vLLM-in-PyTorch-Conference-2025
+    - https://github.com/vllm-project/vllm
+    - https://github.com/vllm-project/vllm-ascend
+    - https://github.com/vllm-project/vllm-daily
+    - https://github.com/vllm-project/vllm-gaudi
+    - https://github.com/vllm-project/vllm-metal
+    - https://github.com/vllm-project/vllm-nccl
+    - https://github.com/vllm-project/vllm-neuron
+    - https://github.com/vllm-project/vllm-omni
+    - https://github.com/vllm-project/vllm-openvino
+    - https://github.com/vllm-project/vllm-xpu-kernels
+  governance-repositories:
+    repo_urls:
+    - https://github.com/vllm-project/rfcs
+    - https://github.com/vllm-project/vllm-project.github.io
+    - https://github.com/vllm-project/vllm-project.github.io-static

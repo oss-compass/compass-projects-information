@@ -1,0 +1,16 @@
+community_name: open-source-parsers
+community_org_url: https://github.com/open-source-parsers
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/open-source-parsers/gason
+    - https://github.com/open-source-parsers/gason--
+    - https://github.com/open-source-parsers/json
+    - https://github.com/open-source-parsers/json-cpp-lazy
+    - https://github.com/open-source-parsers/jsoncpp
+    - https://github.com/open-source-parsers/nativejson-benchmark
+    - https://github.com/open-source-parsers/rapidjson
+  governance-repositories:
+    repo_urls:
+    - https://github.com/open-source-parsers/jsoncpp-docs

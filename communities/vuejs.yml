@@ -1,0 +1,38 @@
+community_name: vuejs
+community_org_url: https://github.com/vuejs
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/vuejs/011.vuejs.org
+    - https://github.com/vuejs/012-cn.vuejs.org
+    - https://github.com/vuejs/012.vuejs.org
+    - https://github.com/vuejs/Discussion
+    - https://github.com/vuejs/awesome-vue
+    - https://github.com/vuejs/devtools-v6
+    - https://github.com/vuejs/insert-css
+    - https://github.com/vuejs/it.vuejs.org
+    - https://github.com/vuejs/jp.vuejs.org
+    - https://github.com/vuejs/todomvc
+    - https://github.com/vuejs/v2.cn.vuejs.org
+    - https://github.com/vuejs/v2.vuejs.org
+    - https://github.com/vuejs/vue
+    - https://github.com/vuejs/vue-async-data
+    - https://github.com/vuejs/vue-class-component
+    - https://github.com/vuejs/vue-cli
+    - https://github.com/vuejs/vue-component-compiler
+    - https://github.com/vuejs/vue-element
+    - https://github.com/vuejs/vue-hackernews
+    - https://github.com/vuejs/vue-hot-reload-api
+    - https://github.com/vuejs/vue-html-loader
+    - https://github.com/vuejs/vue-loader
+    - https://github.com/vuejs/vue-requests
+    - https://github.com/vuejs/vue-router
+    - https://github.com/vuejs/vue-rx
+    - https://github.com/vuejs/vue-syntax-highlight
+    - https://github.com/vuejs/vue-touch
+    - https://github.com/vuejs/vue-webpack-meteor-example
+    - https://github.com/vuejs/vueify
+    - https://github.com/vuejs/vuex
+  governance-repositories:
+    repo_urls: []

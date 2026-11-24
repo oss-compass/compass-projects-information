@@ -1,0 +1,86 @@
+community_name: redis
+community_org_url: https://github.com/redis
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/redis/NRedisStack
+    - https://github.com/redis/Notifications
+    - https://github.com/redis/Packages
+    - https://github.com/redis/Redis-Insight-Guides
+    - https://github.com/redis/Redis-for-VS-Code
+    - https://github.com/redis/RedisDesktopManager
+    - https://github.com/redis/RedisInsight
+    - https://github.com/redis/RedisInsight-reverse-proxy
+    - https://github.com/redis/Statics
+    - https://github.com/redis/Tutorials
+    - https://github.com/redis/agent-filesystem
+    - https://github.com/redis/agent-memory-server
+    - https://github.com/redis/agent-skills
+    - https://github.com/redis/antora-ui-redis
+    - https://github.com/redis/docker-library-redis
+    - https://github.com/redis/fastapi-redis-sdk
+    - https://github.com/redis/github-workflows
+    - https://github.com/redis/go-redis
+    - https://github.com/redis/go-redis-entraid
+    - https://github.com/redis/hiredis
+    - https://github.com/redis/hiredis-node
+    - https://github.com/redis/hiredis-py
+    - https://github.com/redis/hiredis-rb
+    - https://github.com/redis/hiredis-rs
+    - https://github.com/redis/hiredis-rs-sys
+    - https://github.com/redis/homebrew-redis
+    - https://github.com/redis/homebrew-tap
+    - https://github.com/redis/ioredis
+    - https://github.com/redis/jedis
+    - https://github.com/redis/jvm-redis-authx-entraid
+    - https://github.com/redis/lettuce
+    - https://github.com/redis/lettucemod
+    - https://github.com/redis/librdb
+    - https://github.com/redis/mcp-redis
+    - https://github.com/redis/mcp-redis-cloud
+    - https://github.com/redis/memtier_benchmark
+    - https://github.com/redis/minipilot
+    - https://github.com/redis/node-redis
+    - https://github.com/redis/rdi-cloud-automation
+    - https://github.com/redis/redis
+    - https://github.com/redis/redis--bot--fork
+    - https://github.com/redis/redis-ai-research-public
+    - https://github.com/redis/redis-benchmarks-specification
+    - https://github.com/redis/redis-cli-static
+    - https://github.com/redis/redis-clinterwebz
+    - https://github.com/redis/redis-debian
+    - https://github.com/redis/redis-doc
+    - https://github.com/redis/redis-extra-ci
+    - https://github.com/redis/redis-hashes
+    - https://github.com/redis/redis-io
+    - https://github.com/redis/redis-iris-demos
+    - https://github.com/redis/redis-mcp-java
+    - https://github.com/redis/redis-om-dotnet
+    - https://github.com/redis/redis-om-node
+    - https://github.com/redis/redis-om-python
+    - https://github.com/redis/redis-om-spring
+    - https://github.com/redis/redis-py
+    - https://github.com/redis/redis-py-entraid
+    - https://github.com/redis/redis-rb
+    - https://github.com/redis/redis-rcp
+    - https://github.com/redis/redis-rpm
+    - https://github.com/redis/redis-snap
+    - https://github.com/redis/redis-specifications
+    - https://github.com/redis/redis-vl-golang
+    - https://github.com/redis/redis-vl-java
+    - https://github.com/redis/redis-vl-python
+    - https://github.com/redis/redisctl
+    - https://github.com/redis/riot
+    - https://github.com/redis/riot-docker
+    - https://github.com/redis/riotx-dist
+    - https://github.com/redis/riotx-docker
+    - https://github.com/redis/rueidis
+    - https://github.com/redis/scoop
+    - https://github.com/redis/try.redis
+    - https://github.com/redis/vector-db-benchmark
+    - https://github.com/redis/vector-sets-browser
+  governance-repositories:
+    repo_urls:
+    - https://github.com/redis/docs
+    - https://github.com/redis/redis-website

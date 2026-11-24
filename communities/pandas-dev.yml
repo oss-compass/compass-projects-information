@@ -1,0 +1,24 @@
+community_name: pandas-dev
+community_org_url: https://github.com/pandas-dev
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/pandas-dev/asv-runner
+    - https://github.com/pandas-dev/github-doc-previewer
+    - https://github.com/pandas-dev/pandas
+    - https://github.com/pandas-dev/pandas-benchmarks
+    - https://github.com/pandas-dev/pandas-compat
+    - https://github.com/pandas-dev/pandas-dev-flaker
+    - https://github.com/pandas-dev/pandas-jupyterlite
+    - https://github.com/pandas-dev/pandas-msgpack
+    - https://github.com/pandas-dev/pandas-stubs
+    - https://github.com/pandas-dev/pandas-user-surveys
+    - https://github.com/pandas-dev/project-management
+  governance-repositories:
+    repo_urls:
+    - https://github.com/pandas-dev/.github
+    - https://github.com/pandas-dev/pandas-blog
+    - https://github.com/pandas-dev/pandas-dev.github.io
+    - https://github.com/pandas-dev/pandas-governance
+    - https://github.com/pandas-dev/pandas-release

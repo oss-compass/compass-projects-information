@@ -1,0 +1,11 @@
+community_name: ZipArchive
+community_org_url: https://github.com/ZipArchive
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/ZipArchive/ZipArchive
+    - https://github.com/ZipArchive/aes
+    - https://github.com/ZipArchive/sha
+  governance-repositories:
+    repo_urls: []

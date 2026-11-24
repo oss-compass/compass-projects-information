@@ -1,0 +1,13 @@
+community_name: sermant-io
+community_org_url: https://github.com/sermant-io
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/sermant-io/Sermant
+    - https://github.com/sermant-io/Sermant-examples
+    - https://github.com/sermant-io/first-plugin
+  governance-repositories:
+    repo_urls:
+    - https://github.com/sermant-io/.project
+    - https://github.com/sermant-io/Sermant-website

@@ -1,0 +1,22 @@
+community_name: openLooKeng
+community_org_url: https://gitee.com/openlookeng
+community_logo_url: ''
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openlookeng/hetu-core
+    - https://gitee.com/openlookeng/hetu-maven-plugin
+    - https://gitee.com/openlookeng/hetu-odbc-driver
+    - https://gitee.com/openlookeng/hetu-odbc-gateway
+    - https://gitee.com/openlookeng/openLooKeng-installation
+    - https://gitee.com/openlookeng/openlookeng-manager
+    - https://gitee.com/openlookeng/openlookeng-on-yarn
+    - https://gitee.com/openlookeng/openlookeng-ranger-plugin
+    - https://gitee.com/openlookeng/tools
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/openlookeng/community
+    - https://gitee.com/openlookeng/website
+    - https://gitee.com/openlookeng/website-debug
+    - https://gitee.com/openlookeng/website-docs
+    - https://gitee.com/openlookeng/website-v2
