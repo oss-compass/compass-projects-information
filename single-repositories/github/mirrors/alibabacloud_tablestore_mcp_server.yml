@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/mirrors/alibabacloud_tablestore_mcp_server
