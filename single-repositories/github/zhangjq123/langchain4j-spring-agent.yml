@@ -1,0 +1,3 @@
+---
+resource_types:
+  repo_urls: https://gitee.com/zhangjq123/langchain4j-spring-agent
